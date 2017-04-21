@@ -1,10 +1,10 @@
 # HN Ratio
 
-Hacker News top 20 stories ranked by Comment/Score ratio.
+Hacker News top 50 stories ranked by Comment/Score ratio.
 
 See stories that attract a lot of attention and comments, and stories that attract a lot of attention but few comments.
 
-## Sample output
+## Sample output (top 20)
 
 ```
 Naked mole rats can survive 18 minutes without oxygen

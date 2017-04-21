@@ -1,7 +1,7 @@
 from hackernews import HackerNews
 hn = HackerNews()
 
-ITEM_LIMIT = 20
+ITEM_LIMIT = 50
 WIDTH = 50
 
 if __name__ == "__main__":
