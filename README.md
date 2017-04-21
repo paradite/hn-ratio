@@ -130,7 +130,7 @@ https://news.ycombinator.com/item?id=14164925
 
 ## How to see result
 
-Go to `result-xxx.txt` to see the result of a certain day
+Go to `results/result-xxx.txt` to see the result of a certain day
 
 ## How to run the script
 
@@ -138,4 +138,4 @@ Go to `result-xxx.txt` to see the result of a certain day
 
 Then
 
-`python hn-ratio.py`
+`$ python hn-ratio.py > results/result-xxx.txt`
