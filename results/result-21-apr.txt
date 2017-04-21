@@ -1,9 +1,3 @@
-Juicero boss defends $400 machine
-https://news.ycombinator.com/item?id=14166229
-
-|##################################################|################# S: 32 C: 43 R: 1.344
-
-
 Canada is North America’s up-and-coming startup center
 https://news.ycombinator.com/item?id=14160053
 
@@ -13,37 +7,43 @@ https://news.ycombinator.com/item?id=14160053
 Proposal to start a new implementation of Thunderbird based on web technologies
 https://news.ycombinator.com/item?id=14156251
 
-|##################################################| S: 219 C: 222 R: 1.014
-
-
-Cap'n'Proto remote vuln: pointer overflow check optimized away by compiler
-https://news.ycombinator.com/item?id=14163111
-
-|#############################################     | S: 120 C: 109 R: 0.908
+|##################################################| S: 220 C: 223 R: 1.014
 
 
 Naked mole rats can survive 18 minutes without oxygen
 https://news.ycombinator.com/item?id=14163054
 
-|#############################################     | S: 60 C: 54 R: 0.900
+|#############################################     | S: 61 C: 55 R: 0.902
 
 
 Billionaire Mike Novogratz says 10% of his money is in Bitcoin and Ether
 https://news.ycombinator.com/item?id=14164523
 
-|############################################      | S: 96 C: 85 R: 0.885
+|#############################################     | S: 100 C: 90 R: 0.900
+
+
+Cap'n'Proto remote vuln: pointer overflow check optimized away by compiler
+https://news.ycombinator.com/item?id=14163111
+
+|############################################      | S: 123 C: 109 R: 0.886
 
 
 Ultra-low-energy consumption ultrasonic clothes dryer
 https://news.ycombinator.com/item?id=14155017
 
-|###########################################       | S: 187 C: 161 R: 0.861
+|###########################################       | S: 187 C: 162 R: 0.866
 
 
 Louisiana’s Governor Declares State Of Emergency Over Disappearing Coastline
 https://news.ycombinator.com/item?id=14164541
 
-|##########################################        | S: 113 C: 96 R: 0.850
+|##########################################        | S: 116 C: 98 R: 0.845
+
+
+A big patch of plastic garbage has been discovered in the Arctic
+https://news.ycombinator.com/item?id=14155992
+
+|###################################               | S: 104 C: 74 R: 0.712
 
 
 JavaScript performance, WebAssembly, and Shared Memory in Microsoft Edge
@@ -52,46 +52,46 @@ https://news.ycombinator.com/item?id=14159052
 |###################################               | S: 203 C: 144 R: 0.709
 
 
-A big patch of plastic garbage has been discovered in the Arctic
-https://news.ycombinator.com/item?id=14155992
-
-|###################################               | S: 104 C: 73 R: 0.702
-
-
 Engineer defends concept circular runway idea
 https://news.ycombinator.com/item?id=14163430
 
 |###################################               | S: 30 C: 21 R: 0.700
 
 
-Google plans ad-blocking feature in Chrome browser
-https://news.ycombinator.com/item?id=14152688
+'Fight Inequality' Is a Poor Rallying Cry
+https://news.ycombinator.com/item?id=14166239
 
-|#############################                     | S: 792 C: 465 R: 0.587
+|#################################                 | S: 30 C: 20 R: 0.667
 
 
 Caddy 0.10 Released
 https://news.ycombinator.com/item?id=14164712
 
-|#############################                     | S: 101 C: 59 R: 0.584
+|#############################                     | S: 106 C: 63 R: 0.594
+
+
+Google plans ad-blocking feature in Chrome browser
+https://news.ycombinator.com/item?id=14152688
+
+|#############################                     | S: 792 C: 466 R: 0.588
 
 
 The Evolution of Container Usage at Netflix
 https://news.ycombinator.com/item?id=14163526
 
-|############################                      | S: 124 C: 70 R: 0.565
+|############################                      | S: 128 C: 73 R: 0.570
 
 
 McDonald's Real Estate: How They Really Make Their Money (2015)
 https://news.ycombinator.com/item?id=14158772
 
-|###########################                       | S: 408 C: 227 R: 0.556
+|###########################                       | S: 410 C: 228 R: 0.556
 
 
 Developer publishes patch to enable Windows 7 and 8.1 updates on new hardware
 https://news.ycombinator.com/item?id=14163913
 
-|##########################                        | S: 71 C: 37 R: 0.521
+|###########################                       | S: 73 C: 40 R: 0.548
 
 
 A new upstream project to break up Docker into independent components
@@ -103,79 +103,67 @@ https://news.ycombinator.com/item?id=14156954
 System76 is moving product design and manufacturing in house
 https://news.ycombinator.com/item?id=14154395
 
-|#########################                         | S: 593 C: 301 R: 0.508
-
-
-'Fight Inequality' Is a Poor Rallying Cry
-https://news.ycombinator.com/item?id=14166239
-
-|#########################                         | S: 24 C: 12 R: 0.500
+|#########################                         | S: 594 C: 302 R: 0.508
 
 
 Mozilla and Microsoft are rebuilding their browsers’ foundations
 https://news.ycombinator.com/item?id=14164454
 
-|########################                          | S: 80 C: 39 R: 0.487
-
-
-220,000 cores and counting: largest ever public cloud job
-https://news.ycombinator.com/item?id=14157029
-
-|########################                          | S: 150 C: 73 R: 0.487
+|#######################                           | S: 83 C: 39 R: 0.470
 
 
 Status – A Mobile Ethereum OS
 https://news.ycombinator.com/item?id=14161695
 
-|#######################                           | S: 213 C: 98 R: 0.460
+|#######################                           | S: 213 C: 100 R: 0.469
 
 
 Me and SVG
 https://news.ycombinator.com/item?id=14155393
 
-|######################                            | S: 450 C: 204 R: 0.453
-
-
-The First-Ever Banner Ad on the Web
-https://news.ycombinator.com/item?id=14165719
-
-|#####################                             | S: 21 C: 9 R: 0.429
+|######################                            | S: 451 C: 205 R: 0.455
 
 
 Robots.txt meant for search engines don’t work well for web archives
 https://news.ycombinator.com/item?id=14163216
 
-|#####################                             | S: 234 C: 100 R: 0.427
+|#####################                             | S: 237 C: 104 R: 0.439
 
 
 Survivorship Bias
 https://news.ycombinator.com/item?id=14163589
 
-|#####################                             | S: 369 C: 157 R: 0.425
+|#####################                             | S: 374 C: 160 R: 0.428
 
 
 Ask HN: Which companies have the best blogs written by their engineering team?
 https://news.ycombinator.com/item?id=14163905
 
-|###################                               | S: 264 C: 105 R: 0.398
+|####################                              | S: 267 C: 107 R: 0.401
 
 
 Uber is pushing anti-union propaganda to its drivers
 https://news.ycombinator.com/item?id=14164139
 
-|###################                               | S: 100 C: 39 R: 0.390
+|####################                              | S: 100 C: 40 R: 0.400
 
 
 Mice treated with a protein from umbilical cord plasma showed improved memory
 https://news.ycombinator.com/item?id=14163395
 
-|###################                               | S: 120 C: 46 R: 0.383
+|##################                                | S: 122 C: 46 R: 0.377
 
 
-Ask HN: How to actually “talk to your customers”?
-https://news.ycombinator.com/item?id=14155460
+The First-Ever Banner Ad on the Web
+https://news.ycombinator.com/item?id=14165719
 
-|##################                                | S: 250 C: 92 R: 0.368
+|##################                                | S: 24 C: 9 R: 0.375
+
+
+Metaprogramming is less fun in D
+https://news.ycombinator.com/item?id=14165198
+
+|##################                                | S: 30 C: 11 R: 0.367
 
 
 Google Home now supports multiple users
@@ -184,10 +172,22 @@ https://news.ycombinator.com/item?id=14159578
 |##################                                | S: 120 C: 44 R: 0.367
 
 
+Ask HN: How to actually “talk to your customers”?
+https://news.ycombinator.com/item?id=14155460
+
+|##################                                | S: 251 C: 92 R: 0.367
+
+
+Scalable, Lie-Detecting Timeserving with Roughtime
+https://news.ycombinator.com/item?id=14164662
+
+|################                                  | S: 15 C: 5 R: 0.333
+
+
 Introducing Token
 https://news.ycombinator.com/item?id=14164018
 
-|##############                                    | S: 293 C: 83 R: 0.283
+|##############                                    | S: 303 C: 86 R: 0.284
 
 
 PhotoScan: Taking Glare-Free Pictures of Pictures
@@ -202,40 +202,10 @@ https://news.ycombinator.com/item?id=14155308
 |###########                                       | S: 89 C: 20 R: 0.225
 
 
-Metaprogramming is less fun in D
-https://news.ycombinator.com/item?id=14165198
-
-|##########                                        | S: 23 C: 5 R: 0.217
-
-
-Scalable, Lie-Detecting Timeserving with Roughtime
-https://news.ycombinator.com/item?id=14164662
-
-|##########                                        | S: 15 C: 3 R: 0.200
-
-
-H-1B visa debate: India says it’s a trade and services issue
-https://news.ycombinator.com/item?id=14166092
-
-|##########                                        | S: 5 C: 1 R: 0.200
-
-
-Planet enlists machine learning experts to parse Amazon basin data
-https://news.ycombinator.com/item?id=14159466
-
-|#########                                         | S: 102 C: 20 R: 0.196
-
-
 Calculus Made Easy (1914) [pdf]
 https://news.ycombinator.com/item?id=14161876
 
-|#########                                         | S: 754 C: 139 R: 0.184
-
-
-Drunken crayfish show that loneliness raises alcohol tolerance
-https://news.ycombinator.com/item?id=14166127
-
-|########                                          | S: 6 C: 1 R: 0.167
+|#########                                         | S: 761 C: 140 R: 0.184
 
 
 Ubuntu on AWS Gets Serious Performance Boost with AWS-Tuned Kernel
@@ -247,54 +217,36 @@ https://news.ycombinator.com/item?id=14161750
 Automatic compilation of partially available C source code
 https://news.ycombinator.com/item?id=14164495
 
-|#####                                             | S: 76 C: 8 R: 0.105
-
-
-Raw Linux Threads via System Calls (2015)
-https://news.ycombinator.com/item?id=14162423
-
-|###                                               | S: 163 C: 12 R: 0.074
-
-
-Show HN: Recursive DNS Server Fingerprinting [RIPE Hackathon]
-https://news.ycombinator.com/item?id=14166467
-
-|                                                  | S: 4 C: 0 R: 0.000
+|#####                                             | S: 78 C: 9 R: 0.115
 
 
 Intel Shuts Down Lustre File System Business
 https://news.ycombinator.com/item?id=14165785
 
-|                                                  | S: 10 C: 0 R: 0.000
-
-
-Most people prosecuted for terrorism since 9/11 never committed a violent act
-https://news.ycombinator.com/item?id=14166003
-
-|                                                  | S: 23 C: 0 R: 0.000
-
-
-Gigster (on-demand developer teams) is hiring in engineering and success
-https://news.ycombinator.com/item?id=14164925
-
-|                                                  | S: 1 C: None R: 0.000
+|#####                                             | S: 19 C: 2 R: 0.105
 
 
 Rarepepe is [one of] the most innovative projects in crypto/blockchain
 https://news.ycombinator.com/item?id=14166331
 
-|                                                  | S: 5 C: 0 R: 0.000
+|####                                              | S: 12 C: 1 R: 0.083
+
+
+Raw Linux Threads via System Calls (2015)
+https://news.ycombinator.com/item?id=14162423
+
+|###                                               | S: 166 C: 12 R: 0.072
+
+
+Most people prosecuted for terrorism since 9/11 never committed a violent act
+https://news.ycombinator.com/item?id=14166003
+
+|###                                               | S: 45 C: 3 R: 0.067
 
 
 Tracing Spam: Diet Pills from Beltway Bandits
 https://news.ycombinator.com/item?id=14164644
 
 |                                                  | S: 16 C: 0 R: 0.000
-
-
-Show HN: Kallax a PostgreSQL Typesafe ORM for the Go Language
-https://news.ycombinator.com/item?id=14164041
-
-|                                                  | S: 6 C: 0 R: 0.000
 
 

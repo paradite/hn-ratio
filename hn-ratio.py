@@ -8,6 +8,10 @@ if __name__ == "__main__":
     stories = []
     for story_id in hn.top_stories(limit=ITEM_LIMIT):
         story = hn.get_item(story_id)
+        if story.score < 10:
+            # we filter out low score posts that are "promoted" by HN temporily but not really "top"
+            # as well as job posts
+            continue
         story.ratio = 0
         if story.descendants is not None:
             story.ratio = story.descendants / story.score
