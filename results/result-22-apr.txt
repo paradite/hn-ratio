@@ -1,0 +1,282 @@
+Lilium – Electric vertical take-⁠off and landing jet
+https://news.ycombinator.com/item?id=14167870
+
+|##################################################|## S: 268 C: 279 R: 1.041
+
+
+Like It or Not, Chicago's About to Get a Lot Less Orange
+https://news.ycombinator.com/item?id=14168157
+
+|#############################################     | S: 116 C: 105 R: 0.905
+
+
+I was wrong, reflecting on the .NET design choices
+https://news.ycombinator.com/item?id=14167382
+
+|#######################################           | S: 155 C: 123 R: 0.794
+
+
+The Evolution of Container Usage at Netflix
+https://news.ycombinator.com/item?id=14163526
+
+|####################################              | S: 194 C: 143 R: 0.737
+
+
+Amazon Strategy Teardown
+https://news.ycombinator.com/item?id=14167693
+
+|####################################              | S: 125 C: 90 R: 0.720
+
+
+Ask HN: What distributed storage technology are you using?
+https://news.ycombinator.com/item?id=14168506
+
+|###################################               | S: 53 C: 38 R: 0.717
+
+
+Tomorrow's Cities: Singapore's plans for a smart nation
+https://news.ycombinator.com/item?id=14170555
+
+|##############################                    | S: 47 C: 29 R: 0.617
+
+
+Theranos Secretly Bought Outside Lab Gear, Ran Fake Tests: Court Filings
+https://news.ycombinator.com/item?id=14167637
+
+|##############################                    | S: 241 C: 148 R: 0.614
+
+
+The SQL layer in CockroachDB
+https://news.ycombinator.com/item?id=14168187
+
+|#############################                     | S: 62 C: 37 R: 0.597
+
+
+Objects designed to explore the universe are now challenges for spaceflight
+https://news.ycombinator.com/item?id=14169869
+
+|#############################                     | S: 37 C: 22 R: 0.595
+
+
+Show HN: Send POST requests via simple URLs
+https://news.ycombinator.com/item?id=14167049
+
+|############################                      | S: 50 C: 28 R: 0.560
+
+
+McDonald's Real Estate: How They Really Make Their Money (2015)
+https://news.ycombinator.com/item?id=14158772
+
+|###########################                       | S: 442 C: 242 R: 0.548
+
+
+A new upstream project to break up Docker into independent components
+https://news.ycombinator.com/item?id=14156954
+
+|##########################                        | S: 560 C: 297 R: 0.530
+
+
+AmigaOne X5000 – first impression
+https://news.ycombinator.com/item?id=14169310
+
+|##########################                        | S: 61 C: 32 R: 0.525
+
+
+Intel Shuts Down Lustre File System Business
+https://news.ycombinator.com/item?id=14165785
+
+|#########################                         | S: 105 C: 53 R: 0.505
+
+
+Robots.txt meant for search engines don’t work well for web archives
+https://news.ycombinator.com/item?id=14163216
+
+|########################                          | S: 283 C: 137 R: 0.484
+
+
+Why MIT Switched from Scheme to Python (2009)
+https://news.ycombinator.com/item?id=14167453
+
+|#######################                           | S: 181 C: 86 R: 0.475
+
+
+Me and SVG
+https://news.ycombinator.com/item?id=14155393
+
+|######################                            | S: 492 C: 217 R: 0.441
+
+
+Forall.js: Idris-like static types and invariant checks for JavaScript
+https://news.ycombinator.com/item?id=14169136
+
+|####################                              | S: 31 C: 13 R: 0.419
+
+
+Show HN: WrapAPI v2 – Build APIs, scrapers, bots on any website
+https://news.ycombinator.com/item?id=14167466
+
+|###################                               | S: 123 C: 49 R: 0.398
+
+
+Introducing Token
+https://news.ycombinator.com/item?id=14164018
+
+|################                                  | S: 448 C: 147 R: 0.328
+
+
+Automated snare drum made to the order of Aphex Twin (2014)
+https://news.ycombinator.com/item?id=14168875
+
+|###############                                   | S: 117 C: 36 R: 0.308
+
+
+For First Time Since 1800s, Britain Goes a Day Without Burning Coal for Power
+https://news.ycombinator.com/item?id=14170575
+
+|###############                                   | S: 249 C: 76 R: 0.305
+
+
+What Happens When You Send a Zero-Day to a Bank?
+https://news.ycombinator.com/item?id=14166966
+
+|##############                                    | S: 1236 C: 347 R: 0.281
+
+
+Palantir No Longer Works for the NSA
+https://news.ycombinator.com/item?id=14170951
+
+|############                                      | S: 41 C: 10 R: 0.244
+
+
+Knowing where you are: custom array indices in Julia
+https://news.ycombinator.com/item?id=14168655
+
+|###########                                       | S: 86 C: 20 R: 0.233
+
+
+The Benefits of Solitude
+https://news.ycombinator.com/item?id=14163819
+
+|##########                                        | S: 154 C: 33 R: 0.214
+
+
+shinysdr: SDR receiver built on GNU Radio with web-based UI and plugins
+https://news.ycombinator.com/item?id=14170516
+
+|##########                                        | S: 24 C: 5 R: 0.208
+
+
+A Mind is Born
+https://news.ycombinator.com/item?id=14164907
+
+|#########                                         | S: 257 C: 51 R: 0.198
+
+
+Replacing Disqus with GitHub Comments
+https://news.ycombinator.com/item?id=14170041
+
+|#########                                         | S: 195 C: 38 R: 0.195
+
+
+Alexander Grothendieck, a genius of mathematics (2015)
+https://news.ycombinator.com/item?id=14168048
+
+|#########                                         | S: 68 C: 13 R: 0.191
+
+
+Calculus Made Easy (1914) [pdf]
+https://news.ycombinator.com/item?id=14161876
+
+|#########                                         | S: 914 C: 171 R: 0.187
+
+
+Waymo Says Uber Concealed a Secret Technology It Copied from Waymo
+https://news.ycombinator.com/item?id=14170853
+
+|########                                          | S: 78 C: 13 R: 0.167
+
+
+Resources on creating programming languages
+https://news.ycombinator.com/item?id=14169760
+
+|#######                                           | S: 161 C: 25 R: 0.155
+
+
+Show HN: Deep Learning for Program Synthesis
+https://news.ycombinator.com/item?id=14168027
+
+|#######                                           | S: 64 C: 9 R: 0.141
+
+
+Show HN: Recursive DNS Server Fingerprint
+https://news.ycombinator.com/item?id=14166467
+
+|#####                                             | S: 106 C: 12 R: 0.113
+
+
+Automatic compilation of partially available C source code
+https://news.ycombinator.com/item?id=14164495
+
+|####                                              | S: 122 C: 12 R: 0.098
+
+
+Type Systems as Macros
+https://news.ycombinator.com/item?id=14167620
+
+|####                                              | S: 61 C: 5 R: 0.082
+
+
+Emacs 25.2 released
+https://news.ycombinator.com/item?id=14169797
+
+|####                                              | S: 49 C: 4 R: 0.082
+
+
+Multilingual word vectors in 78 languages
+https://news.ycombinator.com/item?id=14167539
+
+|###                                               | S: 172 C: 12 R: 0.070
+
+
+Nerd pyrotechnics: a behind-the-scenes peek at the making of Merriam-Webster
+https://news.ycombinator.com/item?id=14158232
+
+|###                                               | S: 15 C: 1 R: 0.067
+
+
+The Loch Ness Monster of Mollusks
+https://news.ycombinator.com/item?id=14169399
+
+|##                                                | S: 38 C: 2 R: 0.053
+
+
+Net Neutrality Alive and Well in Canada
+https://news.ycombinator.com/item?id=14170341
+
+|##                                                | S: 79 C: 4 R: 0.051
+
+
+The glEnd of Zelda(): Automatic 3Dification of NES Games (2016)
+https://news.ycombinator.com/item?id=14170215
+
+|##                                                | S: 192 C: 9 R: 0.047
+
+
+WebL – A Programming Language for the Web (1997) [pdf]
+https://news.ycombinator.com/item?id=14169349
+
+|##                                                | S: 48 C: 2 R: 0.042
+
+
+107 cancer papers retracted due to peer review fraud
+https://news.ycombinator.com/item?id=14170909
+
+|#                                                 | S: 26 C: 1 R: 0.038
+
+
+Golem – A Decentralized Supercomputer
+https://news.ycombinator.com/item?id=14170097
+
+|                                                  | S: 13 C: 0 R: 0.000
+
+
