@@ -1,0 +1,294 @@
+How Airline Workers Learn to Deal with Passengers
+https://news.ycombinator.com/item?id=14173856
+
+|##################################################|############## S: 54 C: 70 R: 1.296
+
+
+Chicago's About to Get a Lot Less Orange
+https://news.ycombinator.com/item?id=14168157
+
+|###############################################   | S: 167 C: 158 R: 0.946
+
+
+Apple Forces Recyclers to Shred All iPhones and Macbooks
+https://news.ycombinator.com/item?id=14175771
+
+|##########################################        | S: 81 C: 69 R: 0.852
+
+
+High Performance TCP Proxy Server
+https://news.ycombinator.com/item?id=14172140
+
+|#########################################         | S: 68 C: 56 R: 0.824
+
+
+Former miners out to put Kentucky on the tech map
+https://news.ycombinator.com/item?id=14171985
+
+|#########################################         | S: 123 C: 101 R: 0.821
+
+
+Google's controversial groundwater withdrawal sparks question
+https://news.ycombinator.com/item?id=14173776
+
+|#######################################           | S: 78 C: 62 R: 0.795
+
+
+Systemd-free Devuan announces its first stable release candidate 'Jessie' 1.0.0
+https://news.ycombinator.com/item?id=14173891
+
+|#######################################           | S: 50 C: 39 R: 0.780
+
+
+We Just Breached the 410 PPM Threshold for CO2
+https://news.ycombinator.com/item?id=14174057
+
+|######################################            | S: 236 C: 182 R: 0.771
+
+
+MUJI Hut: A 9.1-sqm Minimalist Cabin
+https://news.ycombinator.com/item?id=14175547
+
+|######################################            | S: 56 C: 43 R: 0.768
+
+
+Physicists demonstrate new way to violate local causality
+https://news.ycombinator.com/item?id=14171891
+
+|####################################              | S: 91 C: 66 R: 0.725
+
+
+The Internet Isn’t Making Us Dumber – It’s Making Us More ‘Meta-Ignorant’
+https://news.ycombinator.com/item?id=14164847
+
+|##################################                | S: 158 C: 109 R: 0.690
+
+
+Stop Guessing Languages Based on IP Address
+https://news.ycombinator.com/item?id=14175238
+
+|###############################                   | S: 98 C: 62 R: 0.633
+
+
+Sheep are not stupid, and they are not helpless either
+https://news.ycombinator.com/item?id=14172113
+
+|##############################                    | S: 47 C: 29 R: 0.617
+
+
+The U.S. wind industry now employs more than 100K people
+https://news.ycombinator.com/item?id=14172253
+
+|#############################                     | S: 406 C: 241 R: 0.594
+
+
+The End of IKVM.NET
+https://news.ycombinator.com/item?id=14174774
+
+|###########################                       | S: 59 C: 33 R: 0.559
+
+
+UK launches program to explore removal of greenhouse gases from the atmosphere
+https://news.ycombinator.com/item?id=14171585
+
+|##########################                        | S: 76 C: 40 R: 0.526
+
+
+The Deep Space of Digital Reading
+https://news.ycombinator.com/item?id=14171881
+
+|#########################                         | S: 66 C: 34 R: 0.515
+
+
+Ask HN: Alternatives to Vagrant for development environments?
+https://news.ycombinator.com/item?id=14176191
+
+|#########################                         | S: 35 C: 18 R: 0.514
+
+
+“Users will only be able to view patents via HTTP. HTTPS will no longer work”
+https://news.ycombinator.com/item?id=14173271
+
+|######################                            | S: 316 C: 141 R: 0.446
+
+
+GitLab 9.1 Released with Service Desk, Canary Deployments, and Burndown Charts
+https://news.ycombinator.com/item?id=14173052
+
+|######################                            | S: 77 C: 34 R: 0.442
+
+
+APFS filesystem format
+https://news.ycombinator.com/item?id=14174307
+
+|#####################                             | S: 230 C: 98 R: 0.426
+
+
+I Joined Airbnb at 52, Here’s What I Learned About Age, Wisdom, and Tech Industry
+https://news.ycombinator.com/item?id=14173629
+
+|#################                                 | S: 161 C: 57 R: 0.354
+
+
+Bonobo – A data processing toolkit for Python 3.5+
+https://news.ycombinator.com/item?id=14172378
+
+|#################                                 | S: 190 C: 66 R: 0.347
+
+
+Mine3D: A Web 3D Minesweeper Game
+https://news.ycombinator.com/item?id=14173439
+
+|###############                                   | S: 124 C: 38 R: 0.306
+
+
+Did Spellbound Show Us the Power or the Myth of the American Dream?
+https://news.ycombinator.com/item?id=14171951
+
+|###############                                   | S: 23 C: 7 R: 0.304
+
+
+What Happens When You Send a Zero-Day to a Bank?
+https://news.ycombinator.com/item?id=14166966
+
+|#############                                     | S: 1439 C: 402 R: 0.279
+
+
+Show HN: Securely Handle Encryption Keys in Go
+https://news.ycombinator.com/item?id=14173716
+
+|#############                                     | S: 99 C: 27 R: 0.273
+
+
+Torching the Modern-Day Library of Alexandria: The Tragedy of Google Books
+https://news.ycombinator.com/item?id=14172791
+
+|###########                                       | S: 242 C: 54 R: 0.223
+
+
+Replacing Disqus with GitHub Comments
+https://news.ycombinator.com/item?id=14170041
+
+|###########                                       | S: 467 C: 104 R: 0.223
+
+
+“Only corporations can own property, humans can only license it” – John Deere
+https://news.ycombinator.com/item?id=14176195
+
+|###########                                       | S: 27 C: 6 R: 0.222
+
+
+Resources on creating programming languages
+https://news.ycombinator.com/item?id=14169760
+
+|#########                                         | S: 262 C: 51 R: 0.195
+
+
+Show HN: Replacing WordPress with GitHub Issues-like Blog Comments
+https://news.ycombinator.com/item?id=14173409
+
+|#########                                         | S: 52 C: 10 R: 0.192
+
+
+Vanity Metrics
+https://news.ycombinator.com/item?id=14167843
+
+|#########                                         | S: 52 C: 10 R: 0.192
+
+
+Calculus Made Easy (1914) [pdf]
+https://news.ycombinator.com/item?id=14161876
+
+|#########                                         | S: 1007 C: 183 R: 0.182
+
+
+R 3.4.0 released
+https://news.ycombinator.com/item?id=14172981
+
+|#######                                           | S: 78 C: 12 R: 0.154
+
+
+Viral Shah: Helped Build Julia, an Alternative Programming Language in Bengaluru
+https://news.ycombinator.com/item?id=14176136
+
+|#####                                             | S: 69 C: 8 R: 0.116
+
+
+The glEnd of Zelda(): Automatic 3Dification of NES Games (2016)
+https://news.ycombinator.com/item?id=14170215
+
+|#####                                             | S: 341 C: 36 R: 0.106
+
+
+WhatsApp co-founder Jan Koum: “Most of startup ideas are absolutely stupid”
+https://news.ycombinator.com/item?id=14174667
+
+|#####                                             | S: 29 C: 3 R: 0.103
+
+
+The Outer Limits of Reason: A look at paradoxes in language
+https://news.ycombinator.com/item?id=14164779
+
+|#####                                             | S: 49 C: 5 R: 0.102
+
+
+PX8 – A PICO-8 compatible fantasy console written in Rust
+https://news.ycombinator.com/item?id=14174427
+
+|#####                                             | S: 138 C: 14 R: 0.101
+
+
+Kaitai Struct: declarative binary format parsing language
+https://news.ycombinator.com/item?id=14175037
+
+|#####                                             | S: 20 C: 2 R: 0.100
+
+
+Net Neutrality Alive and Well in Canada
+https://news.ycombinator.com/item?id=14170341
+
+|####                                              | S: 161 C: 14 R: 0.087
+
+
+How gut bacteria change cancer drug activity
+https://news.ycombinator.com/item?id=14164785
+
+|####                                              | S: 62 C: 5 R: 0.081
+
+
+Spending time alone is the best way to get real rest–even for extroverts
+https://news.ycombinator.com/item?id=14174665
+
+|###                                               | S: 44 C: 3 R: 0.068
+
+
+ARM Releases Machine Readable Architecture Specification
+https://news.ycombinator.com/item?id=14174533
+
+|###                                               | S: 64 C: 4 R: 0.062
+
+
+A Brief History of CNNs in Image Segmentation: From R-CNN to Mask R-CNN
+https://news.ycombinator.com/item?id=14174002
+
+|#                                                 | S: 33 C: 1 R: 0.030
+
+
+How to Trick People into Saving Money
+https://news.ycombinator.com/item?id=14175608
+
+|                                                  | S: 15 C: 0 R: 0.000
+
+
+This is the Jeff Bezos playbook for preventing Amazon’s demise
+https://news.ycombinator.com/item?id=14174842
+
+|                                                  | S: 15 C: 0 R: 0.000
+
+
+Study claims a link between diet sodas and stroke and dementia
+https://news.ycombinator.com/item?id=14175143
+
+|                                                  | S: 11 C: 0 R: 0.000
+
+
