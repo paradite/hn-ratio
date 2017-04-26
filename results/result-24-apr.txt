@@ -1,0 +1,288 @@
+Apple releases a bit of code to let you put Live Photos on your sites
+https://news.ycombinator.com/item?id=14180761
+
+|############################################      | S: 83 C: 74 R: 0.892
+
+
+TCS, Infosys, Cognizant violated H-1B visa norms: US
+https://news.ycombinator.com/item?id=14179399
+
+|#########################################         | S: 214 C: 178 R: 0.832
+
+
+Uber CEO Plays with Fire
+https://news.ycombinator.com/item?id=14178397
+
+|#########################################         | S: 514 C: 425 R: 0.827
+
+
+Want to rescue rural America? Bust monopolies
+https://news.ycombinator.com/item?id=14178918
+
+|######################################            | S: 379 C: 295 R: 0.778
+
+
+Google: My interview experience
+https://news.ycombinator.com/item?id=14179538
+
+|#####################################             | S: 183 C: 139 R: 0.760
+
+
+[ -z $var ] works unreasonably well
+https://news.ycombinator.com/item?id=14177701
+
+|#############################                     | S: 155 C: 92 R: 0.594
+
+
+Rooby: a Ruby-like object oriented language written in Go
+https://news.ycombinator.com/item?id=14177489
+
+|############################                      | S: 113 C: 65 R: 0.575
+
+
+Hacking the Hivemind: Predicting Comment Karma on Internet Forums (2014) [pdf]
+https://news.ycombinator.com/item?id=14177664
+
+|############################                      | S: 53 C: 30 R: 0.566
+
+
+Amazon's Leadership Principles
+https://news.ycombinator.com/item?id=14181525
+
+|###########################                       | S: 122 C: 66 R: 0.541
+
+
+Cryptographic File Systems Performance: What You Don't Know Can Hurt You (2003)
+https://news.ycombinator.com/item?id=14176529
+
+|##########################                        | S: 26 C: 14 R: 0.538
+
+
+Imitating people’s speech patterns precisely could bring trouble
+https://news.ycombinator.com/item?id=14177589
+
+|##########################                        | S: 113 C: 60 R: 0.531
+
+
+How Juicero's Story Set the Company Up for Humiliation
+https://news.ycombinator.com/item?id=14182200
+
+|########################                          | S: 35 C: 17 R: 0.486
+
+
+A Facebook bot purge clobbered USA Today
+https://news.ycombinator.com/item?id=14178213
+
+|########################                          | S: 138 C: 67 R: 0.486
+
+
+The root of all eval
+https://news.ycombinator.com/item?id=14177194
+
+|########################                          | S: 62 C: 30 R: 0.484
+
+
+The Curse of Development
+https://news.ycombinator.com/item?id=14177427
+
+|####################                              | S: 31 C: 13 R: 0.419
+
+
+Thousands of computers now compromised with leaked NSA tools, researchers say
+https://news.ycombinator.com/item?id=14178416
+
+|####################                              | S: 278 C: 114 R: 0.410
+
+
+All about java.util.Date
+https://news.ycombinator.com/item?id=14179783
+
+|###################                               | S: 126 C: 49 R: 0.389
+
+
+The Guardian Pulls Out of Facebook’s Instant Articles and Apple News
+https://news.ycombinator.com/item?id=14176881
+
+|###################                               | S: 423 C: 163 R: 0.385
+
+
+Show HN: Timestrap, self-hosted online time tracking
+https://news.ycombinator.com/item?id=14180673
+
+|#################                                 | S: 168 C: 60 R: 0.357
+
+
+Fewer mallocs in curl
+https://news.ycombinator.com/item?id=14177739
+
+|################                                  | S: 344 C: 113 R: 0.328
+
+
+Show HN: Stack: tiling WM for Windows
+https://news.ycombinator.com/item?id=14180996
+
+|###############                                   | S: 20 C: 6 R: 0.300
+
+
+VK9: Direct3D 9 compatibility layer using Vulkan
+https://news.ycombinator.com/item?id=14180034
+
+|##############                                    | S: 166 C: 48 R: 0.289
+
+
+The Future of OmniOS
+https://news.ycombinator.com/item?id=14179006
+
+|############                                      | S: 64 C: 16 R: 0.250
+
+
+Why I published in a predatory journal
+https://news.ycombinator.com/item?id=14181612
+
+|###########                                       | S: 127 C: 28 R: 0.220
+
+
+Surface Noise
+https://news.ycombinator.com/item?id=14176996
+
+|##########                                        | S: 34 C: 7 R: 0.206
+
+
+OpenLara – Web-based classic Tomb Raider engine remake
+https://news.ycombinator.com/item?id=14177826
+
+|##########                                        | S: 214 C: 43 R: 0.201
+
+
+How SSH got port number 22
+https://news.ycombinator.com/item?id=14178091
+
+|#########                                         | S: 766 C: 148 R: 0.193
+
+
+Lyrebird: copy the voice of anyone
+https://news.ycombinator.com/item?id=14182262
+
+|#########                                         | S: 84 C: 16 R: 0.190
+
+
+Information cascade
+https://news.ycombinator.com/item?id=14177152
+
+|#########                                         | S: 16 C: 3 R: 0.188
+
+
+ArkOS discontinued
+https://news.ycombinator.com/item?id=14177539
+
+|#########                                         | S: 71 C: 13 R: 0.183
+
+
+Writing a Time Series Database from Scratch
+https://news.ycombinator.com/item?id=14177411
+
+|#########                                         | S: 137 C: 25 R: 0.182
+
+
+The creators of This is Spinal Tap have been paid almost nothing
+https://news.ycombinator.com/item?id=14176779
+
+|#########                                         | S: 150 C: 27 R: 0.180
+
+
+From Monads to Machine Code
+https://news.ycombinator.com/item?id=14177503
+
+|########                                          | S: 153 C: 27 R: 0.176
+
+
+A Foray into Go Assembly Programming
+https://news.ycombinator.com/item?id=14180497
+
+|#######                                           | S: 83 C: 13 R: 0.157
+
+
+Bacteria That Can Help Find Land Mines
+https://news.ycombinator.com/item?id=14177105
+
+|#######                                           | S: 13 C: 2 R: 0.154
+
+
+How brains are built: Principles of computational neuroscience
+https://news.ycombinator.com/item?id=14177710
+
+|#######                                           | S: 86 C: 13 R: 0.151
+
+
+Reproducing Go binaries byte by byte
+https://news.ycombinator.com/item?id=14180181
+
+|######                                            | S: 152 C: 21 R: 0.138
+
+
+Scientists hope they've found a drug to stop neurodegenerative brain diseases
+https://news.ycombinator.com/item?id=14180233
+
+|######                                            | S: 58 C: 8 R: 0.138
+
+
+Uber clarifies their user tracking after app exit or deletion
+https://news.ycombinator.com/item?id=14179990
+
+|######                                            | S: 16 C: 2 R: 0.125
+
+
+The Brain Science of Conformity
+https://news.ycombinator.com/item?id=14179599
+
+|#####                                             | S: 20 C: 2 R: 0.100
+
+
+Stanford Lecture Notes on Probabilistic Graphical Models
+https://news.ycombinator.com/item?id=14178399
+
+|####                                              | S: 256 C: 22 R: 0.086
+
+
+If Architects Were Developers
+https://news.ycombinator.com/item?id=14180017
+
+|####                                              | S: 12 C: 1 R: 0.083
+
+
+Tales of SugarCRM Security Horrors
+https://news.ycombinator.com/item?id=14181662
+
+|###                                               | S: 38 C: 3 R: 0.079
+
+
+Xmonad from Coq: Programming a Window Manager with a Proof Assistant (2012) [pdf]
+https://news.ycombinator.com/item?id=14178135
+
+|###                                               | S: 89 C: 7 R: 0.079
+
+
+Thinking critically about and researching algorithms [pdf]
+https://news.ycombinator.com/item?id=14177618
+
+|###                                               | S: 93 C: 6 R: 0.065
+
+
+CMU CS 15-883: Computational Models of Neural Systems
+https://news.ycombinator.com/item?id=14181417
+
+|#                                                 | S: 44 C: 1 R: 0.023
+
+
+The Long-Ignored Reptile Rewriting the Prologue to the Dinosaur Story
+https://news.ycombinator.com/item?id=14174478
+
+|                                                  | S: 50 C: 0 R: 0.000
+
+
+EXPLAINing the SQLite Virtual Machine
+https://news.ycombinator.com/item?id=14181051
+
+|                                                  | S: 23 C: 0 R: 0.000
+
+
