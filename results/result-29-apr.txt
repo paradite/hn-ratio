@@ -1,0 +1,264 @@
+Why Religion Is More Durable Than We Thought in Modern Society
+https://news.ycombinator.com/item?id=14219575
+
+|##################################################|################################################## S: 31 C: 62 R: 2.000
+
+
+Southwest to Stop Overbooking as United Uproar Echoes
+https://news.ycombinator.com/item?id=14214362
+
+|##################################################|############################## S: 182 C: 294 R: 1.615
+
+
+New York eyes a 'breathlyzer' for texting while driving
+https://news.ycombinator.com/item?id=14220104
+
+|##################################################|################## S: 32 C: 44 R: 1.375
+
+
+Startups are America’s job engine, so give workers tax credits
+https://news.ycombinator.com/item?id=14219945
+
+|##################################################|##### S: 56 C: 62 R: 1.107
+
+
+United Airlines Announces Changes to Improve Customer Experience
+https://news.ycombinator.com/item?id=14221273
+
+|##################################################|### S: 14 C: 15 R: 1.071
+
+
+Torcoin: Crypto's latest scam
+https://news.ycombinator.com/item?id=14219563
+
+|###############################################   | S: 62 C: 59 R: 0.952
+
+
+DHL pilot alleges poor labor practices that are spreading throughout industry
+https://news.ycombinator.com/item?id=14217234
+
+|##########################################        | S: 162 C: 138 R: 0.852
+
+
+Barely scraping by with a $250,000 salary in Silicon Valley
+https://news.ycombinator.com/item?id=14220983
+
+|########################################          | S: 11 C: 9 R: 0.818
+
+
+Invisible ripples in wireless spectrum tell Aura if someone’s in your house
+https://news.ycombinator.com/item?id=14219537
+
+|######################################            | S: 97 C: 75 R: 0.773
+
+
+The Clean Architecture (2012)
+https://news.ycombinator.com/item?id=14218490
+
+|######################################            | S: 63 C: 48 R: 0.762
+
+
+More than 800 startups sign letter objecting to plans to kill net neutrality
+https://news.ycombinator.com/item?id=14217984
+
+|#################################                 | S: 188 C: 126 R: 0.670
+
+
+Ask HN: Where do you see yourself in 5 years?
+https://news.ycombinator.com/item?id=14221481
+
+|#################################                 | S: 12 C: 8 R: 0.667
+
+
+Inventor who built an Iron Man-style flight suit has flown it at TED
+https://news.ycombinator.com/item?id=14217740
+
+|###############################                   | S: 141 C: 88 R: 0.624
+
+
+Just Say No
+https://news.ycombinator.com/item?id=14219384
+
+|############################                      | S: 365 C: 210 R: 0.575
+
+
+Why I Don't Prepare for Job Interviews
+https://news.ycombinator.com/item?id=14219500
+
+|###########################                       | S: 95 C: 52 R: 0.547
+
+
+Uber’s Anthony Levandowski out as Advanced Technologies lead amid legal fight
+https://news.ycombinator.com/item?id=14214772
+
+|#########################                         | S: 381 C: 192 R: 0.504
+
+
+Goodbye Amazon and good riddance
+https://news.ycombinator.com/item?id=14219918
+
+|#########################                         | S: 155 C: 78 R: 0.503
+
+
+People Who Train the Robots to Do Their Own Jobs
+https://news.ycombinator.com/item?id=14218874
+
+|########################                          | S: 71 C: 35 R: 0.493
+
+
+Instead of containers, give me strong config and deploy primitives
+https://news.ycombinator.com/item?id=14215616
+
+|########################                          | S: 316 C: 155 R: 0.491
+
+
+Lab-grown ‘mini-brains’ do mimic human brain development
+https://news.ycombinator.com/item?id=14219063
+
+|#######################                           | S: 52 C: 24 R: 0.462
+
+
+Spellfucker
+https://news.ycombinator.com/item?id=14216990
+
+|####################                              | S: 278 C: 114 R: 0.410
+
+
+Show HN: Tweeple Search – Find relevant audience and influencers on Twitter
+https://news.ycombinator.com/item?id=14219142
+
+|####################                              | S: 44 C: 18 R: 0.409
+
+
+How to talk about yourself in a developer interview
+https://news.ycombinator.com/item?id=14218559
+
+|####################                              | S: 258 C: 105 R: 0.407
+
+
+So you think you know what a number is
+https://news.ycombinator.com/item?id=14217693
+
+|###################                               | S: 31 C: 12 R: 0.387
+
+
+Facebook and Google were conned out of $100m in phishing scheme
+https://news.ycombinator.com/item?id=14218560
+
+|###################                               | S: 100 C: 38 R: 0.380
+
+
+Nomx Passes Security Tests After Blogger Claims to Have Penetrated Nomx
+https://news.ycombinator.com/item?id=14220171
+
+|##################                                | S: 45 C: 17 R: 0.378
+
+
+Write Fast Apps Using Async Python 3.6 and Redis
+https://news.ycombinator.com/item?id=14213540
+
+|##################                                | S: 323 C: 121 R: 0.375
+
+
+Have We Forgotten about Geometry in Computer Vision?
+https://news.ycombinator.com/item?id=14216473
+
+|##############                                    | S: 374 C: 106 R: 0.283
+
+
+Wendelstein 7-X stellarator getting ready for the next phase of operation [pdf]
+https://news.ycombinator.com/item?id=14219627
+
+|#############                                     | S: 66 C: 18 R: 0.273
+
+
+Why My Handwriting Sucks: A Typographical Analysis
+https://news.ycombinator.com/item?id=14218185
+
+|#############                                     | S: 41 C: 11 R: 0.268
+
+
+The Staggering Administrative Bloat of Universities
+https://news.ycombinator.com/item?id=14219347
+
+|##########                                        | S: 37 C: 8 R: 0.216
+
+
+Getting Closer to Mass Production of Bones, Organs, and Implants
+https://news.ycombinator.com/item?id=14219760
+
+|##########                                        | S: 168 C: 35 R: 0.208
+
+
+Stupid security things
+https://news.ycombinator.com/item?id=14218270
+
+|##########                                        | S: 373 C: 76 R: 0.204
+
+
+An AI wrote all of David Hasselhoff’s lines in a bizarre short film
+https://news.ycombinator.com/item?id=14218574
+
+|#########                                         | S: 48 C: 9 R: 0.188
+
+
+Nick Sand, Orange Sunshine LSD chemist, has died
+https://news.ycombinator.com/item?id=14207957
+
+|#########                                         | S: 274 C: 51 R: 0.186
+
+
+How to Use Responsive Images
+https://news.ycombinator.com/item?id=14220938
+
+|########                                          | S: 51 C: 9 R: 0.176
+
+
+Zinc sponge anode makes Li-ion alternative rechargeable
+https://news.ycombinator.com/item?id=14218065
+
+|########                                          | S: 34 C: 6 R: 0.176
+
+
+Basic Type-Level Programming in Haskell
+https://news.ycombinator.com/item?id=14218453
+
+|########                                          | S: 61 C: 10 R: 0.164
+
+
+VM Escape: QEMU Case Study
+https://news.ycombinator.com/item?id=14218600
+
+|######                                            | S: 66 C: 9 R: 0.136
+
+
+Linux Kernel Testing: Intro to kernelci.org
+https://news.ycombinator.com/item?id=14217659
+
+|######                                            | S: 114 C: 15 R: 0.132
+
+
+A dive into spatial search algorithms
+https://news.ycombinator.com/item?id=14217760
+
+|#####                                             | S: 45 C: 5 R: 0.111
+
+
+A Geometric Algebra Implementation Using Binary Tree
+https://news.ycombinator.com/item?id=14218026
+
+|###                                               | S: 30 C: 2 R: 0.067
+
+
+Limits of computation
+https://news.ycombinator.com/item?id=14218013
+
+|                                                  | S: 15 C: 0 R: 0.000
+
+
+A Trillion Edge Graph on a Single Commodity Node
+https://news.ycombinator.com/item?id=14218231
+
+|                                                  | S: 10 C: 0 R: 0.000
+
+

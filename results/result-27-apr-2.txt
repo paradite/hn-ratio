@@ -1,0 +1,294 @@
+A response to “Why you can't be a good .NET developer” (2016)
+https://news.ycombinator.com/item?id=14210418
+
+|##################################################|############# S: 49 C: 62 R: 1.265
+
+
+The Myth of a Superhuman AI
+https://news.ycombinator.com/item?id=14205042
+
+|##################################################|########### S: 214 C: 264 R: 1.234
+
+
+Ada: a C Developer's Perspective
+https://news.ycombinator.com/item?id=14209685
+
+|##################################################|#### S: 85 C: 93 R: 1.094
+
+
+Symantec CA Response to Google Proposal and Community Feedback
+https://news.ycombinator.com/item?id=14208227
+
+|################################################  | S: 120 C: 116 R: 0.967
+
+
+Fusion reactors: Not what they’re cracked up to be
+https://news.ycombinator.com/item?id=14202488
+
+|###############################################   | S: 207 C: 196 R: 0.947
+
+
+Show HN: Cheaper flights when flying multiple destinations by route optimisation
+https://news.ycombinator.com/item?id=14209756
+
+|############################################      | S: 49 C: 44 R: 0.898
+
+
+My Hackintosh Hardware Spec
+https://news.ycombinator.com/item?id=14200563
+
+|##########################################        | S: 310 C: 264 R: 0.852
+
+
+Show HN: Kobble – Notes app that saves directly to GitHub
+https://news.ycombinator.com/item?id=14204759
+
+|#######################################           | S: 170 C: 135 R: 0.794
+
+
+Robinhood stock trading app confirms $110M raise at $1.3B valuation
+https://news.ycombinator.com/item?id=14203141
+
+|#######################################           | S: 441 C: 350 R: 0.794
+
+
+The Grim Biology of Being Poor
+https://news.ycombinator.com/item?id=14201822
+
+|#######################################           | S: 266 C: 209 R: 0.786
+
+
+How ebooks lost their shine
+https://news.ycombinator.com/item?id=14209882
+
+|#######################################           | S: 14 C: 11 R: 0.786
+
+
+How to Avoid Going to Jail Under 18 U.S.C. For Lying to Government Agents
+https://news.ycombinator.com/item?id=14205917
+
+|######################################            | S: 274 C: 212 R: 0.774
+
+
+A vigilante trying to improve IoT security
+https://news.ycombinator.com/item?id=14201908
+
+|#####################################             | S: 279 C: 208 R: 0.746
+
+
+Should I buy ECC memory? (2015)
+https://news.ycombinator.com/item?id=14206635
+
+|###################################               | S: 268 C: 190 R: 0.709
+
+
+Audrey – A smart personal assistant app that helps you to get things done
+https://news.ycombinator.com/item?id=14206962
+
+|###############################                   | S: 111 C: 71 R: 0.640
+
+
+New Evidence Suggests Humans Arrived in the Americas Earlier Than Thought
+https://news.ycombinator.com/item?id=14204939
+
+|##############################                    | S: 209 C: 129 R: 0.617
+
+
+The FCC plan to undo its net neutrality rules
+https://news.ycombinator.com/item?id=14205997
+
+|############################                      | S: 289 C: 165 R: 0.571
+
+
+Hackers exploited Word flaw for months while Microsoft investigated
+https://news.ycombinator.com/item?id=14208121
+
+|############################                      | S: 123 C: 70 R: 0.569
+
+
+Ask HN: Best practices for log format?
+https://news.ycombinator.com/item?id=14209168
+
+|###########################                       | S: 76 C: 42 R: 0.553
+
+
+Browserprint: Browser fingerprint tool now can guess client OS even when spoofed
+https://news.ycombinator.com/item?id=14202279
+
+|###########################                       | S: 158 C: 87 R: 0.551
+
+
+DJI Puts $145K Bounty on the Drone Pilots Who Were Disrupting Flights
+https://news.ycombinator.com/item?id=14208884
+
+|###########################                       | S: 111 C: 61 R: 0.550
+
+
+Swift architecture at Uber
+https://news.ycombinator.com/item?id=14207752
+
+|#######################                           | S: 257 C: 123 R: 0.479
+
+
+Ffffound is shutting down
+https://news.ycombinator.com/item?id=14204960
+
+|#######################                           | S: 189 C: 89 R: 0.471
+
+
+How the Carolinas Fixed Their Blurred Lines (2014)
+https://news.ycombinator.com/item?id=14205247
+
+|#######################                           | S: 50 C: 23 R: 0.460
+
+
+Hanging up my spurs
+https://news.ycombinator.com/item?id=14202994
+
+|######################                            | S: 376 C: 172 R: 0.457
+
+
+Backdoor in the firmware of Antminer Bitcoin mining hardware
+https://news.ycombinator.com/item?id=14207107
+
+|#####################                             | S: 254 C: 110 R: 0.433
+
+
+gRPC-Web: Moving past REST+JSON towards type-safe Web APIs
+https://news.ycombinator.com/item?id=14210080
+
+|#####################                             | S: 111 C: 48 R: 0.432
+
+
+India Is Winning Its War on Human Waste
+https://news.ycombinator.com/item?id=14204702
+
+|####################                              | S: 630 C: 261 R: 0.414
+
+
+Show HN: Gopher Browser for Windows Client
+https://news.ycombinator.com/item?id=14206309
+
+|###################                               | S: 88 C: 35 R: 0.398
+
+
+GitPitch – Markdown Presentations for Devs on GitHub and GitLab
+https://news.ycombinator.com/item?id=14209119
+
+|###################                               | S: 178 C: 70 R: 0.393
+
+
+PatentShield helps startups fight patent litigation in return for equity
+https://news.ycombinator.com/item?id=14208324
+
+|###################                               | S: 158 C: 62 R: 0.392
+
+
+Evidence-based advice we've found on how to be successful in a job
+https://news.ycombinator.com/item?id=14196731
+
+|##################                                | S: 666 C: 245 R: 0.368
+
+
+Show HN: Commento: Lightweight, open source, tracking-free alternative to Disqus
+https://news.ycombinator.com/item?id=14202456
+
+|##############                                    | S: 213 C: 62 R: 0.291
+
+
+Chinese and European space agencies in talks to build a moon base
+https://news.ycombinator.com/item?id=14210032
+
+|############                                      | S: 131 C: 34 R: 0.260
+
+
+Postal: Open source mail delivery platform, alternative to Mailgun or Sendgrid
+https://news.ycombinator.com/item?id=14201562
+
+|############                                      | S: 677 C: 169 R: 0.250
+
+
+Category Theory, Syntactically (2016)
+https://news.ycombinator.com/item?id=14209090
+
+|###########                                       | S: 90 C: 21 R: 0.233
+
+
+Linux Programming: Signals the easy way
+https://news.ycombinator.com/item?id=14207911
+
+|##########                                        | S: 151 C: 33 R: 0.219
+
+
+U.S. Issues Sweeping Plan to Loosen Rules for Internet Providers
+https://news.ycombinator.com/item?id=14206175
+
+|##########                                        | S: 24 C: 5 R: 0.208
+
+
+Golang SSH Redux
+https://news.ycombinator.com/item?id=14202520
+
+|#########                                         | S: 207 C: 41 R: 0.198
+
+
+MG4J – A free full-text search engine for large document collections
+https://news.ycombinator.com/item?id=14204469
+
+|########                                          | S: 91 C: 15 R: 0.165
+
+
+Places to Post Your Startup or Product
+https://news.ycombinator.com/item?id=14206331
+
+|########                                          | S: 202 C: 33 R: 0.163
+
+
+Examining and Learning from Complex Systems Failures
+https://news.ycombinator.com/item?id=14208290
+
+|#######                                           | S: 26 C: 4 R: 0.154
+
+
+An analysis of the Nomx secure communications device
+https://news.ycombinator.com/item?id=14209874
+
+|#######                                           | S: 248 C: 37 R: 0.149
+
+
+Painting with Code: Introducing our new open source library React Sketch.app
+https://news.ycombinator.com/item?id=14196077
+
+|#####                                             | S: 773 C: 92 R: 0.119
+
+
+DSL Engineering: Designing, Implementing, Using Domain-Specific Languages (2013) [pdf]
+https://news.ycombinator.com/item?id=14205682
+
+|####                                              | S: 54 C: 5 R: 0.093
+
+
+Effectual Reasoning: What Makes Entrepreneurs Entrepreneurial? (2008) [pdf]
+https://news.ycombinator.com/item?id=14181210
+
+|####                                              | S: 33 C: 3 R: 0.091
+
+
+Animated Bézier Curves (2010)
+https://news.ycombinator.com/item?id=14201894
+
+|####                                              | S: 101 C: 9 R: 0.089
+
+
+Grabbed by Humboldt Squids for Science (1991)
+https://news.ycombinator.com/item?id=14205953
+
+|###                                               | S: 32 C: 2 R: 0.062
+
+
+Show HN: Get colour palettes from pictures
+https://news.ycombinator.com/item?id=14210425
+
+|##                                                | S: 17 C: 1 R: 0.059
+
+
