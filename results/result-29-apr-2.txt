@@ -1,0 +1,264 @@
+Can the Bay Area Kick the Sprawl Habit?
+https://news.ycombinator.com/item?id=14222003
+
+|##################################################|################################## S: 33 C: 56 R: 1.697
+
+
+Invisible ripples in wireless spectrum tell Aura if someone’s in your house
+https://news.ycombinator.com/item?id=14219537
+
+|################################################  | S: 141 C: 136 R: 0.965
+
+
+Why do we love chilli?
+https://news.ycombinator.com/item?id=14217813
+
+|###############################################   | S: 80 C: 76 R: 0.950
+
+
+The Boring Company [video]
+https://news.ycombinator.com/item?id=14223020
+
+|##############################################    | S: 651 C: 607 R: 0.932
+
+
+China's Didi Raises Over $5.5B in Record Tech Funding
+https://news.ycombinator.com/item?id=14222442
+
+|#####################################             | S: 61 C: 46 R: 0.754
+
+
+Thank You, Yakkers
+https://news.ycombinator.com/item?id=14223199
+
+|###################################               | S: 128 C: 91 R: 0.711
+
+
+The Arctic as it is known today is almost certainly gone
+https://news.ycombinator.com/item?id=14222337
+
+|###############################                   | S: 217 C: 138 R: 0.636
+
+
+OfflineIMAP: sync and backup tool for IMAP
+https://news.ycombinator.com/item?id=14221501
+
+|##############################                    | S: 113 C: 68 R: 0.602
+
+
+N.S.A Halts Collection of Americans’ Emails About Foreign Targets
+https://news.ycombinator.com/item?id=14221229
+
+|############################                      | S: 195 C: 111 R: 0.569
+
+
+Baking with the Bread Whisperers of Paris
+https://news.ycombinator.com/item?id=14218092
+
+|############################                      | S: 46 C: 26 R: 0.565
+
+
+El Salvador bans metal mining in world first
+https://news.ycombinator.com/item?id=14218378
+
+|############################                      | S: 167 C: 94 R: 0.563
+
+
+Invasion of the Hardware Snatchers: Cloned Electronics Pollute the Market
+https://news.ycombinator.com/item?id=14218067
+
+|###########################                       | S: 33 C: 18 R: 0.545
+
+
+Wendelstein 7-X stellarator getting ready for the next phase of operation [pdf]
+https://news.ycombinator.com/item?id=14219627
+
+|######################                            | S: 117 C: 52 R: 0.444
+
+
+Vue Loop – Infinite scrolling
+https://news.ycombinator.com/item?id=14223988
+
+|######################                            | S: 43 C: 19 R: 0.442
+
+
+Facebook and Google were conned out of $100M in phishing scheme
+https://news.ycombinator.com/item?id=14218560
+
+|####################                              | S: 154 C: 63 R: 0.409
+
+
+Chinese Offer to Eat Denmark’s Oyster Problem to Extinction
+https://news.ycombinator.com/item?id=14223502
+
+|####################                              | S: 96 C: 39 R: 0.406
+
+
+Debian 9 not including support for UEFI Secure Boot
+https://news.ycombinator.com/item?id=14217971
+
+|###################                               | S: 91 C: 36 R: 0.396
+
+
+How former professional climate change skeptic Jerry Taylor changed his mind
+https://news.ycombinator.com/item?id=14225389
+
+|##################                                | S: 24 C: 9 R: 0.375
+
+
+EPA website removes climate science site from public view after two decades
+https://news.ycombinator.com/item?id=14224939
+
+|##################                                | S: 71 C: 26 R: 0.366
+
+
+Ask HN: How do you keep improving?
+https://news.ycombinator.com/item?id=14218408
+
+|#################                                 | S: 152 C: 53 R: 0.349
+
+
+Uruk – Turkish as a Model for the Black Speech?
+https://news.ycombinator.com/item?id=14217352
+
+|################                                  | S: 33 C: 11 R: 0.333
+
+
+On the Road with Aristotle: Zen and the Art of Motorcycle Maintenance (1974)
+https://news.ycombinator.com/item?id=14216899
+
+|################                                  | S: 92 C: 30 R: 0.326
+
+
+Have We Forgotten about Geometry in Computer Vision?
+https://news.ycombinator.com/item?id=14216473
+
+|###############                                   | S: 383 C: 117 R: 0.305
+
+
+Linger – Device to create and broadcast a virtual crowd
+https://news.ycombinator.com/item?id=14218122
+
+|###########                                       | S: 42 C: 10 R: 0.238
+
+
+A History of Starcraft AI Competitions
+https://news.ycombinator.com/item?id=14221952
+
+|###########                                       | S: 83 C: 19 R: 0.229
+
+
+I found the best anagram in English
+https://news.ycombinator.com/item?id=14218284
+
+|###########                                       | S: 219 C: 50 R: 0.228
+
+
+Wikipedia blocked in Turkey
+https://news.ycombinator.com/item?id=14225602
+
+|#########                                         | S: 143 C: 27 R: 0.189
+
+
+A Trillion Edge Graph on a Single Commodity Node
+https://news.ycombinator.com/item?id=14218231
+
+|#########                                         | S: 112 C: 21 R: 0.188
+
+
+Getting Closer to Mass Production of Bones, Organs, and Implants
+https://news.ycombinator.com/item?id=14219760
+
+|#########                                         | S: 296 C: 54 R: 0.182
+
+
+Rust for Clojurists
+https://news.ycombinator.com/item?id=14225292
+
+|#######                                           | S: 14 C: 2 R: 0.143
+
+
+A dive into spatial search algorithms
+https://news.ycombinator.com/item?id=14217760
+
+|######                                            | S: 153 C: 21 R: 0.137
+
+
+Limits of computation
+https://news.ycombinator.com/item?id=14218013
+
+|######                                            | S: 117 C: 16 R: 0.137
+
+
+Rethinking Design Tools in the Age of Machine Learning
+https://news.ycombinator.com/item?id=14217864
+
+|######                                            | S: 76 C: 10 R: 0.132
+
+
+A Trick That Hides Censored Websites Inside Cat Videos
+https://news.ycombinator.com/item?id=14218372
+
+|######                                            | S: 38 C: 5 R: 0.132
+
+
+Formal Methods in Practice: Using TLA+ at ESpark
+https://news.ycombinator.com/item?id=14221848
+
+|######                                            | S: 141 C: 18 R: 0.128
+
+
+Postgres tips for Rails developers
+https://news.ycombinator.com/item?id=14222823
+
+|#####                                             | S: 148 C: 16 R: 0.108
+
+
+“Paranoid Mode” Compromise Recovery on Qubes OS
+https://news.ycombinator.com/item?id=14218504
+
+|####                                              | S: 41 C: 4 R: 0.098
+
+
+Analyze un-instrumented ELF core files for leaks, memory growth and corruption
+https://news.ycombinator.com/item?id=14223129
+
+|####                                              | S: 53 C: 5 R: 0.094
+
+
+IBM to Vote No for the Java Platform Module System (project Jigsaw)
+https://news.ycombinator.com/item?id=14225702
+
+|####                                              | S: 23 C: 2 R: 0.087
+
+
+When the State gets it wrong, innocent people die – I was almost one of them
+https://news.ycombinator.com/item?id=14225254
+
+|##                                                | S: 17 C: 1 R: 0.059
+
+
+Visualizing Concurrency in Go
+https://news.ycombinator.com/item?id=14224118
+
+|#                                                 | S: 177 C: 7 R: 0.040
+
+
+Show HN: AWS Lambda Power Tuning with AWS Step Functions
+https://news.ycombinator.com/item?id=14223091
+
+|#                                                 | S: 27 C: 1 R: 0.037
+
+
+New approaches to network fast paths
+https://news.ycombinator.com/item?id=14218162
+
+|                                                  | S: 19 C: 0 R: 0.000
+
+
+I Worked at Fyre Festival. It Was Always Going to Be a Disaster
+https://news.ycombinator.com/item?id=14224656
+
+|                                                  | S: 34 C: 0 R: 0.000
+
+

@@ -1,0 +1,288 @@
+Ask HN: Who is hiring? (May 2017)
+https://news.ycombinator.com/item?id=14238005
+
+|##################################################|###################### S: 375 C: 543 R: 1.448
+
+
+Kotlin doesn’t need an LLVM backend (2016)
+https://news.ycombinator.com/item?id=14238944
+
+|##################################################|################# S: 70 C: 94 R: 1.343
+
+
+John Paulson’s Fall from Hedge Fund Stardom
+https://news.ycombinator.com/item?id=14237417
+
+|##################################################|##### S: 55 C: 61 R: 1.109
+
+
+Bridj shuts down
+https://news.ycombinator.com/item?id=14237283
+
+|##################################################|### S: 45 C: 48 R: 1.067
+
+
+Japan labor shortage prompts shift to hiring permanent workers
+https://news.ycombinator.com/item?id=14235199
+
+|##############################################    | S: 56 C: 52 R: 0.929
+
+
+By 2030, You'll Be Living in a World That's Run by Google
+https://news.ycombinator.com/item?id=14240652
+
+|#########################################         | S: 24 C: 20 R: 0.833
+
+
+Show HN: Kryptonite – a new home for your SSH private key
+https://news.ycombinator.com/item?id=14240626
+
+|########################################          | S: 67 C: 54 R: 0.806
+
+
+Former climate change deniers, what changed your mind?
+https://news.ycombinator.com/item?id=14240599
+
+|###################################               | S: 10 C: 7 R: 0.700
+
+
+Escalation of Privilege Advisory
+https://news.ycombinator.com/item?id=14241241
+
+|################################                  | S: 183 C: 118 R: 0.645
+
+
+Facebook told advertisers it can identify teens feeling 'insecure', 'worthless'
+https://news.ycombinator.com/item?id=14240586
+
+|############################                      | S: 70 C: 40 R: 0.571
+
+
+The licensing program for MP3-related patents has been terminated
+https://news.ycombinator.com/item?id=14240645
+
+|##########################                        | S: 232 C: 125 R: 0.539
+
+
+Programming as a Way of Thinking
+https://news.ycombinator.com/item?id=14237103
+
+|#########################                         | S: 195 C: 98 R: 0.503
+
+
+Moneyball teams
+https://news.ycombinator.com/item?id=14239211
+
+|#########################                         | S: 251 C: 126 R: 0.502
+
+
+How ZIP codes nearly masked the lead problem in Flint (2016)
+https://news.ycombinator.com/item?id=14237184
+
+|#########################                         | S: 104 C: 52 R: 0.500
+
+
+Asynchronous Programming in Python: Asyncio
+https://news.ycombinator.com/item?id=14240125
+
+|#######################                           | S: 89 C: 41 R: 0.461
+
+
+Root Zone Database
+https://news.ycombinator.com/item?id=14236990
+
+|######################                            | S: 58 C: 26 R: 0.448
+
+
+Rhubarb: The role of Edinburgh in its cultivation and development [pdf]
+https://news.ycombinator.com/item?id=14230974
+
+|#####################                             | S: 39 C: 17 R: 0.436
+
+
+Intel platforms from 2008 onwards have a remotely exploitable security hole
+https://news.ycombinator.com/item?id=14237266
+
+|####################                              | S: 382 C: 159 R: 0.416
+
+
+The fifty shades of Latin
+https://news.ycombinator.com/item?id=14240865
+
+|###################                               | S: 51 C: 20 R: 0.392
+
+
+Sent to Prison by a Software Program’s Secret Algorithms
+https://news.ycombinator.com/item?id=14238786
+
+|###################                               | S: 101 C: 39 R: 0.386
+
+
+Homebrew 1.2.0
+https://news.ycombinator.com/item?id=14240900
+
+|###################                               | S: 100 C: 38 R: 0.380
+
+
+Springer retracting 107 papers published in Tumor Biology with fake peer reviews
+https://news.ycombinator.com/item?id=14236728
+
+|##################                                | S: 90 C: 34 R: 0.378
+
+
+First introduction to LaTeX
+https://news.ycombinator.com/item?id=14233450
+
+|##################                                | S: 416 C: 155 R: 0.373
+
+
+Are we underestimating the vulnerability of bridges?
+https://news.ycombinator.com/item?id=14240523
+
+|##################                                | S: 44 C: 16 R: 0.364
+
+
+Our Machines Now Have Knowledge We’ll Never Understand
+https://news.ycombinator.com/item?id=14241626
+
+|#################                                 | S: 14 C: 5 R: 0.357
+
+
+SpaceX Falcon 9 first stage has landed at LZ-1 [video]
+https://news.ycombinator.com/item?id=14236850
+
+|#################                                 | S: 272 C: 93 R: 0.342
+
+
+The woman with a strange 'second sight'
+https://news.ycombinator.com/item?id=14236497
+
+|################                                  | S: 24 C: 8 R: 0.333
+
+
+HardenedLinux: The way to the Ark
+https://news.ycombinator.com/item?id=14236378
+
+|################                                  | S: 100 C: 33 R: 0.330
+
+
+IBM and Red Hat to Vote “No” on Java Modules (Jigsaw)
+https://news.ycombinator.com/item?id=14239884
+
+|################                                  | S: 90 C: 29 R: 0.322
+
+
+Y Combinator When No One Cared
+https://news.ycombinator.com/item?id=14236711
+
+|################                                  | S: 262 C: 84 R: 0.321
+
+
+AMD's quarterly loss narrows
+https://news.ycombinator.com/item?id=14241360
+
+|###############                                   | S: 64 C: 20 R: 0.312
+
+
+Why Walking Helps Us Think (2014)
+https://news.ycombinator.com/item?id=14235398
+
+|###############                                   | S: 337 C: 104 R: 0.309
+
+
+Esoteric programming paradigms
+https://news.ycombinator.com/item?id=14237589
+
+|##############                                    | S: 261 C: 77 R: 0.295
+
+
+I2P-Bote – Email plugin for the I2P network that uses a distributed hash table
+https://news.ycombinator.com/item?id=14236331
+
+|##############                                    | S: 70 C: 20 R: 0.286
+
+
+FuncShell – A Haskell-based alternative to awk
+https://news.ycombinator.com/item?id=14236830
+
+|#############                                     | S: 118 C: 32 R: 0.271
+
+
+The psychological importance of wasting time
+https://news.ycombinator.com/item?id=14231158
+
+|#############                                     | S: 263 C: 71 R: 0.270
+
+
+Getting Started with Headless Chrome
+https://news.ycombinator.com/item?id=14239194
+
+|#############                                     | S: 270 C: 72 R: 0.267
+
+
+INTEL-SA-00075 Mitigation Guide [pdf]
+https://news.ycombinator.com/item?id=14240979
+
+|############                                      | S: 74 C: 18 R: 0.243
+
+
+Bitcoin is eating itself
+https://news.ycombinator.com/item?id=14241065
+
+|##########                                        | S: 15 C: 3 R: 0.200
+
+
+Show HN: Sorting Two Metric Tons of Lego
+https://news.ycombinator.com/item?id=14226889
+
+|########                                          | S: 1165 C: 205 R: 0.176
+
+
+LuaJIT 2.0.5 and 2.1.0-beta3 released
+https://news.ycombinator.com/item?id=14241286
+
+|########                                          | S: 35 C: 6 R: 0.171
+
+
+Loyalty in Online Communities [pdf]
+https://news.ycombinator.com/item?id=14231306
+
+|#######                                           | S: 38 C: 6 R: 0.158
+
+
+Facebook's Duckling Probabilistic Parser Completely Rewritten in Haskell
+https://news.ycombinator.com/item?id=14239942
+
+|#######                                           | S: 21 C: 3 R: 0.143
+
+
+Coding the Matrix: Linear Algebra Through Computer Science Applications
+https://news.ycombinator.com/item?id=14236541
+
+|######                                            | S: 97 C: 13 R: 0.134
+
+
+My Cousin Lenny: Remembering Leonard Bernstein
+https://news.ycombinator.com/item?id=14235963
+
+|#####                                             | S: 17 C: 2 R: 0.118
+
+
+How to Read Mathematics
+https://news.ycombinator.com/item?id=14232977
+
+|####                                              | S: 334 C: 30 R: 0.090
+
+
+Information Technology and Moral Values (2012)
+https://news.ycombinator.com/item?id=14231811
+
+|##                                                | S: 37 C: 2 R: 0.054
+
+
+Banning exploration in my infovis class
+https://news.ycombinator.com/item?id=14240595
+
+|                                                  | S: 34 C: 0 R: 0.000
+
+
