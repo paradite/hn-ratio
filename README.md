@@ -2,13 +2,20 @@
 
 Hacker News top 50 stories ranked by Comment/Score ratio.
 
-See stories that attract a lot of attention and comments, and stories that attract a lot of attention but few comments.
+## Why
+
+Being a long-time Hacker News reader, I realized that most interesting HN submissions for me are of two categories:
+
+- stories that attract a lot of attention and comments, signaling active and extended debates
+- stories that attract a lot of attention but few comments, signaling very insightful post that requires no further comments
+
+Hence, I used the Comment/Score ratio to sort the top HN submissions and locate these stories at the top and the bottom of the list.
 
 ## Results
 
 [Results by date](https://github.com/paradite/hn-ratio/tree/master/results)
 
-Note that new "promoted" stories with low votes and job listings are filtered.
+Note that new "promoted" stories with low votes and HN-backed job listings are filtered.
 
 ## How to run the script
 
