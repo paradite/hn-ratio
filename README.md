@@ -23,4 +23,6 @@ Note that new "promoted" stories with low votes and HN-backed job listings are f
 
 Then
 
-`$ python hn-ratio.py > results/result-xxx.txt`
+`$ python hn-ratio.py`
+
+Result for the day will be generated in both json and plain text format (with basic visualization) in the `results` directory.

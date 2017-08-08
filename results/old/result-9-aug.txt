@@ -1,0 +1,258 @@
+Why Germans pay cash for almost everything
+https://news.ycombinator.com/item?id=14957490
+
+|##################################################|####################################################### S: 156 C: 328 R: 2.103
+
+
+Mazda SKYACTIV-X: first commercial gasoline engine to use compression ignition
+https://news.ycombinator.com/item?id=14959186
+
+|##################################################|####### S: 20 C: 23 R: 1.150
+
+
+Some insurers insist that patients forgo generics and buy brand-name drugs
+https://news.ycombinator.com/item?id=14952620
+
+|##############################################    | S: 187 C: 173 R: 0.925
+
+
+Amazon owns a whole collection of secret brands
+https://news.ycombinator.com/item?id=14958117
+
+|#########################################         | S: 90 C: 74 R: 0.822
+
+
+Our Broken Economy, in One Simple Chart
+https://news.ycombinator.com/item?id=14956698
+
+|########################################          | S: 102 C: 82 R: 0.804
+
+
+North Korea now making missile-ready nuclear weapons, U.S. analysts say
+https://news.ycombinator.com/item?id=14959809
+
+|#####################################             | S: 12 C: 9 R: 0.750
+
+
+Talos II
+https://news.ycombinator.com/item?id=14956257
+
+|##########################                        | S: 132 C: 71 R: 0.538
+
+
+Mongoose OS – An Open Source Operating System for the Internet of Things
+https://news.ycombinator.com/item?id=14957020
+
+|#########################                         | S: 116 C: 59 R: 0.509
+
+
+Cruise is running an autonomous ride hailing service for employees in SF
+https://news.ycombinator.com/item?id=14958230
+
+|#########################                         | S: 119 C: 60 R: 0.504
+
+
+In Defense of Probability (1985) [pdf]
+https://news.ycombinator.com/item?id=14957691
+
+|#######################                           | S: 21 C: 10 R: 0.476
+
+
+Show HN: Short-term rental estimate for sites like Airbnb
+https://news.ycombinator.com/item?id=14950699
+
+|#####################                             | S: 218 C: 93 R: 0.427
+
+
+Launch HN: Muzmatch (YC S17) – A place where 400M single Muslims can meet
+https://news.ycombinator.com/item?id=14959835
+
+|####################                              | S: 44 C: 18 R: 0.409
+
+
+A quick reminder why Bitcoin was created in the first place
+https://news.ycombinator.com/item?id=14958830
+
+|##################                                | S: 43 C: 16 R: 0.372
+
+
+Unreal Engine 4.17 Released
+https://news.ycombinator.com/item?id=14955609
+
+|##################                                | S: 141 C: 51 R: 0.362
+
+
+The BitTorrent Protocol Specification v2
+https://news.ycombinator.com/item?id=14951728
+
+|################                                  | S: 289 C: 95 R: 0.329
+
+
+Show HN: An interactive guide to compression basics
+https://news.ycombinator.com/item?id=14957201
+
+|###############                                   | S: 117 C: 37 R: 0.316
+
+
+Big Companies and the Military Are Paying Novelists to Write Sci-Fi for Them
+https://news.ycombinator.com/item?id=14958329
+
+|###############                                   | S: 177 C: 55 R: 0.311
+
+
+Instagram photos reveal predictive markers of depression
+https://news.ycombinator.com/item?id=14957251
+
+|###############                                   | S: 88 C: 27 R: 0.307
+
+
+Why Elephants Don’t Explode: How Nature Solves Bigness
+https://news.ycombinator.com/item?id=14957096
+
+|###############                                   | S: 33 C: 10 R: 0.303
+
+
+Deeplearning.ai: Announcing New Deep Learning Courses on Coursera – Andrew Ng
+https://news.ycombinator.com/item?id=14958779
+
+|###############                                   | S: 113 C: 34 R: 0.301
+
+
+Ferret – A free software Clojure implementation
+https://news.ycombinator.com/item?id=14951116
+
+|#############                                     | S: 247 C: 69 R: 0.279
+
+
+Internet Draft: Let 'localhost' be localhost
+https://news.ycombinator.com/item?id=14949978
+
+|#############                                     | S: 572 C: 153 R: 0.267
+
+
+Implementing Inverse Kinematics
+https://news.ycombinator.com/item?id=14954209
+
+|############                                      | S: 81 C: 21 R: 0.259
+
+
+Ask HN: Website go-live checklist app
+https://news.ycombinator.com/item?id=14958394
+
+|###########                                       | S: 67 C: 16 R: 0.239
+
+
+Pygorithm – A Python module for learning major algorithms
+https://news.ycombinator.com/item?id=14952269
+
+|###########                                       | S: 168 C: 37 R: 0.220
+
+
+Timing attacks and usernames (2012)
+https://news.ycombinator.com/item?id=14956876
+
+|##########                                        | S: 14 C: 3 R: 0.214
+
+
+The Most Common Error in Media Coverage of the Google Memo
+https://news.ycombinator.com/item?id=14959601
+
+|##########                                        | S: 110 C: 23 R: 0.209
+
+
+Roger McNamee: I invested early in Google and Facebook and regret it
+https://news.ycombinator.com/item?id=14959031
+
+|##########                                        | S: 39 C: 8 R: 0.205
+
+
+A Systematic Analysis of the Juniper Dual EC Incident [pdf]
+https://news.ycombinator.com/item?id=14955693
+
+|#########                                         | S: 99 C: 19 R: 0.192
+
+
+Show HN: C++ runtime/compile-time detection in constexpr functions
+https://news.ycombinator.com/item?id=14958628
+
+|########                                          | S: 39 C: 7 R: 0.179
+
+
+The smug style in American liberalism [2016 repost time]
+https://news.ycombinator.com/item?id=14959267
+
+|########                                          | S: 23 C: 4 R: 0.174
+
+
+Tinychain: a pocket-sized implementation of Bitcoin
+https://news.ycombinator.com/item?id=14949694
+
+|########                                          | S: 244 C: 41 R: 0.168
+
+
+Do Things That Don’t Scale (2013)
+https://news.ycombinator.com/item?id=14957007
+
+|#######                                           | S: 77 C: 12 R: 0.156
+
+
+Jeff Dean’s Lecture for YC AI [video]
+https://news.ycombinator.com/item?id=14950122
+
+|######                                            | S: 411 C: 54 R: 0.131
+
+
+A Tech Lead’s New Project Checklist
+https://news.ycombinator.com/item?id=14950277
+
+|#####                                             | S: 338 C: 39 R: 0.115
+
+
+Bringing Call Gates Back
+https://news.ycombinator.com/item?id=14955623
+
+|####                                              | S: 12 C: 1 R: 0.083
+
+
+Linux Load Averages: Solving the Mystery
+https://news.ycombinator.com/item?id=14959288
+
+|####                                              | S: 73 C: 6 R: 0.082
+
+
+2 Israeli teens responsible for international cyber attacks
+https://news.ycombinator.com/item?id=14959141
+
+|####                                              | S: 25 C: 2 R: 0.080
+
+
+Despite S.E.C. Warning, Wave of Initial Coin Offerings Grows
+https://news.ycombinator.com/item?id=14959938
+
+|###                                               | S: 14 C: 1 R: 0.071
+
+
+Dark Matter May Be Trapped in All the Black Holes
+https://news.ycombinator.com/item?id=14956291
+
+|##                                                | S: 56 C: 3 R: 0.054
+
+
+Tapetail, Bignose and Whalefish turn out to be the same fish
+https://news.ycombinator.com/item?id=14957233
+
+|##                                                | S: 57 C: 3 R: 0.053
+
+
+Complex animated transitions in React
+https://news.ycombinator.com/item?id=14956885
+
+|#                                                 | S: 27 C: 1 R: 0.037
+
+
+Virtualizing ARM TrustZone [pdf]
+https://news.ycombinator.com/item?id=14955772
+
+|                                                  | S: 10 C: 0 R: 0.000
+
+
