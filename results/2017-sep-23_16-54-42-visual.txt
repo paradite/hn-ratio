@@ -1,0 +1,176 @@
+Bitcoin is fiat money, too
+https://news.ycombinator.com/item?id=15315813
+|##################################################|############### S: 179 C: 236 R: 1.318
+
+Some Excel users pop F1 off their keyboards (2012)
+https://news.ycombinator.com/item?id=15311280
+|##################################################|############## S: 149 C: 193 R: 1.295
+
+Ask HN: Sell my startup for $14M because I can't raise $2M?
+https://news.ycombinator.com/item?id=15314663
+|##################################################|##### S: 258 C: 286 R: 1.109
+
+Bringing the web up to speed with WebAssembly
+https://news.ycombinator.com/item?id=15312103
+|################################################# | S: 150 C: 148 R: 0.987
+
+Is Rotten Tomatoes Killing the Movie Industry? No, Bad Movies Are
+https://news.ycombinator.com/item?id=15314659
+|############################################      | S: 205 C: 182 R: 0.888
+
+Uber London loses licence to operate
+https://news.ycombinator.com/item?id=15310664
+|###########################################       | S: 643 C: 559 R: 0.869
+
+Economic and Academic Consequences of Fraternity Membership
+https://news.ycombinator.com/item?id=15316348
+|##################################                | S: 158 C: 110 R: 0.696
+
+PulseAudio under the hood
+https://news.ycombinator.com/item?id=15310465
+|################################                  | S: 250 C: 162 R: 0.648
+
+Super-Accurate GPS Chips Coming to Smartphones in 2018
+https://news.ycombinator.com/item?id=15308771
+|###########################                       | S: 331 C: 182 R: 0.550
+
+Show HN: Pulse – Empathize with your users via real-time heartbeats
+https://news.ycombinator.com/item?id=15312118
+|#########################                         | S: 20 C: 10 R: 0.500
+
+Red Hat is pretty good at being Red Hat
+https://news.ycombinator.com/item?id=15314262
+|########################                          | S: 136 C: 67 R: 0.493
+
+Taking a cigarette break on the smoking internet
+https://news.ycombinator.com/item?id=15314510
+|########################                          | S: 91 C: 44 R: 0.484
+
+‘Catch Me If You Can’ Scam Artist Has a Warning for Today’s Consumers
+https://news.ycombinator.com/item?id=15315863
+|#######################                           | S: 62 C: 29 R: 0.468
+
+Winamp2-Js: A Reimplementation of Winamp 2.9 in HTML5 and JavaScript
+https://news.ycombinator.com/item?id=15314629
+|#######################                           | S: 162 C: 75 R: 0.463
+
+Things cryptocurrency enthusiasts probably won't tell you
+https://news.ycombinator.com/item?id=15317075
+|######################                            | S: 158 C: 72 R: 0.456
+
+Portugal treats addiction as a disease, not a crime
+https://news.ycombinator.com/item?id=15315129
+|######################                            | S: 313 C: 138 R: 0.441
+
+Facebook Scraps Plan for New Share Class
+https://news.ycombinator.com/item?id=15316627
+|####################                              | S: 52 C: 21 R: 0.404
+
+Freight startup Flexport soars from ‘unsexy’ to $800M valuation
+https://news.ycombinator.com/item?id=15312755
+|###################                               | S: 314 C: 121 R: 0.385
+
+Gitlab 10.0 released
+https://news.ycombinator.com/item?id=15314877
+|##################                                | S: 244 C: 92 R: 0.377
+
+The Last Analog Motion Graphics Machine [video]
+https://news.ycombinator.com/item?id=15314486
+|##################                                | S: 158 C: 59 R: 0.373
+
+How I got to 200 productive hours a month
+https://news.ycombinator.com/item?id=15309393
+|##################                                | S: 702 C: 261 R: 0.372
+
+Introduction to WebRender
+https://news.ycombinator.com/item?id=15312966
+|#################                                 | S: 159 C: 56 R: 0.352
+
+APFS – A Backup Software Developer’s Perspective
+https://news.ycombinator.com/item?id=15317275
+|###############                                   | S: 95 C: 30 R: 0.316
+
+New antibody attacks 99% of HIV strains
+https://news.ycombinator.com/item?id=15314006
+|###############                                   | S: 606 C: 190 R: 0.314
+
+A tiny Unix dynamic memory allocator library
+https://news.ycombinator.com/item?id=15317902
+|###############                                   | S: 16 C: 5 R: 0.312
+
+Changes to Google Scholar
+https://news.ycombinator.com/item?id=15317735
+|#############                                     | S: 72 C: 20 R: 0.278
+
+New in PostgreSQL 10
+https://news.ycombinator.com/item?id=15306398
+|#############                                     | S: 903 C: 241 R: 0.267
+
+Post a boarding pass on Facebook, get your account stolen
+https://news.ycombinator.com/item?id=15318440
+|############                                      | S: 113 C: 28 R: 0.248
+
+Cheap, Full-Duplex Software Defined Radio with the LimeSDR
+https://news.ycombinator.com/item?id=15318233
+|###########                                       | S: 21 C: 5 R: 0.238
+
+The Strange Tectonic Coincidence of Mexico’s September Earthquakes
+https://news.ycombinator.com/item?id=15315844
+|###########                                       | S: 30 C: 7 R: 0.233
+
+EFF, ACLU Sue Over Warrantless Phone, Laptop Searches at U.S. Border
+https://news.ycombinator.com/item?id=15312303
+|###########                                       | S: 293 C: 68 R: 0.232
+
+Coding the History of Deep Learning
+https://news.ycombinator.com/item?id=15311773
+|###########                                       | S: 223 C: 50 R: 0.224
+
+The Blockchain Is the Internet of Money
+https://news.ycombinator.com/item?id=15317835
+|###########                                       | S: 27 C: 6 R: 0.222
+
+Godot Engine – Free and open-source 2D and 3D game engine
+https://news.ycombinator.com/item?id=15309989
+|##########                                        | S: 552 C: 120 R: 0.217
+
+How Logos are Remembered
+https://news.ycombinator.com/item?id=15313257
+|##########                                        | S: 281 C: 61 R: 0.217
+
+Relicensing React, Jest, Flow, and Immutable.js
+https://news.ycombinator.com/item?id=15316175
+|##########                                        | S: 1658 C: 350 R: 0.211
+
+Laser Socks – a sweaty game pointing toward the future of computing
+https://news.ycombinator.com/item?id=15304482
+|#########                                         | S: 161 C: 32 R: 0.199
+
+Mistakes I Have Made in My Research Career
+https://news.ycombinator.com/item?id=15314503
+|#########                                         | S: 48 C: 9 R: 0.188
+
+Arctic sea ice trend since 1979
+https://news.ycombinator.com/item?id=15317987
+|#########                                         | S: 16 C: 3 R: 0.188
+
+How to contribute to GNU Hurd (2006)
+https://news.ycombinator.com/item?id=15317515
+|########                                          | S: 47 C: 8 R: 0.170
+
+Google Will Survive SESTA – Startups Might Not
+https://news.ycombinator.com/item?id=15318390
+|########                                          | S: 50 C: 8 R: 0.160
+
+IamA classmate of Mark Zuckerberg who created the initial school-wide Facebook
+https://news.ycombinator.com/item?id=15318545
+|#####                                             | S: 17 C: 2 R: 0.118
+
+First Prescription App for Substance Abuse Approved by FDA
+https://news.ycombinator.com/item?id=15314964
+|####                                              | S: 21 C: 2 R: 0.095
+
+The Electronic Computers, Part 2: Colossus
+https://news.ycombinator.com/item?id=15297861
+|                                                  | S: 13 C: 0 R: 0.000
+
