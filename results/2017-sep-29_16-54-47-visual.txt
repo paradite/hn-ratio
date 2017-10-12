@@ -1,0 +1,196 @@
+More Americans Are Falling Behind on Student Loans, and Nobody Quite Knows Why
+https://news.ycombinator.com/item?id=15356771
+|##################################################|############################################################ S: 107 C: 237 R: 2.215
+
+Apple reminds the FCC that it can’t activate imaginary iPhone FM radios
+https://news.ycombinator.com/item?id=15362361
+|##################################################|################# S: 17 C: 23 R: 1.353
+
+The Repressive, Authoritarian Soul of “Thomas the Tank Engine and Friends”
+https://news.ycombinator.com/item?id=15361197
+|##################################################|## S: 167 C: 175 R: 1.048
+
+King County rolls out Miranda rights tailored for young people
+https://news.ycombinator.com/item?id=15359957
+|####################################              | S: 164 C: 121 R: 0.738
+
+Boost.UI – a new C++ GUI library
+https://news.ycombinator.com/item?id=15359429
+|####################################              | S: 18 C: 13 R: 0.722
+
+Three Paths in the Tech Industry: Founder, Executive, or Employee
+https://news.ycombinator.com/item?id=15357584
+|###################################               | S: 718 C: 515 R: 0.717
+
+A Brief History of Lisp Machines (2008)
+https://news.ycombinator.com/item?id=15355979
+|##################################                | S: 98 C: 68 R: 0.694
+
+Fidelity CEO Abigail Johnson says the company is mining cryptocurrencies
+https://news.ycombinator.com/item?id=15361527
+|#################################                 | S: 185 C: 123 R: 0.665
+
+SpaceX: Making Life Multiplanetary [video]
+https://news.ycombinator.com/item?id=15362693
+|##############################                    | S: 208 C: 127 R: 0.611
+
+Equifax CEO Richard Smith Who Oversaw Breach to Collect $90M
+https://news.ycombinator.com/item?id=15362606
+|##############################                    | S: 69 C: 42 R: 0.609
+
+Amazon developing three new sci-fi series: Lazarus, Snow Crash and Ringworld
+https://news.ycombinator.com/item?id=15362522
+|#############################                     | S: 105 C: 61 R: 0.581
+
+Anthony Levandowski, self driving car whiz who fell from grace
+https://news.ycombinator.com/item?id=15347067
+|############################                      | S: 187 C: 105 R: 0.561
+
+Show HN: Hivemind – Distributed jobs using AWS Lambda functions
+https://news.ycombinator.com/item?id=15360571
+|###########################                       | S: 47 C: 26 R: 0.553
+
+Ask HN: Where can I host a 1TB DB relatively cheaply?
+https://news.ycombinator.com/item?id=15361724
+|###########################                       | S: 29 C: 16 R: 0.552
+
+DNS for Service Discovery in HAProxy
+https://news.ycombinator.com/item?id=15358405
+|###########################                       | S: 80 C: 44 R: 0.550
+
+What's New in Swift 4
+https://news.ycombinator.com/item?id=15358843
+|###########################                       | S: 57 C: 31 R: 0.544
+
+South Pacific landmass may have been closer to land level than once thought
+https://news.ycombinator.com/item?id=15345923
+|#########################                         | S: 52 C: 26 R: 0.500
+
+Show HN: 300k lines of Java UI code running as JavaScript in browser
+https://news.ycombinator.com/item?id=15357394
+|#######################                           | S: 138 C: 66 R: 0.478
+
+Modern terminal-based text editor
+https://news.ycombinator.com/item?id=15360509
+|#######################                           | S: 326 C: 151 R: 0.463
+
+American Red Cross Asks for Ham Radio Operators for Puerto Rico Relief Effort
+https://news.ycombinator.com/item?id=15345114
+|######################                            | S: 329 C: 148 R: 0.450
+
+DNSSEC KSK Rollover Postponed
+https://news.ycombinator.com/item?id=15361442
+|######################                            | S: 34 C: 15 R: 0.441
+
+SpaceX BFR [video]
+https://news.ycombinator.com/item?id=15362999
+|#####################                             | S: 89 C: 39 R: 0.438
+
+A 1 KB Docker Container
+https://news.ycombinator.com/item?id=15362418
+|###################                               | S: 66 C: 26 R: 0.394
+
+Ntpd won't save you from one particular rogue bit
+https://news.ycombinator.com/item?id=15355487
+|#################                                 | S: 218 C: 78 R: 0.358
+
+Ikea has bought TaskRabbit
+https://news.ycombinator.com/item?id=15357981
+|################                                  | S: 413 C: 137 R: 0.332
+
+MILA and the future of Theano
+https://news.ycombinator.com/item?id=15360470
+|###############                                   | S: 172 C: 54 R: 0.314
+
+Gravitational waves from a binary black hole merger observed by LIGO and Virgo
+https://news.ycombinator.com/item?id=15350137
+|##############                                    | S: 514 C: 151 R: 0.294
+
+Floating Point Visually Explained
+https://news.ycombinator.com/item?id=15359574
+|##############                                    | S: 328 C: 96 R: 0.293
+
+A “right to repair” movement tools up
+https://news.ycombinator.com/item?id=15360362
+|##############                                    | S: 604 C: 174 R: 0.288
+
+TLS 1.2 Session Tickets
+https://news.ycombinator.com/item?id=15358446
+|##############                                    | S: 161 C: 46 R: 0.286
+
+A 220b spreadsheet app in HTML/JS
+https://news.ycombinator.com/item?id=15354693
+|#############                                     | S: 338 C: 93 R: 0.275
+
+Gophersat: A SAT solver written in Go
+https://news.ycombinator.com/item?id=15356358
+|############                                      | S: 124 C: 32 R: 0.258
+
+Textadept – A fast, minimalist, and extensible cross-platform text editor
+https://news.ycombinator.com/item?id=15362578
+|############                                      | S: 39 C: 10 R: 0.256
+
+Mitogen, an infrastructure code baseline that sucks less
+https://news.ycombinator.com/item?id=15355144
+|###########                                       | S: 88 C: 21 R: 0.239
+
+How to Study Physics (1949)
+https://news.ycombinator.com/item?id=15355912
+|###########                                       | S: 115 C: 27 R: 0.235
+
+Show HN: Triadex Muse in a Browser
+https://news.ycombinator.com/item?id=15345576
+|###########                                       | S: 27 C: 6 R: 0.222
+
+Experiments with Matrix for the Purism Librem5, Starring Ubports and Nheko
+https://news.ycombinator.com/item?id=15358342
+|###########                                       | S: 109 C: 24 R: 0.220
+
+Bloom Filters for the Perplexed
+https://news.ycombinator.com/item?id=15346337
+|##########                                        | S: 213 C: 44 R: 0.207
+
+Things learned while running your own self-funded startup
+https://news.ycombinator.com/item?id=15355068
+|########                                          | S: 342 C: 59 R: 0.173
+
+Molinillo: a dependency resolution algorithm
+https://news.ycombinator.com/item?id=15354838
+|########                                          | S: 36 C: 6 R: 0.167
+
+The World's Fastest and Most Programmable Networks
+https://news.ycombinator.com/item?id=15361981
+|#######                                           | S: 76 C: 12 R: 0.158
+
+Give me 15 minutes and I'll change your view of Linux tracing [video]
+https://news.ycombinator.com/item?id=15359526
+|######                                            | S: 231 C: 30 R: 0.130
+
+Teaching a Catapult to Shoot Down a Missile: First Impressions of Unity's AI SDK
+https://news.ycombinator.com/item?id=15361410
+|######                                            | S: 16 C: 2 R: 0.125
+
+The harrowing world of a trauma cleaner
+https://news.ycombinator.com/item?id=15355636
+|####                                              | S: 52 C: 5 R: 0.096
+
+On Disk IO, Part 3: LSM Trees
+https://news.ycombinator.com/item?id=15346646
+|###                                               | S: 129 C: 10 R: 0.078
+
+RNNoise: Learning Noise Suppression
+https://news.ycombinator.com/item?id=15362982
+|#                                                 | S: 88 C: 2 R: 0.023
+
+I never signed up for this Privacy implications of email tracking [pdf]
+https://news.ycombinator.com/item?id=15363564
+|                                                  | S: 10 C: 0 R: 0.000
+
+South Korea bans initial coin offerings
+https://news.ycombinator.com/item?id=15362642
+|                                                  | S: 13 C: 0 R: 0.000
+
+Why You Shouldn’t Slog Through Books
+https://news.ycombinator.com/item?id=15362593
+|                                                  | S: 13 C: 0 R: 0.000
+

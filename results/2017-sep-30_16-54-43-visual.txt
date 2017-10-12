@@ -1,0 +1,192 @@
+Google removes Catalan referendum app from Google Play after court order
+https://news.ycombinator.com/item?id=15368181
+|################################################  | S: 250 C: 244 R: 0.976
+
+The C64 Mini Computer
+https://news.ycombinator.com/item?id=15365166
+|###########################################       | S: 125 C: 108 R: 0.864
+
+Musk revises Mars ambitions
+https://news.ycombinator.com/item?id=15365818
+|####################################              | S: 229 C: 168 R: 0.734
+
+OKCupid: Most attractive ages to both men and women
+https://news.ycombinator.com/item?id=15369910
+|####################################              | S: 26 C: 19 R: 0.731
+
+How do I get my son or daughter interested in computer programming?
+https://news.ycombinator.com/item?id=15369686
+|###################################               | S: 14 C: 10 R: 0.714
+
+Three Paths in the Tech Industry: Founder, Executive, or Employee
+https://news.ycombinator.com/item?id=15357584
+|#################################                 | S: 869 C: 584 R: 0.672
+
+How the Catalan government uses IPFS to sidestep Spain's legal block
+https://news.ycombinator.com/item?id=15367531
+|################################                  | S: 599 C: 386 R: 0.644
+
+Google Will Retool User Security in Wake of Political Hack
+https://news.ycombinator.com/item?id=15369964
+|###############################                   | S: 61 C: 39 R: 0.639
+
+Is AI Riding a One-Trick Pony?
+https://news.ycombinator.com/item?id=15366972
+|###############################                   | S: 257 C: 161 R: 0.626
+
+The rise and fall of Ext JS
+https://news.ycombinator.com/item?id=15365353
+|##############################                    | S: 195 C: 119 R: 0.610
+
+Show HN: Generate minimaps of your code
+https://news.ycombinator.com/item?id=15369583
+|##############################                    | S: 23 C: 14 R: 0.609
+
+Why Does Sweden Have So Many Startups?
+https://news.ycombinator.com/item?id=15364312
+|#############################                     | S: 107 C: 63 R: 0.589
+
+A therapist’s guide to staying productive when depressed or heartbroken
+https://news.ycombinator.com/item?id=15366935
+|###########################                       | S: 152 C: 83 R: 0.546
+
+Travis Kalanick Exercises Right to Appoint Two Uber Directors
+https://news.ycombinator.com/item?id=15370326
+|##########################                        | S: 106 C: 56 R: 0.528
+
+Exploiting the Wi-Fi Stack on Apple Devices
+https://news.ycombinator.com/item?id=15360553
+|##########################                        | S: 118 C: 62 R: 0.525
+
+Serving 100 Gbps from an Open Connect Appliance
+https://news.ycombinator.com/item?id=15367421
+|########################                          | S: 91 C: 44 R: 0.484
+
+It’s time to give Firefox another chance
+https://news.ycombinator.com/item?id=15368353
+|#######################                           | S: 967 C: 458 R: 0.474
+
+YouTube is cracking down on external links in videos
+https://news.ycombinator.com/item?id=15366710
+|######################                            | S: 85 C: 39 R: 0.459
+
+The Colony token sale would have been committing securities fraud
+https://news.ycombinator.com/item?id=15366853
+|#####################                             | S: 68 C: 29 R: 0.426
+
+Cloudflare Workers: Run JavaScript Service Workers at the Edge
+https://news.ycombinator.com/item?id=15364896
+|####################                              | S: 285 C: 119 R: 0.418
+
+Ikea has bought TaskRabbit
+https://news.ycombinator.com/item?id=15357981
+|###################                               | S: 486 C: 193 R: 0.397
+
+The SEC has charged two initial coin offerings with defrauding investors
+https://news.ycombinator.com/item?id=15370631
+|###################                               | S: 185 C: 73 R: 0.395
+
+Identifying satellite interference due to GSM rebroadcast (2011) [pdf]
+https://news.ycombinator.com/item?id=15363709
+|##################                                | S: 29 C: 11 R: 0.379
+
+Best attempts so far to skin Schrödinger’s cat (2016)
+https://news.ycombinator.com/item?id=15363539
+|##################                                | S: 19 C: 7 R: 0.368
+
+A “right to repair” movement tools up
+https://news.ycombinator.com/item?id=15360362
+|#################                                 | S: 842 C: 289 R: 0.343
+
+Selfie Factories: The Rise of the Made-For-Instagram Museum
+https://news.ycombinator.com/item?id=15364316
+|###############                                   | S: 46 C: 14 R: 0.304
+
+Reactant is a new native framework for iOS
+https://news.ycombinator.com/item?id=15366922
+|##############                                    | S: 27 C: 8 R: 0.296
+
+Safety-critical realtime with Linux
+https://news.ycombinator.com/item?id=15367688
+|##############                                    | S: 82 C: 23 R: 0.280
+
+Nonlinear Computation in Deep Linear Networks
+https://news.ycombinator.com/item?id=15366438
+|#############                                     | S: 115 C: 31 R: 0.270
+
+Alibaba is leading a $27M investment in MariaDB
+https://news.ycombinator.com/item?id=15366365
+|############                                      | S: 339 C: 85 R: 0.251
+
+Photos of Soviet control rooms
+https://news.ycombinator.com/item?id=15369999
+|############                                      | S: 169 C: 41 R: 0.243
+
+Draggable JS – a lightweight, responsive, modern drag-and-drop library
+https://news.ycombinator.com/item?id=15368104
+|###########                                       | S: 391 C: 92 R: 0.235
+
+An essay on the phenomenology of DMT (2016)
+https://news.ycombinator.com/item?id=15368432
+|###########                                       | S: 18 C: 4 R: 0.222
+
+RNNoise: Learning Noise Suppression
+https://news.ycombinator.com/item?id=15362982
+|##########                                        | S: 243 C: 53 R: 0.218
+
+Show HN: ARKit Playground – Make ARKit Experiences in JS from Your Browser
+https://news.ycombinator.com/item?id=15367645
+|##########                                        | S: 122 C: 25 R: 0.205
+
+OpenPGP and SHA verification
+https://news.ycombinator.com/item?id=15366291
+|#########                                         | S: 86 C: 16 R: 0.186
+
+Relay system is helping the Indian truck-driving industry
+https://news.ycombinator.com/item?id=15364101
+|#######                                           | S: 21 C: 3 R: 0.143
+
+Visualizing Your Ruby Heap
+https://news.ycombinator.com/item?id=15363332
+|######                                            | S: 73 C: 9 R: 0.123
+
+Fermi Estimates on Postgres Performance
+https://news.ycombinator.com/item?id=15369754
+|######                                            | S: 41 C: 5 R: 0.122
+
+Distributed algorithms in NoSQL databases
+https://news.ycombinator.com/item?id=15367003
+|#####                                             | S: 84 C: 10 R: 0.119
+
+Style2Paints: AI colorization of images
+https://news.ycombinator.com/item?id=15370415
+|#####                                             | S: 79 C: 8 R: 0.101
+
+In social networks, group boundaries promote the spread of ideas (2015)
+https://news.ycombinator.com/item?id=15363587
+|###                                               | S: 40 C: 3 R: 0.075
+
+Pipe Logic – Simulating circuits in the Unix shell (2011)
+https://news.ycombinator.com/item?id=15363029
+|###                                               | S: 70 C: 5 R: 0.071
+
+Death of an Heir: Adolph Coors III and the Murder That Rocked a Brewing Dynasty
+https://news.ycombinator.com/item?id=15363040
+|###                                               | S: 31 C: 2 R: 0.065
+
+Reviewing Ethereum Smart Contracts
+https://news.ycombinator.com/item?id=15356412
+|#                                                 | S: 56 C: 2 R: 0.036
+
+Two Types of Curiosity
+https://news.ycombinator.com/item?id=15364133
+|                                                  | S: 13 C: 0 R: 0.000
+
+Secret Music: On Duke Ellington’s the Queen’s Suite
+https://news.ycombinator.com/item?id=15355241
+|                                                  | S: 11 C: 0 R: 0.000
+
+Screwdriving: Locating and exploiting smart adult toys
+https://news.ycombinator.com/item?id=15368260
+|                                                  | S: 15 C: 0 R: 0.000
+

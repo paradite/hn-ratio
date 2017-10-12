@@ -1,0 +1,188 @@
+Google Pixel 2 and 2 XL announced
+https://news.ycombinator.com/item?id=15401973
+|##################################################|################################ S: 328 C: 541 R: 1.649
+
+Britain Moves to Criminalize Reading Extremist Material on the Internet
+https://news.ycombinator.com/item?id=15407218
+|##################################################|############ S: 69 C: 86 R: 1.246
+
+Pharo, the Modern Smalltalk
+https://news.ycombinator.com/item?id=15399442
+|##################################################|# S: 148 C: 153 R: 1.034
+
+Bids in 300MW Saudi solar tender breach two cents
+https://news.ycombinator.com/item?id=15404954
+|###########################################       | S: 50 C: 43 R: 0.860
+
+Productive on six hours of sleep? You’re deluding yourself, expert says
+https://news.ycombinator.com/item?id=15401397
+|##################################                | S: 361 C: 246 R: 0.681
+
+Google Pixel Buds are wireless earbuds that translate conversations in real-time
+https://news.ycombinator.com/item?id=15402483
+|##################################                | S: 298 C: 203 R: 0.681
+
+Show HN: CoinHub for iOS
+https://news.ycombinator.com/item?id=15403495
+|################################                  | S: 45 C: 29 R: 0.644
+
+Useful GCC warning options not enabled by -Wall -Wextra
+https://news.ycombinator.com/item?id=15400396
+|#############################                     | S: 243 C: 145 R: 0.597
+
+Dictionary and Set Improvements in Swift 4.0
+https://news.ycombinator.com/item?id=15403882
+|###########################                       | S: 106 C: 59 R: 0.557
+
+How to Legally Own Another Person (2015) [pdf]
+https://news.ycombinator.com/item?id=15406173
+|#########################                         | S: 102 C: 53 R: 0.520
+
+Pauling, scientific posters on the go
+https://news.ycombinator.com/item?id=15399835
+|########################                          | S: 29 C: 14 R: 0.483
+
+Distributed Ledger without the Blockchain
+https://news.ycombinator.com/item?id=15400963
+|########################                          | S: 125 C: 60 R: 0.480
+
+The Logic of Risk Taking
+https://news.ycombinator.com/item?id=15399297
+|#######################                           | S: 130 C: 62 R: 0.477
+
+Yahoo Triples Estimate of Breached Accounts to 3B
+https://news.ycombinator.com/item?id=15395946
+|######################                            | S: 624 C: 280 R: 0.449
+
+Interactive Vim tutorial
+https://news.ycombinator.com/item?id=15400037
+|#####################                             | S: 468 C: 205 R: 0.438
+
+Show HN: Eclipse Deeplearning4j
+https://news.ycombinator.com/item?id=15403112
+|#####################                             | S: 63 C: 27 R: 0.429
+
+Beijing's Heavy Hand
+https://news.ycombinator.com/item?id=15405888
+|####################                              | S: 80 C: 33 R: 0.412
+
+The underground world of Singapore
+https://news.ycombinator.com/item?id=15399855
+|###################                               | S: 163 C: 64 R: 0.393
+
+Senator to Ex-CEO: Equifax Can't Be Trusted with Americans' Personal Data
+https://news.ycombinator.com/item?id=15405510
+|##################                                | S: 122 C: 45 R: 0.369
+
+Avoid Vendor Lock-In Risk with Multi-Cloud Deployments
+https://news.ycombinator.com/item?id=15400873
+|#################                                 | S: 145 C: 51 R: 0.352
+
+UC Berkeley research fellow Michael Cohen dies at 25
+https://news.ycombinator.com/item?id=15404627
+|#################                                 | S: 88 C: 30 R: 0.341
+
+Evidence of the body’s waste system in the human brain
+https://news.ycombinator.com/item?id=15397798
+|################                                  | S: 265 C: 87 R: 0.328
+
+Blockchains: How They Work and Why They’ll Change the World
+https://news.ycombinator.com/item?id=15404601
+|################                                  | S: 81 C: 26 R: 0.321
+
+How many people are in space right now
+https://news.ycombinator.com/item?id=15406714
+|###############                                   | S: 117 C: 37 R: 0.316
+
+Bill Gates now uses an Android phone
+https://news.ycombinator.com/item?id=15406580
+|##############                                    | S: 14 C: 4 R: 0.286
+
+Another Flip in the Wall of Rowhammer Defenses
+https://news.ycombinator.com/item?id=15403387
+|##############                                    | S: 67 C: 19 R: 0.284
+
+RISC-V based 64-bit quad-core application processor
+https://news.ycombinator.com/item?id=15400217
+|##############                                    | S: 237 C: 67 R: 0.283
+
+An Update on Firefox Containers
+https://news.ycombinator.com/item?id=15400667
+|##############                                    | S: 269 C: 76 R: 0.283
+
+WaveNet launches in the Google Assistant
+https://news.ycombinator.com/item?id=15403104
+|#############                                     | S: 388 C: 107 R: 0.276
+
+Colony: A platform for open organizations
+https://news.ycombinator.com/item?id=15406724
+|#############                                     | S: 144 C: 39 R: 0.271
+
+The Librem 5 Development Roadmap and Progress
+https://news.ycombinator.com/item?id=15404203
+|############                                      | S: 175 C: 44 R: 0.251
+
+Go 1.9.1 and Go 1.8.4 are released
+https://news.ycombinator.com/item?id=15404441
+|##########                                        | S: 139 C: 29 R: 0.209
+
+Teachable Machine: Teach a machine using your camera, live in the browser
+https://news.ycombinator.com/item?id=15399132
+|##########                                        | S: 397 C: 82 R: 0.207
+
+Guacamole – A clientless remote desktop gateway
+https://news.ycombinator.com/item?id=15389727
+|##########                                        | S: 1072 C: 215 R: 0.201
+
+Keybase launches encrypted Git
+https://news.ycombinator.com/item?id=15401211
+|#########                                         | S: 1137 C: 219 R: 0.193
+
+A Program from a 35 Year Old Magazine for BASIC Month and a Chat with Its Author
+https://news.ycombinator.com/item?id=15404970
+|#########                                         | S: 73 C: 14 R: 0.192
+
+Core ML Community Tools
+https://news.ycombinator.com/item?id=15406237
+|########                                          | S: 67 C: 12 R: 0.179
+
+A Chicago Newspaper That Bought a Bar
+https://news.ycombinator.com/item?id=15404345
+|#######                                           | S: 178 C: 27 R: 0.152
+
+Decentralised and open scientific publishing on blockchain
+https://news.ycombinator.com/item?id=15404838
+|#######                                           | S: 14 C: 2 R: 0.143
+
+Cowboy v2.0 released
+https://news.ycombinator.com/item?id=15405479
+|#####                                             | S: 193 C: 22 R: 0.114
+
+From design patterns to category theory
+https://news.ycombinator.com/item?id=15399787
+|#####                                             | S: 176 C: 20 R: 0.114
+
+Microsoft Machine Learning Server Docker Image
+https://news.ycombinator.com/item?id=15406263
+|####                                              | S: 22 C: 2 R: 0.091
+
+Lego color themes as topic models
+https://news.ycombinator.com/item?id=15399866
+|###                                               | S: 42 C: 3 R: 0.071
+
+Show HN: Encrypted VPN in 2k lines of Go
+https://news.ycombinator.com/item?id=15405968
+|###                                               | S: 31 C: 2 R: 0.065
+
+U.S. lawmakers want to restrict internet surveillance on Americans
+https://news.ycombinator.com/item?id=15406338
+|#                                                 | S: 65 C: 2 R: 0.031
+
+Wayback Machine Playback, now with Timestamps
+https://news.ycombinator.com/item?id=15406786
+|                                                  | S: 12 C: 0 R: 0.000
+
+CuPy – A NumPy-like matrix library accelerated by CUDA
+https://news.ycombinator.com/item?id=15403813
+|                                                  | S: 24 C: 0 R: 0.000
+

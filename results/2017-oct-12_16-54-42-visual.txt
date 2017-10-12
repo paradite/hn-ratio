@@ -1,0 +1,184 @@
+There Are No Houses for Amazonians
+https://news.ycombinator.com/item?id=15447530
+|##################################################|############################ S: 86 C: 135 R: 1.570
+
+Roman Empire per capita GDP shows the Romans were poorer than any 2015 country
+https://news.ycombinator.com/item?id=15449301
+|##################################################|########################### S: 116 C: 179 R: 1.543
+
+Ask HN: What non-work task have you automated?
+https://news.ycombinator.com/item?id=15451442
+|##################################################|############ S: 419 C: 522 R: 1.246
+
+The Minimalists want you to be happy with less
+https://news.ycombinator.com/item?id=15447894
+|##################################################|######## S: 52 C: 61 R: 1.173
+
+Introducing Oculus Go, Plus Santa Cruz Updates
+https://news.ycombinator.com/item?id=15451400
+|###############################################   | S: 188 C: 180 R: 0.957
+
+Dropbox taking entire building in Mission Bay – biggest lease in city history
+https://news.ycombinator.com/item?id=15446471
+|###############################################   | S: 137 C: 130 R: 0.949
+
+Evidence That Online Dating Is Changing Society
+https://news.ycombinator.com/item?id=15452536
+|##########################################        | S: 177 C: 150 R: 0.847
+
+Arabic characters found woven into burial costumes from Viking boat graves
+https://news.ycombinator.com/item?id=15454787
+|##########################################        | S: 88 C: 74 R: 0.841
+
+Western news about China depends on intrepid Chinese ‘news assistants’
+https://news.ycombinator.com/item?id=15447432
+|#################################                 | S: 68 C: 46 R: 0.676
+
+Symantec CEO says source code reviews by foreign states pose unacceptable risk
+https://news.ycombinator.com/item?id=15450870
+|#################################                 | S: 140 C: 93 R: 0.664
+
+Beijing Pushes for a Direct Hand in Big Chinese Tech Firms
+https://news.ycombinator.com/item?id=15454252
+|#############################                     | S: 82 C: 49 R: 0.598
+
+Spotify’s Discover Weekly: How machine learning finds new music
+https://news.ycombinator.com/item?id=15447706
+|########################                          | S: 517 C: 256 R: 0.495
+
+The Ainu, the Indigenous people of Japan
+https://news.ycombinator.com/item?id=15440125
+|#######################                           | S: 198 C: 93 R: 0.470
+
+San Francisco to Build 250 Modular Housing Units for Homeless in SoMa
+https://news.ycombinator.com/item?id=15456010
+|#######################                           | S: 13 C: 6 R: 0.462
+
+The Depression Thing
+https://news.ycombinator.com/item?id=15451060
+|####################                              | S: 676 C: 283 R: 0.419
+
+A Little Story About the `yes` Unix Command
+https://news.ycombinator.com/item?id=15454352
+|####################                              | S: 273 C: 111 R: 0.407
+
+Ansible open-sources Ansible Tower with AWX
+https://news.ycombinator.com/item?id=15450594
+|##################                                | S: 236 C: 89 R: 0.377
+
+Competitive Self-Play
+https://news.ycombinator.com/item?id=15451584
+|################                                  | S: 318 C: 108 R: 0.340
+
+GitHub Discover
+https://news.ycombinator.com/item?id=15451371
+|################                                  | S: 150 C: 50 R: 0.333
+
+Invasive species could increase the risk of disease for humans
+https://news.ycombinator.com/item?id=15426855
+|################                                  | S: 12 C: 4 R: 0.333
+
+Firefox Send: Private, Encrypted File Sharing
+https://news.ycombinator.com/item?id=15448996
+|################                                  | S: 735 C: 239 R: 0.325
+
+RIP the Broccoli Tree
+https://news.ycombinator.com/item?id=15452138
+|###############                                   | S: 366 C: 116 R: 0.317
+
+Show HN: Twitter bot which tweets Magic cards with appropriate GIFs superimposed
+https://news.ycombinator.com/item?id=15449955
+|###############                                   | S: 76 C: 24 R: 0.316
+
+Disabling the Intel Management Engine
+https://news.ycombinator.com/item?id=15444607
+|###############                                   | S: 691 C: 218 R: 0.315
+
+Scientists Can Read a Bird’s Brain and Predict Its Next Song
+https://news.ycombinator.com/item?id=15447405
+|###############                                   | S: 65 C: 20 R: 0.308
+
+Broken packets: IP fragmentation is flawed
+https://news.ycombinator.com/item?id=15448960
+|###############                                   | S: 125 C: 38 R: 0.304
+
+Inside the World’s Largest Walnut Forest
+https://news.ycombinator.com/item?id=15447719
+|############                                      | S: 66 C: 17 R: 0.258
+
+Japan Megabank Chief: Please Do Something About All These Meetings
+https://news.ycombinator.com/item?id=15451177
+|############                                      | S: 29 C: 7 R: 0.241
+
+The Touch of Madness
+https://news.ycombinator.com/item?id=15447796
+|###########                                       | S: 31 C: 7 R: 0.226
+
+The End of the DreamHost vs. DOJ privacy case
+https://news.ycombinator.com/item?id=15446217
+|###########                                       | S: 586 C: 129 R: 0.220
+
+Functor-Oriented Programming
+https://news.ycombinator.com/item?id=15440108
+|##########                                        | S: 147 C: 31 R: 0.211
+
+Equifax website hacked again, this time to redirect to fake Flash update
+https://news.ycombinator.com/item?id=15456221
+|##########                                        | S: 80 C: 16 R: 0.200
+
+Please take care of my plant
+https://news.ycombinator.com/item?id=15453974
+|#########                                         | S: 477 C: 93 R: 0.195
+
+RxFiddle: Visualize your Observables
+https://news.ycombinator.com/item?id=15440631
+|#########                                         | S: 32 C: 6 R: 0.188
+
+Show HN: Find and follow journalists relevant to your startup using ML
+https://news.ycombinator.com/item?id=15451602
+|#########                                         | S: 70 C: 13 R: 0.186
+
+An algebraic generalization for graph and tensor-based neural networks [pdf]
+https://news.ycombinator.com/item?id=15451601
+|#####                                             | S: 108 C: 12 R: 0.111
+
+Eloquent JavaScript, 3rd edition
+https://news.ycombinator.com/item?id=15455006
+|#####                                             | S: 158 C: 16 R: 0.101
+
+Virtual Machine Warmup Blows Hot and Cold
+https://news.ycombinator.com/item?id=15448709
+|#####                                             | S: 20 C: 2 R: 0.100
+
+What happened to distributed programming languages? [video]
+https://news.ycombinator.com/item?id=15450928
+|####                                              | S: 41 C: 4 R: 0.098
+
+Elliptic Curve Cryptography for Beginners
+https://news.ycombinator.com/item?id=15440170
+|####                                              | S: 304 C: 27 R: 0.089
+
+Containers and Distributed Systems: Where They Came from and Where They’re Going
+https://news.ycombinator.com/item?id=15455920
+|###                                               | S: 78 C: 6 R: 0.077
+
+Cthulhu: Organizing Go Code in a Scalable Repo
+https://news.ycombinator.com/item?id=15451180
+|###                                               | S: 95 C: 7 R: 0.074
+
+Reverse Engineering an Eclipse Plugin
+https://news.ycombinator.com/item?id=15455270
+|###                                               | S: 69 C: 5 R: 0.072
+
+PornHub served up malware in ads for a year undetected
+https://news.ycombinator.com/item?id=15453496
+|##                                                | S: 18 C: 1 R: 0.056
+
+AlgoWiki: Repository of resources on different topics of computer science
+https://news.ycombinator.com/item?id=15455118
+|#                                                 | S: 47 C: 1 R: 0.021
+
+Estimating the gravitational waves of a home run
+https://news.ycombinator.com/item?id=15440451
+|                                                  | S: 10 C: 0 R: 0.000
+

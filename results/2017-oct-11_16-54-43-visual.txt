@@ -1,0 +1,160 @@
+Practical tips for writing inclusive job ads (2016)
+https://news.ycombinator.com/item?id=15442795
+|################################################  | S: 56 C: 54 R: 0.964
+
+The Corrosion of High School Debate
+https://news.ycombinator.com/item?id=15443018
+|############################################      | S: 281 C: 249 R: 0.886
+
+Porsche will begin an app-based subscription service next month
+https://news.ycombinator.com/item?id=15444870
+|#########################################         | S: 87 C: 72 R: 0.828
+
+Ask HN: My house might burn down in the next 24 hours. Suggestions?
+https://news.ycombinator.com/item?id=15446364
+|###############################                   | S: 334 C: 210 R: 0.629
+
+Bubble – Visual Programming
+https://news.ycombinator.com/item?id=15444586
+|###############################                   | S: 129 C: 81 R: 0.628
+
+150 days of living and coding in a van
+https://news.ycombinator.com/item?id=15439967
+|##############################                    | S: 671 C: 404 R: 0.602
+
+Google Data Studio
+https://news.ycombinator.com/item?id=15446049
+|#######################                           | S: 344 C: 161 R: 0.468
+
+Black Annex: A QBasic Game for the 21st Century (2013)
+https://news.ycombinator.com/item?id=15444587
+|#######################                           | S: 67 C: 31 R: 0.463
+
+Spotify’s Discover Weekly: How machine learning finds new music
+https://news.ycombinator.com/item?id=15447706
+|######################                            | S: 119 C: 54 R: 0.454
+
+The Price of Progress
+https://news.ycombinator.com/item?id=15446917
+|####################                              | S: 48 C: 20 R: 0.417
+
+Israel Hacked Kaspersky, Then Tipped NSA Its Tools Had Been Breached
+https://news.ycombinator.com/item?id=15446295
+|###################                               | S: 378 C: 144 R: 0.381
+
+iOS Privacy: Easily get a user's Apple ID password, just by asking
+https://news.ycombinator.com/item?id=15441537
+|#################                                 | S: 834 C: 296 R: 0.355
+
+Open Source Release of Rift DK2
+https://news.ycombinator.com/item?id=15443558
+|#################                                 | S: 60 C: 21 R: 0.350
+
+Disabling the Intel Management Engine
+https://news.ycombinator.com/item?id=15444607
+|###############                                   | S: 567 C: 181 R: 0.319
+
+An update on GnuPG
+https://news.ycombinator.com/item?id=15446490
+|###############                                   | S: 83 C: 26 R: 0.313
+
+Out to Get You
+https://news.ycombinator.com/item?id=15443043
+|###############                                   | S: 96 C: 30 R: 0.312
+
+What Happens When a Suburb Begins to Die?
+https://news.ycombinator.com/item?id=15447821
+|###############                                   | S: 20 C: 6 R: 0.300
+
+Books from 1923 to 1941 Now Liberated
+https://news.ycombinator.com/item?id=15444701
+|##############                                    | S: 257 C: 73 R: 0.284
+
+Macro-Less Code Exec in MSWord
+https://news.ycombinator.com/item?id=15445193
+|##############                                    | S: 81 C: 23 R: 0.284
+
+Dangers of CSV Injection
+https://news.ycombinator.com/item?id=15438894
+|#############                                     | S: 608 C: 170 R: 0.280
+
+Lessons from Bar Fight Litigation (2014)
+https://news.ycombinator.com/item?id=15443042
+|#############                                     | S: 48 C: 13 R: 0.271
+
+APK Golf: Reducing an Android APK's Size by 99.99%
+https://news.ycombinator.com/item?id=15442743
+|############                                      | S: 262 C: 68 R: 0.260
+
+A Surprise from the Supervolcano Under Yellowstone
+https://news.ycombinator.com/item?id=15447305
+|############                                      | S: 47 C: 12 R: 0.255
+
+The web at maximum FPS: How WebRender gets rid of jank
+https://news.ycombinator.com/item?id=15442676
+|############                                      | S: 741 C: 185 R: 0.250
+
+Novels were never the same after Henry James
+https://news.ycombinator.com/item?id=15439080
+|##########                                        | S: 63 C: 13 R: 0.206
+
+The Remarkable Comeback of Przewalski’s Horse
+https://news.ycombinator.com/item?id=15443916
+|#########                                         | S: 26 C: 5 R: 0.192
+
+The End of the DreamHost vs. DOJ privacy case
+https://news.ycombinator.com/item?id=15446217
+|#########                                         | S: 485 C: 92 R: 0.190
+
+End-To-End Encrypted RPC/PubSub Over Tor
+https://news.ycombinator.com/item?id=15445847
+|########                                          | S: 29 C: 5 R: 0.172
+
+Quantum Machine Learning [pdf]
+https://news.ycombinator.com/item?id=15446316
+|########                                          | S: 30 C: 5 R: 0.167
+
+Ways to paginate in Postgres (2016)
+https://news.ycombinator.com/item?id=15446855
+|#######                                           | S: 82 C: 13 R: 0.159
+
+Google is nerfing all Home Minis because mine spied on everything I said
+https://news.ycombinator.com/item?id=15446206
+|######                                            | S: 86 C: 12 R: 0.140
+
+On St. Augustine's Confessions
+https://news.ycombinator.com/item?id=15439805
+|######                                            | S: 142 C: 19 R: 0.134
+
+Gameboy Camera Extraction Via Arduino
+https://news.ycombinator.com/item?id=15432799
+|#####                                             | S: 66 C: 7 R: 0.106
+
+Accenture left a huge trove of highly sensitive data on exposed servers
+https://news.ycombinator.com/item?id=15446712
+|#####                                             | S: 49 C: 5 R: 0.102
+
+Pencil and Paper Games
+https://news.ycombinator.com/item?id=15445006
+|####                                              | S: 126 C: 12 R: 0.095
+
+What ancient DNA tells us about humans and Neanderthals
+https://news.ycombinator.com/item?id=15439897
+|###                                               | S: 38 C: 3 R: 0.079
+
+How I built an online community
+https://news.ycombinator.com/item?id=15446501
+|#                                                 | S: 34 C: 1 R: 0.029
+
+Aftereffects of the 1815 eruption of Mount Tambora
+https://news.ycombinator.com/item?id=15447439
+|                                                  | S: 16 C: 0 R: 0.000
+
+Open-Sourcing Beeline, Singapore’s first crowd-sourced transportation platform
+https://news.ycombinator.com/item?id=15446440
+|                                                  | S: 27 C: 0 R: 0.000
+
+Fake Crypto: Microsoft Outlook S/MIME Cleartext Disclosure (CVE-2017-11776)
+https://news.ycombinator.com/item?id=15444836
+|                                                  | S: 32 C: 0 R: 0.000
+

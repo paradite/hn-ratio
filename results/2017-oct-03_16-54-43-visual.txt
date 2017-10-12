@@ -1,0 +1,192 @@
+Ask HN: Who is hiring? (October 2017)
+https://news.ycombinator.com/item?id=15384262
+|##################################################|######################### S: 536 C: 804 R: 1.500
+
+Diminishing returns of static typing
+https://news.ycombinator.com/item?id=15384351
+|##################################################|##################### S: 357 C: 512 R: 1.434
+
+Google Unveils Tools to Increase Subscriptions for Publishers
+https://news.ycombinator.com/item?id=15384512
+|##################################################|########### S: 106 C: 131 R: 1.236
+
+Can Anyone Beat Jeff Bezos?
+https://news.ycombinator.com/item?id=15381853
+|##################################################|#### S: 81 C: 89 R: 1.099
+
+Launch HN: Forever Labs (YC S17) – Stem-Cell Banking
+https://news.ycombinator.com/item?id=15386000
+|###############################################   | S: 65 C: 62 R: 0.954
+
+The Serverless Revolution Will Make Us All Developers
+https://news.ycombinator.com/item?id=15389514
+|###############################################   | S: 42 C: 40 R: 0.952
+
+How supermarkets choose where to open and close
+https://news.ycombinator.com/item?id=15376691
+|############################################      | S: 85 C: 75 R: 0.882
+
+Ask HN: Startup CEO giving employee grief for quitting
+https://news.ycombinator.com/item?id=15389129
+|#########################################         | S: 47 C: 39 R: 0.830
+
+The Curious Case of the Longevity of C
+https://news.ycombinator.com/item?id=15390810
+|########################################          | S: 36 C: 29 R: 0.806
+
+Microsoft to Bring Spotify to Groove Music Pass Customers
+https://news.ycombinator.com/item?id=15386902
+|###################################               | S: 91 C: 64 R: 0.703
+
+What a debate about p-values shows about science
+https://news.ycombinator.com/item?id=15382480
+|################################                  | S: 90 C: 59 R: 0.656
+
+IMF Head Foresees the End of Banking and the Triumph of Cryptocurrency
+https://news.ycombinator.com/item?id=15382009
+|#############################                     | S: 243 C: 143 R: 0.588
+
+Intel Gears Up for FPGA Push
+https://news.ycombinator.com/item?id=15388870
+|############################                      | S: 74 C: 42 R: 0.568
+
+Due Diligence Report on Otto and Anthony Levandowski
+https://news.ycombinator.com/item?id=15389791
+|###########################                       | S: 113 C: 63 R: 0.558
+
+A Decade of Dynamo
+https://news.ycombinator.com/item?id=15388688
+|###########################                       | S: 66 C: 36 R: 0.545
+
+Navy Returns to Compasses and Pencils to Help Avoid Collisions at Sea
+https://news.ycombinator.com/item?id=15376343
+|##########################                        | S: 197 C: 105 R: 0.533
+
+The Media Has Neglected Puerto Rico
+https://news.ycombinator.com/item?id=15382853
+|##########################                        | S: 237 C: 126 R: 0.532
+
+Is the Rise of Contract Workers Killing Upward Mobility?
+https://news.ycombinator.com/item?id=15390335
+|########################                          | S: 25 C: 12 R: 0.480
+
+Show HN: Build circuit boards faster with computer vision
+https://news.ycombinator.com/item?id=15386981
+|#######################                           | S: 105 C: 50 R: 0.476
+
+Behind the Masq: Yet More DNS and DHCP Vulnerabilities
+https://news.ycombinator.com/item?id=15383574
+|#######################                           | S: 192 C: 91 R: 0.474
+
+Google and Facebook Have Failed Us
+https://news.ycombinator.com/item?id=15389113
+|#######################                           | S: 136 C: 64 R: 0.471
+
+Galileo and Heliocentricity: A Rough Guide (2014)
+https://news.ycombinator.com/item?id=15382123
+|#####################                             | S: 40 C: 17 R: 0.425
+
+REM: Resource-efficient mining for blockchains
+https://news.ycombinator.com/item?id=15382911
+|####################                              | S: 42 C: 17 R: 0.405
+
+Show HN: Bender – Let's Standardize Serverless ETL
+https://news.ycombinator.com/item?id=15386529
+|##################                                | S: 45 C: 17 R: 0.378
+
+Show HN: Paint yourself in the style of classic art, in your browser
+https://news.ycombinator.com/item?id=15383336
+|##################                                | S: 225 C: 83 R: 0.369
+
+Y Combinator's Founding Principles
+https://news.ycombinator.com/item?id=15386321
+|##################                                | S: 221 C: 81 R: 0.367
+
+San Francisco, now with more dystopia
+https://news.ycombinator.com/item?id=15387036
+|#################                                 | S: 46 C: 16 R: 0.348
+
+Martin Fowler's Gothic Hotel Model – How It Should Be Done
+https://news.ycombinator.com/item?id=15382842
+|################                                  | S: 55 C: 18 R: 0.327
+
+Rage Disorder Linked with Toxoplasmosis (2016)
+https://news.ycombinator.com/item?id=15376654
+|###############                                   | S: 213 C: 64 R: 0.300
+
+Uber Investors Clash with Board Over Voting Power
+https://news.ycombinator.com/item?id=15388286
+|############                                      | S: 44 C: 11 R: 0.250
+
+Selfie
+https://news.ycombinator.com/item?id=15382344
+|############                                      | S: 32 C: 8 R: 0.250
+
+Brain vs. Deep Learning (2015)
+https://news.ycombinator.com/item?id=15376645
+|############                                      | S: 113 C: 28 R: 0.248
+
+Streams: a new general purpose data structure in Redis
+https://news.ycombinator.com/item?id=15384396
+|############                                      | S: 485 C: 118 R: 0.243
+
+Writer-in-Residence at a Homeless Shelter
+https://news.ycombinator.com/item?id=15382339
+|###########                                       | S: 38 C: 9 R: 0.237
+
+What's been wrought using the Piece Table? (2014)
+https://news.ycombinator.com/item?id=15387672
+|###########                                       | S: 295 C: 69 R: 0.234
+
+Props: Small Planes for Small Wars
+https://news.ycombinator.com/item?id=15388053
+|###########                                       | S: 13 C: 3 R: 0.231
+
+2017 Nobel Prize in Medicine for the molecular mechanisms of circadian rhythm
+https://news.ycombinator.com/item?id=15382678
+|###########                                       | S: 158 C: 36 R: 0.228
+
+ZeroNet: Decentralized websites using Bitcoin crypto and the BitTorrent network
+https://news.ycombinator.com/item?id=15384046
+|##########                                        | S: 267 C: 57 R: 0.213
+
+Text Editor: Data Structures
+https://news.ycombinator.com/item?id=15381886
+|#########                                         | S: 586 C: 107 R: 0.183
+
+A Lua 5.3 VM and compiler written in Go
+https://news.ycombinator.com/item?id=15388773
+|########                                          | S: 130 C: 22 R: 0.169
+
+Chip Reprograms Cells to Regenerate Damaged Tissue in Mice
+https://news.ycombinator.com/item?id=15372616
+|######                                            | S: 46 C: 6 R: 0.130
+
+Apache Guacamole
+https://news.ycombinator.com/item?id=15389727
+|######                                            | S: 445 C: 58 R: 0.130
+
+Can ice structures solve a Himalayan water crisis?
+https://news.ycombinator.com/item?id=15390288
+|######                                            | S: 24 C: 3 R: 0.125
+
+The hippocampus as a 'predictive map'
+https://news.ycombinator.com/item?id=15389732
+|####                                              | S: 89 C: 8 R: 0.090
+
+Statically typed functional programming language implementation with Go and LLVM
+https://news.ycombinator.com/item?id=15389577
+|###                                               | S: 44 C: 3 R: 0.068
+
+Metarpheus: A Custom Approach to API Contracts
+https://news.ycombinator.com/item?id=15382917
+|#                                                 | S: 27 C: 1 R: 0.037
+
+Nothing Is Cheaper Than Proof of Work
+https://news.ycombinator.com/item?id=15384109
+|#                                                 | S: 30 C: 1 R: 0.033
+
+California’s Legacy of Swamplands
+https://news.ycombinator.com/item?id=15385578
+|                                                  | S: 15 C: 0 R: 0.000
+

@@ -1,0 +1,180 @@
+No excuses – we let you down
+https://news.ycombinator.com/item?id=15378854
+|##################################################| S: 52 C: 53 R: 1.019
+
+Without Power, Puerto Rico Is Cash Only
+https://news.ycombinator.com/item?id=15371997
+|##################################################| S: 285 C: 288 R: 1.011
+
+My work as a prostitute led me to oppose decriminalisation
+https://news.ycombinator.com/item?id=15381749
+|##################################################| S: 24 C: 24 R: 1.000
+
+A glut of PhDs who can’t find academic jobs
+https://news.ycombinator.com/item?id=15379745
+|#############################################     | S: 157 C: 144 R: 0.917
+
+Science saved me from pretending to love wine
+https://news.ycombinator.com/item?id=15377587
+|###########################################       | S: 198 C: 173 R: 0.874
+
+Women in crypto
+https://news.ycombinator.com/item?id=15381907
+|#########################################         | S: 12 C: 10 R: 0.833
+
+Never Completed Game
+https://news.ycombinator.com/item?id=15375875
+|########################################          | S: 238 C: 192 R: 0.807
+
+Ask HN: Recommended CRM solution for a SaaS startup?
+https://news.ycombinator.com/item?id=15379482
+|###################################               | S: 66 C: 47 R: 0.712
+
+Google CEO Appeases Publishers with Subscriptions
+https://news.ycombinator.com/item?id=15381912
+|################################                  | S: 17 C: 11 R: 0.647
+
+How Common Is Your Birthday? (2012)
+https://news.ycombinator.com/item?id=15380268
+|##############################                    | S: 61 C: 37 R: 0.607
+
+How the Catalan government uses IPFS to sidestep Spain's legal block
+https://news.ycombinator.com/item?id=15367531
+|##############################                    | S: 879 C: 529 R: 0.602
+
+Why Some Cultures Frown on Smiling (2016)
+https://news.ycombinator.com/item?id=15380021
+|#############################                     | S: 81 C: 47 R: 0.580
+
+A Map of Native American Tribes
+https://news.ycombinator.com/item?id=15377133
+|###########################                       | S: 178 C: 98 R: 0.551
+
+Ask HN: Is it worth being in TechCrunch “Startup Alley”?
+https://news.ycombinator.com/item?id=15380275
+|###########################                       | S: 51 C: 28 R: 0.549
+
+Learning Rust with Entirely Too Many Linked Lists
+https://news.ycombinator.com/item?id=15378206
+|######################                            | S: 38 C: 17 R: 0.447
+
+Ask HN: Where do I get started on ASICs, FPGA, RTL, Verilog et. al?
+https://news.ycombinator.com/item?id=15379418
+|#####################                             | S: 222 C: 96 R: 0.432
+
+3D crosswalk in Iceland helps slow down speeding motorists
+https://news.ycombinator.com/item?id=15374966
+|#####################                             | S: 348 C: 147 R: 0.422
+
+The SEC has charged two initial coin offerings with defrauding investors
+https://news.ycombinator.com/item?id=15370631
+|####################                              | S: 419 C: 172 R: 0.411
+
+Hacker News Clone Using GraphQL and React
+https://news.ycombinator.com/item?id=15380479
+|###################                               | S: 307 C: 117 R: 0.381
+
+The Red Atlas: How the Soviet Union Mapped the World
+https://news.ycombinator.com/item?id=15378422
+|##################                                | S: 137 C: 50 R: 0.365
+
+Show HN: Using LDA to suggest GitHub repositories based on what you have starred
+https://news.ycombinator.com/item?id=15380051
+|#################                                 | S: 76 C: 27 R: 0.355
+
+Facebook Blocks Chinese Billionaire Who Tells Tales of Corruption
+https://news.ycombinator.com/item?id=15380681
+|#################                                 | S: 164 C: 58 R: 0.354
+
+A Large-Scale Study of Programming Languages and Code Quality in GitHub (2014)
+https://news.ycombinator.com/item?id=15378800
+|#################                                 | S: 166 C: 57 R: 0.343
+
+Systemic Age Discrimination in Tech, Even as Tech Workers Get Better with Age
+https://news.ycombinator.com/item?id=15380886
+|################                                  | S: 21 C: 7 R: 0.333
+
+A “right to repair” movement tools up
+https://news.ycombinator.com/item?id=15360362
+|################                                  | S: 911 C: 302 R: 0.332
+
+Show HN: HeatMap.TV – Realtime Google Analytics Heatmap for Big-Screen TVs
+https://news.ycombinator.com/item?id=15379088
+|################                                  | S: 50 C: 16 R: 0.320
+
+Show HN: Track your responses over time
+https://news.ycombinator.com/item?id=15380367
+|###############                                   | S: 10 C: 3 R: 0.300
+
+Atmanos: Build Go programs that run directly on the Xen hypervisor
+https://news.ycombinator.com/item?id=15376764
+|##############                                    | S: 184 C: 52 R: 0.283
+
+Calculating the Distance Between Points in Wrap Around (Toroidal) Space
+https://news.ycombinator.com/item?id=15380392
+|############                                      | S: 85 C: 22 R: 0.259
+
+Counting raindrops using mobile-phone towers
+https://news.ycombinator.com/item?id=15380998
+|############                                      | S: 29 C: 7 R: 0.241
+
+Mexico's 7.2 Earthquake from a transit camera
+https://news.ycombinator.com/item?id=15379569
+|##########                                        | S: 188 C: 39 R: 0.207
+
+Draggable JS – a lightweight, responsive, modern drag-and-drop library
+https://news.ycombinator.com/item?id=15368104
+|#########                                         | S: 609 C: 114 R: 0.187
+
+First open-access data from large collider confirm subatomic particle patterns
+https://news.ycombinator.com/item?id=15377214
+|#########                                         | S: 70 C: 13 R: 0.186
+
+Whom the Gods Would Destroy, They First Give Real-Time Analytics (2013)
+https://news.ycombinator.com/item?id=15379660
+|#########                                         | S: 238 C: 44 R: 0.185
+
+RawTherapee 5.3 – Photo software
+https://news.ycombinator.com/item?id=15380299
+|#########                                         | S: 72 C: 13 R: 0.181
+
+Text Editor: Data Structures
+https://news.ycombinator.com/item?id=15381886
+|########                                          | S: 142 C: 25 R: 0.176
+
+Processing the Page Turn
+https://news.ycombinator.com/item?id=15377090
+|########                                          | S: 143 C: 25 R: 0.175
+
+Securing Network Time
+https://news.ycombinator.com/item?id=15379673
+|######                                            | S: 59 C: 8 R: 0.136
+
+Tesla Powerwalls and Solar Panels Sent to Puerto Rico
+https://news.ycombinator.com/item?id=15381101
+|#####                                             | S: 75 C: 8 R: 0.107
+
+Wikipedia graph mining: dynamic structure of collective memory
+https://news.ycombinator.com/item?id=15376676
+|##                                                | S: 101 C: 5 R: 0.050
+
+Does Even Mark Zuckerberg Know What Facebook Is?
+https://news.ycombinator.com/item?id=15381219
+|##                                                | S: 22 C: 1 R: 0.045
+
+Will Computers Redefine the Roots of Math? (2015)
+https://news.ycombinator.com/item?id=15380596
+|#                                                 | S: 27 C: 1 R: 0.037
+
+Understanding caching in Postgres – An in-depth guide (2016)
+https://news.ycombinator.com/item?id=15380933
+|#                                                 | S: 87 C: 3 R: 0.034
+
+Bill Gates is offering the first $2B for renewable energy
+https://news.ycombinator.com/item?id=15379107
+|#                                                 | S: 32 C: 1 R: 0.031
+
+Show HN: My IFComp entry that aims to be 'Skyrim rendered in text'
+https://news.ycombinator.com/item?id=15380024
+|                                                  | S: 12 C: 0 R: 0.000
+

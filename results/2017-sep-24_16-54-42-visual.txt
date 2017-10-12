@@ -1,0 +1,196 @@
+An American City Where the Government Barely Exists
+https://news.ycombinator.com/item?id=15317471
+|##################################################|######### S: 92 C: 109 R: 1.185
+
+Bitcoin is fiat money, too
+https://news.ycombinator.com/item?id=15315813
+|##################################################|####### S: 288 C: 332 R: 1.153
+
+Ask HN: What is the best way to spend my time as a 17-year-old who can code?
+https://news.ycombinator.com/item?id=15323267
+|##################################################|####### S: 14 C: 16 R: 1.143
+
+A slump in new businesses is a drag on the economy
+https://news.ycombinator.com/item?id=15320616
+|################################################  | S: 115 C: 112 R: 0.974
+
+What happens if you turn off the traffic lights?
+https://news.ycombinator.com/item?id=15318741
+|#########################################         | S: 100 C: 82 R: 0.820
+
+MathML is a failed web standard (2016)
+https://news.ycombinator.com/item?id=15320778
+|####################################              | S: 77 C: 56 R: 0.727
+
+Did the Suits win the Internet?
+https://news.ycombinator.com/item?id=15322627
+|##################################                | S: 53 C: 37 R: 0.698
+
+It’s time to kill the web app
+https://news.ycombinator.com/item?id=15321015
+|#################################                 | S: 816 C: 552 R: 0.676
+
+LeakyX, a vulnerability that Apple and Microsoft have known about for years
+https://news.ycombinator.com/item?id=15320426
+|################################                  | S: 65 C: 42 R: 0.646
+
+Casper went to war with popular mattress review site, then financed its takeover
+https://news.ycombinator.com/item?id=15321807
+|##############################                    | S: 113 C: 70 R: 0.619
+
+As Equifax Amassed Ever More Data, Safety Was a Sales Pitch
+https://news.ycombinator.com/item?id=15321588
+|##############################                    | S: 135 C: 83 R: 0.615
+
+Modern Humans and Neanderthals May Be More Similar Than We Imagined
+https://news.ycombinator.com/item?id=15316726
+|############################                      | S: 66 C: 38 R: 0.576
+
+Bitcoin Paper Wallets (2015)
+https://news.ycombinator.com/item?id=15302500
+|############################                      | S: 99 C: 56 R: 0.566
+
+Is Tribalism a Natural Malfunction? What computers teach us about getting along
+https://news.ycombinator.com/item?id=15322447
+|###########################                       | S: 29 C: 16 R: 0.552
+
+Django 2.0 alpha
+https://news.ycombinator.com/item?id=15320342
+|##########################                        | S: 149 C: 78 R: 0.523
+
+A 1979 War-Game That Takes 1,500 Hours to Complete
+https://news.ycombinator.com/item?id=15302484
+|#########################                         | S: 110 C: 57 R: 0.518
+
+Show HN: ThingsOnReddit – Products linked to on Reddit
+https://news.ycombinator.com/item?id=15321555
+|########################                          | S: 99 C: 48 R: 0.485
+
+Post a boarding pass on Facebook, get your account stolen
+https://news.ycombinator.com/item?id=15318440
+|#######################                           | S: 614 C: 284 R: 0.463
+
+Duck Duck Go: Illusion of Privacy (2013)
+https://news.ycombinator.com/item?id=15321070
+|######################                            | S: 168 C: 76 R: 0.452
+
+How We Grow Junior Developers at the BBC
+https://news.ycombinator.com/item?id=15302730
+|######################                            | S: 188 C: 84 R: 0.447
+
+Things cryptocurrency enthusiasts probably won't tell you
+https://news.ycombinator.com/item?id=15317075
+|#####################                             | S: 368 C: 160 R: 0.435
+
+Org-Mode Is One of the Most Reasonable Markup Languages to Use for Text
+https://news.ycombinator.com/item?id=15321850
+|###################                               | S: 227 C: 88 R: 0.388
+
+Like modern democracies, ancient Greek democracy had an anger problem
+https://news.ycombinator.com/item?id=15320936
+|###################                               | S: 114 C: 44 R: 0.386
+
+Freight startup Flexport soars from ‘unsexy’ to $800M valuation
+https://news.ycombinator.com/item?id=15312755
+|###################                               | S: 319 C: 123 R: 0.386
+
+“The moon blew up without warning and for no apparent reason”
+https://news.ycombinator.com/item?id=15302707
+|###################                               | S: 693 C: 265 R: 0.382
+
+The History of Email (2016)
+https://news.ycombinator.com/item?id=15320623
+|##################                                | S: 51 C: 19 R: 0.373
+
+The Last Analog Motion Graphics Machine [video]
+https://news.ycombinator.com/item?id=15314486
+|##################                                | S: 167 C: 62 R: 0.371
+
+Zero-knowledge proofs, Zcash, and Ethereum
+https://news.ycombinator.com/item?id=15302841
+|##################                                | S: 104 C: 38 R: 0.365
+
+Portugal treats addiction as a disease, not a crime
+https://news.ycombinator.com/item?id=15315129
+|##################                                | S: 499 C: 182 R: 0.365
+
+How I got to 200 productive hours a month
+https://news.ycombinator.com/item?id=15309393
+|#################                                 | S: 769 C: 272 R: 0.354
+
+Parallel processing with Unix tools
+https://news.ycombinator.com/item?id=15318904
+|#################                                 | S: 225 C: 77 R: 0.342
+
+Building multiplayer games with Socket.io and HTML5 Canvas
+https://news.ycombinator.com/item?id=15318530
+|################                                  | S: 261 C: 86 R: 0.330
+
+APFS – A Backup Software Developer’s Perspective
+https://news.ycombinator.com/item?id=15317275
+|###############                                   | S: 159 C: 50 R: 0.314
+
+LimeSDR Mini – An open, full-duplex, USB stick radio for femtocells and more
+https://news.ycombinator.com/item?id=15318233
+|###############                                   | S: 147 C: 46 R: 0.313
+
+New antibody attacks 99% of HIV strains
+https://news.ycombinator.com/item?id=15314006
+|###############                                   | S: 749 C: 225 R: 0.300
+
+Then and Now: How Little Things Have Changed (2016)
+https://news.ycombinator.com/item?id=15320952
+|#############                                     | S: 37 C: 10 R: 0.270
+
+New in PostgreSQL 10
+https://news.ycombinator.com/item?id=15306398
+|#############                                     | S: 922 C: 245 R: 0.266
+
+The power of a 'not-to-do' list
+https://news.ycombinator.com/item?id=15322805
+|#############                                     | S: 68 C: 18 R: 0.265
+
+Laser Socks – a sweaty game pointing toward the future of computing
+https://news.ycombinator.com/item?id=15304482
+|############                                      | S: 191 C: 48 R: 0.251
+
+Godot Engine – Free and open-source 2D and 3D game engine
+https://news.ycombinator.com/item?id=15309989
+|###########                                       | S: 572 C: 127 R: 0.222
+
+Relicensing React, Jest, Flow, and Immutable.js
+https://news.ycombinator.com/item?id=15316175
+|##########                                        | S: 2148 C: 469 R: 0.218
+
+Biometric payment system trialled in supermarket
+https://news.ycombinator.com/item?id=15302636
+|##########                                        | S: 19 C: 4 R: 0.211
+
+How Logos are Remembered
+https://news.ycombinator.com/item?id=15313257
+|##########                                        | S: 321 C: 65 R: 0.202
+
+Basic Category Theory for Scala Programmers
+https://news.ycombinator.com/item?id=15323042
+|#######                                           | S: 47 C: 7 R: 0.149
+
+Mutant butterflies reveal the genetic roots of colorful wings
+https://news.ycombinator.com/item?id=15302701
+|######                                            | S: 24 C: 3 R: 0.125
+
+Silicon Zeroes
+https://news.ycombinator.com/item?id=15320489
+|######                                            | S: 58 C: 7 R: 0.121
+
+Serpent.AI – Game Agent Framework in Python
+https://news.ycombinator.com/item?id=15318958
+|#                                                 | S: 77 C: 3 R: 0.039
+
+Facebook’s Ad Scandal Isn’t a Fail, It’s a Feature
+https://news.ycombinator.com/item?id=15322156
+|#                                                 | S: 32 C: 1 R: 0.031
+
+Tyler Cowen interviews Larry Summers on Macroeconomics, Mentorship, Complacency
+https://news.ycombinator.com/item?id=15320922
+|#                                                 | S: 67 C: 2 R: 0.030
+

@@ -1,0 +1,192 @@
+Ask HN: Who is hiring? (October 2017)
+https://news.ycombinator.com/item?id=15384262
+|##################################################|######################### S: 650 C: 983 R: 1.512
+
+Fast food and obesity in developing countries
+https://news.ycombinator.com/item?id=15397612
+|################################################  | S: 71 C: 69 R: 0.972
+
+What Makes Singapore’s Health Care So Cheap?
+https://news.ycombinator.com/item?id=15396087
+|################################################  | S: 116 C: 112 R: 0.966
+
+Equifax Breach Caused by Lone Employee’s Error, Former CEO Says
+https://news.ycombinator.com/item?id=15397642
+|##########################################        | S: 84 C: 71 R: 0.845
+
+Ask HN: Resources to learn blockchain and smart contracts?
+https://news.ycombinator.com/item?id=15398550
+|##################################                | S: 23 C: 16 R: 0.696
+
+Judge Recommends ISP and Search Engine Blocking of Sci-Hub in the US
+https://news.ycombinator.com/item?id=15394551
+|################################                  | S: 170 C: 111 R: 0.653
+
+Structor – React UI Builder
+https://news.ycombinator.com/item?id=15398030
+|###############################                   | S: 16 C: 10 R: 0.625
+
+How not to talk about an AI-powered future
+https://news.ycombinator.com/item?id=15398080
+|##############################                    | S: 31 C: 19 R: 0.613
+
+USPS ‘Informed Delivery’ Is Stalker’s Dream
+https://news.ycombinator.com/item?id=15394750
+|############################                      | S: 96 C: 54 R: 0.562
+
+“Use of open source software has been declining rapidly in the private sector”
+https://news.ycombinator.com/item?id=15397008
+|##########################                        | S: 207 C: 108 R: 0.522
+
+Ponzi Schemes Using Virtual Currencies (2014) [pdf]
+https://news.ycombinator.com/item?id=15395028
+|########################                          | S: 102 C: 50 R: 0.490
+
+Fresh Horrors from Equifax CEO Richard Smith's Congressional Hearing
+https://news.ycombinator.com/item?id=15396471
+|########################                          | S: 235 C: 115 R: 0.489
+
+Hedge Funds Flip ICOs, Leaving Other Investors Holding the Bag
+https://news.ycombinator.com/item?id=15391982
+|########################                          | S: 100 C: 48 R: 0.480
+
+The Absurdity of Nobel Prizes in Science
+https://news.ycombinator.com/item?id=15395347
+|######################                            | S: 216 C: 96 R: 0.444
+
+Judge blasts Waymo v. Uber lawyers, delays trial until December
+https://news.ycombinator.com/item?id=15396122
+|#####################                             | S: 172 C: 75 R: 0.436
+
+Socratic method to teaching by asking
+https://news.ycombinator.com/item?id=15387434
+|#####################                             | S: 186 C: 81 R: 0.435
+
+Cloud Firestore: A New Document Database for Apps
+https://news.ycombinator.com/item?id=15393396
+|#####################                             | S: 334 C: 145 R: 0.434
+
+Zucktown, USA
+https://news.ycombinator.com/item?id=15398430
+|#####################                             | S: 54 C: 23 R: 0.426
+
+Yahoo Triples Estimate of Breached Accounts to 3B
+https://news.ycombinator.com/item?id=15395946
+|####################                              | S: 522 C: 217 R: 0.416
+
+Smarter half tiling in Gnome Shell/Mutter
+https://news.ycombinator.com/item?id=15398007
+|####################                              | S: 29 C: 12 R: 0.414
+
+MessageBird raises $60M Series A
+https://news.ycombinator.com/item?id=15392734
+|####################                              | S: 146 C: 60 R: 0.411
+
+Matcha – A framework for building iOS and Android apps in Go
+https://news.ycombinator.com/item?id=15392159
+|####################                              | S: 284 C: 116 R: 0.408
+
+Gerbil – An opinionated dialect of Scheme designed for systems programming
+https://news.ycombinator.com/item?id=15394603
+|###################                               | S: 137 C: 53 R: 0.387
+
+Show HN: The Million Dollar Homepage as an Ethereum Smart Contract and DApp
+https://news.ycombinator.com/item?id=15393446
+|##################                                | S: 302 C: 109 R: 0.361
+
+How the Elderly Lose Their Rights
+https://news.ycombinator.com/item?id=15393270
+|#################                                 | S: 670 C: 236 R: 0.352
+
+Paul S. Otellini has died
+https://news.ycombinator.com/item?id=15394066
+|#################                                 | S: 327 C: 113 R: 0.346
+
+Breast-cancer death rate drops almost 40 percent
+https://news.ycombinator.com/item?id=15393126
+|################                                  | S: 273 C: 89 R: 0.326
+
+Mozilla Awards Over Half a Million to Open Source Projects
+https://news.ycombinator.com/item?id=15396048
+|#############                                     | S: 291 C: 80 R: 0.275
+
+Stripe Elements
+https://news.ycombinator.com/item?id=15394550
+|#############                                     | S: 339 C: 92 R: 0.271
+
+Streams: a new general purpose data structure in Redis
+https://news.ycombinator.com/item?id=15384396
+|############                                      | S: 575 C: 144 R: 0.250
+
+The Nobel Prize in Physics 2017
+https://news.ycombinator.com/item?id=15391282
+|###########                                       | S: 470 C: 111 R: 0.236
+
+Microsoft acquires AltspaceVR
+https://news.ycombinator.com/item?id=15394561
+|###########                                       | S: 131 C: 30 R: 0.229
+
+Evidence of the body’s waste system in the human brain
+https://news.ycombinator.com/item?id=15397798
+|###########                                       | S: 112 C: 25 R: 0.223
+
+FCC Chairman Ajit Pai accused of cherry-picking data to repeal net neutrality
+https://news.ycombinator.com/item?id=15394744
+|##########                                        | S: 243 C: 51 R: 0.210
+
+Guacamole – A clientless remote desktop gateway
+https://news.ycombinator.com/item?id=15389727
+|##########                                        | S: 978 C: 204 R: 0.209
+
+Learning Clojure Made Easy
+https://news.ycombinator.com/item?id=15392477
+|##########                                        | S: 122 C: 25 R: 0.205
+
+Beauty in Mathematics: Modular Multiplication Tables
+https://news.ycombinator.com/item?id=15386940
+|#########                                         | S: 116 C: 23 R: 0.198
+
+Are Jump Tables Always Fastest?
+https://news.ycombinator.com/item?id=15395429
+|#########                                         | S: 133 C: 25 R: 0.188
+
+1947 Imperial and Chrysler Service Book – Cam Ground Piston
+https://news.ycombinator.com/item?id=15397926
+|########                                          | S: 66 C: 11 R: 0.167
+
+Stop the Border Surveillance Bills
+https://news.ycombinator.com/item?id=15398225
+|#######                                           | S: 53 C: 8 R: 0.151
+
+Google's Teachable Machine experiment with deeplearn.js
+https://news.ycombinator.com/item?id=15394791
+|######                                            | S: 22 C: 3 R: 0.136
+
+IRS Awards Equifax $7.25M Contract to Help 'Verify Taxpayer Identities'
+https://news.ycombinator.com/item?id=15397370
+|#####                                             | S: 142 C: 17 R: 0.120
+
+While you pay into your 401k, CEOs collect $250k in monthly pension payments
+https://news.ycombinator.com/item?id=15395178
+|#####                                             | S: 62 C: 7 R: 0.113
+
+Show HN: Amazon S3 API Support for Backblaze B2 Cloud Storage Service
+https://news.ycombinator.com/item?id=15396945
+|####                                              | S: 48 C: 4 R: 0.083
+
+Ember.js: The Road to Ember 3.0
+https://news.ycombinator.com/item?id=15396340
+|                                                  | S: 35 C: 0 R: 0.000
+
+Deep Learning from Scratch I: Computational Graphs
+https://news.ycombinator.com/item?id=15395326
+|                                                  | S: 17 C: 0 R: 0.000
+
+Stopping Tor Attacks
+https://news.ycombinator.com/item?id=15395575
+|                                                  | S: 15 C: 0 R: 0.000
+
+A Discrete and Bounded Envy-Free Cake Cutting Protocol for Any Number of Agents
+https://news.ycombinator.com/item?id=15396643
+|                                                  | S: 11 C: 0 R: 0.000
+

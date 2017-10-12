@@ -1,0 +1,188 @@
+Never Completed Game
+https://news.ycombinator.com/item?id=15375875
+|##################################################|###### S: 127 C: 143 R: 1.126
+
+Without Power, Puerto Rico Is Cash Only
+https://news.ycombinator.com/item?id=15371997
+|##################################################| S: 222 C: 226 R: 1.018
+
+Paul Mus, Ho Chi Minh, and Me
+https://news.ycombinator.com/item?id=15374051
+|###################################               | S: 64 C: 45 R: 0.703
+
+Three Paths in the Tech Industry: Founder, Executive, or Employee
+https://news.ycombinator.com/item?id=15357584
+|################################                  | S: 896 C: 588 R: 0.656
+
+NW.js based operating system
+https://news.ycombinator.com/item?id=15374234
+|################################                  | S: 97 C: 63 R: 0.649
+
+How the Catalan government uses IPFS to sidestep Spain's legal block
+https://news.ycombinator.com/item?id=15367531
+|################################                  | S: 786 C: 508 R: 0.646
+
+Air France A380 over Greenland on Sep 30th: Fan and engine inlet separated
+https://news.ycombinator.com/item?id=15375152
+|##############################                    | S: 148 C: 89 R: 0.601
+
+An open letter to Jeff Bezos: You are needed to disrupt health care
+https://news.ycombinator.com/item?id=15375483
+|############################                      | S: 44 C: 25 R: 0.568
+
+Is AI Riding a One-Trick Pony?
+https://news.ycombinator.com/item?id=15366972
+|##########################                        | S: 373 C: 200 R: 0.536
+
+Why kernel development still uses email (2016)
+https://news.ycombinator.com/item?id=15370620
+|########################                          | S: 169 C: 83 R: 0.491
+
+Easing Eye Strain with the Right Lenses (2012)
+https://news.ycombinator.com/item?id=15373992
+|########################                          | S: 151 C: 73 R: 0.483
+
+HTTP is obsolete. It's time for the Distributed Web (2015)
+https://news.ycombinator.com/item?id=15375283
+|#######################                           | S: 207 C: 98 R: 0.473
+
+Toward a Predictive Theory of Depression
+https://news.ycombinator.com/item?id=15372563
+|######################                            | S: 231 C: 105 R: 0.455
+
+3D crosswalk in Iceland helps slow down speeding motorists
+https://news.ycombinator.com/item?id=15374966
+|######################                            | S: 213 C: 95 R: 0.446
+
+It’s time to give Firefox another chance
+https://news.ycombinator.com/item?id=15368353
+|#####################                             | S: 1537 C: 668 R: 0.435
+
+The SEC has charged two initial coin offerings with defrauding investors
+https://news.ycombinator.com/item?id=15370631
+|####################                              | S: 382 C: 159 R: 0.416
+
+Wozniak and Copps: Ending net neutrality will end the Internet as we know it
+https://news.ycombinator.com/item?id=15373154
+|####################                              | S: 301 C: 124 R: 0.412
+
+Git, Graphs and Software Engineering
+https://news.ycombinator.com/item?id=15374341
+|#################                                 | S: 81 C: 29 R: 0.358
+
+When It’s Good to Be Antisocial
+https://news.ycombinator.com/item?id=15372266
+|#################                                 | S: 81 C: 29 R: 0.358
+
+A “right to repair” movement tools up
+https://news.ycombinator.com/item?id=15360362
+|################                                  | S: 888 C: 297 R: 0.334
+
+Alibaba is leading a $27M investment in MariaDB
+https://news.ycombinator.com/item?id=15366365
+|############                                      | S: 380 C: 97 R: 0.255
+
+Von Neumann-Landauer limit
+https://news.ycombinator.com/item?id=15374817
+|############                                      | S: 124 C: 31 R: 0.250
+
+Haxe – Opensource Cross-Platform Toolkit
+https://news.ycombinator.com/item?id=15374762
+|############                                      | S: 68 C: 17 R: 0.250
+
+Vladimir Voevodsky has died
+https://news.ycombinator.com/item?id=15375717
+|############                                      | S: 235 C: 58 R: 0.247
+
+Raccoons solve an ancient puzzle, but do they understand it?
+https://news.ycombinator.com/item?id=15367887
+|###########                                       | S: 71 C: 17 R: 0.239
+
+Darwin-xnu: The Darwin Kernel
+https://news.ycombinator.com/item?id=15373055
+|###########                                       | S: 355 C: 80 R: 0.225
+
+Cold spot in the Atlantic: scientists think their worst fears have come true
+https://news.ycombinator.com/item?id=15376820
+|###########                                       | S: 18 C: 4 R: 0.222
+
+Show HN: piCards- Computer vision based audience polling solution for classrooms
+https://news.ycombinator.com/item?id=15374014
+|##########                                        | S: 41 C: 9 R: 0.220
+
+HAKMEM (1972)
+https://news.ycombinator.com/item?id=15372009
+|##########                                        | S: 124 C: 27 R: 0.218
+
+Watch All the Apple TV Aerial Video Screensavers (2015)
+https://news.ycombinator.com/item?id=15376675
+|##########                                        | S: 19 C: 4 R: 0.211
+
+Draggable JS – a lightweight, responsive, modern drag-and-drop library
+https://news.ycombinator.com/item?id=15368104
+|#########                                         | S: 564 C: 111 R: 0.197
+
+Js13kGames Winners – JavaScript games with a file size limit of 13KB
+https://news.ycombinator.com/item?id=15371919
+|########                                          | S: 166 C: 29 R: 0.175
+
+The Origin of the Stored Program Concept (1985) [pdf]
+https://news.ycombinator.com/item?id=15376178
+|########                                          | S: 24 C: 4 R: 0.167
+
+Intel Unveils Neuromorphic, Self-Learning Chip Codenamed Loihi – ExtremeTech
+https://news.ycombinator.com/item?id=15375643
+|#######                                           | S: 19 C: 3 R: 0.158
+
+‘Let's Make a Deal’ host Monty Hall has died
+https://news.ycombinator.com/item?id=15375838
+|#######                                           | S: 33 C: 5 R: 0.152
+
+Speaking Ill of Hugh Hefner
+https://news.ycombinator.com/item?id=15376368
+|#######                                           | S: 20 C: 3 R: 0.150
+
+AI vs. Data Science vs. Data Engineering
+https://news.ycombinator.com/item?id=15374538
+|#######                                           | S: 88 C: 13 R: 0.148
+
+After the Tsunami, Japan’s Sea Creatures Crossed an Ocean
+https://news.ycombinator.com/item?id=15375215
+|####                                              | S: 69 C: 6 R: 0.087
+
+Cheatsheet for the modern JavaScript
+https://news.ycombinator.com/item?id=15376331
+|####                                              | S: 72 C: 6 R: 0.083
+
+WalmartLabs opensources its tool for bringing React Native to mobile apps
+https://news.ycombinator.com/item?id=15376525
+|###                                               | S: 26 C: 2 R: 0.077
+
+Half Tile Offset Streaming World Grids
+https://news.ycombinator.com/item?id=15375495
+|###                                               | S: 14 C: 1 R: 0.071
+
+Wikipedia graph mining: dynamic structure of collective memory
+https://news.ycombinator.com/item?id=15376676
+|##                                                | S: 17 C: 1 R: 0.059
+
+State Of the Art of War: Offensive Techniques in Binary Analysis [pdf]
+https://news.ycombinator.com/item?id=15375884
+|##                                                | S: 34 C: 2 R: 0.059
+
+Bartosz Milewski's 'Category Theory for Programmers' Unofficial PDF/LaTeX Source
+https://news.ycombinator.com/item?id=15372856
+|#                                                 | S: 79 C: 3 R: 0.038
+
+Official Visual Studio Support for MinGW, Cygwin, and MSYS2
+https://news.ycombinator.com/item?id=15375983
+|#                                                 | S: 54 C: 2 R: 0.037
+
+Build Go programs that run directly on the Xen hypervisor
+https://news.ycombinator.com/item?id=15376764
+|                                                  | S: 10 C: 0 R: 0.000
+
+Persistent Memory Programming [pdf]
+https://news.ycombinator.com/item?id=15373011
+|                                                  | S: 64 C: 0 R: 0.000
+

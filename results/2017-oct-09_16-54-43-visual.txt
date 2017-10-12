@@ -1,0 +1,196 @@
+A Robot Makes a Mean Caesar Salad, but Will It Cost Jobs?
+https://news.ycombinator.com/item?id=15430969
+|##################################################|############################################################ S: 43 C: 95 R: 2.209
+
+A Closer Look at the $13B Premium Eyewear Market
+https://news.ycombinator.com/item?id=15429826
+|##############################################    | S: 107 C: 100 R: 0.935
+
+Ask HN: Why Isn't the Construction of CRUD Web UIs 90% Automated?
+https://news.ycombinator.com/item?id=15429616
+|#############################################     | S: 113 C: 102 R: 0.903
+
+Internet speed guarantees must be realistic, says Ofcom
+https://news.ycombinator.com/item?id=15428432
+|#####################################             | S: 179 C: 135 R: 0.754
+
+EPA photos show what US looked like before pollution regulation
+https://news.ycombinator.com/item?id=15429807
+|#####################################             | S: 211 C: 158 R: 0.749
+
+Min – A smarter web browser
+https://news.ycombinator.com/item?id=15429286
+|###################################               | S: 74 C: 53 R: 0.716
+
+No Bitcoin-based protocol can handle more than 20M users per month
+https://news.ycombinator.com/item?id=15427662
+|##################################                | S: 254 C: 175 R: 0.689
+
+Persisting state between AWS EC2 spot instances
+https://news.ycombinator.com/item?id=15427986
+|#################################                 | S: 106 C: 72 R: 0.679
+
+Medical marijuana patients report reduction in use of prescription drugs
+https://news.ycombinator.com/item?id=15431825
+|#################################                 | S: 12 C: 8 R: 0.667
+
+Is Zcash’s encrypted blockchain Satoshi’s vision?
+https://news.ycombinator.com/item?id=15430668
+|##########################                        | S: 56 C: 30 R: 0.536
+
+Truly immutable builds
+https://news.ycombinator.com/item?id=15429795
+|#######################                           | S: 32 C: 15 R: 0.469
+
+Menuet – A pre-emptive, real-time and multiprocessor OS written in assembly
+https://news.ycombinator.com/item?id=15427848
+|######################                            | S: 145 C: 66 R: 0.455
+
+'Our minds can be hijacked': tech insiders who fear a smartphone dystopia
+https://news.ycombinator.com/item?id=15421704
+|######################                            | S: 758 C: 335 R: 0.442
+
+On the devastating effects of a year in space
+https://news.ycombinator.com/item?id=15429653
+|#####################                             | S: 221 C: 93 R: 0.421
+
+Using Binary Diffing to Discover Windows Kernel Memory Disclosure Bugs
+https://news.ycombinator.com/item?id=15426209
+|#####################                             | S: 176 C: 74 R: 0.420
+
+Show HN: A simple, fast and user-friendly alternative to find, written in Rust
+https://news.ycombinator.com/item?id=15429390
+|####################                              | S: 383 C: 158 R: 0.413
+
+Mill CPU Inter-Process Communication
+https://news.ycombinator.com/item?id=15428887
+|####################                              | S: 95 C: 39 R: 0.411
+
+Show HN: An API for filling out PDF forms
+https://news.ycombinator.com/item?id=15427891
+|####################                              | S: 164 C: 66 R: 0.402
+
+Changing Lanes
+https://news.ycombinator.com/item?id=15427403
+|####################                              | S: 135 C: 54 R: 0.400
+
+Profits Without Prosperity (2014)
+https://news.ycombinator.com/item?id=15430487
+|###################                               | S: 148 C: 57 R: 0.385
+
+The 7th Continent: An ambitious Choose Your Own Adventure-inspired board game
+https://news.ycombinator.com/item?id=15427670
+|##################                                | S: 83 C: 31 R: 0.373
+
+A Branchless UTF-8 Decoder
+https://news.ycombinator.com/item?id=15423674
+|#################                                 | S: 289 C: 102 R: 0.353
+
+In 1973, I invented Baileys
+https://news.ycombinator.com/item?id=15430653
+|################                                  | S: 140 C: 46 R: 0.329
+
+Testing FIDO U2F security keys
+https://news.ycombinator.com/item?id=15429831
+|###############                                   | S: 105 C: 33 R: 0.314
+
+Reverse Engineering MacOS High Sierra Supplemental Update
+https://news.ycombinator.com/item?id=15432045
+|###############                                   | S: 48 C: 15 R: 0.312
+
+Thoughts on Microsoft's Time-Travel Debugger
+https://news.ycombinator.com/item?id=15426983
+|###############                                   | S: 222 C: 69 R: 0.311
+
+Tensorflow sucks
+https://news.ycombinator.com/item?id=15429824
+|##############                                    | S: 304 C: 91 R: 0.299
+
+Deutsche Bank makes source code publicly available for the first time
+https://news.ycombinator.com/item?id=15430270
+|##############                                    | S: 352 C: 105 R: 0.298
+
+Rowing across the Atlantic in 48 days
+https://news.ycombinator.com/item?id=15428665
+|#############                                     | S: 107 C: 28 R: 0.262
+
+“Peer review” is younger than we think
+https://news.ycombinator.com/item?id=15431176
+|############                                      | S: 81 C: 21 R: 0.259
+
+Disney’s Big Bet on Streaming Relies on BamTech
+https://news.ycombinator.com/item?id=15428875
+|############                                      | S: 31 C: 8 R: 0.258
+
+Origins and History of Unix, 1969-1995 (2003)
+https://news.ycombinator.com/item?id=15427604
+|###########                                       | S: 126 C: 28 R: 0.222
+
+Security.txt
+https://news.ycombinator.com/item?id=15416198
+|#########                                         | S: 693 C: 138 R: 0.199
+
+Show HN: ciTools – Quickly calculate uncertainty intervals in R
+https://news.ycombinator.com/item?id=15430067
+|########                                          | S: 39 C: 7 R: 0.179
+
+Fairchild Semiconductor: 60th Anniversary
+https://news.ycombinator.com/item?id=15427933
+|#######                                           | S: 157 C: 24 R: 0.153
+
+Five minute guide to better typography
+https://news.ycombinator.com/item?id=15424478
+|#######                                           | S: 806 C: 121 R: 0.150
+
+Personal Observations on Reliability of Shuttle (1986)
+https://news.ycombinator.com/item?id=15426562
+|######                                            | S: 107 C: 14 R: 0.131
+
+Show HN: A simple SMTP proxy that bridges legacy software to modern SMTP servers
+https://news.ycombinator.com/item?id=15431027
+|######                                            | S: 24 C: 3 R: 0.125
+
+Java at Alibaba [pdf]
+https://news.ycombinator.com/item?id=15431083
+|#####                                             | S: 135 C: 14 R: 0.104
+
+Designing Data-Intensive Applications
+https://news.ycombinator.com/item?id=15428526
+|#####                                             | S: 460 C: 47 R: 0.102
+
+Designers Using Ikea Products as Platform
+https://news.ycombinator.com/item?id=15430098
+|####                                              | S: 42 C: 4 R: 0.095
+
+X86 Proved: Coq Library for Modelling, Specification, Generation and Proof for X86
+https://news.ycombinator.com/item?id=15429109
+|####                                              | S: 54 C: 5 R: 0.093
+
+London Cutaways
+https://news.ycombinator.com/item?id=15425162
+|###                                               | S: 218 C: 15 R: 0.069
+
+When is an Erlang iolist an iovec?
+https://news.ycombinator.com/item?id=15427003
+|###                                               | S: 62 C: 4 R: 0.065
+
+Sorting Visualizations
+https://news.ycombinator.com/item?id=15423202
+|##                                                | S: 606 C: 35 R: 0.058
+
+Lightning aircraft crash at Hatfield (2013)
+https://news.ycombinator.com/item?id=15426566
+|##                                                | S: 91 C: 5 R: 0.055
+
+Visualizations for machine learning datasets
+https://news.ycombinator.com/item?id=15427862
+|##                                                | S: 165 C: 7 R: 0.042
+
+Applied Machine Learning: A Less Confusing Guide
+https://news.ycombinator.com/item?id=15431385
+|#                                                 | S: 41 C: 1 R: 0.024
+
+Debian 9.2 released
+https://news.ycombinator.com/item?id=15432207
+|                                                  | S: 18 C: 0 R: 0.000
+

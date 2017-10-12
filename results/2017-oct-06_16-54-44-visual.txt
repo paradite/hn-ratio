@@ -1,0 +1,184 @@
+The Yamaha NS10 Story – How a Hi-Fi Speaker Conquered the Studio World (2008)
+https://news.ycombinator.com/item?id=15412686
+|##################################################|# S: 74 C: 76 R: 1.027
+
+Replacing Social Security Numbers Is Harder Than You Think
+https://news.ycombinator.com/item?id=15414275
+|############################################      | S: 26 C: 23 R: 0.885
+
+ThinkPad Anniversary Edition 25: Limited Edition ThinkPad Goes Retro
+https://news.ycombinator.com/item?id=15408695
+|########################################          | S: 159 C: 130 R: 0.818
+
+Jessica Alba's Honest Co. Slashes Its Valuation
+https://news.ycombinator.com/item?id=15413887
+|###################################               | S: 68 C: 48 R: 0.706
+
+Amazon Is Testing Its Own Delivery Service to Rival FedEx and UPS
+https://news.ycombinator.com/item?id=15414357
+|##################################                | S: 111 C: 77 R: 0.694
+
+iOS 11's Misleading "Off-Ish" Setting for Radios Is Bad for User Security
+https://news.ycombinator.com/item?id=15413709
+|################################                  | S: 343 C: 226 R: 0.659
+
+Ethereal Email – A fake SMTP service
+https://news.ycombinator.com/item?id=15411261
+|###########################                       | S: 70 C: 38 R: 0.543
+
+If macOS High Sierra shows your password instead of the password hint
+https://news.ycombinator.com/item?id=15410953
+|###########################                       | S: 598 C: 323 R: 0.540
+
+HM Prison – A Survival Guide (2015)
+https://news.ycombinator.com/item?id=15408209
+|##########################                        | S: 176 C: 93 R: 0.528
+
+Strategies for offline PGP key storage
+https://news.ycombinator.com/item?id=15408712
+|##########################                        | S: 215 C: 113 R: 0.526
+
+Cloud DB War: Autonomous Databases
+https://news.ycombinator.com/item?id=15411041
+|#########################                         | S: 86 C: 44 R: 0.512
+
+Colly: Fast and Elegant Scraping Framework for Golang
+https://news.ycombinator.com/item?id=15408784
+|#########################                         | S: 111 C: 56 R: 0.505
+
+San Francisco Is Losing Its Great, Inexpensive Restaurants
+https://news.ycombinator.com/item?id=15414266
+|#########################                         | S: 10 C: 5 R: 0.500
+
+A Pre-History of Slashdot
+https://news.ycombinator.com/item?id=15409376
+|#######################                           | S: 657 C: 309 R: 0.470
+
+Mailspring, a fork of Nylas Mail
+https://news.ycombinator.com/item?id=15413753
+|######################                            | S: 86 C: 39 R: 0.453
+
+Puerto Rican Hospitals Battle Life and Death Daily
+https://news.ycombinator.com/item?id=15411685
+|######################                            | S: 140 C: 63 R: 0.450
+
+John Kelly's phone was breached as early as December
+https://news.ycombinator.com/item?id=15413194
+|#####################                             | S: 132 C: 58 R: 0.439
+
+SoftBank’s Next 30-Year Vision (2010) [pdf]
+https://news.ycombinator.com/item?id=15412570
+|####################                              | S: 87 C: 35 R: 0.402
+
+Japanese Vending Machines at Night Juxtaposed with a Wintry Hokkaido Landscape
+https://news.ycombinator.com/item?id=15412002
+|###################                               | S: 327 C: 129 R: 0.394
+
+Uber app can secretly record your iPhone screen thanks to special ‘entitlement’
+https://news.ycombinator.com/item?id=15414884
+|##################                                | S: 45 C: 17 R: 0.378
+
+Colony: A platform for open organizations
+https://news.ycombinator.com/item?id=15406724
+|#################                                 | S: 453 C: 160 R: 0.353
+
+Even God Would Get Fired as an Active Investor (2016)
+https://news.ycombinator.com/item?id=15408600
+|#################                                 | S: 138 C: 48 R: 0.348
+
+Limit Internet access until your child makes progress on educational sites
+https://news.ycombinator.com/item?id=15413217
+|################                                  | S: 18 C: 6 R: 0.333
+
+Sublime Text 3 now has font ligature support
+https://news.ycombinator.com/item?id=15413543
+|################                                  | S: 163 C: 54 R: 0.331
+
+URL to PDF Microservice
+https://news.ycombinator.com/item?id=15408217
+|##############                                    | S: 275 C: 82 R: 0.298
+
+PostgreSQL 10 Released
+https://news.ycombinator.com/item?id=15408800
+|##############                                    | S: 916 C: 264 R: 0.288
+
+WaveNet launches in the Google Assistant
+https://news.ycombinator.com/item?id=15403104
+|############                                      | S: 450 C: 116 R: 0.258
+
+“The Domestic Dog”, featuring two decades of new evidence
+https://news.ycombinator.com/item?id=15413785
+|############                                      | S: 66 C: 17 R: 0.258
+
+Image Dithering: Eleven Algorithms and Source Code
+https://news.ycombinator.com/item?id=15413377
+|###########                                       | S: 55 C: 13 R: 0.236
+
+The mystery of the disappearing Silk Road murder charges
+https://news.ycombinator.com/item?id=15414170
+|###########                                       | S: 22 C: 5 R: 0.227
+
+How to Learn Vim: A Four Week Plan
+https://news.ycombinator.com/item?id=15414544
+|##########                                        | S: 58 C: 12 R: 0.207
+
+I/O Access Methods for Linux
+https://news.ycombinator.com/item?id=15411056
+|##########                                        | S: 214 C: 44 R: 0.206
+
+Keybase launches encrypted Git
+https://news.ycombinator.com/item?id=15401211
+|#########                                         | S: 1346 C: 250 R: 0.186
+
+Mathematical games interesting to both you and a five-year-old child
+https://news.ycombinator.com/item?id=15407761
+|#########                                         | S: 597 C: 110 R: 0.184
+
+GAW Miners founder owes nearly $10M to SEC over Bitcoin fraud
+https://news.ycombinator.com/item?id=15412901
+|########                                          | S: 35 C: 6 R: 0.171
+
+Edward is officially moving into TensorFlow
+https://news.ycombinator.com/item?id=15413885
+|########                                          | S: 123 C: 21 R: 0.171
+
+Neural Color Transfer Between Images
+https://news.ycombinator.com/item?id=15414055
+|#######                                           | S: 19 C: 3 R: 0.158
+
+Implementing faceted search with Django and PostgreSQL
+https://news.ycombinator.com/item?id=15409733
+|#######                                           | S: 109 C: 17 R: 0.156
+
+Lessons from France's first cyber-attack, nearly two centuries ago
+https://news.ycombinator.com/item?id=15410531
+|#######                                           | S: 138 C: 21 R: 0.152
+
+Awk for multimedia
+https://news.ycombinator.com/item?id=15410259
+|######                                            | S: 118 C: 15 R: 0.127
+
+How to defeat Ed25519 and EdDSA using faults
+https://news.ycombinator.com/item?id=15414760
+|#####                                             | S: 56 C: 6 R: 0.107
+
+Bad news for bees: three-quarters of all honey on Earth has pesticides in it
+https://news.ycombinator.com/item?id=15413188
+|####                                              | S: 36 C: 3 R: 0.083
+
+NYC Is Using Oysters to Protect the City from Future Hurricanes
+https://news.ycombinator.com/item?id=15414108
+|##                                                | S: 35 C: 2 R: 0.057
+
+Modern B-Tree Techniques (2011)
+https://news.ycombinator.com/item?id=15409757
+|#                                                 | S: 276 C: 10 R: 0.036
+
+Building on Rock, Not Sand
+https://news.ycombinator.com/item?id=15414986
+|                                                  | S: 10 C: 0 R: 0.000
+
+Gödel's Incompleteness Theorem and Its Implications for Artificial Intelligence
+https://news.ycombinator.com/item?id=15410983
+|                                                  | S: 17 C: 0 R: 0.000
+

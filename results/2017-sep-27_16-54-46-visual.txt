@@ -1,0 +1,188 @@
+What should follow the web?
+https://news.ycombinator.com/item?id=15344248
+|###############################################   | S: 90 C: 85 R: 0.944
+
+Giving you more characters
+https://news.ycombinator.com/item?id=15342486
+|########################################          | S: 444 C: 360 R: 0.811
+
+Russia Threatens to Shut Facebook Over Local Data Storage Laws
+https://news.ycombinator.com/item?id=15341532
+|####################################              | S: 106 C: 78 R: 0.736
+
+U.S. does not believe Cuba is behind sonic attacks on American diplomats
+https://news.ycombinator.com/item?id=15342720
+|####################################              | S: 113 C: 82 R: 0.726
+
+GM unveils $5K EV
+https://news.ycombinator.com/item?id=15344411
+|################################                  | S: 155 C: 100 R: 0.645
+
+What's Going on with HEIF and Mac OS 10.13
+https://news.ycombinator.com/item?id=15342332
+|##############################                    | S: 73 C: 44 R: 0.603
+
+Why did we choose Rust over Golang or C/C++ to develop TiKV?
+https://news.ycombinator.com/item?id=15345488
+|##############################                    | S: 45 C: 27 R: 0.600
+
+BOOM v2: an open-source out-of-order RISC-V core
+https://news.ycombinator.com/item?id=15342840
+|#############################                     | S: 128 C: 76 R: 0.594
+
+Technical and non-technical tips for rocking your coding interview
+https://news.ycombinator.com/item?id=15341566
+|###########################                       | S: 224 C: 125 R: 0.558
+
+China Blocks WhatsApp
+https://news.ycombinator.com/item?id=15332819
+|##########################                        | S: 1129 C: 592 R: 0.524
+
+Extending per-second billing in Google Cloud
+https://news.ycombinator.com/item?id=15341595
+|##########################                        | S: 134 C: 70 R: 0.522
+
+Dumb things the camera companies are still doing
+https://news.ycombinator.com/item?id=15345455
+|#########################                         | S: 111 C: 56 R: 0.505
+
+Firefox Quantum Lands in Beta, Developer Edition
+https://news.ycombinator.com/item?id=15338382
+|########################                          | S: 840 C: 413 R: 0.492
+
+AWS Pinpoint Launches Two-Way Text Messaging
+https://news.ycombinator.com/item?id=15341209
+|#######################                           | S: 160 C: 76 R: 0.475
+
+Show HN: Reddit Grid – A better way to browse subreddits that are very visual
+https://news.ycombinator.com/item?id=15337342
+|#######################                           | S: 192 C: 91 R: 0.474
+
+Git git git git git
+https://news.ycombinator.com/item?id=15337730
+|#####################                             | S: 400 C: 175 R: 0.438
+
+When I asked Tinder for my data, it sent me 800 pages of my deepest secrets
+https://news.ycombinator.com/item?id=15336920
+|#####################                             | S: 325 C: 137 R: 0.422
+
+As Google Fights Fake News, Voices on the Margins Raise Alarm
+https://news.ycombinator.com/item?id=15344233
+|####################                              | S: 61 C: 25 R: 0.410
+
+Ataribox will be an open, Linux-based console priced starting at $249
+https://news.ycombinator.com/item?id=15345360
+|##################                                | S: 57 C: 21 R: 0.368
+
+React 16
+https://news.ycombinator.com/item?id=15339983
+|#################                                 | S: 838 C: 296 R: 0.353
+
+Apache Arrow and the “Things I Hate About Pandas”
+https://news.ycombinator.com/item?id=15335462
+|#################                                 | S: 379 C: 132 R: 0.348
+
+Text-only NPR
+https://news.ycombinator.com/item?id=15342758
+|#################                                 | S: 408 C: 139 R: 0.341
+
+Meteor allow/deny vulnerability disclosure
+https://news.ycombinator.com/item?id=15340740
+|################                                  | S: 66 C: 22 R: 0.333
+
+Technology preview: Private contact discovery for Signal
+https://news.ycombinator.com/item?id=15340729
+|################                                  | S: 394 C: 130 R: 0.330
+
+Abseil: C++ Common Libraries
+https://news.ycombinator.com/item?id=15341493
+|###############                                   | S: 194 C: 61 R: 0.314
+
+Google Cloud acquires Bitium
+https://news.ycombinator.com/item?id=15341664
+|###############                                   | S: 119 C: 36 R: 0.303
+
+Build a web service with F# and .NET Core 2.0
+https://news.ycombinator.com/item?id=15341175
+|##############                                    | S: 108 C: 31 R: 0.287
+
+Dat: non-profit, secure, and distributed package manager for data
+https://news.ycombinator.com/item?id=15342671
+|#############                                     | S: 152 C: 42 R: 0.276
+
+YC’s Essential Startup Advice
+https://news.ycombinator.com/item?id=15331016
+|#############                                     | S: 795 C: 219 R: 0.275
+
+A bizarre “403 Forbidden” bug-hunting adventure
+https://news.ycombinator.com/item?id=15345043
+|#############                                     | S: 70 C: 19 R: 0.271
+
+Nvidia  Deep Learning Accelerator (NVDLA): a free and open inference accelerator
+https://news.ycombinator.com/item?id=15343618
+|############                                      | S: 12 C: 3 R: 0.250
+
+A Comparison of Differential Equation Solver Suites
+https://news.ycombinator.com/item?id=15342459
+|############                                      | S: 102 C: 25 R: 0.245
+
+Multithreaded rendering on Android
+https://news.ycombinator.com/item?id=15341103
+|###########                                       | S: 79 C: 18 R: 0.228
+
+Tree Style Tabs Extension Ported to Firefox 57
+https://news.ycombinator.com/item?id=15342362
+|###########                                       | S: 281 C: 64 R: 0.228
+
+Godot 3's renderer design
+https://news.ycombinator.com/item?id=15338055
+|###########                                       | S: 248 C: 56 R: 0.226
+
+How Fake News Turned a Small Town Upside Down
+https://news.ycombinator.com/item?id=15343783
+|#########                                         | S: 46 C: 9 R: 0.196
+
+Show HN: Haskell library for pricing and information on crypto-currencies
+https://news.ycombinator.com/item?id=15339452
+|#########                                         | S: 84 C: 16 R: 0.190
+
+Microsoft Becomes Sponsor of Open Source Initiative
+https://news.ycombinator.com/item?id=15345694
+|########                                          | S: 18 C: 3 R: 0.167
+
+Vimeo acquires Livestream
+https://news.ycombinator.com/item?id=15338712
+|########                                          | S: 132 C: 22 R: 0.167
+
+Exceptionally Preserved Ancient Ships Discovered in the Black Sea
+https://news.ycombinator.com/item?id=15336910
+|#######                                           | S: 241 C: 35 R: 0.145
+
+New YC Database, Much More Info Than Others
+https://news.ycombinator.com/item?id=15345532
+|#######                                           | S: 14 C: 2 R: 0.143
+
+Yahoo open sources its search engine Vespa
+https://news.ycombinator.com/item?id=15345483
+|#####                                             | S: 72 C: 8 R: 0.111
+
+Someone stole my identity on Upwork and all I got was this lousy blog post
+https://news.ycombinator.com/item?id=15345127
+|#####                                             | S: 55 C: 6 R: 0.109
+
+An Unexpected Python ABI Change
+https://news.ycombinator.com/item?id=15340950
+|##                                                | S: 22 C: 1 R: 0.045
+
+Work and the Loneliness Epidemic
+https://news.ycombinator.com/item?id=15345223
+|#                                                 | S: 33 C: 1 R: 0.030
+
+Getting started with OpenBSD device driver development [pdf]
+https://news.ycombinator.com/item?id=15340843
+|#                                                 | S: 110 C: 3 R: 0.027
+
+The open big data serving engine: Store, search, rank and organize big data
+https://news.ycombinator.com/item?id=15345601
+|                                                  | S: 14 C: 0 R: 0.000
+

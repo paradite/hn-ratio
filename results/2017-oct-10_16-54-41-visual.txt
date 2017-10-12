@@ -1,0 +1,192 @@
+2017 California school test scores: Why are they flatlining?
+https://news.ycombinator.com/item?id=15438694
+|##################################################|########################################### S: 70 C: 131 R: 1.871
+
+A collection of non-standard punctuation marks
+https://news.ycombinator.com/item?id=15438820
+|##################################################|###### S: 64 C: 72 R: 1.125
+
+NextDoor Says Users Who Share Posts with Reporters Could Be Kicked Off the Site
+https://news.ycombinator.com/item?id=15438850
+|##################################################|## S: 136 C: 143 R: 1.051
+
+What happened when I opened a restaurant in Portland
+https://news.ycombinator.com/item?id=15439346
+|################################################  | S: 84 C: 81 R: 0.964
+
+Microsoft gives up on Windows 10 Mobile
+https://news.ycombinator.com/item?id=15432720
+|#########################################         | S: 736 C: 617 R: 0.838
+
+Do Users Scroll? – People Don't Scroll
+https://news.ycombinator.com/item?id=15440006
+|#######################################           | S: 14 C: 11 R: 0.786
+
+Tokyo Is Preparing for Floods ‘Beyond Anything We’ve Seen’
+https://news.ycombinator.com/item?id=15436943
+|##################################                | S: 251 C: 175 R: 0.697
+
+GitLab raises $20M Series C round led by GV
+https://news.ycombinator.com/item?id=15432976
+|##################################                | S: 200 C: 137 R: 0.685
+
+Basic Laws of Human Stupidity (1987)
+https://news.ycombinator.com/item?id=15438746
+|###########################                       | S: 68 C: 38 R: 0.559
+
+.NET core spies on users by default (2016)
+https://news.ycombinator.com/item?id=15439001
+|###########################                       | S: 133 C: 74 R: 0.556
+
+Jewelbots – A Friendship Bracelet You Can Code
+https://news.ycombinator.com/item?id=15437242
+|###########################                       | S: 214 C: 119 R: 0.556
+
+How I Reduced My DB Server Load by 80%
+https://news.ycombinator.com/item?id=15434970
+|##########################                        | S: 154 C: 83 R: 0.539
+
+Report: TSMC's 3nm Fab Could Cost $20B
+https://news.ycombinator.com/item?id=15436858
+|##########################                        | S: 117 C: 63 R: 0.538
+
+Upload Images to S3 in GraphQL Using Rails and Paperclip
+https://news.ycombinator.com/item?id=15438462
+|##########################                        | S: 19 C: 10 R: 0.526
+
+Reverse Engineering MacOS High Sierra Supplemental Update
+https://news.ycombinator.com/item?id=15432045
+|#########################                         | S: 247 C: 128 R: 0.518
+
+Facebook Quietly Enters StarCraft War for AI Bots
+https://news.ycombinator.com/item?id=15433004
+|########################                          | S: 210 C: 102 R: 0.486
+
+Using blockchain for identity management is ridiculous
+https://news.ycombinator.com/item?id=15436592
+|########################                          | S: 75 C: 36 R: 0.480
+
+Librem 5 Phone Funded
+https://news.ycombinator.com/item?id=15436716
+|######################                            | S: 301 C: 135 R: 0.449
+
+'Staying longer at home' was key to stone age technology change 60k years ago
+https://news.ycombinator.com/item?id=15433196
+|#####################                             | S: 98 C: 43 R: 0.439
+
+GM to buy LIDAR sensor-tech firm Strobe
+https://news.ycombinator.com/item?id=15434746
+|#####################                             | S: 144 C: 62 R: 0.431
+
+Show HN: Rejection Conditioner for YC Applications
+https://news.ycombinator.com/item?id=15433879
+|####################                              | S: 164 C: 67 R: 0.409
+
+Deutsche Bank makes source code publicly available for the first time
+https://news.ycombinator.com/item?id=15430270
+|###################                               | S: 470 C: 184 R: 0.391
+
+Show HN: Cockpit – create tmux panes and windows with ease
+https://news.ycombinator.com/item?id=15432986
+|##################                                | S: 105 C: 39 R: 0.371
+
+Crypto Anchors: Exfiltration Resistant Infrastructure
+https://news.ycombinator.com/item?id=15434757
+|##################                                | S: 137 C: 50 R: 0.365
+
+Equifax Breach Fallout: Your Salary History
+https://news.ycombinator.com/item?id=15436306
+|##################                                | S: 319 C: 116 R: 0.364
+
+Redshift vs. BigQuery vs. Snowflake benchmark
+https://news.ycombinator.com/item?id=15434272
+|#################                                 | S: 126 C: 45 R: 0.357
+
+Ask HN: How and where can I publish my research on AI as a college dropout?
+https://news.ycombinator.com/item?id=15435371
+|################                                  | S: 234 C: 78 R: 0.333
+
+Doitlive, a tool for live presentations in the terminal
+https://news.ycombinator.com/item?id=15433242
+|################                                  | S: 165 C: 54 R: 0.327
+
+150 days of living and coding in a van
+https://news.ycombinator.com/item?id=15439967
+|###############                                   | S: 128 C: 39 R: 0.305
+
+Half of all JavaScript npm packages could have been hacked via weak credentials
+https://news.ycombinator.com/item?id=15438003
+|###############                                   | S: 96 C: 29 R: 0.302
+
+AthenaX – Uber Engineering’s Open Source Streaming Analytics Platform
+https://news.ycombinator.com/item?id=15435553
+|###############                                   | S: 100 C: 30 R: 0.300
+
+Kazuo Ishiguro (1989)
+https://news.ycombinator.com/item?id=15428846
+|##############                                    | S: 63 C: 18 R: 0.286
+
+Disqus Demonstrates How to Do Breach Disclosure Right
+https://news.ycombinator.com/item?id=15432374
+|#############                                     | S: 166 C: 46 R: 0.277
+
+Cypherpunk Desert Bus: My Role in the 2016 Zcash Trusted Setup Ceremony
+https://news.ycombinator.com/item?id=15432935
+|#############                                     | S: 117 C: 32 R: 0.274
+
+Half the universe’s missing matter has just been finally found
+https://news.ycombinator.com/item?id=15439321
+|###########                                       | S: 237 C: 53 R: 0.224
+
+IP Accounting and Access Lists with Systemd
+https://news.ycombinator.com/item?id=15438152
+|##########                                        | S: 14 C: 3 R: 0.214
+
+Tracking friends and strangers using WhatsApp
+https://news.ycombinator.com/item?id=15435822
+|#########                                         | S: 638 C: 124 R: 0.194
+
+A Data-Driven Guide to Becoming a Consistent Billionaire
+https://news.ycombinator.com/item?id=15438386
+|#########                                         | S: 136 C: 25 R: 0.184
+
+Project-FiFo cloud orchestration adds FreeBSD support
+https://news.ycombinator.com/item?id=15436155
+|########                                          | S: 73 C: 13 R: 0.178
+
+Readings in Database Systems, 5th Edition (2015)
+https://news.ycombinator.com/item?id=15436647
+|########                                          | S: 180 C: 31 R: 0.172
+
+Dangers of CSV Injection
+https://news.ycombinator.com/item?id=15438894
+|########                                          | S: 273 C: 46 R: 0.168
+
+Study finds putting people in prison increases re-offence rate vs. probation
+https://news.ycombinator.com/item?id=15438772
+|#######                                           | S: 41 C: 6 R: 0.146
+
+Women who had high-level roles in breaking codes
+https://news.ycombinator.com/item?id=15438901
+|#####                                             | S: 65 C: 7 R: 0.108
+
+37,000 Chrome users downloaded a fake Adblock Plus extension
+https://news.ycombinator.com/item?id=15439972
+|####                                              | S: 24 C: 2 R: 0.083
+
+Bacteria with synthetic gene circuit self-assemble into working device
+https://news.ycombinator.com/item?id=15438674
+|###                                               | S: 51 C: 4 R: 0.078
+
+A list of of landing pages and other marketing resources
+https://news.ycombinator.com/item?id=15438671
+|###                                               | S: 14 C: 1 R: 0.071
+
+Paperclip optimizer
+https://news.ycombinator.com/item?id=15437697
+|###                                               | S: 16 C: 1 R: 0.062
+
+Mutual Interest: The Courting of Marie Curie (1923)
+https://news.ycombinator.com/item?id=15430796
+|                                                  | S: 49 C: 0 R: 0.000
+

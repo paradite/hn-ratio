@@ -1,0 +1,188 @@
+After the check is gone: The underground economy of rural America
+https://news.ycombinator.com/item?id=15416615
+|##################################################|################################################ S: 160 C: 316 R: 1.975
+
+Royalties from Writing a Hit Song with Justin Bieber
+https://news.ycombinator.com/item?id=15418271
+|##################################################|# S: 146 C: 151 R: 1.034
+
+Disqus Security Alert: User Info Breach
+https://news.ycombinator.com/item?id=15421112
+|################################################  | S: 143 C: 138 R: 0.965
+
+The License Zero Manifesto
+https://news.ycombinator.com/item?id=15417664
+|###############################################   | S: 161 C: 154 R: 0.957
+
+Why can't the IT industry deliver large, faultless projects quickly?
+https://news.ycombinator.com/item?id=15422409
+|###############################################   | S: 19 C: 18 R: 0.947
+
+Playboy Interview: Steve Jobs (1985)
+https://news.ycombinator.com/item?id=15419860
+|##########################################        | S: 93 C: 79 R: 0.849
+
+Redesigning the smartphone dial pad
+https://news.ycombinator.com/item?id=15418832
+|#######################################           | S: 184 C: 146 R: 0.793
+
+Why many developers still prefer Objective-C to Swift
+https://news.ycombinator.com/item?id=15421073
+|######################################            | S: 142 C: 110 R: 0.775
+
+Asset prices are high across the board
+https://news.ycombinator.com/item?id=15422325
+|#####################################             | S: 45 C: 34 R: 0.756
+
+The Last Invention of Man
+https://news.ycombinator.com/item?id=15419619
+|##################################                | S: 143 C: 100 R: 0.699
+
+Algorithms Have Already Gone Rogue
+https://news.ycombinator.com/item?id=15416819
+|##################################                | S: 211 C: 144 R: 0.682
+
+Dell XPS 13, one year later
+https://news.ycombinator.com/item?id=15416002
+|################################                  | S: 32 C: 21 R: 0.656
+
+The Bitcoin Apocalypse Is Coming in Mid-November
+https://news.ycombinator.com/item?id=15421080
+|##############################                    | S: 126 C: 76 R: 0.603
+
+AIM will shut down after 20 years
+https://news.ycombinator.com/item?id=15417019
+|#############################                     | S: 490 C: 289 R: 0.590
+
+Proton-size puzzle deepens
+https://news.ycombinator.com/item?id=15420602
+|#############################                     | S: 70 C: 41 R: 0.586
+
+I was in the MAPS MDMA for PTSD study
+https://news.ycombinator.com/item?id=15410762
+|##########################                        | S: 272 C: 144 R: 0.529
+
+Xcode 9.1 Improves Display of Fatal Errors
+https://news.ycombinator.com/item?id=15417719
+|#########################                         | S: 79 C: 40 R: 0.506
+
+Lost Laughs in Leisure Suit Larry
+https://news.ycombinator.com/item?id=15418671
+|#########################                         | S: 277 C: 140 R: 0.505
+
+A Pre-History of Slashdot
+https://news.ycombinator.com/item?id=15409376
+|#######################                           | S: 731 C: 341 R: 0.466
+
+Show HN: Resume Worded – Write impactful resumes
+https://news.ycombinator.com/item?id=15417975
+|#####################                             | S: 177 C: 75 R: 0.424
+
+Classification of the principal programming paradigms
+https://news.ycombinator.com/item?id=15417338
+|###################                               | S: 78 C: 31 R: 0.397
+
+How Ludwig II’s love for Wagner inspired the world’s greatest work of fan art
+https://news.ycombinator.com/item?id=15404277
+|##################                                | S: 29 C: 11 R: 0.379
+
+Google accused of racketeering in lawsuit
+https://news.ycombinator.com/item?id=15422157
+|##################                                | S: 248 C: 94 R: 0.379
+
+Ancient Viruses Buried in DNA
+https://news.ycombinator.com/item?id=15416932
+|##################                                | S: 81 C: 30 R: 0.370
+
+Joining Google to better explain search
+https://news.ycombinator.com/item?id=15418390
+|#################                                 | S: 85 C: 29 R: 0.341
+
+Adafruit acquires RadioShack
+https://news.ycombinator.com/item?id=15422728
+|################                                  | S: 102 C: 34 R: 0.333
+
+One-Way Salesman Finds Fast Path Home
+https://news.ycombinator.com/item?id=15417351
+|##############                                    | S: 69 C: 20 R: 0.290
+
+Show HN: nEXT Browser – A Lisp-based browser
+https://news.ycombinator.com/item?id=15418719
+|##############                                    | S: 121 C: 34 R: 0.281
+
+Distroless: Language focused docker images, minus the operating system
+https://news.ycombinator.com/item?id=15415992
+|#############                                     | S: 74 C: 20 R: 0.270
+
+The Land of Lisp
+https://news.ycombinator.com/item?id=15417735
+|#############                                     | S: 387 C: 104 R: 0.269
+
+A 2017 Nobel laureate says he left science because he ran out of money
+https://news.ycombinator.com/item?id=15420770
+|#############                                     | S: 150 C: 40 R: 0.267
+
+Security.txt
+https://news.ycombinator.com/item?id=15416198
+|############                                      | S: 450 C: 113 R: 0.251
+
+Hazelcast 3.8.3
+https://news.ycombinator.com/item?id=15416848
+|#########                                         | S: 218 C: 41 R: 0.188
+
+Mathematical games interesting to both you and a five-year-old child
+https://news.ycombinator.com/item?id=15407761
+|########                                          | S: 705 C: 124 R: 0.176
+
+Philosophers Who Like Stuff
+https://news.ycombinator.com/item?id=15418232
+|########                                          | S: 23 C: 4 R: 0.174
+
+Bypassing Intel Boot Guard
+https://news.ycombinator.com/item?id=15415978
+|########                                          | S: 64 C: 11 R: 0.172
+
+C2 Programming Language: An Evolution of C
+https://news.ycombinator.com/item?id=15418743
+|########                                          | S: 30 C: 5 R: 0.167
+
+Ask HN: What is the current state of mobile development using Golang?
+https://news.ycombinator.com/item?id=15421870
+|#######                                           | S: 14 C: 2 R: 0.143
+
+NNVM Compiler: A New Open End-To-End Compiler for AI Frameworks
+https://news.ycombinator.com/item?id=15418109
+|#####                                             | S: 105 C: 12 R: 0.114
+
+Programming Models for Distributed Computation
+https://news.ycombinator.com/item?id=15416006
+|#####                                             | S: 180 C: 18 R: 0.100
+
+Return to the Source
+https://news.ycombinator.com/item?id=15422048
+|####                                              | S: 21 C: 2 R: 0.095
+
+My tips for finding security issues in GitHub projects
+https://news.ycombinator.com/item?id=15421999
+|###                                               | S: 30 C: 2 R: 0.067
+
+A Refugee in Puerto Rico, 1942: Claude Lévi-Strauss and the Burden of Archives
+https://news.ycombinator.com/item?id=15421487
+|###                                               | S: 15 C: 1 R: 0.067
+
+Lunar volcanism produced a transient atmosphere around the ancient Moon
+https://news.ycombinator.com/item?id=15421463
+|##                                                | S: 18 C: 1 R: 0.056
+
+React, Inline Functions, and Performance
+https://news.ycombinator.com/item?id=15421410
+|                                                  | S: 36 C: 0 R: 0.000
+
+Flexport’s epic plan to build a freight empire with its $110M raise
+https://news.ycombinator.com/item?id=15421334
+|                                                  | S: 24 C: 0 R: 0.000
+
+Communicate with Users, Build Something They Want: Interview with Ryan Hoover
+https://news.ycombinator.com/item?id=15415367
+|                                                  | S: 57 C: 0 R: 0.000
+

@@ -1,0 +1,188 @@
+A 400-year story of progress – How America became the world’s biggest economy
+https://news.ycombinator.com/item?id=15326535
+|##################################################|########################## S: 119 C: 181 R: 1.521
+
+Deliveroo raises $385M in new funding
+https://news.ycombinator.com/item?id=15324596
+|##################################################|######## S: 116 C: 135 R: 1.164
+
+Nuclear deterrence is limited by geography
+https://news.ycombinator.com/item?id=15327225
+|#########################################         | S: 42 C: 35 R: 0.833
+
+Justice Department goes nuclear on Google in search warrant fight
+https://news.ycombinator.com/item?id=15325735
+|#################################                 | S: 101 C: 67 R: 0.663
+
+Paying top employees the highest salaries in the market
+https://news.ycombinator.com/item?id=15327455
+|################################                  | S: 155 C: 102 R: 0.658
+
+Monitoring Cloudflare's edge network with Prometheus
+https://news.ycombinator.com/item?id=15325659
+|###########################                       | S: 109 C: 61 R: 0.560
+
+X and NeWS history
+https://news.ycombinator.com/item?id=15325226
+|##########################                        | S: 156 C: 83 R: 0.532
+
+Simulacra and Simulation
+https://news.ycombinator.com/item?id=15324818
+|#########################                         | S: 121 C: 62 R: 0.512
+
+How We Grow Junior Developers at the BBC
+https://news.ycombinator.com/item?id=15302730
+|########################                          | S: 294 C: 146 R: 0.497
+
+Duck Duck Go: Illusion of Privacy (2013)
+https://news.ycombinator.com/item?id=15321070
+|########################                          | S: 238 C: 116 R: 0.487
+
+Like modern democracies, ancient Greek democracy had an anger problem
+https://news.ycombinator.com/item?id=15320936
+|#######################                           | S: 154 C: 71 R: 0.461
+
+In Search Of The Red Cross' $500M In Haiti Relief (2015)
+https://news.ycombinator.com/item?id=15326335
+|######################                            | S: 275 C: 123 R: 0.447
+
+Microsoft R&D grows to 8k people in massive bet on artificial intelligence
+https://news.ycombinator.com/item?id=15326845
+|######################                            | S: 113 C: 50 R: 0.442
+
+A 1979 War-Game That Takes 1,500 Hours to Complete
+https://news.ycombinator.com/item?id=15302484
+|#####################                             | S: 176 C: 75 R: 0.426
+
+Org-Mode Is One of the Most Reasonable Markup Languages to Use for Text
+https://news.ycombinator.com/item?id=15321850
+|####################                              | S: 502 C: 210 R: 0.418
+
+Post a boarding pass on Facebook, get your account stolen
+https://news.ycombinator.com/item?id=15318440
+|####################                              | S: 705 C: 294 R: 0.417
+
+Project Jigsaw: Complete
+https://news.ycombinator.com/item?id=15325767
+|####################                              | S: 142 C: 59 R: 0.415
+
+Serverless is cheaper, not simpler
+https://news.ycombinator.com/item?id=15326553
+|###################                               | S: 101 C: 40 R: 0.396
+
+Can American soil be brought back to life?
+https://news.ycombinator.com/item?id=15326098
+|##################                                | S: 106 C: 40 R: 0.377
+
+All the goodness gone from tea (1688)
+https://news.ycombinator.com/item?id=15324547
+|##################                                | S: 80 C: 30 R: 0.375
+
+Things I've learned transitioning from engineer to engineering manager
+https://news.ycombinator.com/item?id=15326652
+|################                                  | S: 153 C: 52 R: 0.340
+
+Portugal treats addiction as a disease, not a crime
+https://news.ycombinator.com/item?id=15315129
+|################                                  | S: 553 C: 186 R: 0.336
+
+Mac OS High Sierra automatically checks EFI firmware each week
+https://news.ycombinator.com/item?id=15326984
+|###############                                   | S: 123 C: 39 R: 0.317
+
+Building multiplayer games with Socket.io and HTML5 Canvas
+https://news.ycombinator.com/item?id=15318530
+|###############                                   | S: 294 C: 91 R: 0.310
+
+New antibody attacks 99% of HIV strains
+https://news.ycombinator.com/item?id=15314006
+|##############                                    | S: 806 C: 240 R: 0.298
+
+Simple Nearest-Neighbor Approach Creates Photorealistic Image from Low-Res Image
+https://news.ycombinator.com/item?id=15328356
+|##############                                    | S: 110 C: 32 R: 0.291
+
+Windows 3.1 All Over Again
+https://news.ycombinator.com/item?id=15326648
+|#############                                     | S: 143 C: 40 R: 0.280
+
+Google’s PixelBook: the target is bigger than it seems
+https://news.ycombinator.com/item?id=15327502
+|#############                                     | S: 89 C: 24 R: 0.270
+
+The Mathematics of 2048: Counting States with Combinatorics
+https://news.ycombinator.com/item?id=15327837
+|#############                                     | S: 67 C: 18 R: 0.269
+
+New in PostgreSQL 10
+https://news.ycombinator.com/item?id=15306398
+|#############                                     | S: 944 C: 247 R: 0.262
+
+Guitar browser game with a real guitar
+https://news.ycombinator.com/item?id=15325820
+|############                                      | S: 131 C: 32 R: 0.244
+
+Xeno Kovah: macOS 10.13 EFI firmware integrity check
+https://news.ycombinator.com/item?id=15325829
+|##########                                        | S: 87 C: 19 R: 0.218
+
+Relicensing React, Jest, Flow, and Immutable.js
+https://news.ycombinator.com/item?id=15316175
+|##########                                        | S: 2236 C: 486 R: 0.217
+
+Chroma – A General purpose syntax highlighter in Go
+https://news.ycombinator.com/item?id=15323707
+|##########                                        | S: 99 C: 21 R: 0.212
+
+What we need from Apple to make standalone Apple Watch podcast apps
+https://news.ycombinator.com/item?id=15327551
+|#########                                         | S: 232 C: 46 R: 0.198
+
+Gnirehtet rewritten in Rust
+https://news.ycombinator.com/item?id=15326106
+|#########                                         | S: 149 C: 29 R: 0.195
+
+Jaeger – A Distributed Tracing System
+https://news.ycombinator.com/item?id=15325691
+|#########                                         | S: 256 C: 49 R: 0.191
+
+A Quick Introduction to Graphviz
+https://news.ycombinator.com/item?id=15324883
+|########                                          | S: 224 C: 39 R: 0.174
+
+A Coloring Book about Group Theory
+https://news.ycombinator.com/item?id=15326480
+|#######                                           | S: 162 C: 24 R: 0.148
+
+Scenic Tram Simulator
+https://news.ycombinator.com/item?id=15324954
+|#######                                           | S: 667 C: 95 R: 0.142
+
+How I Fixed a 10-Year-Old Guitar Hero Bug Without the Source Code [video]
+https://news.ycombinator.com/item?id=15325154
+|######                                            | S: 250 C: 30 R: 0.120
+
+Deep Learning Research and the Future of AI [video]
+https://news.ycombinator.com/item?id=15324656
+|#####                                             | S: 68 C: 8 R: 0.118
+
+30 Day Timelapse at Sea
+https://news.ycombinator.com/item?id=15328247
+|#####                                             | S: 29 C: 3 R: 0.103
+
+Documenting your architecture: Wireshark, PlantUML and a REPL to glue them all
+https://news.ycombinator.com/item?id=15325649
+|####                                              | S: 221 C: 21 R: 0.095
+
+2.5 hours per week of exercise of any kind could help you live longer
+https://news.ycombinator.com/item?id=15328266
+|####                                              | S: 33 C: 3 R: 0.091
+
+iPhone 8 Plus Camera Review
+https://news.ycombinator.com/item?id=15328165
+|####                                              | S: 35 C: 3 R: 0.086
+
+The more things change (2015)
+https://news.ycombinator.com/item?id=15324542
+|####                                              | S: 35 C: 3 R: 0.086
+

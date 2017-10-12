@@ -1,0 +1,176 @@
+MacOS High Sierra
+https://news.ycombinator.com/item?id=15328889
+|##################################################|##### S: 527 C: 587 R: 1.114
+
+Request for Education Startups
+https://news.ycombinator.com/item?id=15332770
+|##############################################    | S: 154 C: 143 R: 0.929
+
+PlainJS – Vanilla JavaScript Repository
+https://news.ycombinator.com/item?id=15330864
+|#####################################             | S: 190 C: 144 R: 0.758
+
+Why SQL is beating NoSQL, and what this means for the future of data
+https://news.ycombinator.com/item?id=15335717
+|###############################                   | S: 234 C: 148 R: 0.632
+
+Apple switches from Bing to Google for Siri web search on iOS and Mac Spotlight
+https://news.ycombinator.com/item?id=15336072
+|###############################                   | S: 148 C: 92 R: 0.622
+
+Show HN: MMOsteroids: JS, Go, and Webrtc
+https://news.ycombinator.com/item?id=15332187
+|##############################                    | S: 70 C: 42 R: 0.600
+
+India unveils $2.5B plan to electrify all households by end 2018
+https://news.ycombinator.com/item?id=15335216
+|#############################                     | S: 112 C: 66 R: 0.589
+
+China Blocks WhatsApp
+https://news.ycombinator.com/item?id=15332819
+|##########################                        | S: 949 C: 498 R: 0.525
+
+APFS and HFS+ Benchmarks on 2017 Macbook Pro with MacOS High Sierra
+https://news.ycombinator.com/item?id=15333036
+|#######################                           | S: 103 C: 48 R: 0.466
+
+SEC announces 'Cyber Unit'
+https://news.ycombinator.com/item?id=15335146
+|#######################                           | S: 86 C: 40 R: 0.465
+
+Sears's History Predicts Almost Everything Amazon's Doing
+https://news.ycombinator.com/item?id=15330541
+|#######################                           | S: 285 C: 132 R: 0.463
+
+Show HN: EnvKey – securely manage API keys, credentials, and config
+https://news.ycombinator.com/item?id=15330757
+|######################                            | S: 100 C: 45 R: 0.450
+
+CBS's Showtime caught mining crypto-coins in viewers' web browsers
+https://news.ycombinator.com/item?id=15333899
+|######################                            | S: 277 C: 123 R: 0.444
+
+Equifax or Equiphish?
+https://news.ycombinator.com/item?id=15333082
+|####################                              | S: 119 C: 49 R: 0.412
+
+The tale of aux.c
+https://news.ycombinator.com/item?id=15334678
+|###################                               | S: 152 C: 59 R: 0.388
+
+The rise of robots in the German labour market
+https://news.ycombinator.com/item?id=15331604
+|##################                                | S: 155 C: 58 R: 0.374
+
+Intel Introduces Neuromorphic Test Chip
+https://news.ycombinator.com/item?id=15334533
+|#################                                 | S: 103 C: 37 R: 0.359
+
+Announcing tools for the AI-driven digital transformation
+https://news.ycombinator.com/item?id=15335039
+|#################                                 | S: 67 C: 24 R: 0.358
+
+NASA Designed a Low-Tech Rover to Survive Venus
+https://news.ycombinator.com/item?id=15332613
+|#################                                 | S: 149 C: 51 R: 0.342
+
+PixelNN – Example-Based Image Synthesis
+https://news.ycombinator.com/item?id=15328356
+|###############                                   | S: 478 C: 148 R: 0.310
+
+68% of total Ethereum transaction value controlled by one system
+https://news.ycombinator.com/item?id=15333838
+|##############                                    | S: 218 C: 64 R: 0.294
+
+COST in the land of databases
+https://news.ycombinator.com/item?id=15332051
+|##############                                    | S: 166 C: 48 R: 0.289
+
+YC’s Essential Startup Advice
+https://news.ycombinator.com/item?id=15331016
+|##############                                    | S: 689 C: 198 R: 0.287
+
+Disqus comments adding third-party ad-tracking
+https://news.ycombinator.com/item?id=15334207
+|##############                                    | S: 156 C: 44 R: 0.282
+
+Linux System Call Table
+https://news.ycombinator.com/item?id=15332394
+|##############                                    | S: 195 C: 55 R: 0.282
+
+What we need from Apple to make standalone Apple Watch podcast apps
+https://news.ycombinator.com/item?id=15327551
+|#############                                     | S: 365 C: 100 R: 0.274
+
+Apache Arrow and the “Things I Hate About Pandas”
+https://news.ycombinator.com/item?id=15335462
+|#############                                     | S: 203 C: 55 R: 0.271
+
+Pollen: the book is a program
+https://news.ycombinator.com/item?id=15335010
+|#############                                     | S: 172 C: 45 R: 0.262
+
+Street View of 80s NYC
+https://news.ycombinator.com/item?id=15332171
+|##########                                        | S: 233 C: 50 R: 0.215
+
+Cuban Embassy Attacks and the Microwave Auditory Effect
+https://news.ycombinator.com/item?id=15332122
+|##########                                        | S: 104 C: 22 R: 0.212
+
+Show HN: Logo Crunch – Multi-resolution logo maker
+https://news.ycombinator.com/item?id=15330409
+|##########                                        | S: 312 C: 63 R: 0.202
+
+MacOS 10.13, thoroughly reviewed
+https://news.ycombinator.com/item?id=15332145
+|#########                                         | S: 84 C: 16 R: 0.190
+
+A Coloring Book about Group Theory
+https://news.ycombinator.com/item?id=15326480
+|#########                                         | S: 276 C: 52 R: 0.188
+
+Fast ECMAScript Parser – Alternative to Acorn / Esprima
+https://news.ycombinator.com/item?id=15334763
+|########                                          | S: 68 C: 12 R: 0.176
+
+We're learning more about the craving that fuels self-defeating habits
+https://news.ycombinator.com/item?id=15328744
+|#######                                           | S: 241 C: 37 R: 0.154
+
+An Intuitive Explanation of Convolutional Neural Networks (2016)
+https://news.ycombinator.com/item?id=15328516
+|#######                                           | S: 127 C: 18 R: 0.142
+
+Scenic Tram Simulator
+https://news.ycombinator.com/item?id=15324954
+|######                                            | S: 876 C: 117 R: 0.134
+
+Humble Book Bundle: Hacking Reloaded
+https://news.ycombinator.com/item?id=15332753
+|######                                            | S: 156 C: 20 R: 0.128
+
+High Sierra’s ‘Secure Kernel Extension Loading’ Is Broken
+https://news.ycombinator.com/item?id=15330564
+|#####                                             | S: 115 C: 12 R: 0.104
+
+Bjarne Stroustrup Awarded 2017 Faraday Medal
+https://news.ycombinator.com/item?id=15334381
+|#####                                             | S: 220 C: 22 R: 0.100
+
+30-Day Timelapse at Sea [video]
+https://news.ycombinator.com/item?id=15328247
+|####                                              | S: 426 C: 39 R: 0.092
+
+TensorFlow Examples for Beginners with Latest APIs
+https://news.ycombinator.com/item?id=15335107
+|###                                               | S: 43 C: 3 R: 0.070
+
+The Ethics of Running a Data Breach Search Service
+https://news.ycombinator.com/item?id=15328698
+|###                                               | S: 132 C: 8 R: 0.061
+
+University of Tokyo pair invent loop-based quantum computing technique
+https://news.ycombinator.com/item?id=15330712
+|##                                                | S: 122 C: 6 R: 0.049
+

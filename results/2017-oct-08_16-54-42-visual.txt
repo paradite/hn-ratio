@@ -1,0 +1,184 @@
+Are Hunter-Gatherers The Happiest Humans To Inhabit Earth?
+https://news.ycombinator.com/item?id=15425374
+|##################################################|################## S: 64 C: 88 R: 1.375
+
+Ask HN: How common is a counteroffer for developers who give notice?
+https://news.ycombinator.com/item?id=15425569
+|##################################################|############### S: 53 C: 69 R: 1.302
+
+An Accidental Marketing Tactic That Many Companies Can Learn From
+https://news.ycombinator.com/item?id=15424498
+|##################################################| S: 55 C: 56 R: 1.018
+
+Your Software May Be Lousy but at Least It Is AGILE
+https://news.ycombinator.com/item?id=15426386
+|########################################          | S: 16 C: 13 R: 0.812
+
+The Cavendish banana is under threat from a fungus
+https://news.ycombinator.com/item?id=15425918
+|######################################            | S: 53 C: 41 R: 0.774
+
+Overweight and obesity are linked to cancer
+https://news.ycombinator.com/item?id=15424013
+|#################################                 | S: 168 C: 111 R: 0.661
+
+Show HN: Hacker News desktop application in Kotlin/Swing
+https://news.ycombinator.com/item?id=15425545
+|################################                  | S: 101 C: 66 R: 0.653
+
+Australian police sting brings down paedophile forum on dark web
+https://news.ycombinator.com/item?id=15425906
+|###########################                       | S: 104 C: 57 R: 0.548
+
+Time Travel Debugging
+https://news.ycombinator.com/item?id=15423816
+|########################                          | S: 91 C: 45 R: 0.495
+
+Concentrated Wealth Is Strangling Prosperity
+https://news.ycombinator.com/item?id=15426670
+|########################                          | S: 27 C: 13 R: 0.481
+
+Lost Laughs in Leisure Suit Larry
+https://news.ycombinator.com/item?id=15418671
+|#######################                           | S: 340 C: 162 R: 0.476
+
+A Pre-History of Slashdot
+https://news.ycombinator.com/item?id=15409376
+|#######################                           | S: 741 C: 347 R: 0.468
+
+The history of ‘zero’ remains unsettled
+https://news.ycombinator.com/item?id=15427136
+|######################                            | S: 11 C: 5 R: 0.455
+
+Using Binary Diffing to Discover Windows Kernel Memory Disclosure Bugs
+https://news.ycombinator.com/item?id=15426209
+|#####################                             | S: 110 C: 48 R: 0.436
+
+The rise of drug overdoes in New Hampshire has created a backlog of autopsies
+https://news.ycombinator.com/item?id=15426696
+|#####################                             | S: 30 C: 13 R: 0.433
+
+The False Prophecy of Hyperconnection
+https://news.ycombinator.com/item?id=15426261
+|####################                              | S: 24 C: 10 R: 0.417
+
+A Branchless UTF-8 Decoder
+https://news.ycombinator.com/item?id=15423674
+|###################                               | S: 236 C: 93 R: 0.394
+
+'Our minds can be hijacked': tech insiders who fear a smartphone dystopia
+https://news.ycombinator.com/item?id=15421704
+|###################                               | S: 440 C: 171 R: 0.389
+
+It’s not ok for billion-dollar companies to crowdfund
+https://news.ycombinator.com/item?id=15425166
+|##################                                | S: 146 C: 53 R: 0.363
+
+The opposite of a bloom filter
+https://news.ycombinator.com/item?id=15423201
+|#################                                 | S: 67 C: 24 R: 0.358
+
+Scam baiter: Why I risk death threats to expose online cons
+https://news.ycombinator.com/item?id=15424618
+|#################                                 | S: 67 C: 23 R: 0.343
+
+Thoughts on Microsoft's Time-Travel Debugger
+https://news.ycombinator.com/item?id=15426983
+|###############                                   | S: 76 C: 24 R: 0.316
+
+Show HN: A platform for sharing DIY solar projects
+https://news.ycombinator.com/item?id=15425324
+|##############                                    | S: 157 C: 46 R: 0.293
+
+The Land of Lisp
+https://news.ycombinator.com/item?id=15417735
+|##############                                    | S: 447 C: 130 R: 0.291
+
+An introduction to North Korean graphic design
+https://news.ycombinator.com/item?id=15424723
+|#############                                     | S: 146 C: 39 R: 0.267
+
+A scientist who spots fake videos
+https://news.ycombinator.com/item?id=15423171
+|############                                      | S: 126 C: 31 R: 0.246
+
+Physics, Topology, Logic and Computation: A Rosetta Stone (2009) [pdf]
+https://news.ycombinator.com/item?id=15423027
+|###########                                       | S: 128 C: 30 R: 0.234
+
+The enigmatic complexity of number theory
+https://news.ycombinator.com/item?id=15423384
+|###########                                       | S: 77 C: 18 R: 0.234
+
+A Comparison of Four Algorithms Textbooks (2016)
+https://news.ycombinator.com/item?id=15423045
+|###########                                       | S: 176 C: 39 R: 0.222
+
+Security.txt
+https://news.ycombinator.com/item?id=15416198
+|##########                                        | S: 652 C: 136 R: 0.209
+
+How we run NPM packages in the browser
+https://news.ycombinator.com/item?id=15424534
+|#########                                         | S: 85 C: 16 R: 0.188
+
+Keybase launches encrypted Git
+https://news.ycombinator.com/item?id=15401211
+|#########                                         | S: 1400 C: 259 R: 0.185
+
+StackOverflow Architecture (2016)
+https://news.ycombinator.com/item?id=15427124
+|########                                          | S: 34 C: 6 R: 0.176
+
+Mathematical games interesting to both you and a five-year-old child
+https://news.ycombinator.com/item?id=15407761
+|########                                          | S: 726 C: 128 R: 0.176
+
+Apple2fpga: Reconstructing an Apple II+ on an FPGA (2008)
+https://news.ycombinator.com/item?id=15425559
+|#######                                           | S: 85 C: 13 R: 0.153
+
+Five minute guide to better typography
+https://news.ycombinator.com/item?id=15424478
+|#######                                           | S: 615 C: 89 R: 0.145
+
+Optical Effects in User Interfaces
+https://news.ycombinator.com/item?id=15422309
+|######                                            | S: 165 C: 20 R: 0.121
+
+How Bill Gates and Warren Buffett met
+https://news.ycombinator.com/item?id=15426545
+|#####                                             | S: 35 C: 4 R: 0.114
+
+Symbolic Algebraic Library written entirely in C#
+https://news.ycombinator.com/item?id=15426105
+|#####                                             | S: 44 C: 5 R: 0.114
+
+A Simple Approach to Building a Real-Time Collaborative Text Editor
+https://news.ycombinator.com/item?id=15424437
+|####                                              | S: 151 C: 15 R: 0.099
+
+London Cutaways
+https://news.ycombinator.com/item?id=15425162
+|####                                              | S: 151 C: 13 R: 0.086
+
+Sorting Visualizations
+https://news.ycombinator.com/item?id=15423202
+|###                                               | S: 507 C: 33 R: 0.065
+
+Computing pioneer Bob Frankston says algorithms are the new bureaucracy [audio]
+https://news.ycombinator.com/item?id=15426599
+|##                                                | S: 20 C: 1 R: 0.050
+
+Finding Waldo Using Semantic Segmentation and Tiramisu
+https://news.ycombinator.com/item?id=15423824
+|##                                                | S: 65 C: 3 R: 0.046
+
+In Mysterious Pattern, Math and Nature Converge
+https://news.ycombinator.com/item?id=15423977
+|##                                                | S: 114 C: 5 R: 0.044
+
+Personal Observations on Reliability of Shuttle (1986)
+https://news.ycombinator.com/item?id=15426562
+|#                                                 | S: 56 C: 2 R: 0.036
+

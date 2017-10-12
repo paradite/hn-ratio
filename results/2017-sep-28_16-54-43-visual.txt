@@ -1,0 +1,172 @@
+The Case Against Civilization
+https://news.ycombinator.com/item?id=15352268
+|##################################################|######################################################################## S: 33 C: 81 R: 2.455
+
+What happens after a defendant is found not guilty by reason of insanity?
+https://news.ycombinator.com/item?id=15351433
+|##################################################|######################################## S: 67 C: 121 R: 1.806
+
+FaceID Security [pdf]
+https://news.ycombinator.com/item?id=15349372
+|##################################################|######### S: 242 C: 289 R: 1.194
+
+Ending factory farming as soon as possible
+https://news.ycombinator.com/item?id=15351104
+|##################################################| S: 67 C: 67 R: 1.000
+
+Breach at Sonic Drive-In May Have Impacted Millions of Credit, Debit Cards
+https://news.ycombinator.com/item?id=15351185
+|#########################################         | S: 101 C: 83 R: 0.822
+
+Programmers who want to change how we code before catastrophe strikes
+https://news.ycombinator.com/item?id=15343559
+|#######################################           | S: 270 C: 211 R: 0.781
+
+Privacy
+https://news.ycombinator.com/item?id=15354114
+|######################################            | S: 331 C: 254 R: 0.767
+
+Dumb Things Camera Companies are Still Doing
+https://news.ycombinator.com/item?id=15345455
+|##################################                | S: 546 C: 375 R: 0.687
+
+Drowning in grain: historically high supplies and low prices
+https://news.ycombinator.com/item?id=15350597
+|#################################                 | S: 124 C: 82 R: 0.661
+
+Executive Computer: Mother of All Markets or Pipe Dream Driven by Greed? (1992)
+https://news.ycombinator.com/item?id=15354795
+|##############################                    | S: 18 C: 11 R: 0.611
+
+New theory why languages don’t all have the same number of terms for colors
+https://news.ycombinator.com/item?id=15343674
+|##############################                    | S: 111 C: 67 R: 0.604
+
+With lax oversight, the FAA has enabled secrecy in the skies
+https://news.ycombinator.com/item?id=15351519
+|#############################                     | S: 108 C: 64 R: 0.593
+
+Ed25519 for DNSSEC
+https://news.ycombinator.com/item?id=15352595
+|###########################                       | S: 55 C: 30 R: 0.545
+
+Broadening HSTS to secure more of the Web
+https://news.ycombinator.com/item?id=15350991
+|#####################                             | S: 79 C: 34 R: 0.430
+
+American Red Cross Asks for Ham Radio Operators for Puerto Rico Relief Effort
+https://news.ycombinator.com/item?id=15345114
+|#####################                             | S: 272 C: 116 R: 0.426
+
+Refresh Is Sacred
+https://news.ycombinator.com/item?id=15354809
+|##################                                | S: 147 C: 54 R: 0.367
+
+XSS Attack Embedded in an ERC20 Token Contract Steals Thousands
+https://news.ycombinator.com/item?id=15349408
+|##################                                | S: 72 C: 26 R: 0.361
+
+Wallaroo: a fast, scalable data processing engine written in Pony
+https://news.ycombinator.com/item?id=15346523
+|#################                                 | S: 130 C: 45 R: 0.346
+
+LU Factorization and Linear Systems for Programers
+https://news.ycombinator.com/item?id=15349950
+|################                                  | S: 118 C: 39 R: 0.331
+
+Battery-Free Cell Phone
+https://news.ycombinator.com/item?id=15350799
+|################                                  | S: 173 C: 57 R: 0.329
+
+Gravitational waves from a binary black hole merger observed by LIGO and Virgo
+https://news.ycombinator.com/item?id=15350137
+|###############                                   | S: 450 C: 138 R: 0.307
+
+Using VS Code to Debug Java Applications
+https://news.ycombinator.com/item?id=15353662
+|###############                                   | S: 83 C: 25 R: 0.301
+
+Show HN: Raspberry Pi Zero W Simultaneous AP and Managed (Client) Mode WiFi
+https://news.ycombinator.com/item?id=15351778
+|###############                                   | S: 30 C: 9 R: 0.300
+
+Detect.location: Access iOS location data without actually having access
+https://news.ycombinator.com/item?id=15347836
+|##############                                    | S: 179 C: 53 R: 0.296
+
+The Video Game Software Wizardry of Id (2002)
+https://news.ycombinator.com/item?id=15350393
+|##############                                    | S: 71 C: 21 R: 0.296
+
+Ambient Shipping – a project to allow you to look inside passing cargo ships
+https://news.ycombinator.com/item?id=15354164
+|#############                                     | S: 72 C: 20 R: 0.278
+
+A 220b spreadsheet app in HTML/JS
+https://news.ycombinator.com/item?id=15354693
+|#############                                     | S: 115 C: 31 R: 0.270
+
+Review of Jean Bricmont's book "Making Sense of Quantum Mechanics"
+https://news.ycombinator.com/item?id=15353345
+|#############                                     | S: 42 C: 11 R: 0.262
+
+Revealing the content of the address bar in IE
+https://news.ycombinator.com/item?id=15353840
+|############                                      | S: 27 C: 7 R: 0.259
+
+Using Jekyll and GitHub Pages
+https://news.ycombinator.com/item?id=15354908
+|###########                                       | S: 13 C: 3 R: 0.231
+
+Open-Sourcing Vespa, Yahoo’s Data Processing and Serving Engine
+https://news.ycombinator.com/item?id=15345483
+|###########                                       | S: 473 C: 108 R: 0.228
+
+CryptoMaps: Cryptocurrency Market State
+https://news.ycombinator.com/item?id=15351080
+|#########                                         | S: 118 C: 23 R: 0.195
+
+When Togo turned off the internet
+https://news.ycombinator.com/item?id=15354772
+|#########                                         | S: 27 C: 5 R: 0.185
+
+PostgreSQL's Hash Indexes Are Now Cool
+https://news.ycombinator.com/item?id=15344964
+|#########                                         | S: 196 C: 36 R: 0.184
+
+Things learned while running your own self-funded startup
+https://news.ycombinator.com/item?id=15355068
+|########                                          | S: 17 C: 3 R: 0.176
+
+A Shift in the ATM Malware Landscape from Physical to Network-based Attacks
+https://news.ycombinator.com/item?id=15353788
+|########                                          | S: 18 C: 3 R: 0.167
+
+Simple, Fast and Safe Manual Memory Management [pdf]
+https://news.ycombinator.com/item?id=15354064
+|#####                                             | S: 56 C: 6 R: 0.107
+
+Stream VByte: breaking new speed records for integer compression
+https://news.ycombinator.com/item?id=15350115
+|####                                              | S: 123 C: 10 R: 0.081
+
+Designing a Wireless Device That Lives Forever
+https://news.ycombinator.com/item?id=15354741
+|###                                               | S: 14 C: 1 R: 0.071
+
+Master of Disaster, Ignatius Donnelly
+https://news.ycombinator.com/item?id=15350250
+|###                                               | S: 15 C: 1 R: 0.067
+
+Yes, We Get Wiser with Age
+https://news.ycombinator.com/item?id=15346635
+|#                                                 | S: 27 C: 1 R: 0.037
+
+How Shazam Works (2015)
+https://news.ycombinator.com/item?id=15350729
+|#                                                 | S: 139 C: 5 R: 0.036
+
+Nuitka: a Python compiler
+https://news.ycombinator.com/item?id=15354613
+|#                                                 | S: 48 C: 1 R: 0.021
+
