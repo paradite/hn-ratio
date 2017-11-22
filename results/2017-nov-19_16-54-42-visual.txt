@@ -1,0 +1,192 @@
+Hotshot Tech Founders Face a Dilemma: Lie Low or Live Large
+https://news.ycombinator.com/item?id=15731367
+|##################################################|########### S: 55 C: 68 R: 1.236
+
+“Last Mile” Barriers to Removing Legacy BIOS [pdf]
+https://news.ycombinator.com/item?id=15730113
+|################################################# | S: 174 C: 171 R: 0.983
+
+20 Years of Adobe Photoshop
+https://news.ycombinator.com/item?id=15730055
+|#############################################     | S: 63 C: 57 R: 0.905
+
+Why Amazon, Facebook and Google can all be beaten
+https://news.ycombinator.com/item?id=15732180
+|###########################################       | S: 92 C: 80 R: 0.870
+
+A Founder Salary Calculator
+https://news.ycombinator.com/item?id=15728825
+|#########################################         | S: 213 C: 178 R: 0.836
+
+Brave expands Basic Attention Token platform to YouTube
+https://news.ycombinator.com/item?id=15722299
+|#########################################         | S: 310 C: 256 R: 0.826
+
+Argentina says signals detected, likely from missing submarine
+https://news.ycombinator.com/item?id=15730176
+|#######################################           | S: 116 C: 91 R: 0.784
+
+GNU nano 2.9.0
+https://news.ycombinator.com/item?id=15731079
+|######################################            | S: 52 C: 40 R: 0.769
+
+Startup Ideas
+https://news.ycombinator.com/item?id=15714318
+|####################################              | S: 598 C: 442 R: 0.739
+
+The Twitter Rules
+https://news.ycombinator.com/item?id=15730539
+|####################################              | S: 38 C: 28 R: 0.737
+
+IRC necromancy
+https://news.ycombinator.com/item?id=15728881
+|####################################              | S: 77 C: 56 R: 0.727
+
+Ask HN: I'm lonely. Are there any video chat support groups for solo founders?
+https://news.ycombinator.com/item?id=15732087
+|###################################               | S: 133 C: 95 R: 0.714
+
+Show HN: Chord Progressions
+https://news.ycombinator.com/item?id=15720448
+|################################                  | S: 150 C: 97 R: 0.647
+
+Show HN: Node.js node_modules file pruning
+https://news.ycombinator.com/item?id=15731936
+|###############################                   | S: 68 C: 43 R: 0.632
+
+Tesla Roadster
+https://news.ycombinator.com/item?id=15719262
+|############################                      | S: 1237 C: 702 R: 0.568
+
+Startups Worship the Young; Research Shows People Are Most Innovative When Older
+https://news.ycombinator.com/item?id=15732540
+|########################                          | S: 60 C: 29 R: 0.483
+
+Coders who trade: Wall Street designs its staff for the future
+https://news.ycombinator.com/item?id=15725208
+|#######################                           | S: 335 C: 158 R: 0.472
+
+Slaughterbots: Stop Autonomous Weapons
+https://news.ycombinator.com/item?id=15731913
+|#####################                             | S: 87 C: 38 R: 0.437
+
+Luxon – A library for working with dates and times in JS
+https://news.ycombinator.com/item?id=15729794
+|####################                              | S: 137 C: 57 R: 0.416
+
+Stamps for UX and Product designers
+https://news.ycombinator.com/item?id=15731708
+|###################                               | S: 49 C: 19 R: 0.388
+
+EC2 Update – X1e Instances in Five More Sizes and a Stronger SLA
+https://news.ycombinator.com/item?id=15730279
+|##################                                | S: 27 C: 10 R: 0.370
+
+Stockfish Wins Chess.com Computer Championship
+https://news.ycombinator.com/item?id=15729195
+|#################                                 | S: 191 C: 65 R: 0.340
+
+How the BBC News website has changed over the past 20 years
+https://news.ycombinator.com/item?id=15730218
+|################                                  | S: 70 C: 23 R: 0.329
+
+Span&lt;T&gt; in C#
+https://news.ycombinator.com/item?id=15731233
+|###############                                   | S: 215 C: 67 R: 0.312
+
+$3 Trillion in Forgotten Debt
+https://news.ycombinator.com/item?id=15724609
+|##############                                    | S: 219 C: 62 R: 0.283
+
+Microsoft and GitHub team up to take Git virtual file system to macOS, Linux
+https://news.ycombinator.com/item?id=15723926
+|##############                                    | S: 734 C: 206 R: 0.281
+
+A Certain Kind of Love, or Why My Apartment Qualifies as a Phone Network Now
+https://news.ycombinator.com/item?id=15731554
+|##############                                    | S: 25 C: 7 R: 0.280
+
+Highest-quality GIF encoder based on pngquant
+https://news.ycombinator.com/item?id=15730018
+|#############                                     | S: 88 C: 24 R: 0.273
+
+How Facebook's Instagram Acquisition Led to the Open Sourcing of React.js
+https://news.ycombinator.com/item?id=15727823
+|#############                                     | S: 234 C: 63 R: 0.269
+
+Stupid long route
+https://news.ycombinator.com/item?id=15729797
+|#############                                     | S: 45 C: 12 R: 0.267
+
+Orcas have learned how to drown great white sharks
+https://news.ycombinator.com/item?id=15723393
+|#############                                     | S: 376 C: 99 R: 0.263
+
+Show HN: Voice-z-machine – Enables playing z-machine games via a webservice
+https://news.ycombinator.com/item?id=15731369
+|############                                      | S: 29 C: 7 R: 0.241
+
+All About Erasure Codes (2004) [pdf]
+https://news.ycombinator.com/item?id=15730858
+|###########                                       | S: 26 C: 6 R: 0.231
+
+Biology’s beloved amphibian is racing towards extinction
+https://news.ycombinator.com/item?id=15730262
+|###########                                       | S: 115 C: 26 R: 0.226
+
+Tosheets, utility to send stdin to Google sheets
+https://news.ycombinator.com/item?id=15722108
+|#########                                         | S: 151 C: 28 R: 0.185
+
+Baking Bread with the Romans: Part II – Panis Quadratus
+https://news.ycombinator.com/item?id=15723317
+|#########                                         | S: 158 C: 29 R: 0.184
+
+Ancient data, modern math and the hunt for lost cities of the Bronze Age
+https://news.ycombinator.com/item?id=15729616
+|########                                          | S: 98 C: 16 R: 0.163
+
+The Atoms of Programming
+https://news.ycombinator.com/item?id=15728782
+|#######                                           | S: 116 C: 18 R: 0.155
+
+Security alerts on GitHub
+https://news.ycombinator.com/item?id=15714920
+|#######                                           | S: 685 C: 100 R: 0.146
+
+New AWS Deep Learning AMIs for Machine Learning Practitioners
+https://news.ycombinator.com/item?id=15730330
+|######                                            | S: 57 C: 7 R: 0.123
+
+Matrix Calculus
+https://news.ycombinator.com/item?id=15728147
+|#####                                             | S: 337 C: 40 R: 0.119
+
+Creating an Autonomous System for Fun and Profit
+https://news.ycombinator.com/item?id=15727115
+|#####                                             | S: 125 C: 14 R: 0.112
+
+Scaling Postgres with Read Replicas and Using WAL to Counter Stale Reads
+https://news.ycombinator.com/item?id=15726376
+|####                                              | S: 214 C: 21 R: 0.098
+
+AWS Amplify – A declarative library for application development
+https://news.ycombinator.com/item?id=15727896
+|####                                              | S: 87 C: 8 R: 0.092
+
+Norway oil stock exit idea “shot heard round the world'
+https://news.ycombinator.com/item?id=15732248
+|####                                              | S: 11 C: 1 R: 0.091
+
+Installing TensorFlow 1.4.0 on MacOS with CUDA Support
+https://news.ycombinator.com/item?id=15730318
+|####                                              | S: 33 C: 3 R: 0.091
+
+Some birds use discarded cigarettes to fumigate their nests
+https://news.ycombinator.com/item?id=15732161
+|##                                                | S: 20 C: 1 R: 0.050
+
+The Entrepreneur's Roadmap – From Concept to IPO
+https://news.ycombinator.com/item?id=15731639
+|#                                                 | S: 46 C: 1 R: 0.022
+

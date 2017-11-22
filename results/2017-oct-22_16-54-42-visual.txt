@@ -1,0 +1,192 @@
+We Can’t Stem the Tide of Language Death
+https://news.ycombinator.com/item?id=15520429
+|##################################################|####################################################### S: 49 C: 103 R: 2.102
+
+A Test of Police Body Cameras Defies Expectations
+https://news.ycombinator.com/item?id=15516658
+|##################################################|################################# S: 196 C: 327 R: 1.668
+
+An alternative to burial and cremation gains popularity
+https://news.ycombinator.com/item?id=15521158
+|##################################################|###### S: 115 C: 130 R: 1.130
+
+How Seattle Got More People to Ride the Bus
+https://news.ycombinator.com/item?id=15523487
+|##################################################|#### S: 149 C: 162 R: 1.087
+
+China Is Quietly Reshaping the World
+https://news.ycombinator.com/item?id=15523954
+|#############################################     | S: 89 C: 81 R: 0.910
+
+Q&A: Douglas Hofstadter on why AI is far from intelligent
+https://news.ycombinator.com/item?id=15522804
+|########################################          | S: 97 C: 79 R: 0.814
+
+Implementing Go's defer keyword in C++
+https://news.ycombinator.com/item?id=15523286
+|########################################          | S: 78 C: 63 R: 0.808
+
+5G Radiation Dangers (2016)
+https://news.ycombinator.com/item?id=15523102
+|#######################################           | S: 104 C: 83 R: 0.798
+
+Oroville Dam: Cost to repair spillways nearly doubles in price to $500M
+https://news.ycombinator.com/item?id=15524473
+|#######################################           | S: 81 C: 64 R: 0.790
+
+The Family Making Billions from the Opioid Crisis
+https://news.ycombinator.com/item?id=15522012
+|####################################              | S: 301 C: 222 R: 0.738
+
+Sugar alters hormones and metabolism, sets stage for obesity and diabetes
+https://news.ycombinator.com/item?id=15521882
+|####################################              | S: 262 C: 192 R: 0.733
+
+Beating the bookies – how the online sports betting market is rigged
+https://news.ycombinator.com/item?id=15523186
+|###############################                   | S: 152 C: 95 R: 0.625
+
+College Advice I Wish I’d Taken
+https://news.ycombinator.com/item?id=15524010
+|##############################                    | S: 85 C: 51 R: 0.600
+
+Interview with Susan Fowler
+https://news.ycombinator.com/item?id=15524669
+|#############################                     | S: 112 C: 66 R: 0.589
+
+Why the Seattle Mystery Bookshop Must Close
+https://news.ycombinator.com/item?id=15523600
+|#############################                     | S: 74 C: 43 R: 0.581
+
+Redux-zero: A lightweight state container based on Redux
+https://news.ycombinator.com/item?id=15519059
+|############################                      | S: 59 C: 34 R: 0.576
+
+Chamath Palihapitiya of Social Capital on the Paradox of Ego and Humility
+https://news.ycombinator.com/item?id=15520005
+|############################                      | S: 41 C: 23 R: 0.561
+
+How Retailers Use Personalized Prices
+https://news.ycombinator.com/item?id=15524545
+|###########################                       | S: 132 C: 73 R: 0.553
+
+Google and the Resurgence of Italian Design
+https://news.ycombinator.com/item?id=15521108
+|########################                          | S: 375 C: 182 R: 0.485
+
+Mastodon 2.0
+https://news.ycombinator.com/item?id=15514987
+|#######################                           | S: 388 C: 184 R: 0.474
+
+Protect Your Privacy, Ditch Mainstream Email
+https://news.ycombinator.com/item?id=15525083
+|#####################                             | S: 16 C: 7 R: 0.438
+
+Show HN: Pg_blkchain – Postgres blockchain extension
+https://news.ycombinator.com/item?id=15522023
+|#####################                             | S: 69 C: 29 R: 0.420
+
+Avoiding Startup Tarpits
+https://news.ycombinator.com/item?id=15519190
+|###################                               | S: 136 C: 54 R: 0.397
+
+Iceland's attempts to replant its forests
+https://news.ycombinator.com/item?id=15515292
+|###################                               | S: 635 C: 249 R: 0.392
+
+Why I'm Productive in Clojure (2013)
+https://news.ycombinator.com/item?id=15524812
+|###################                               | S: 65 C: 25 R: 0.385
+
+Home Assistant is an open-source home automation platform running on Python 3
+https://news.ycombinator.com/item?id=15521743
+|#################                                 | S: 403 C: 139 R: 0.345
+
+HolyJit: A New Hope
+https://news.ycombinator.com/item?id=15514926
+|################                                  | S: 585 C: 198 R: 0.338
+
+A reasonably speedy Python ray tracer
+https://news.ycombinator.com/item?id=15522428
+|################                                  | S: 125 C: 40 R: 0.320
+
+Left Truncatable Prime
+https://news.ycombinator.com/item?id=15521829
+|###############                                   | S: 88 C: 28 R: 0.318
+
+Introducing C# in Godot
+https://news.ycombinator.com/item?id=15523416
+|##############                                    | S: 62 C: 18 R: 0.290
+
+MENACE
+https://news.ycombinator.com/item?id=15523260
+|###########                                       | S: 39 C: 9 R: 0.231
+
+The Consolidation Of Talent, Capital and Returns in Biotech
+https://news.ycombinator.com/item?id=15520789
+|##########                                        | S: 80 C: 17 R: 0.212
+
+Gaming Robinhood’s Free Stock Promotion – Or, How to Blow $350
+https://news.ycombinator.com/item?id=15523159
+|##########                                        | S: 94 C: 19 R: 0.202
+
+Ask HN: What steps do you take to plan a new project?
+https://news.ycombinator.com/item?id=15524612
+|##########                                        | S: 40 C: 8 R: 0.200
+
+My first experience with formal methods
+https://news.ycombinator.com/item?id=15514543
+|########                                          | S: 90 C: 16 R: 0.178
+
+UEFI Programming – First Steps (2009)
+https://news.ycombinator.com/item?id=15523363
+|######                                            | S: 94 C: 13 R: 0.138
+
+Korean banks sue computer parts retailer Newegg, alleging 'Ponzi scheme'
+https://news.ycombinator.com/item?id=15523466
+|######                                            | S: 22 C: 3 R: 0.136
+
+Writing a Bootloader
+https://news.ycombinator.com/item?id=15514179
+|######                                            | S: 381 C: 50 R: 0.131
+
+Methods for Teaching the Programming Language Smalltalk (1977) [pdf]
+https://news.ycombinator.com/item?id=15523807
+|######                                            | S: 65 C: 8 R: 0.123
+
+Bounter: A Python counter that uses limited memory regardless of data size
+https://news.ycombinator.com/item?id=15521177
+|######                                            | S: 140 C: 17 R: 0.121
+
+More containers on Chrome OS
+https://news.ycombinator.com/item?id=15525199
+|#####                                             | S: 18 C: 2 R: 0.111
+
+Reusable and type-safe options for Go APIs
+https://news.ycombinator.com/item?id=15525258
+|#####                                             | S: 10 C: 1 R: 0.100
+
+Hundreds of Mysterious Stone ‘Gates’ Found in Saudi Arabia’s Desert
+https://news.ycombinator.com/item?id=15524060
+|####                                              | S: 41 C: 4 R: 0.098
+
+Wrapping C with Python: 3D image segmentation with region growing
+https://news.ycombinator.com/item?id=15521932
+|####                                              | S: 78 C: 7 R: 0.090
+
+Word embeddings in 2017: Trends and future directions
+https://news.ycombinator.com/item?id=15521957
+|####                                              | S: 124 C: 10 R: 0.081
+
+A Guided Tour of Clojure Destructuring Bind in Emacs Lisp (2011)
+https://news.ycombinator.com/item?id=15520717
+|###                                               | S: 54 C: 4 R: 0.074
+
+Archaeologists are mystified by ancient “gates” in Saudi lava fields
+https://news.ycombinator.com/item?id=15525409
+|##                                                | S: 21 C: 1 R: 0.048
+
+TensorFlow 101
+https://news.ycombinator.com/item?id=15525072
+|##                                                | S: 44 C: 2 R: 0.045
+

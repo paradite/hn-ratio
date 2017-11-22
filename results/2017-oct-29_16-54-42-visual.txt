@@ -1,0 +1,160 @@
+The Ergonomics of Type Checking (2016)
+https://news.ycombinator.com/item?id=15575941
+|##################################################|########### S: 67 C: 82 R: 1.224
+
+Why Snapchat Spectacles failed
+https://news.ycombinator.com/item?id=15576751
+|###############################################   | S: 135 C: 127 R: 0.941
+
+Sweden's Job-Security Councils Make Layoffs Easier
+https://news.ycombinator.com/item?id=15566221
+|############################################      | S: 52 C: 46 R: 0.885
+
+Tobacco industry generates highest net income per employee
+https://news.ycombinator.com/item?id=15576631
+|###########################################       | S: 68 C: 59 R: 0.868
+
+I cured my tech fatigue by ditching feeds
+https://news.ycombinator.com/item?id=15578019
+|######################################            | S: 65 C: 50 R: 0.769
+
+Tech Stocks Roar Again in Faint Echo of 2000
+https://news.ycombinator.com/item?id=15577347
+|####################################              | S: 50 C: 36 R: 0.720
+
+The OWASP Top 10 is killing me
+https://news.ycombinator.com/item?id=15566289
+|###################################               | S: 91 C: 64 R: 0.703
+
+Why would anyone choose Docker over fat binaries?
+https://news.ycombinator.com/item?id=15578147
+|###################################               | S: 37 C: 26 R: 0.703
+
+One pixel attack for deceiving deep neural networks
+https://news.ycombinator.com/item?id=15577885
+|############################                      | S: 82 C: 47 R: 0.573
+
+The data economy demands a new approach to antitrust rules
+https://news.ycombinator.com/item?id=15577777
+|############################                      | S: 70 C: 40 R: 0.571
+
+Investigation: Why is SQS so slow?
+https://news.ycombinator.com/item?id=15577952
+|############################                      | S: 16 C: 9 R: 0.562
+
+Ask HN: Learning Lisp, and I have some questions
+https://news.ycombinator.com/item?id=15575505
+|##########################                        | S: 73 C: 39 R: 0.534
+
+Orchid: a new surveillance-free layer on top of the existing Internet
+https://news.ycombinator.com/item?id=15576457
+|#########################                         | S: 270 C: 139 R: 0.515
+
+Crystal in Production: Diploid
+https://news.ycombinator.com/item?id=15574714
+|######################                            | S: 233 C: 107 R: 0.459
+
+I Watched All of the Chrome Dev Summit 2017 Videos
+https://news.ycombinator.com/item?id=15575109
+|####################                              | S: 186 C: 76 R: 0.409
+
+Fiat vs. Bitcoin
+https://news.ycombinator.com/item?id=15576989
+|####################                              | S: 32 C: 13 R: 0.406
+
+Delaware's Odd, Beautiful, Contentious, Private Utopia
+https://news.ycombinator.com/item?id=15576216
+|##################                                | S: 123 C: 45 R: 0.366
+
+From Brainfuck to Domino Computers [pdf]
+https://news.ycombinator.com/item?id=15566865
+|##################                                | S: 25 C: 9 R: 0.360
+
+Progressive Growing of GANs for Improved Quality, Stability, Variation [video]
+https://news.ycombinator.com/item?id=15574079
+|###############                                   | S: 207 C: 65 R: 0.314
+
+Amazon now has a billion-dollar ad business
+https://news.ycombinator.com/item?id=15576083
+|###############                                   | S: 152 C: 47 R: 0.309
+
+Attempting to Launch a Behavior-Change Revolution
+https://news.ycombinator.com/item?id=15564687
+|##############                                    | S: 47 C: 14 R: 0.298
+
+Man flies over South Africa in a chair tied to helium balloons [video]
+https://news.ycombinator.com/item?id=15577609
+|##############                                    | S: 54 C: 16 R: 0.296
+
+Chess master Lev Alburt teaches strategy, patience, and prognostication
+https://news.ycombinator.com/item?id=15577606
+|##############                                    | S: 51 C: 15 R: 0.294
+
+Building a Fast Search Experience
+https://news.ycombinator.com/item?id=15566895
+|#############                                     | S: 23 C: 6 R: 0.261
+
+Uncaptcha: Defeating Google's audio reCaptcha with 85% accuracy
+https://news.ycombinator.com/item?id=15555001
+|############                                      | S: 83 C: 20 R: 0.241
+
+Learning Depth-Three Neural Networks in Polynomial Time
+https://news.ycombinator.com/item?id=15577421
+|############                                      | S: 50 C: 12 R: 0.240
+
+An anti-aging strategy that works in mice is about to be tested in humans
+https://news.ycombinator.com/item?id=15577836
+|###########                                       | S: 109 C: 26 R: 0.239
+
+The Students Who Discovered Dieselgate
+https://news.ycombinator.com/item?id=15573123
+|##########                                        | S: 58 C: 12 R: 0.207
+
+Starting in 2018, using cryptocurrencies in Vietnam will be illegal
+https://news.ycombinator.com/item?id=15576976
+|#########                                         | S: 54 C: 10 R: 0.185
+
+A Simply Arited Concatenative Language
+https://news.ycombinator.com/item?id=15576215
+|######                                            | S: 55 C: 7 R: 0.127
+
+Show HN: Stdcore, a toy container library
+https://news.ycombinator.com/item?id=15576042
+|######                                            | S: 41 C: 5 R: 0.122
+
+Paper bag reveals forgotten history
+https://news.ycombinator.com/item?id=15577183
+|####                                              | S: 12 C: 1 R: 0.083
+
+Show HN: Airhdl – a web-based AXI4 register file generator
+https://news.ycombinator.com/item?id=15566405
+|###                                               | S: 14 C: 1 R: 0.071
+
+The Perfectionist
+https://news.ycombinator.com/item?id=15576788
+|##                                                | S: 18 C: 1 R: 0.056
+
+Git Magic
+https://news.ycombinator.com/item?id=15576847
+|                                                  | S: 51 C: 1 R: 0.020
+
+A Visit to a Synthetic Cadaver Factory
+https://news.ycombinator.com/item?id=15578206
+|                                                  | S: 13 C: 0 R: 0.000
+
+Oral History of John Backus (2006) [video]
+https://news.ycombinator.com/item?id=15577584
+|                                                  | S: 23 C: 0 R: 0.000
+
+A Point of View: Chess and 18th Century artificial intelligence (2013)
+https://news.ycombinator.com/item?id=15576326
+|                                                  | S: 21 C: 0 R: 0.000
+
+Ancient Skull May Be History’s Earliest Known Tsunami Victim
+https://news.ycombinator.com/item?id=15565871
+|                                                  | S: 16 C: 0 R: 0.000
+
+Show HN: 600 kubectl bash aliases that help me work with Kubernetes faster
+https://news.ycombinator.com/item?id=15576684
+|                                                  | S: 14 C: 0 R: 0.000
+

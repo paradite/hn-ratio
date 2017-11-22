@@ -1,0 +1,188 @@
+Learning Go by porting a medium-sized web back end from Python
+https://news.ycombinator.com/item?id=15652136
+|######################################            | S: 234 C: 181 R: 0.774
+
+Show HN: Impostor Roster – Suffering from Impostor Syndrome? You're not alone
+https://news.ycombinator.com/item?id=15666088
+|#################################                 | S: 101 C: 68 R: 0.673
+
+What is a Bitcoin fork?
+https://news.ycombinator.com/item?id=15667607
+|################################                  | S: 78 C: 50 R: 0.641
+
+DOJ: Strong encryption that we don’t have access to is “unreasonable”
+https://news.ycombinator.com/item?id=15667385
+|###############################                   | S: 146 C: 91 R: 0.623
+
+BitTorrent inventor announces eco-friendly Bitcoin competitor Chia
+https://news.ycombinator.com/item?id=15655840
+|#############################                     | S: 459 C: 274 R: 0.597
+
+Pliny the Elder, “The Natural History”, Book I (79)
+https://news.ycombinator.com/item?id=15660224
+|#############################                     | S: 64 C: 38 R: 0.594
+
+Show HN: A really addictive way to read /r/todayilearned
+https://news.ycombinator.com/item?id=15664383
+|#############################                     | S: 17 C: 10 R: 0.588
+
+.IO domain name reliability issues and how we’re working around them
+https://news.ycombinator.com/item?id=15663988
+|###########################                       | S: 259 C: 143 R: 0.552
+
+Intel to Develop Discrete GPUs, Hires AMD's Raja Koduri as Chief Architect
+https://news.ycombinator.com/item?id=15657800
+|###########################                       | S: 387 C: 213 R: 0.550
+
+Apple announces CUPS changeing from GPLv2 to Apache licensing
+https://news.ycombinator.com/item?id=15668021
+|###########################                       | S: 51 C: 28 R: 0.549
+
+Waymo now testing its self-driving cars on public roads with no one at the wheel
+https://news.ycombinator.com/item?id=15644680
+|###########################                       | S: 1110 C: 604 R: 0.544
+
+The GraphQL stack: How everything fits together
+https://news.ycombinator.com/item?id=15651781
+|##########################                        | S: 196 C: 105 R: 0.536
+
+Fact or Fiction?: An Opera Singer's Piercing Voice Can Shatter Glass
+https://news.ycombinator.com/item?id=15667096
+|#########################                         | S: 24 C: 12 R: 0.500
+
+Y Combinator Company List
+https://news.ycombinator.com/item?id=15668468
+|#########################                         | S: 20 C: 10 R: 0.500
+
+'Zombie ant' brains left intact by fungal parasite
+https://news.ycombinator.com/item?id=15651231
+|########################                          | S: 177 C: 88 R: 0.497
+
+Senators push to ditch social security numbers in light of Equifax hack
+https://news.ycombinator.com/item?id=15657887
+|#####################                             | S: 1003 C: 441 R: 0.440
+
+Ford Pilots New Exoskeleton to Help Lessen Chance of Worker Fatigue, Injury
+https://news.ycombinator.com/item?id=15666539
+|#####################                             | S: 118 C: 50 R: 0.424
+
+Musical.ly, the lip-syncing video app, is going to sell for at least $800M
+https://news.ycombinator.com/item?id=15667753
+|###################                               | S: 46 C: 18 R: 0.391
+
+How We Deliver Global SSL with Let's Encrypt
+https://news.ycombinator.com/item?id=15664898
+|###################                               | S: 124 C: 48 R: 0.387
+
+Sean Parker unloads on Facebook “exploiting” human psychology
+https://news.ycombinator.com/item?id=15662004
+|###################                               | S: 526 C: 203 R: 0.386
+
+Places in America that pay people to move there
+https://news.ycombinator.com/item?id=15668309
+|##################                                | S: 29 C: 11 R: 0.379
+
+The Magic of Harry Potter Is Coming to a Neighborhood Near You
+https://news.ycombinator.com/item?id=15666176
+|##################                                | S: 70 C: 26 R: 0.371
+
+The Booming Japanese Rent-A-Friend Business
+https://news.ycombinator.com/item?id=15651510
+|##################                                | S: 626 C: 229 R: 0.366
+
+Electric Sheep on Ubuntu Linux 17.10
+https://news.ycombinator.com/item?id=15666056
+|#################                                 | S: 79 C: 28 R: 0.354
+
+LibHTTP: Open Source HTTP Library in C
+https://news.ycombinator.com/item?id=15666311
+|################                                  | S: 121 C: 40 R: 0.331
+
+Niagara Falls without water in 1969
+https://news.ycombinator.com/item?id=15664422
+|###############                                   | S: 147 C: 47 R: 0.320
+
+Russian Peasant Multiplication
+https://news.ycombinator.com/item?id=15660301
+|###############                                   | S: 138 C: 44 R: 0.319
+
+Creating a Modern OCR Pipeline Using Computer Vision and Deep Learning
+https://news.ycombinator.com/item?id=15664071
+|##############                                    | S: 352 C: 105 R: 0.298
+
+Interesting features from various modern programming languages
+https://news.ycombinator.com/item?id=15668256
+|#############                                     | S: 22 C: 6 R: 0.273
+
+Human sperm steer with second harmonics of the flagellar beat
+https://news.ycombinator.com/item?id=15666714
+|############                                      | S: 91 C: 23 R: 0.253
+
+Business questions engineers should ask when interviewing at ML/AI companies
+https://news.ycombinator.com/item?id=15667286
+|############                                      | S: 214 C: 54 R: 0.252
+
+Skyrim rendered in text
+https://news.ycombinator.com/item?id=15661490
+|############                                      | S: 379 C: 92 R: 0.243
+
+Using neural networks to detect car crashes in dashcam footage
+https://news.ycombinator.com/item?id=15662400
+|###########                                       | S: 104 C: 23 R: 0.221
+
+Coherent Line Drawing
+https://news.ycombinator.com/item?id=15660384
+|#########                                         | S: 83 C: 16 R: 0.193
+
+French institute suspects nuclear accident in Russia or Kazakhstan in September
+https://news.ycombinator.com/item?id=15668202
+|#########                                         | S: 52 C: 10 R: 0.192
+
+Simple React Patterns
+https://news.ycombinator.com/item?id=15667778
+|#########                                         | S: 127 C: 24 R: 0.189
+
+Low-cost, non-invasive melanoma detector wins award
+https://news.ycombinator.com/item?id=15662441
+|########                                          | S: 276 C: 45 R: 0.163
+
+Writing a basic x86-64 JIT compiler from scratch in stock Python
+https://news.ycombinator.com/item?id=15665581
+|#######                                           | S: 254 C: 37 R: 0.146
+
+Kured – A Kubernetes Reboot Daemon
+https://news.ycombinator.com/item?id=15663470
+|######                                            | S: 80 C: 11 R: 0.138
+
+An Open Letter to Dove
+https://news.ycombinator.com/item?id=15668290
+|######                                            | S: 118 C: 16 R: 0.136
+
+Justice Department moves to end routine gag orders on tech firms
+https://news.ycombinator.com/item?id=15657186
+|######                                            | S: 361 C: 44 R: 0.122
+
+Two new books about the history of paper
+https://news.ycombinator.com/item?id=15664928
+|#####                                             | S: 43 C: 5 R: 0.116
+
+Bayesian Generative Adversarial Networks
+https://news.ycombinator.com/item?id=15666964
+|#####                                             | S: 116 C: 12 R: 0.103
+
+1 in 4 Renters is Severely Cost-Burdened, 50% of more of their Income on Rent
+https://news.ycombinator.com/item?id=15667928
+|####                                              | S: 12 C: 1 R: 0.083
+
+Quake on an oscilloscope (2014)
+https://news.ycombinator.com/item?id=15659172
+|####                                              | S: 304 C: 25 R: 0.082
+
+TensorForce 0.3: End-to-end computation graphs for reinforcement learning
+https://news.ycombinator.com/item?id=15662163
+|#                                                 | S: 97 C: 3 R: 0.031
+
+UI backwards compatibility
+https://news.ycombinator.com/item?id=15665865
+|                                                  | S: 20 C: 0 R: 0.000
+

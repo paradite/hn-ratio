@@ -1,0 +1,180 @@
+Shut up and calculate: an extreme mathematical universe
+https://news.ycombinator.com/item?id=15637074
+|##################################################|#### S: 143 C: 157 R: 1.098
+
+Tesla's head of battery engineering exits
+https://news.ycombinator.com/item?id=15639014
+|###############################################   | S: 166 C: 157 R: 0.946
+
+How Apple sidestepped a 2013 crackdown on its Irish tax practices
+https://news.ycombinator.com/item?id=15637330
+|#############################################     | S: 344 C: 315 R: 0.916
+
+Facebook Says It’s Policing Fake Accounts, but They’re Still Easy to Spot
+https://news.ycombinator.com/item?id=15622518
+|########################################          | S: 123 C: 100 R: 0.813
+
+Saudi Money Fuels the Tech Industry. It’s Time to Ask Why
+https://news.ycombinator.com/item?id=15640598
+|#######################################           | S: 226 C: 177 R: 0.783
+
+Ask HN: Is it possible to publish research work in CS without any affiliation?
+https://news.ycombinator.com/item?id=15641138
+|################################                  | S: 42 C: 27 R: 0.643
+
+A 12pt Font Should Be the Same Size Everywhere (2012)
+https://news.ycombinator.com/item?id=15639616
+|#############################                     | S: 200 C: 117 R: 0.585
+
+Rivals Intel and AMD Team Up on PC Chips to Battle Nvidia
+https://news.ycombinator.com/item?id=15635249
+|###########################                       | S: 324 C: 176 R: 0.543
+
+Broadcom Offers $105B for Qualcomm in Landmark Deal
+https://news.ycombinator.com/item?id=15635022
+|##########################                        | S: 311 C: 167 R: 0.537
+
+Ask HN: Is Comcast having internet problems?
+https://news.ycombinator.com/item?id=15637412
+|#######################                           | S: 128 C: 60 R: 0.469
+
+Robot-assisted surgery associated with longer operating times, higher cost
+https://news.ycombinator.com/item?id=15634860
+|#######################                           | S: 123 C: 57 R: 0.463
+
+Ask HN: Is there something wrong with internet right now?
+https://news.ycombinator.com/item?id=15637607
+|######################                            | S: 161 C: 73 R: 0.453
+
+Sick of Ruby, dynamic typing, side effects, and object-oriented programming
+https://news.ycombinator.com/item?id=15641274
+|#####################                             | S: 99 C: 43 R: 0.434
+
+Does anyone remember websites?
+https://news.ycombinator.com/item?id=15631565
+|####################                              | S: 861 C: 356 R: 0.413
+
+Chrome breaks the Web
+https://news.ycombinator.com/item?id=15634609
+|###################                               | S: 981 C: 384 R: 0.391
+
+Limecv – A LaTeX CV Document Class
+https://news.ycombinator.com/item?id=15639339
+|###################                               | S: 128 C: 49 R: 0.383
+
+Living cells are very fast and crowded places (2012)
+https://news.ycombinator.com/item?id=15635000
+|##################                                | S: 125 C: 46 R: 0.368
+
+A look at inner workings of Joycon and Nintendo Switch
+https://news.ycombinator.com/item?id=15635401
+|##################                                | S: 141 C: 51 R: 0.362
+
+Revisited: Watership Down
+https://news.ycombinator.com/item?id=15640138
+|#################                                 | S: 57 C: 20 R: 0.351
+
+Show HN: UltraEd – A level editor/game engine for the Nintendo 64
+https://news.ycombinator.com/item?id=15637506
+|###############                                   | S: 82 C: 25 R: 0.305
+
+Show HN: OSX-ISO – Create a bootable ISO of macOS from the installation app file
+https://news.ycombinator.com/item?id=15638201
+|##############                                    | S: 107 C: 30 R: 0.280
+
+Flexbox and Grids: your layout’s best friends
+https://news.ycombinator.com/item?id=15637111
+|#############                                     | S: 428 C: 113 R: 0.264
+
+Exploring Previously Unknown Remote Kernel Bugs Affecting Android Phones
+https://news.ycombinator.com/item?id=15638236
+|############                                      | S: 116 C: 28 R: 0.241
+
+Andromeda 2.1 reduces GCP’s intra-zone latency by 40%
+https://news.ycombinator.com/item?id=15640462
+|###########                                       | S: 109 C: 26 R: 0.239
+
+Mother Earth Mother Board (1996)
+https://news.ycombinator.com/item?id=15635028
+|###########                                       | S: 70 C: 16 R: 0.229
+
+Mastering PostgreSQL in Application Development
+https://news.ycombinator.com/item?id=15634953
+|###########                                       | S: 394 C: 87 R: 0.221
+
+Fixing the Ethernet Board from a Vintage Xerox Alto
+https://news.ycombinator.com/item?id=15636863
+|##########                                        | S: 128 C: 28 R: 0.219
+
+Exploring different microcontrollers less than $1
+https://news.ycombinator.com/item?id=15633785
+|##########                                        | S: 806 C: 167 R: 0.207
+
+Lessons from migrating a large codebase to React 16
+https://news.ycombinator.com/item?id=15641066
+|##########                                        | S: 83 C: 17 R: 0.205
+
+MINIX: ​Intel's hidden in-chip operating system
+https://news.ycombinator.com/item?id=15641592
+|#########                                         | S: 31 C: 6 R: 0.194
+
+Untangling the WebRTC Flow
+https://news.ycombinator.com/item?id=15637630
+|#########                                         | S: 99 C: 18 R: 0.182
+
+PoC||GTFO 0x16 [pdf]
+https://news.ycombinator.com/item?id=15635102
+|########                                          | S: 112 C: 19 R: 0.170
+
+Tangent: Source-To-Source Autodiff for Python
+https://news.ycombinator.com/item?id=15639328
+|#######                                           | S: 13 C: 2 R: 0.154
+
+Humble Book Bundle, Start a Startup by Wiley
+https://news.ycombinator.com/item?id=15639656
+|#######                                           | S: 42 C: 6 R: 0.143
+
+Promethea Unbound
+https://news.ycombinator.com/item?id=15636225
+|#######                                           | S: 42 C: 6 R: 0.143
+
+The sound of the dialup, pictured (2012)
+https://news.ycombinator.com/item?id=15635144
+|######                                            | S: 608 C: 82 R: 0.135
+
+How Pure Is This Cup of Joe?
+https://news.ycombinator.com/item?id=15637093
+|######                                            | S: 132 C: 17 R: 0.129
+
+Some Thoughts About Concurrency by Ivan Sutherland (2010) [video]
+https://news.ycombinator.com/item?id=15636865
+|######                                            | S: 63 C: 8 R: 0.127
+
+P5.js Crash Course: Recreate Art You Love
+https://news.ycombinator.com/item?id=15638759
+|#####                                             | S: 155 C: 17 R: 0.110
+
+David Lee files lawsuit against former partner Ron Conway
+https://news.ycombinator.com/item?id=15641005
+|#####                                             | S: 73 C: 8 R: 0.110
+
+Cloud SQL for PostgreSQL adds high availability and replication
+https://news.ycombinator.com/item?id=15641361
+|#####                                             | S: 75 C: 8 R: 0.107
+
+Audio Design Deep Dive: Scoring Wolfenstein
+https://news.ycombinator.com/item?id=15635146
+|##                                                | S: 48 C: 2 R: 0.042
+
+Virtual Memory Tricks
+https://news.ycombinator.com/item?id=15641539
+|                                                  | S: 13 C: 0 R: 0.000
+
+The academic, economic and societal impacts of Open Access (2016)
+https://news.ycombinator.com/item?id=15636349
+|                                                  | S: 43 C: 0 R: 0.000
+
+Differential Privacy [pdf]
+https://news.ycombinator.com/item?id=15640168
+|                                                  | S: 10 C: 0 R: 0.000
+

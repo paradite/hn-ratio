@@ -1,0 +1,188 @@
+Can Nashville Pull Off a $5.2B Transit Makeover?
+https://news.ycombinator.com/item?id=15679056
+|##################################################|####### S: 46 C: 53 R: 1.152
+
+Snap’s Rise and Fall: How a Big, Splashy IPO Prompted the Doubters to Keep Mum
+https://news.ycombinator.com/item?id=15676785
+|##################################################|### S: 116 C: 123 R: 1.060
+
+Banks Enforcing Lower Security for Profit
+https://news.ycombinator.com/item?id=15679463
+|##################################################|# S: 30 C: 31 R: 1.033
+
+I hate telephones
+https://news.ycombinator.com/item?id=15677560
+|###############################################   | S: 348 C: 333 R: 0.957
+
+YouTube says it will crack down on bizarre videos targeting children
+https://news.ycombinator.com/item?id=15670109
+|#############################################     | S: 443 C: 399 R: 0.901
+
+Older Americans who live in RVs and drive from one low-wage job to another
+https://news.ycombinator.com/item?id=15678139
+|###########################################       | S: 139 C: 120 R: 0.863
+
+How Julian Jaynes’ consciousness theory is faring in the neuroscience age (2015)
+https://news.ycombinator.com/item?id=15677871
+|##########################################        | S: 99 C: 84 R: 0.848
+
+Jōyō kanji variants: The curious case of 叱 and 𠮟 (2016)
+https://news.ycombinator.com/item?id=15678471
+|#######################################           | S: 115 C: 90 R: 0.783
+
+A Very Long, Super-Nerdy NBA Podcast Is Making Money
+https://news.ycombinator.com/item?id=15676023
+|#################################                 | S: 104 C: 69 R: 0.663
+
+Bill Gates buys land in Arizona to build 'smart city'
+https://news.ycombinator.com/item?id=15679500
+|###############################                   | S: 123 C: 77 R: 0.626
+
+“We have obtained fully functional JTAG for Intel CSME via USB DCI”
+https://news.ycombinator.com/item?id=15669262
+|##########################                        | S: 700 C: 374 R: 0.534
+
+France’s Prometheus reusable engine becomes ESA project, gets funding boost
+https://news.ycombinator.com/item?id=15678401
+|##########################                        | S: 34 C: 18 R: 0.529
+
+How we do Vue at GitLab: one year later
+https://news.ycombinator.com/item?id=15671400
+|#########################                         | S: 357 C: 184 R: 0.515
+
+YCSB Benchmark Results for YugaByte and Apache Cassandra
+https://news.ycombinator.com/item?id=15677066
+|#######################                           | S: 23 C: 11 R: 0.478
+
+Long-Term Coffee Consumption and Risk of Cardiovascular Disease (2013)
+https://news.ycombinator.com/item?id=15679522
+|#######################                           | S: 70 C: 33 R: 0.471
+
+RSS: there's nothing better
+https://news.ycombinator.com/item?id=15675582
+|######################                            | S: 587 C: 265 R: 0.451
+
+Experiment with particles using WebAssembly and WebGL
+https://news.ycombinator.com/item?id=15676371
+|###################                               | S: 128 C: 50 R: 0.391
+
+The Church of the SubGenius Finally Plays It Straight
+https://news.ycombinator.com/item?id=15678542
+|###################                               | S: 81 C: 31 R: 0.383
+
+AI Uses Less Than Two Minutes of Videogame Footage to Recreate Game Engine
+https://news.ycombinator.com/item?id=15678788
+|###################                               | S: 71 C: 27 R: 0.380
+
+How to Destroy Bitcoin with 51%
+https://news.ycombinator.com/item?id=15679172
+|#################                                 | S: 61 C: 21 R: 0.344
+
+Can a Human See a Single Photon? (1996)
+https://news.ycombinator.com/item?id=15679599
+|#################                                 | S: 76 C: 26 R: 0.342
+
+OVH outage explained
+https://news.ycombinator.com/item?id=15675591
+|################                                  | S: 276 C: 93 R: 0.337
+
+Thinking the Way Animals Do (2015)
+https://news.ycombinator.com/item?id=15678175
+|################                                  | S: 33 C: 11 R: 0.333
+
+Lyft Set to Claim Third of U.S. Market in 2017
+https://news.ycombinator.com/item?id=15677727
+|###############                                   | S: 77 C: 24 R: 0.312
+
+All about whiteboard markers
+https://news.ycombinator.com/item?id=15671896
+|###############                                   | S: 394 C: 120 R: 0.305
+
+Digital Nomads Went from Niche to Normal
+https://news.ycombinator.com/item?id=15678694
+|##############                                    | S: 35 C: 10 R: 0.286
+
+Gaussian Distributions Are Soap Bubbles
+https://news.ycombinator.com/item?id=15676220
+|############                                      | S: 133 C: 32 R: 0.241
+
+Modeling Science as a Directed Graph
+https://news.ycombinator.com/item?id=15676911
+|###########                                       | S: 71 C: 17 R: 0.239
+
+Tom Duff on Duff's device (1988)
+https://news.ycombinator.com/item?id=15679205
+|###########                                       | S: 17 C: 4 R: 0.235
+
+Physics Has Demoted Mass
+https://news.ycombinator.com/item?id=15679150
+|##########                                        | S: 38 C: 8 R: 0.211
+
+Deepest hand dug well in the world (2006)
+https://news.ycombinator.com/item?id=15677299
+|#########                                         | S: 69 C: 13 R: 0.188
+
+Capsule Networks Explained
+https://news.ycombinator.com/item?id=15675439
+|#########                                         | S: 97 C: 18 R: 0.186
+
+Creating a presentation by hand using calligraphy
+https://news.ycombinator.com/item?id=15676307
+|#########                                         | S: 120 C: 22 R: 0.183
+
+Linux sandboxing improvements in Firefox 57
+https://news.ycombinator.com/item?id=15678492
+|#########                                         | S: 50 C: 9 R: 0.180
+
+Inside a low-budget consumer hardware espionage implant
+https://news.ycombinator.com/item?id=15676737
+|########                                          | S: 445 C: 80 R: 0.180
+
+Biomimicry: How Designers Are Learning from the Natural World
+https://news.ycombinator.com/item?id=15675695
+|########                                          | S: 86 C: 15 R: 0.174
+
+Archive dump from the Galileo magnetometer patch
+https://news.ycombinator.com/item?id=15679321
+|########                                          | S: 29 C: 5 R: 0.172
+
+Godot Editor ported to WebAssembly
+https://news.ycombinator.com/item?id=15677206
+|########                                          | S: 94 C: 16 R: 0.170
+
+On Web Extensions shortcomings and their impact on add-on security
+https://news.ycombinator.com/item?id=15678841
+|########                                          | S: 53 C: 9 R: 0.170
+
+The math and algorithms behind a search library
+https://news.ycombinator.com/item?id=15676681
+|#######                                           | S: 139 C: 21 R: 0.151
+
+The Senior Engineer’s Guide to Helping Others Make Decisions
+https://news.ycombinator.com/item?id=15679853
+|#######                                           | S: 84 C: 12 R: 0.143
+
+W.E.B. Du Bois on the beauty of sorrow songs (1903)
+https://news.ycombinator.com/item?id=15668115
+|######                                            | S: 49 C: 6 R: 0.122
+
+A penetration tester’s guide to sub-domain enumeration
+https://news.ycombinator.com/item?id=15676951
+|####                                              | S: 223 C: 20 R: 0.090
+
+High Arctic relocation
+https://news.ycombinator.com/item?id=15678056
+|####                                              | S: 34 C: 3 R: 0.088
+
+Pervasive Monitoring Is an Attack (2014)
+https://news.ycombinator.com/item?id=15676580
+|###                                               | S: 105 C: 7 R: 0.067
+
+Optimal placement of log printing statements under specified overhead threshold
+https://news.ycombinator.com/item?id=15675750
+|##                                                | S: 68 C: 3 R: 0.044
+
+2017 Interactive Fiction Competition
+https://news.ycombinator.com/item?id=15677523
+|#                                                 | S: 86 C: 2 R: 0.023
+

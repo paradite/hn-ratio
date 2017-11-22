@@ -1,0 +1,200 @@
+Facebook denies 'listening' to conversations
+https://news.ycombinator.com/item?id=15581114
+|##################################################|############################### S: 193 C: 313 R: 1.622
+
+108 F-35s Will Not Be Combat Capable
+https://news.ycombinator.com/item?id=15579285
+|##################################################|####################### S: 19 C: 28 R: 1.474
+
+Under-building of new homes, high construction cost perpetuate housing shortage
+https://news.ycombinator.com/item?id=15580673
+|##################################################| S: 56 C: 57 R: 1.018
+
+Kotlin Features I miss most in Java
+https://news.ycombinator.com/item?id=15580714
+|#########################################         | S: 121 C: 101 R: 0.835
+
+Who Will Rein in Facebook? Challengers Are Lining Up
+https://news.ycombinator.com/item?id=15580619
+|########################################          | S: 164 C: 134 R: 0.817
+
+Ideas on how to store energy
+https://news.ycombinator.com/item?id=15579248
+|#################################                 | S: 85 C: 57 R: 0.671
+
+Where Did the Fear of Poisoned Halloween Candy Come From? (2013)
+https://news.ycombinator.com/item?id=15580451
+|###############################                   | S: 82 C: 51 R: 0.622
+
+Wines Are No Longer Free to Travel Across State Lines
+https://news.ycombinator.com/item?id=15578275
+|#############################                     | S: 142 C: 83 R: 0.585
+
+Reclassify waste to shift the nuclear landscape
+https://news.ycombinator.com/item?id=15578457
+|############################                      | S: 19 C: 11 R: 0.579
+
+AMD takes on Intel with new Ryzen processors for laptops
+https://news.ycombinator.com/item?id=15579818
+|###########################                       | S: 218 C: 120 R: 0.550
+
+One pixel attack for deceiving deep neural networks
+https://news.ycombinator.com/item?id=15577885
+|###########################                       | S: 231 C: 127 R: 0.550
+
+DOJ: Billionaire pharma owner fueled the opioid epidemic with bribery scheme
+https://news.ycombinator.com/item?id=15579684
+|##########################                        | S: 197 C: 103 R: 0.523
+
+Orchid: a new surveillance-free layer on top of the existing Internet
+https://news.ycombinator.com/item?id=15576457
+|#########################                         | S: 357 C: 184 R: 0.515
+
+The data economy demands a new approach to antitrust rules
+https://news.ycombinator.com/item?id=15577777
+|########################                          | S: 143 C: 70 R: 0.490
+
+Near Future of Programming Languages [pdf]
+https://news.ycombinator.com/item?id=15582429
+|######################                            | S: 203 C: 90 R: 0.443
+
+The quest to evolve neural networks through evolutionary algorithms
+https://news.ycombinator.com/item?id=15582297
+|#####################                             | S: 121 C: 51 R: 0.421
+
+Advantages of Tcl over Lisp (2005)
+https://news.ycombinator.com/item?id=15578238
+|####################                              | S: 47 C: 19 R: 0.404
+
+California Wildfires Burned Irreplaceable Documents on Silicon Valley History
+https://news.ycombinator.com/item?id=15581941
+|##################                                | S: 166 C: 61 R: 0.367
+
+Outlawry, Supervillians, and Modern Law (2010)
+https://news.ycombinator.com/item?id=15580710
+|#################                                 | S: 34 C: 12 R: 0.353
+
+Show HN: Xmysql – One command to serve REST APIs for any MySql database
+https://news.ycombinator.com/item?id=15580914
+|################                                  | S: 56 C: 19 R: 0.339
+
+Fable: F# to JavaScript compiler
+https://news.ycombinator.com/item?id=15578592
+|################                                  | S: 130 C: 44 R: 0.338
+
+So you want to write a type checker
+https://news.ycombinator.com/item?id=15583515
+|################                                  | S: 15 C: 5 R: 0.333
+
+DeepLearning11: 10x Nvidia GTX 1080 Ti Single Root Deep Learning Server
+https://news.ycombinator.com/item?id=15580502
+|################                                  | S: 78 C: 26 R: 0.333
+
+Transform SVG into React components
+https://news.ycombinator.com/item?id=15582871
+|################                                  | S: 37 C: 12 R: 0.324
+
+The Istanbul Derby
+https://news.ycombinator.com/item?id=15580006
+|###############                                   | S: 26 C: 8 R: 0.308
+
+The Past and Future of the DeLorean
+https://news.ycombinator.com/item?id=15578157
+|##############                                    | S: 42 C: 12 R: 0.286
+
+F* – An ML-like functional programming language aimed at program verification
+https://news.ycombinator.com/item?id=15582969
+|############                                      | S: 104 C: 27 R: 0.260
+
+How to Be a C.E.O., From a Decade’s Worth of Them
+https://news.ycombinator.com/item?id=15581087
+|############                                      | S: 164 C: 42 R: 0.256
+
+Inadequacy and Modesty
+https://news.ycombinator.com/item?id=15582120
+|###########                                       | S: 132 C: 30 R: 0.227
+
+Fun facts about Rust's growing popularity
+https://news.ycombinator.com/item?id=15582514
+|###########                                       | S: 175 C: 39 R: 0.223
+
+PCI-SIG Releases PCIe 4.0 Specs
+https://news.ycombinator.com/item?id=15582289
+|##########                                        | S: 41 C: 9 R: 0.220
+
+Replacing exploit-ridden firmware with a Linux kernel [pdf]
+https://news.ycombinator.com/item?id=15579592
+|##########                                        | S: 295 C: 62 R: 0.210
+
+Language Models, Word2Vec, and Efficient Softmax Approximations
+https://news.ycombinator.com/item?id=15578788
+|#########                                         | S: 108 C: 21 R: 0.194
+
+Show HN: Simple Deep Learning Tutorials using Microsoft Cognitive Toolkit
+https://news.ycombinator.com/item?id=15582181
+|#########                                         | S: 62 C: 12 R: 0.194
+
+The Quantum Computer Puzzle (2016) [pdf]
+https://news.ycombinator.com/item?id=15576562
+|#########                                         | S: 26 C: 5 R: 0.192
+
+Deepo: a Docker image containing almost all popular deep learning frameworks
+https://news.ycombinator.com/item?id=15582509
+|########                                          | S: 65 C: 11 R: 0.169
+
+Torus Earth (2014)
+https://news.ycombinator.com/item?id=15578594
+|########                                          | S: 54 C: 9 R: 0.167
+
+Inference and Regeneration of Programs That Manipulate Relational Databases [pdf]
+https://news.ycombinator.com/item?id=15578250
+|########                                          | S: 24 C: 4 R: 0.167
+
+Nothing to Hide – a documentary about surveillance and you [video]
+https://news.ycombinator.com/item?id=15579698
+|#######                                           | S: 175 C: 25 R: 0.143
+
+Memory inside Linux containers (2014)
+https://news.ycombinator.com/item?id=15578625
+|######                                            | S: 52 C: 7 R: 0.135
+
+The Line Between Aggressive and Crazy
+https://news.ycombinator.com/item?id=15581750
+|######                                            | S: 88 C: 11 R: 0.125
+
+Best-Ever Algorithm Found for Huge Streams of Data
+https://news.ycombinator.com/item?id=15582660
+|#####                                             | S: 34 C: 4 R: 0.118
+
+4Clojure Easy Problems Updated on Clojurecademy
+https://news.ycombinator.com/item?id=15581272
+|#####                                             | S: 62 C: 7 R: 0.113
+
+The often-overlooked random forest kernel
+https://news.ycombinator.com/item?id=15579215
+|#####                                             | S: 171 C: 18 R: 0.105
+
+Show HN: Vehicle Detection – using machine learning and computer vision
+https://news.ycombinator.com/item?id=15582714
+|####                                              | S: 52 C: 5 R: 0.096
+
+Llewellyn’s strong-style pairing (2014)
+https://news.ycombinator.com/item?id=15578803
+|###                                               | S: 15 C: 1 R: 0.067
+
+How North Korea Smuggled 87 US Scout Helicopters
+https://news.ycombinator.com/item?id=15582084
+|                                                  | S: 68 C: 1 R: 0.015
+
+Rumors That Facebook Is Secretly Recording You Refuse to Die
+https://news.ycombinator.com/item?id=15580281
+|                                                  | S: 80 C: 1 R: 0.013
+
+Mali’s Desert Elephants, on Edge of Annihilation, Get a Fighting Chance
+https://news.ycombinator.com/item?id=15582995
+|                                                  | S: 20 C: 0 R: 0.000
+
+A Net Before the Web, Part 1: The Establishment Man and the Magnificent Rogue
+https://news.ycombinator.com/item?id=15580749
+|                                                  | S: 22 C: 0 R: 0.000
+

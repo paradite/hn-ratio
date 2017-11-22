@@ -1,0 +1,196 @@
+“Last Mile” Barriers to Removing Legacy BIOS [pdf]
+https://news.ycombinator.com/item?id=15730113
+|##################################################|## S: 206 C: 215 R: 1.044
+
+Ask HN: How do you deal with operational work as a software engineer?
+https://news.ycombinator.com/item?id=15737215
+|##################################################| S: 15 C: 15 R: 1.000
+
+Some Instacart workers to strike over pay that can be as low as $1 per hour
+https://news.ycombinator.com/item?id=15736413
+|############################################      | S: 112 C: 100 R: 0.893
+
+Ask HN: Realistically, what impact would the repeal of net neutrality have?
+https://news.ycombinator.com/item?id=15738291
+|###########################################       | S: 29 C: 25 R: 0.862
+
+Vision Insurance Is Making Glasses More Expensive
+https://news.ycombinator.com/item?id=15736573
+|###################################               | S: 64 C: 46 R: 0.719
+
+How Politics and Bad Decisions Starved New York’s Subways
+https://news.ycombinator.com/item?id=15737333
+|################################                  | S: 185 C: 122 R: 0.659
+
+My Apology to Naomi Wu and the Make Community
+https://news.ycombinator.com/item?id=15736267
+|################################                  | S: 187 C: 121 R: 0.647
+
+When I use classes, when I don’t, what I do instead and why
+https://news.ycombinator.com/item?id=15733339
+|################################                  | S: 121 C: 78 R: 0.645
+
+We Can’t Trust Facebook to Regulate Itself
+https://news.ycombinator.com/item?id=15737137
+|###########################                       | S: 201 C: 109 R: 0.542
+
+Clicker Heroes 2 is abandoning Free-To-Play
+https://news.ycombinator.com/item?id=15737008
+|########################                          | S: 137 C: 67 R: 0.489
+
+Ask HN: How to deal with inexperienced interviewers?
+https://news.ycombinator.com/item?id=15737801
+|########################                          | S: 29 C: 14 R: 0.483
+
+Fighting for Open Source Sustainability: Introducing Code Sponsor
+https://news.ycombinator.com/item?id=15736176
+|########################                          | S: 58 C: 28 R: 0.483
+
+The Rise and Fall of 'Rolling Stone'
+https://news.ycombinator.com/item?id=15727801
+|#######################                           | S: 52 C: 24 R: 0.462
+
+Span&lt;T&gt; in C#
+https://news.ycombinator.com/item?id=15731233
+|######################                            | S: 310 C: 138 R: 0.445
+
+Six Years After Fukushima, Robots Finally Find Reactors’ Melted Uranium Fuel
+https://news.ycombinator.com/item?id=15735006
+|#####################                             | S: 322 C: 137 R: 0.425
+
+Raze, rebuild, repeat: why Japan knocks down its houses after 30 years
+https://news.ycombinator.com/item?id=15736734
+|#####################                             | S: 38 C: 16 R: 0.421
+
+Cryptocurrencies described in four words or less
+https://news.ycombinator.com/item?id=15735319
+|####################                              | S: 107 C: 44 R: 0.411
+
+Show HN: Example of a polyglot microservice app
+https://news.ycombinator.com/item?id=15735439
+|####################                              | S: 74 C: 30 R: 0.405
+
+Pentagon contractor leaves social media spy archive wide open on AWS
+https://news.ycombinator.com/item?id=15735890
+|###################                               | S: 90 C: 35 R: 0.389
+
+Colombia, Once Consumed by Violence, Became a Tourist Destination
+https://news.ycombinator.com/item?id=15732460
+|###################                               | S: 135 C: 52 R: 0.385
+
+America's Growing Gap in Digital Job Skills
+https://news.ycombinator.com/item?id=15737269
+|###################                               | S: 26 C: 10 R: 0.385
+
+Norway Idea to Exit Oil Stocks Is ‘Shot Heard Around the World’
+https://news.ycombinator.com/item?id=15732248
+|###################                               | S: 313 C: 120 R: 0.383
+
+More Than 100 Universities and Colleges Included in Offshore Leaks Database
+https://news.ycombinator.com/item?id=15736121
+|################                                  | S: 152 C: 51 R: 0.336
+
+Qubes OS: A reasonably secure operating system
+https://news.ycombinator.com/item?id=15734416
+|################                                  | S: 387 C: 127 R: 0.328
+
+Some birds use discarded cigarettes to fumigate their nests
+https://news.ycombinator.com/item?id=15732161
+|###############                                   | S: 124 C: 39 R: 0.315
+
+$50k competition to spot icebergs off the coast of Newfoundland
+https://news.ycombinator.com/item?id=15737288
+|###############                                   | S: 35 C: 11 R: 0.314
+
+Intel will ship processors with integrated AMD graphics and memory
+https://news.ycombinator.com/item?id=15736222
+|###############                                   | S: 222 C: 69 R: 0.311
+
+Modern IRC Client Protocol
+https://news.ycombinator.com/item?id=15734587
+|###############                                   | S: 140 C: 42 R: 0.300
+
+Why Wikipedia cannot claim the earth is not flat
+https://news.ycombinator.com/item?id=15737989
+|##############                                    | S: 61 C: 18 R: 0.295
+
+The Shortest Papers Ever Published (2016)
+https://news.ycombinator.com/item?id=15737611
+|##############                                    | S: 123 C: 35 R: 0.285
+
+Microsoft and GitHub team up to take Git virtual file system to macOS, Linux
+https://news.ycombinator.com/item?id=15723926
+|#############                                     | S: 766 C: 211 R: 0.275
+
+Haskell for Mac IDE
+https://news.ycombinator.com/item?id=15734693
+|############                                      | S: 226 C: 58 R: 0.257
+
+A helium-resistant material could finally usher in the age of nuclear fusion
+https://news.ycombinator.com/item?id=15735041
+|############                                      | S: 91 C: 23 R: 0.253
+
+Reviving the 1973 Unix Programmer's Manual
+https://news.ycombinator.com/item?id=15736344
+|##########                                        | S: 151 C: 33 R: 0.219
+
+Switching Jobs
+https://news.ycombinator.com/item?id=15735188
+|##########                                        | S: 146 C: 31 R: 0.212
+
+The axolotl has nearly disappeared from its natural habitat
+https://news.ycombinator.com/item?id=15730262
+|#########                                         | S: 156 C: 30 R: 0.192
+
+Ask HN: What are hardware development learning web tutorials?
+https://news.ycombinator.com/item?id=15733760
+|#########                                         | S: 198 C: 37 R: 0.187
+
+Reverse engineering the Intel FSP: A Primer
+https://news.ycombinator.com/item?id=15734535
+|########                                          | S: 75 C: 13 R: 0.173
+
+Think Bayes: Bayesian Statistics Made Simple (2012)
+https://news.ycombinator.com/item?id=15732926
+|######                                            | S: 367 C: 45 R: 0.123
+
+Matrix Calculus
+https://news.ycombinator.com/item?id=15728147
+|######                                            | S: 385 C: 47 R: 0.122
+
+Linear Feedback Shift Registers
+https://news.ycombinator.com/item?id=15737665
+|#####                                             | S: 18 C: 2 R: 0.111
+
+Boltzmann Machines in TensorFlow with Examples: RBM, DBM, AIS and More
+https://news.ycombinator.com/item?id=15736090
+|#####                                             | S: 90 C: 9 R: 0.100
+
+Bertolt Brecht’s poetry captured a world torn apart by war and depression
+https://news.ycombinator.com/item?id=15731052
+|####                                              | S: 44 C: 4 R: 0.091
+
+The Entrepreneur's Roadmap – From Concept to IPO
+https://news.ycombinator.com/item?id=15731639
+|###                                               | S: 144 C: 10 R: 0.069
+
+The Future of Thinking: Computers and Minds in Mid-20th C. Imaginations (2015)
+https://news.ycombinator.com/item?id=15730864
+|                                                  | S: 51 C: 1 R: 0.020
+
+Clever Algorithms: Nature-Inspired Programming Recipes
+https://news.ycombinator.com/item?id=15735350
+|                                                  | S: 146 C: 2 R: 0.014
+
+200 universities just launched 600 free online courses. Here’s the full list
+https://news.ycombinator.com/item?id=15738322
+|                                                  | S: 15 C: 0 R: 0.000
+
+It's a living: Meet one of New York's best professional D&D Dungeon Masters
+https://news.ycombinator.com/item?id=15736298
+|                                                  | S: 23 C: 0 R: 0.000
+
+Amazon's Last Mile
+https://news.ycombinator.com/item?id=15736673
+|                                                  | S: 17 C: 0 R: 0.000
+

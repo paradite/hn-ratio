@@ -1,0 +1,196 @@
+Cursive Handwriting and Other Education Myths (2016)
+https://news.ycombinator.com/item?id=15671761
+|##################################################|############################################# S: 57 C: 109 R: 1.912
+
+Non-Consensual Intimate Image Pilot
+https://news.ycombinator.com/item?id=15672220
+|##################################################|########################################### S: 82 C: 153 R: 1.866
+
+8th – A secure, cross-platform, concatenative programming language
+https://news.ycombinator.com/item?id=15672361
+|##################################################|##### S: 44 C: 49 R: 1.114
+
+Jony Ive on Apple’s New HQ and the Disappearing iPhone
+https://news.ycombinator.com/item?id=15674956
+|###############################################   | S: 85 C: 80 R: 0.941
+
+YouTube says it will crack down on bizarre videos targeting children
+https://news.ycombinator.com/item?id=15670109
+|#############################################     | S: 338 C: 310 R: 0.917
+
+Social-Media App Musical.ly Is Acquired for as Much as $1B
+https://news.ycombinator.com/item?id=15669727
+|#############################################     | S: 97 C: 88 R: 0.907
+
+How to Survive a Robot Apocalypse: Just Close the Door
+https://news.ycombinator.com/item?id=15671953
+|#############################################     | S: 30 C: 27 R: 0.900
+
+Arrow's Theorem (2014)
+https://news.ycombinator.com/item?id=15673909
+|####################################              | S: 73 C: 53 R: 0.726
+
+Ford Pilots New Exoskeleton to Help Lessen Chance of Worker Fatigue, Injury
+https://news.ycombinator.com/item?id=15666539
+|###################################               | S: 167 C: 119 R: 0.713
+
+Show HN: MoneyGame – Browser-based business simulation game
+https://news.ycombinator.com/item?id=15670355
+|##################################                | S: 59 C: 41 R: 0.695
+
+Eight years of Go
+https://news.ycombinator.com/item?id=15671676
+|##################################                | S: 318 C: 219 R: 0.689
+
+What is a Bitcoin fork?
+https://news.ycombinator.com/item?id=15667607
+|#################################                 | S: 163 C: 108 R: 0.663
+
+Burn the Programmer
+https://news.ycombinator.com/item?id=15670507
+|################################                  | S: 345 C: 224 R: 0.649
+
+Proposed Tax Reform Stands to Impact Equity and Performance-Based Compensation
+https://news.ycombinator.com/item?id=15671704
+|################################                  | S: 162 C: 105 R: 0.648
+
+History of AOL Warez
+https://news.ycombinator.com/item?id=15673015
+|###############################                   | S: 133 C: 85 R: 0.639
+
+IBM Q system in development with working 50 qubit processor
+https://news.ycombinator.com/item?id=15671408
+|###############################                   | S: 161 C: 100 R: 0.621
+
+The Case for RSS
+https://news.ycombinator.com/item?id=15673430
+|##############################                    | S: 260 C: 158 R: 0.608
+
+A brief history of battlefield boozing
+https://news.ycombinator.com/item?id=15666916
+|#############################                     | S: 41 C: 24 R: 0.585
+
+Observing the A11's Heterogenous Cores
+https://news.ycombinator.com/item?id=15669560
+|############################                      | S: 89 C: 50 R: 0.562
+
+“We have obtained fully functional JTAG for Intel CSME via USB DCI”
+https://news.ycombinator.com/item?id=15669262
+|###########################                       | S: 611 C: 337 R: 0.552
+
+Equifax CEO to Congress: Not Sure We Are Encrypting Data
+https://news.ycombinator.com/item?id=15672000
+|##########################                        | S: 238 C: 128 R: 0.538
+
+How we do Vue at GitLab: one year later
+https://news.ycombinator.com/item?id=15671400
+|#########################                         | S: 287 C: 149 R: 0.519
+
+Senators push to ditch social security numbers in light of Equifax hack
+https://news.ycombinator.com/item?id=15657887
+|#####################                             | S: 1082 C: 457 R: 0.422
+
+GNU Readline for Better Productivity on the Command Line
+https://news.ycombinator.com/item?id=15670165
+|####################                              | S: 87 C: 35 R: 0.402
+
+Virgil Revisited
+https://news.ycombinator.com/item?id=15668143
+|#################                                 | S: 14 C: 5 R: 0.357
+
+Show HN: SpeechBoard – Edit Podcasts from the Transcript
+https://news.ycombinator.com/item?id=15670827
+|#################                                 | S: 169 C: 60 R: 0.355
+
+All about whiteboard markers
+https://news.ycombinator.com/item?id=15671896
+|#################                                 | S: 262 C: 92 R: 0.351
+
+Complaint tablet to Ea-nasir
+https://news.ycombinator.com/item?id=15669759
+|#################                                 | S: 203 C: 71 R: 0.350
+
+LibHTTP: Open Source HTTP Library in C
+https://news.ycombinator.com/item?id=15666311
+|################                                  | S: 182 C: 61 R: 0.335
+
+Alibaba hits nearly $18B in ‘Singles Day’ orders in 12 hours
+https://news.ycombinator.com/item?id=15675118
+|################                                  | S: 59 C: 19 R: 0.322
+
+Fused Video Stabilization on the Pixel 2 and Pixel 2 XL
+https://news.ycombinator.com/item?id=15671804
+|###############                                   | S: 115 C: 36 R: 0.313
+
+Mail-Order CRISPR Kits Allow Anyone to Hack DNA
+https://news.ycombinator.com/item?id=15668581
+|###############                                   | S: 118 C: 36 R: 0.305
+
+Sex toy company Lovense admits its Android app locally stored audio recordings
+https://news.ycombinator.com/item?id=15673471
+|###############                                   | S: 163 C: 49 R: 0.301
+
+How should you build a high-performance column store for the 2020s?
+https://news.ycombinator.com/item?id=15672027
+|##############                                    | S: 119 C: 34 R: 0.286
+
+Creating a Modern OCR Pipeline Using Computer Vision and Deep Learning
+https://news.ycombinator.com/item?id=15664071
+|#############                                     | S: 437 C: 122 R: 0.279
+
+Business questions engineers should ask when interviewing at ML/AI companies
+https://news.ycombinator.com/item?id=15667286
+|#############                                     | S: 380 C: 106 R: 0.279
+
+Halfbakery
+https://news.ycombinator.com/item?id=15669119
+|#############                                     | S: 202 C: 55 R: 0.272
+
+Skyrim rendered in text
+https://news.ycombinator.com/item?id=15661490
+|###########                                       | S: 446 C: 103 R: 0.231
+
+Tell HN: Some thoughts on ten years on Hacker News
+https://news.ycombinator.com/item?id=15672882
+|#########                                         | S: 37 C: 7 R: 0.189
+
+Tupper’s Self-Referential Equation
+https://news.ycombinator.com/item?id=15672583
+|#########                                         | S: 32 C: 6 R: 0.188
+
+Low-cost, non-invasive melanoma detector wins award
+https://news.ycombinator.com/item?id=15662441
+|#######                                           | S: 304 C: 48 R: 0.158
+
+Simple React Patterns
+https://news.ycombinator.com/item?id=15667778
+|#######                                           | S: 536 C: 80 R: 0.149
+
+Writing a basic x86-64 JIT compiler from scratch in stock Python
+https://news.ycombinator.com/item?id=15665581
+|#######                                           | S: 314 C: 44 R: 0.140
+
+Tile: A New Language for Machine Learning
+https://news.ycombinator.com/item?id=15672058
+|######                                            | S: 128 C: 17 R: 0.133
+
+Digital Ruins of a Forgotten Future: Second Life Still Has 600K Regular Users
+https://news.ycombinator.com/item?id=15675190
+|######                                            | S: 16 C: 2 R: 0.125
+
+Assessing the Ada Language for Audio Applications
+https://news.ycombinator.com/item?id=15673526
+|#####                                             | S: 47 C: 5 R: 0.106
+
+The Shape of Rome (2013)
+https://news.ycombinator.com/item?id=15671254
+|#####                                             | S: 98 C: 10 R: 0.102
+
+How an Amateur Astronomer Became One of History’s Great Solar Observers
+https://news.ycombinator.com/item?id=15671908
+|                                                  | S: 34 C: 0 R: 0.000
+
+Kotlin Edu: Learn and teach Kotlin with official, easy and professional tools
+https://news.ycombinator.com/item?id=15674820
+|                                                  | S: 23 C: 0 R: 0.000
+

@@ -1,0 +1,192 @@
+Buy a Sofa Online? Wayfair Is Counting on It
+https://news.ycombinator.com/item?id=15480152
+|##################################################|######################################### S: 47 C: 86 R: 1.830
+
+The worldwide reputation of products produced in different countries
+https://news.ycombinator.com/item?id=15489329
+|##################################################|#################### S: 22 C: 31 R: 1.409
+
+Everything Is Crazy and the Markets Aren’t Freaking Out
+https://news.ycombinator.com/item?id=15488029
+|##################################################|##### S: 86 C: 95 R: 1.105
+
+Training crows to pick up cigarette butts for food
+https://news.ycombinator.com/item?id=15486368
+|############################################      | S: 142 C: 127 R: 0.894
+
+Were There Dark Ages?
+https://news.ycombinator.com/item?id=15485409
+|######################################            | S: 51 C: 39 R: 0.765
+
+The great thaw of America’s north is coming
+https://news.ycombinator.com/item?id=15487112
+|###################################               | S: 121 C: 85 R: 0.702
+
+Kellogg buys RXBar in Chicago for $600M
+https://news.ycombinator.com/item?id=15488492
+|##################################                | S: 39 C: 27 R: 0.692
+
+Metrorail vs. Uber: Travel Time and Cost
+https://news.ycombinator.com/item?id=15482778
+|##################################                | S: 38 C: 26 R: 0.684
+
+Facebook acquires anonymous teen compliment app tbh, will let it run
+https://news.ycombinator.com/item?id=15486262
+|##############################                    | S: 163 C: 101 R: 0.620
+
+Show HN: Send a fax to 50 countries, no signup, account or subscription required
+https://news.ycombinator.com/item?id=15484390
+|##########################                        | S: 130 C: 70 R: 0.538
+
+The forgotten mystery of inertia
+https://news.ycombinator.com/item?id=15487928
+|#########################                         | S: 120 C: 61 R: 0.508
+
+In Colorado, opioid deaths fall following marijuana legalization
+https://news.ycombinator.com/item?id=15487840
+|######################                            | S: 158 C: 71 R: 0.449
+
+Discord Postmortem from Friday
+https://news.ycombinator.com/item?id=15486145
+|####################                              | S: 89 C: 37 R: 0.416
+
+The Long-Term Stock Exchange Is Worth a Shot
+https://news.ycombinator.com/item?id=15486168
+|####################                              | S: 194 C: 80 R: 0.412
+
+The Transaction Costs of Tokenizing Everything
+https://news.ycombinator.com/item?id=15488389
+|###################                               | S: 33 C: 13 R: 0.394
+
+The Neural Net Tank Urban Legend
+https://news.ycombinator.com/item?id=15485538
+|###################                               | S: 145 C: 56 R: 0.386
+
+Keyboard latency
+https://news.ycombinator.com/item?id=15485672
+|##################                                | S: 610 C: 222 R: 0.364
+
+Infineon RSA Key Generation Issue
+https://news.ycombinator.com/item?id=15481334
+|#################                                 | S: 217 C: 77 R: 0.355
+
+GitHub: Check out my Keylogger for macs which doesn't require any permissions
+https://news.ycombinator.com/item?id=15488316
+|################                                  | S: 92 C: 31 R: 0.337
+
+The Mathematical Genius of Auto-Tune
+https://news.ycombinator.com/item?id=15483145
+|###############                                   | S: 234 C: 74 R: 0.316
+
+Falling through the KRACKs
+https://news.ycombinator.com/item?id=15487950
+|###############                                   | S: 250 C: 78 R: 0.312
+
+ESO Telescopes Observe First Light from Gravitational Wave Source
+https://news.ycombinator.com/item?id=15483231
+|############                                      | S: 538 C: 134 R: 0.249
+
+I Fell 15,000 Feet and Lived
+https://news.ycombinator.com/item?id=15480334
+|############                                      | S: 912 C: 224 R: 0.246
+
+The war to sell you a mattress is an internet nightmare
+https://news.ycombinator.com/item?id=15488618
+|###########                                       | S: 97 C: 23 R: 0.237
+
+Active cooling your Raspberry Pi 3
+https://news.ycombinator.com/item?id=15487233
+|###########                                       | S: 56 C: 13 R: 0.232
+
+Consul 1.0 Released
+https://news.ycombinator.com/item?id=15486721
+|###########                                       | S: 172 C: 39 R: 0.227
+
+Enabling Rust on Embedded Platforms – Linux, RTOS, Bare Metal
+https://news.ycombinator.com/item?id=15481673
+|###########                                       | S: 218 C: 48 R: 0.220
+
+A Comprehensive Super Mario Bros. Disassembly
+https://news.ycombinator.com/item?id=15484907
+|##########                                        | S: 324 C: 68 R: 0.210
+
+The Crash of ’87, from the Wall Street Players Who Lived It
+https://news.ycombinator.com/item?id=15488302
+|##########                                        | S: 29 C: 6 R: 0.207
+
+Gender Distribution in North Korean Posters
+https://news.ycombinator.com/item?id=15481079
+|##########                                        | S: 123 C: 25 R: 0.203
+
+Perceptually uniform color spaces
+https://news.ycombinator.com/item?id=15484228
+|##########                                        | S: 235 C: 47 R: 0.200
+
+I haven't experienced imposter syndrome, and maybe you haven't either
+https://news.ycombinator.com/item?id=15487263
+|#########                                         | S: 16 C: 3 R: 0.188
+
+Generalization in Deep Learning [pdf]
+https://news.ycombinator.com/item?id=15488202
+|#########                                         | S: 38 C: 7 R: 0.184
+
+Charlie Munger – The Psychology of Human Misjudgment
+https://news.ycombinator.com/item?id=15486804
+|########                                          | S: 78 C: 14 R: 0.179
+
+Lessons Operating a Serverless-Like Platform at Netflix, Part 2
+https://news.ycombinator.com/item?id=15461651
+|########                                          | S: 169 C: 30 R: 0.178
+
+zsync: differential file download client over HTTP using the rsync algorithm
+https://news.ycombinator.com/item?id=15488235
+|########                                          | S: 92 C: 16 R: 0.174
+
+Volume Monitoring in Kubernetes with Prometheus
+https://news.ycombinator.com/item?id=15487893
+|########                                          | S: 30 C: 5 R: 0.167
+
+The pitfalls of A/B testing in social networks
+https://news.ycombinator.com/item?id=15481358
+|#######                                           | S: 118 C: 17 R: 0.144
+
+The Founder’s Guide to Raising a Series A Venture Financing
+https://news.ycombinator.com/item?id=15484050
+|######                                            | S: 158 C: 20 R: 0.127
+
+When fourth-party collection becomes attribution hell [pdf]
+https://news.ycombinator.com/item?id=15483529
+|#####                                             | S: 17 C: 2 R: 0.118
+
+Scientists narrow down the mechanism whereby cancer cells metabolise sugar
+https://news.ycombinator.com/item?id=15488297
+|#####                                             | S: 63 C: 7 R: 0.111
+
+Creator of curl wins Polhem Prize 2017
+https://news.ycombinator.com/item?id=15488884
+|#####                                             | S: 218 C: 24 R: 0.110
+
+My Dinners with Harold
+https://news.ycombinator.com/item?id=15484250
+|##                                                | S: 34 C: 2 R: 0.059
+
+WebDSP Media Library and WebAssembly Video Editor Demo
+https://news.ycombinator.com/item?id=15487678
+|##                                                | S: 63 C: 3 R: 0.048
+
+Understanding the Emotional Response (2015)
+https://news.ycombinator.com/item?id=15486713
+|##                                                | S: 22 C: 1 R: 0.045
+
+Bomb kills journalist who exposed Malta's ties to tax havens
+https://news.ycombinator.com/item?id=15489312
+|#                                                 | S: 41 C: 1 R: 0.024
+
+Microsoft responded quietly after detecting database hack in 2013
+https://news.ycombinator.com/item?id=15489322
+|                                                  | S: 10 C: 0 R: 0.000
+
+Netflix and YouTube could start using AV1 as soon as early 2018
+https://news.ycombinator.com/item?id=15488248
+|                                                  | S: 20 C: 0 R: 0.000
+

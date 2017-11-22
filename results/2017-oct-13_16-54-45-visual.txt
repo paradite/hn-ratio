@@ -1,0 +1,192 @@
+Hyperloop One Becomes ‘Virgin Hyperloop One’
+https://news.ycombinator.com/item?id=15457767
+|##################################################|################# S: 321 C: 433 R: 1.349
+
+Global Demand for Bitcoin Shifts Wildly in Response to Regulation
+https://news.ycombinator.com/item?id=15462522
+|##################################################|### S: 49 C: 52 R: 1.061
+
+Google commits $1B in grants to train U.S. workers for high-tech jobs
+https://news.ycombinator.com/item?id=15460354
+|##############################################    | S: 339 C: 316 R: 0.932
+
+Magic Leap raising up to $1B in new round
+https://news.ycombinator.com/item?id=15461515
+|##########################################        | S: 64 C: 54 R: 0.844
+
+UPX – Ultimate Packer for Executables
+https://news.ycombinator.com/item?id=15456980
+|###############################                   | S: 99 C: 63 R: 0.636
+
+Plato Would Have Wanted Us to Unplug
+https://news.ycombinator.com/item?id=15460745
+|###############################                   | S: 90 C: 56 R: 0.622
+
+Rejecting a candidate for over-qualification results in age bias
+https://news.ycombinator.com/item?id=15461439
+|##############################                    | S: 488 C: 294 R: 0.602
+
+Equifax takes down web page after reports of new hack
+https://news.ycombinator.com/item?id=15459262
+|############################                      | S: 225 C: 130 R: 0.578
+
+The Uber Game: Can you make it in the gig economy?
+https://news.ycombinator.com/item?id=15458957
+|############################                      | S: 73 C: 42 R: 0.575
+
+Movies Anywhere App Launches with Joint Studio Backing
+https://news.ycombinator.com/item?id=15456800
+|############################                      | S: 77 C: 44 R: 0.571
+
+How to Set Up a Company in Germany for English-Speaking People
+https://news.ycombinator.com/item?id=15456730
+|##########################                        | S: 188 C: 101 R: 0.537
+
+The Forces Behind Toutiao, China’s Content King
+https://news.ycombinator.com/item?id=15458720
+|##########################                        | S: 117 C: 61 R: 0.521
+
+TerrariaClone – An incomprehensible hellscape of spaghetti code
+https://news.ycombinator.com/item?id=15460851
+|#########################                         | S: 426 C: 219 R: 0.514
+
+Byzantium Hard Fork Announcement
+https://news.ycombinator.com/item?id=15457230
+|#######################                           | S: 163 C: 77 R: 0.472
+
+Gluon – Deep Learning API from AWS and Microsoft
+https://news.ycombinator.com/item?id=15457633
+|#######################                           | S: 168 C: 79 R: 0.470
+
+The /bin/true Command and Copyright (1990)
+https://news.ycombinator.com/item?id=15457281
+|#######################                           | S: 117 C: 54 R: 0.462
+
+The Toxic Saga of the Tsukiji Fish Market
+https://news.ycombinator.com/item?id=15460748
+|######################                            | S: 115 C: 51 R: 0.443
+
+Tech Giants, Once Seen as Saviors, Are Now Viewed as Threats
+https://news.ycombinator.com/item?id=15462676
+|#####################                             | S: 91 C: 40 R: 0.440
+
+Qutebrowser – a keyboard-focused browser with a minimal GUI
+https://news.ycombinator.com/item?id=15458824
+|#####################                             | S: 126 C: 55 R: 0.437
+
+New periodic orbits of the three-body problem
+https://news.ycombinator.com/item?id=15460381
+|#####################                             | S: 133 C: 58 R: 0.436
+
+A Little Story About the `yes` Unix Command
+https://news.ycombinator.com/item?id=15454352
+|###################                               | S: 429 C: 167 R: 0.389
+
+Show HN: Vue-Model – Models with HTTP Actions for Vue.js
+https://news.ycombinator.com/item?id=15461000
+|#################                                 | S: 76 C: 26 R: 0.342
+
+Securing Microservices
+https://news.ycombinator.com/item?id=15460645
+|################                                  | S: 118 C: 38 R: 0.322
+
+Firefox Send: Private, Encrypted File Sharing
+https://news.ycombinator.com/item?id=15448996
+|###############                                   | S: 831 C: 265 R: 0.319
+
+Show HN: Hackend – A Fast Serverless Backend Generator
+https://news.ycombinator.com/item?id=15461999
+|###############                                   | S: 32 C: 10 R: 0.312
+
+John Carmack's Keynote at Oculus 4 Live Stream [video]
+https://news.ycombinator.com/item?id=15459506
+|###############                                   | S: 291 C: 89 R: 0.306
+
+What’s Inside Every iPhone, from Retina Displays to Cameras
+https://news.ycombinator.com/item?id=15462912
+|##############                                    | S: 146 C: 41 R: 0.281
+
+Go Python, Go: Stream Processing for Python
+https://news.ycombinator.com/item?id=15457343
+|#############                                     | S: 235 C: 65 R: 0.277
+
+Please take care of my plant
+https://news.ycombinator.com/item?id=15453974
+|#############                                     | S: 640 C: 172 R: 0.269
+
+Digging for treasure in Aladdin’s source code
+https://news.ycombinator.com/item?id=15458200
+|#############                                     | S: 265 C: 70 R: 0.264
+
+The Case for Writing a Kernel in Rust [pdf]
+https://news.ycombinator.com/item?id=15458674
+|############                                      | S: 149 C: 38 R: 0.255
+
+p2p social networking with Rotonde and Beaker
+https://news.ycombinator.com/item?id=15463721
+|############                                      | S: 36 C: 9 R: 0.250
+
+Startup Outcome Misled Advertisers with Manipulated Information, Sources Say
+https://news.ycombinator.com/item?id=15460475
+|###########                                       | S: 39 C: 9 R: 0.231
+
+An open source re-implementation of RollerCoaster Tycoon 2
+https://news.ycombinator.com/item?id=15456833
+|##########                                        | S: 427 C: 86 R: 0.201
+
+Gov. Jerry Brown signs AB168: bans employers from asking about salary history
+https://news.ycombinator.com/item?id=15461629
+|########                                          | S: 45 C: 8 R: 0.178
+
+Exploiting the Wi-Fi Stack on Apple Devices
+https://news.ycombinator.com/item?id=15460785
+|########                                          | S: 267 C: 46 R: 0.172
+
+Atom's new concurrency-friendly buffer implementation
+https://news.ycombinator.com/item?id=15460101
+|#######                                           | S: 158 C: 25 R: 0.158
+
+Ask HN: All the Developers-turned-Engineering-Managers, how was the experience?
+https://news.ycombinator.com/item?id=15463612
+|#######                                           | S: 20 C: 3 R: 0.150
+
+Containers and Distributed Systems: Where They Came from and Where They’re Going
+https://news.ycombinator.com/item?id=15455920
+|#######                                           | S: 272 C: 39 R: 0.143
+
+Exploding Git Repositories
+https://news.ycombinator.com/item?id=15457076
+|######                                            | S: 371 C: 51 R: 0.137
+
+Intuition, Incubation, and Insight: Implicit Cognition in Problem Solving (1996)
+https://news.ycombinator.com/item?id=15456794
+|#####                                             | S: 45 C: 5 R: 0.111
+
+How to Interpret Site Performance Tests
+https://news.ycombinator.com/item?id=15460888
+|####                                              | S: 47 C: 4 R: 0.085
+
+The 2017 Segment Open Fellows
+https://news.ycombinator.com/item?id=15458682
+|##                                                | S: 22 C: 1 R: 0.045
+
+Show HN: Paymo Time Tracker – React and GraphQL Based Photoshop Plugin
+https://news.ycombinator.com/item?id=15463820
+|                                                  | S: 12 C: 0 R: 0.000
+
+Remaking Lightbeam as a browser extension
+https://news.ycombinator.com/item?id=15458414
+|                                                  | S: 34 C: 0 R: 0.000
+
+SIP.js v0.8.0 Supports All Major Browsers and Renegotiation
+https://news.ycombinator.com/item?id=15461174
+|                                                  | S: 21 C: 0 R: 0.000
+
+IOCCC vs. Clean Code
+https://news.ycombinator.com/item?id=15461240
+|                                                  | S: 10 C: 0 R: 0.000
+
+The Primordial Gound
+https://news.ycombinator.com/item?id=15454371
+|                                                  | S: 17 C: 0 R: 0.000
+

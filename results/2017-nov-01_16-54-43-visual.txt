@@ -1,0 +1,196 @@
+What are some of the most disliked programming languages?
+https://news.ycombinator.com/item?id=15598856
+|##################################################|####### S: 51 C: 59 R: 1.157
+
+Income, Poverty and Health Insurance Coverage in the United States: 2016
+https://news.ycombinator.com/item?id=15597802
+|##################################################|#### S: 74 C: 80 R: 1.081
+
+Sony Aibo
+https://news.ycombinator.com/item?id=15598783
+|############################################      | S: 129 C: 115 R: 0.891
+
+Bitcoin Futures Could Open the Floodgates for Institutional Investors
+https://news.ycombinator.com/item?id=15594748
+|###########################################       | S: 165 C: 144 R: 0.873
+
+We only hire the best means we only hire the trendiest (2016)
+https://news.ycombinator.com/item?id=15591441
+|##################################                | S: 858 C: 591 R: 0.689
+
+Machine learning of neural representations of emotion identifies suicidal youth
+https://news.ycombinator.com/item?id=15597068
+|##################################                | S: 97 C: 66 R: 0.680
+
+I can no longer recommend MailChimp
+https://news.ycombinator.com/item?id=15596257
+|################################                  | S: 195 C: 128 R: 0.656
+
+Why Most Unit Testing Is Waste [pdf]
+https://news.ycombinator.com/item?id=15591190
+|###############################                   | S: 230 C: 146 R: 0.635
+
+How natural is numeracy?
+https://news.ycombinator.com/item?id=15595338
+|###############################                   | S: 16 C: 10 R: 0.625
+
+Standalone Signal Desktop
+https://news.ycombinator.com/item?id=15595030
+|##############################                    | S: 309 C: 188 R: 0.608
+
+Nasa’s ambitious plan to save Earth from a supervolcano
+https://news.ycombinator.com/item?id=15596350
+|##############################                    | S: 130 C: 78 R: 0.600
+
+Yahoo is now part of Oath
+https://news.ycombinator.com/item?id=15594692
+|#############################                     | S: 105 C: 61 R: 0.581
+
+Permissionless innovation
+https://news.ycombinator.com/item?id=15596275
+|############################                      | S: 109 C: 63 R: 0.578
+
+Google is shutting down the QPX Express API for airfare data
+https://news.ycombinator.com/item?id=15594975
+|###########################                       | S: 265 C: 145 R: 0.547
+
+“It's been great to see Wireguard mature over the years”
+https://news.ycombinator.com/item?id=15596963
+|##########################                        | S: 71 C: 38 R: 0.535
+
+Do you need a VPN?
+https://news.ycombinator.com/item?id=15585769
+|##########################                        | S: 887 C: 469 R: 0.529
+
+Do we need a third Apache project for columnar data representation?
+https://news.ycombinator.com/item?id=15594542
+|##########################                        | S: 155 C: 81 R: 0.523
+
+Chip Hall of Fame: Atmel ATmega8
+https://news.ycombinator.com/item?id=15592328
+|#########################                         | S: 123 C: 63 R: 0.512
+
+A Pentagon-funded contest spawned many of today’s self-driving startups
+https://news.ycombinator.com/item?id=15593305
+|########################                          | S: 163 C: 80 R: 0.491
+
+Batteries with 50 per cent more energy with pure silicon anode
+https://news.ycombinator.com/item?id=15592575
+|########################                          | S: 124 C: 60 R: 0.484
+
+Show HN: Airborn – Private Google Docs Alternative
+https://news.ycombinator.com/item?id=15596304
+|########################                          | S: 311 C: 150 R: 0.482
+
+Defense Department: The War on Terror Has Cost $250M a Day for 16 Years
+https://news.ycombinator.com/item?id=15598065
+|######################                            | S: 25 C: 11 R: 0.440
+
+Skulpt: client side Python without preprocessing
+https://news.ycombinator.com/item?id=15591947
+|#####################                             | S: 107 C: 45 R: 0.421
+
+Renewed demand for the metal cobalt is breathing new life into Cobalt, the town
+https://news.ycombinator.com/item?id=15592330
+|###################                               | S: 105 C: 40 R: 0.381
+
+D-Wave system used to detect particle signature of the Higgs boson
+https://news.ycombinator.com/item?id=15578617
+|##################                                | S: 68 C: 25 R: 0.368
+
+Node.js 8 Moves into Long-Term Support, Node.js 9 Becomes Current Release Line
+https://news.ycombinator.com/item?id=15595596
+|#################                                 | S: 178 C: 64 R: 0.360
+
+Show HN: WebGL Voxel Engine
+https://news.ycombinator.com/item?id=15592682
+|################                                  | S: 105 C: 35 R: 0.333
+
+GCP arrives in India with launch of Mumbai region
+https://news.ycombinator.com/item?id=15597049
+|################                                  | S: 124 C: 41 R: 0.331
+
+Sued over screenshots of 59-year-old show
+https://news.ycombinator.com/item?id=15598838
+|###############                                   | S: 38 C: 12 R: 0.316
+
+OVH increases pricing with the rise of their next generation DDoS Protection
+https://news.ycombinator.com/item?id=15596282
+|###############                                   | S: 65 C: 20 R: 0.308
+
+Eager Execution: An imperative, define-by-run interface to TensorFlow
+https://news.ycombinator.com/item?id=15595123
+|##############                                    | S: 101 C: 30 R: 0.297
+
+Cryptographic filesystem for the cloud
+https://news.ycombinator.com/item?id=15595152
+|##############                                    | S: 71 C: 21 R: 0.296
+
+HTTP 103 – An HTTP Status Code for Indicating Hints
+https://news.ycombinator.com/item?id=15590049
+|##############                                    | S: 406 C: 120 R: 0.296
+
+How the Dead Danced with the Living in Medieval Society
+https://news.ycombinator.com/item?id=15592507
+|#############                                     | S: 26 C: 7 R: 0.269
+
+Risk of false positives in fMRI of post-mortem Atlantic salmon (2010) [pdf]
+https://news.ycombinator.com/item?id=15598429
+|############                                      | S: 77 C: 20 R: 0.260
+
+VS Code Roadmap 2018
+https://news.ycombinator.com/item?id=15599136
+|############                                      | S: 86 C: 22 R: 0.256
+
+The War Against Pope Francis
+https://news.ycombinator.com/item?id=15599291
+|############                                      | S: 48 C: 12 R: 0.250
+
+Bottery – A conversational agent prototyping platform
+https://news.ycombinator.com/item?id=15592800
+|###########                                       | S: 293 C: 66 R: 0.225
+
+Heptio Contour – An ENVOY powered ingress controller
+https://news.ycombinator.com/item?id=15597017
+|##########                                        | S: 38 C: 8 R: 0.211
+
+Firebase Predictions Beta
+https://news.ycombinator.com/item?id=15598236
+|##########                                        | S: 74 C: 15 R: 0.203
+
+Show HN: Frappe Charts – GitHub inspired JavaScript charting with zero dependencies
+https://news.ycombinator.com/item?id=15594004
+|#########                                         | S: 382 C: 76 R: 0.199
+
+RCN is much more data efficient than traditional Deep Neural Networks
+https://news.ycombinator.com/item?id=15584086
+|#########                                         | S: 230 C: 44 R: 0.191
+
+Writing a 9P server from scratch (2016)
+https://news.ycombinator.com/item?id=15596061
+|########                                          | S: 75 C: 13 R: 0.173
+
+Large cluster of domains sharing the same pair of 512bit ZSKs and RSA key oddities
+https://news.ycombinator.com/item?id=15597399
+|########                                          | S: 105 C: 17 R: 0.162
+
+An Early Engineer's Guide to Early Stock Option Exercise
+https://news.ycombinator.com/item?id=15594177
+|#######                                           | S: 127 C: 20 R: 0.157
+
+Hashcat – advanced password recovery
+https://news.ycombinator.com/item?id=15596857
+|#######                                           | S: 102 C: 15 R: 0.147
+
+Show HN: Xstatic docs – like Google Docs inside an S3 bucket
+https://news.ycombinator.com/item?id=15597627
+|###                                               | S: 32 C: 2 R: 0.062
+
+The U.S. Isn’t Prepared for the Next Recession
+https://news.ycombinator.com/item?id=15599231
+|##                                                | S: 17 C: 1 R: 0.059
+
+An Introduction to Deep Learning for Language Modeling
+https://news.ycombinator.com/item?id=15593408
+|##                                                | S: 170 C: 10 R: 0.059
+

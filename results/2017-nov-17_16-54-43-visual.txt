@@ -1,0 +1,184 @@
+Ask HN: What tech were you convinced would take the world by storm but didn't?
+https://news.ycombinator.com/item?id=15718653
+|##################################################|##################################################################################################### S: 86 C: 261 R: 3.035
+
+Amazon Sellers Brood as States Come Calling for Taxes
+https://news.ycombinator.com/item?id=15713511
+|##################################################|############# S: 151 C: 193 R: 1.278
+
+Google Maps Gets a New Look
+https://news.ycombinator.com/item?id=15714366
+|##################################################| S: 106 C: 106 R: 1.000
+
+The Coin Flip: A Fundamentally Unfair Proposition? (2009)
+https://news.ycombinator.com/item?id=15712117
+|###########################################       | S: 120 C: 104 R: 0.867
+
+Startup Ideas
+https://news.ycombinator.com/item?id=15714318
+|########################################          | S: 481 C: 386 R: 0.802
+
+Carl Sagan Warned the World About Nuclear Winter
+https://news.ycombinator.com/item?id=15713962
+|#####################################             | S: 155 C: 115 R: 0.742
+
+Tesla Semi
+https://news.ycombinator.com/item?id=15718686
+|###################################               | S: 356 C: 252 R: 0.708
+
+I still love Kierkegaard
+https://news.ycombinator.com/item?id=15708895
+|##################################                | S: 150 C: 104 R: 0.693
+
+Watsi uses crowdfunding to provide healthcare; Are patients really better off?
+https://news.ycombinator.com/item?id=15719294
+|################################                  | S: 14 C: 9 R: 0.643
+
+Overlock – IoT Exception Tracking
+https://news.ycombinator.com/item?id=15712666
+|###############################                   | S: 36 C: 23 R: 0.639
+
+The Effect of Cold Showering on Health and Work: A Randomized Controlled Trial
+https://news.ycombinator.com/item?id=15715874
+|#############################                     | S: 149 C: 87 R: 0.584
+
+Tesla Roadster
+https://news.ycombinator.com/item?id=15719262
+|############################                      | S: 440 C: 248 R: 0.564
+
+Puffs: Parsing Untrusted File Formats Safely
+https://news.ycombinator.com/item?id=15711767
+|########################                          | S: 191 C: 92 R: 0.482
+
+Magic: The Gathering Is Turing Complete (2012)
+https://news.ycombinator.com/item?id=15712377
+|#######################                           | S: 228 C: 105 R: 0.461
+
+Show HN: Quickfix, the best stupid idea for fixing problems in node modules
+https://news.ycombinator.com/item?id=15718337
+|#####################                             | S: 23 C: 10 R: 0.435
+
+TechShop shuts down all U.S. locations, declares bankruptcy
+https://news.ycombinator.com/item?id=15718470
+|#####################                             | S: 152 C: 65 R: 0.428
+
+The FCC has repealed a 42-year-old rule blocking broadcast media mergers
+https://news.ycombinator.com/item?id=15716702
+|#####################                             | S: 335 C: 142 R: 0.424
+
+Want Better Pay? Learn to Sit in Front of a Computer
+https://news.ycombinator.com/item?id=15718216
+|#####################                             | S: 26 C: 11 R: 0.423
+
+Mashable to Sell to Ziff Davis
+https://news.ycombinator.com/item?id=15716979
+|####################                              | S: 44 C: 18 R: 0.409
+
+Why Education Startups Do Not Succeed (2011)
+https://news.ycombinator.com/item?id=15709479
+|###################                               | S: 339 C: 134 R: 0.395
+
+Learn just enough Linux to get things done
+https://news.ycombinator.com/item?id=15712701
+|###################                               | S: 313 C: 119 R: 0.380
+
+Citus Cloud 2, Postgres, and Scaling Without Compromise
+https://news.ycombinator.com/item?id=15714829
+|#################                                 | S: 105 C: 37 R: 0.352
+
+A source of knowledge for Language Server Protocol implementations
+https://news.ycombinator.com/item?id=15711604
+|################                                  | S: 122 C: 41 R: 0.336
+
+Manipulating Human Psychology To Turn Users Into Addicts
+https://news.ycombinator.com/item?id=15717649
+|###############                                   | S: 190 C: 59 R: 0.311
+
+Building a voice assistant to control music
+https://news.ycombinator.com/item?id=15712234
+|###############                                   | S: 42 C: 13 R: 0.310
+
+SQL Operations Studio
+https://news.ycombinator.com/item?id=15717170
+|###############                                   | S: 179 C: 54 R: 0.302
+
+If Linus Torvalds got hit by a bus would Linux die (2012)
+https://news.ycombinator.com/item?id=15715727
+|#############                                     | S: 36 C: 10 R: 0.278
+
+An On-Device Deep Neural Network for Face Detection
+https://news.ycombinator.com/item?id=15713185
+|#############                                     | S: 166 C: 45 R: 0.271
+
+Code together in real time with Teletype for Atom
+https://news.ycombinator.com/item?id=15704730
+|############                                      | S: 837 C: 217 R: 0.259
+
+RISC-V port merged into Linux 4.15
+https://news.ycombinator.com/item?id=15711908
+|############                                      | S: 259 C: 67 R: 0.259
+
+Vis – A vi-like editor based on Plan 9's structural regular expressions
+https://news.ycombinator.com/item?id=15710533
+|############                                      | S: 156 C: 38 R: 0.244
+
+Speed up your Python using Rust
+https://news.ycombinator.com/item?id=15719254
+|############                                      | S: 25 C: 6 R: 0.240
+
+A Sampling of Anti-Decompilation Techniques
+https://news.ycombinator.com/item?id=15714989
+|############                                      | S: 100 C: 24 R: 0.240
+
+FreeBSD/EC2 on C5 instances
+https://news.ycombinator.com/item?id=15718434
+|###########                                       | S: 117 C: 27 R: 0.231
+
+JavaScript. The Core: 2nd Edition
+https://news.ycombinator.com/item?id=15710956
+|###########                                       | S: 360 C: 83 R: 0.231
+
+Reach Out and Touch Faith
+https://news.ycombinator.com/item?id=15715805
+|###########                                       | S: 45 C: 10 R: 0.222
+
+Security alerts on GitHub
+https://news.ycombinator.com/item?id=15714920
+|#######                                           | S: 609 C: 89 R: 0.146
+
+A Cookbook for Machine Learning: Vol 1
+https://news.ycombinator.com/item?id=15719327
+|#######                                           | S: 50 C: 7 R: 0.140
+
+OCR and Medieval Manuscripts: Establishing a Baseline (2015)
+https://news.ycombinator.com/item?id=15710230
+|#####                                             | S: 44 C: 5 R: 0.114
+
+Concise Electronics for Geeks (2010)
+https://news.ycombinator.com/item?id=15703472
+|#####                                             | S: 444 C: 46 R: 0.104
+
+Using Go for Scalable Operating System Analytics
+https://news.ycombinator.com/item?id=15716221
+|#####                                             | S: 90 C: 9 R: 0.100
+
+Mashable Agrees to Sell to Ziff Davis for Around $50M
+https://news.ycombinator.com/item?id=15716559
+|#####                                             | S: 10 C: 1 R: 0.100
+
+Announcing the Windows Compatibility Pack for .NET Core
+https://news.ycombinator.com/item?id=15719595
+|####                                              | S: 12 C: 1 R: 0.083
+
+Introduction to Computer Organization: ARM Assembly Language on the Raspberry Pi
+https://news.ycombinator.com/item?id=15716990
+|###                                               | S: 261 C: 17 R: 0.065
+
+Understanding Go panic output
+https://news.ycombinator.com/item?id=15719853
+|##                                                | S: 21 C: 1 R: 0.048
+
+Announcing ONNX Support for Apache MXNet
+https://news.ycombinator.com/item?id=15717092
+|                                                  | S: 29 C: 0 R: 0.000
+

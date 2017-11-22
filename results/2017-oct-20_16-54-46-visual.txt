@@ -1,0 +1,196 @@
+Cash-Burn Threatens Blue Apron 3.5 Months After IPO
+https://news.ycombinator.com/item?id=15510542
+|##################################################|##################################################### S: 41 C: 85 R: 2.073
+
+How the Frightful Five Put Startups in a Lose-Lose Situation
+https://news.ycombinator.com/item?id=15506703
+|##################################################|########## S: 160 C: 195 R: 1.219
+
+MongoDB shares jump more than 30% in $192M IPO
+https://news.ycombinator.com/item?id=15508507
+|################################################# | S: 334 C: 330 R: 0.988
+
+Denmark's education minister will let high schools check students computers
+https://news.ycombinator.com/item?id=15513698
+|###############################################   | S: 34 C: 32 R: 0.941
+
+When the Revolution Came for Amy Cuddy
+https://news.ycombinator.com/item?id=15509347
+|##############################################    | S: 135 C: 126 R: 0.933
+
+Critics say WeWork is an overvalued real-estate play
+https://news.ycombinator.com/item?id=15508956
+|############################################      | S: 178 C: 160 R: 0.899
+
+New law bans California employers from asking applicants their prior salary
+https://news.ycombinator.com/item?id=15502142
+|######################################            | S: 811 C: 622 R: 0.767
+
+Bootstrap 4 Beta 2
+https://news.ycombinator.com/item?id=15511097
+|###################################               | S: 123 C: 87 R: 0.707
+
+Uber is charging drivers to work
+https://news.ycombinator.com/item?id=15511929
+|################################                  | S: 146 C: 94 R: 0.644
+
+University of Chicago Graduate Students Vote to Unionize
+https://news.ycombinator.com/item?id=15512066
+|###############################                   | S: 251 C: 157 R: 0.625
+
+Computing and the Fermi Paradox: A New Idea Emerges – The Aliens Are All Asleep
+https://news.ycombinator.com/item?id=15513573
+|##############################                    | S: 89 C: 55 R: 0.618
+
+Show HN: Screen.rip – API for capturing web screenshots
+https://news.ycombinator.com/item?id=15507181
+|##############################                    | S: 186 C: 112 R: 0.602
+
+Show HN: Gutenberg – A static site engine as a single executable
+https://news.ycombinator.com/item?id=15507538
+|##############################                    | S: 218 C: 131 R: 0.601
+
+Functional calisthenics
+https://news.ycombinator.com/item?id=15507081
+|##########################                        | S: 63 C: 34 R: 0.540
+
+Training exercise boosts brain power, Johns Hopkins researchers say
+https://news.ycombinator.com/item?id=15508714
+|##########################                        | S: 239 C: 127 R: 0.531
+
+Airbus’s tie-up with Bombardier is damaging for Boeing
+https://news.ycombinator.com/item?id=15512594
+|#########################                         | S: 99 C: 51 R: 0.515
+
+How MDMA Went from Club Drug to ‘Breakthrough Therapy’
+https://news.ycombinator.com/item?id=15504072
+|#########################                         | S: 154 C: 77 R: 0.500
+
+Why Ruby App Servers Break on MacOS High Sierra
+https://news.ycombinator.com/item?id=15505751
+|########################                          | S: 248 C: 120 R: 0.484
+
+The most essential list of resources for Front-End beginners
+https://news.ycombinator.com/item?id=15514143
+|########################                          | S: 29 C: 14 R: 0.483
+
+75% decline over 27 years in total flying insect biomass in protected areas
+https://news.ycombinator.com/item?id=15502074
+|#######################                           | S: 796 C: 379 R: 0.476
+
+Students learn more effectively from print textbooks than screens, study says
+https://news.ycombinator.com/item?id=15502811
+|######################                            | S: 364 C: 164 R: 0.451
+
+Pointer Free Programming and the Future of Nim
+https://news.ycombinator.com/item?id=15512249
+|#####################                             | S: 116 C: 51 R: 0.440
+
+Printers Meant to Make Rockets
+https://news.ycombinator.com/item?id=15512347
+|####################                              | S: 122 C: 50 R: 0.410
+
+How to lie about your programming job title for great profit
+https://news.ycombinator.com/item?id=15514112
+|###################                               | S: 28 C: 11 R: 0.393
+
+Robert Scoble and Me
+https://news.ycombinator.com/item?id=15511285
+|##################                                | S: 516 C: 186 R: 0.360
+
+My Journey to a Better Language Learning System
+https://news.ycombinator.com/item?id=15508003
+|#################                                 | S: 304 C: 104 R: 0.342
+
+AlphaGo Zero: Learning from scratch
+https://news.ycombinator.com/item?id=15500836
+|################                                  | S: 852 C: 283 R: 0.332
+
+What you should know as a founder of a software company
+https://news.ycombinator.com/item?id=15512592
+|################                                  | S: 170 C: 55 R: 0.324
+
+How to Create a Private Ethereum Blockchain
+https://news.ycombinator.com/item?id=15509147
+|##############                                    | S: 126 C: 37 R: 0.294
+
+MNT Reform: DIY portable computer
+https://news.ycombinator.com/item?id=15507122
+|##############                                    | S: 187 C: 53 R: 0.283
+
+Vim after 15 Years
+https://news.ycombinator.com/item?id=15491553
+|#############                                     | S: 544 C: 150 R: 0.276
+
+Purism Librem Laptops Completely Disable Intel’s Management Engine
+https://news.ycombinator.com/item?id=15510428
+|############                                      | S: 136 C: 33 R: 0.243
+
+Tasklets: a more ergonomic solution to WebWorkers
+https://news.ycombinator.com/item?id=15511519
+|##########                                        | S: 32 C: 7 R: 0.219
+
+Pearl No. 4 – Kth Smallest in the Union of Two Sorted Collections
+https://news.ycombinator.com/item?id=15507763
+|##########                                        | S: 54 C: 11 R: 0.204
+
+Canada's 'secret spy agency' is releasing a malware-fighting tool to the public
+https://news.ycombinator.com/item?id=15508298
+|#########                                         | S: 351 C: 66 R: 0.188
+
+F-Droid 1.0 released
+https://news.ycombinator.com/item?id=15510760
+|#########                                         | S: 347 C: 64 R: 0.184
+
+Turning the Optical Fiber Network into a Giant Earthquake Sensor
+https://news.ycombinator.com/item?id=15508794
+|########                                          | S: 95 C: 17 R: 0.179
+
+Documenting the Web together
+https://news.ycombinator.com/item?id=15500220
+|########                                          | S: 1128 C: 191 R: 0.169
+
+Edward – A Turing-Complete Language for Deep Probabilistic Programming
+https://news.ycombinator.com/item?id=15509178
+|#######                                           | S: 163 C: 26 R: 0.160
+
+A View of Mathematics (2005) [pdf]
+https://news.ycombinator.com/item?id=15507141
+|######                                            | S: 144 C: 18 R: 0.125
+
+DevDocs API Documentation
+https://news.ycombinator.com/item?id=15507871
+|#####                                             | S: 1106 C: 129 R: 0.117
+
+Blockchains explained visually (part 1 of 2)
+https://news.ycombinator.com/item?id=15497729
+|#####                                             | S: 369 C: 39 R: 0.106
+
+Intriguing Tessellations
+https://news.ycombinator.com/item?id=15509989
+|###                                               | S: 101 C: 8 R: 0.079
+
+Almost half of tech workers worry about losing their jobs because of ageism
+https://news.ycombinator.com/item?id=15512374
+|###                                               | S: 38 C: 3 R: 0.079
+
+Using cgroups to limit I/O
+https://news.ycombinator.com/item?id=15506907
+|##                                                | S: 167 C: 10 R: 0.060
+
+Facebook open-sources RacerD: Fast static race detection at scale
+https://news.ycombinator.com/item?id=15509100
+|                                                  | S: 27 C: 0 R: 0.000
+
+Mastodon 2.0: The Big Emoji Update
+https://news.ycombinator.com/item?id=15512610
+|                                                  | S: 34 C: 0 R: 0.000
+
+Increment issue 3: Development
+https://news.ycombinator.com/item?id=15510214
+|                                                  | S: 14 C: 0 R: 0.000
+
+The Mac mini isn’t dead yet, says Tim Cook
+https://news.ycombinator.com/item?id=15512957
+|                                                  | S: 24 C: 0 R: 0.000
+

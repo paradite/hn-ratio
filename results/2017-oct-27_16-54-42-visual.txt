@@ -1,0 +1,184 @@
+Reddit Bans Nazi Groups and Others in Crackdown on Violent Content
+https://news.ycombinator.com/item?id=15563150
+|##################################################|#################################################################################################### S: 58 C: 175 R: 3.017
+
+Rising Rents Are Pushing More Tenants Past the Breaking Point
+https://news.ycombinator.com/item?id=15560198
+|##################################################|####################### S: 192 C: 281 R: 1.464
+
+New Zealand to ban foreigners from buying existing houses
+https://news.ycombinator.com/item?id=15561204
+|##################################################|############# S: 305 C: 390 R: 1.279
+
+Massachusetts is considering leaving the Eastern Time Zone
+https://news.ycombinator.com/item?id=15561874
+|##################################################|########## S: 141 C: 171 R: 1.213
+
+How Australia's $49B internet network came to be ridiculed
+https://news.ycombinator.com/item?id=15564603
+|##################################################|######## S: 106 C: 125 R: 1.179
+
+Twitter says it could turn first-ever profit
+https://news.ycombinator.com/item?id=15559422
+|################################################  | S: 211 C: 206 R: 0.976
+
+Walmart will soon have robots roaming the aisles in 50 stores
+https://news.ycombinator.com/item?id=15562743
+|###############################################   | S: 251 C: 240 R: 0.956
+
+eBay launches visual search tools that let you shop using photos
+https://news.ycombinator.com/item?id=15559537
+|#############################################     | S: 112 C: 102 R: 0.911
+
+AI Model Fundamentally Cracks Captchas, Scientists Say
+https://news.ycombinator.com/item?id=15564922
+|#############################################     | S: 54 C: 49 R: 0.907
+
+Peter Thiel: Silicon Valley’s monopoly on big growth tech companies is over
+https://news.ycombinator.com/item?id=15560928
+|###########################################       | S: 108 C: 95 R: 0.880
+
+The Unforgiving Math That Stops Epidemics
+https://news.ycombinator.com/item?id=15561599
+|#####################################             | S: 105 C: 79 R: 0.752
+
+How to Read the JFK Assassination Files
+https://news.ycombinator.com/item?id=15559312
+|##################################                | S: 113 C: 78 R: 0.690
+
+Sway 1.0 is not going to support the Nvidia proprietary driver
+https://news.ycombinator.com/item?id=15564611
+|##################################                | S: 140 C: 96 R: 0.686
+
+Many junior scientists need to take a hard look at their job prospects
+https://news.ycombinator.com/item?id=15557139
+|################################                  | S: 400 C: 260 R: 0.650
+
+Show HN: Baby Buddy
+https://news.ycombinator.com/item?id=15558057
+|###############################                   | S: 156 C: 97 R: 0.622
+
+Don't hate COBOL until you've tried it
+https://news.ycombinator.com/item?id=15565933
+|##############################                    | S: 43 C: 26 R: 0.605
+
+Suicide Linux
+https://news.ycombinator.com/item?id=15561987
+|##########################                        | S: 190 C: 100 R: 0.526
+
+Android Studio 3.0 Release Notes
+https://news.ycombinator.com/item?id=15557621
+|#########################                         | S: 254 C: 132 R: 0.520
+
+Amazon gains wholesale pharmacy licenses in multiple states
+https://news.ycombinator.com/item?id=15564533
+|#########################                         | S: 164 C: 85 R: 0.518
+
+Why we used Pony to write Wallaroo
+https://news.ycombinator.com/item?id=15558051
+|########################                          | S: 151 C: 75 R: 0.497
+
+How Unreal Renders a Frame
+https://news.ycombinator.com/item?id=15548928
+|########################                          | S: 305 C: 151 R: 0.495
+
+Write tests. Not too many. Mostly integration
+https://news.ycombinator.com/item?id=15565875
+|########################                          | S: 131 C: 64 R: 0.489
+
+Being less friendly to advertisers insulates Snapchat from viral hoaxes
+https://news.ycombinator.com/item?id=15565689
+|########################                          | S: 37 C: 18 R: 0.486
+
+Amazon.com Announces Third Quarter Sales Up 34% to $43.7B
+https://news.ycombinator.com/item?id=15562533
+|######################                            | S: 197 C: 87 R: 0.442
+
+Monsanto Attacks Scientists After Studies Show Trouble for Its New Weedkiller
+https://news.ycombinator.com/item?id=15559428
+|###################                               | S: 579 C: 229 R: 0.396
+
+TileDB: Storing massive dense and sparse multi-dimensional array data
+https://news.ycombinator.com/item?id=15547749
+|###################                               | S: 172 C: 66 R: 0.384
+
+Microsoft Has Stopped Manufacturing The Kinect
+https://news.ycombinator.com/item?id=15550735
+|##################                                | S: 661 C: 251 R: 0.380
+
+A README maturity model
+https://news.ycombinator.com/item?id=15548729
+|##################                                | S: 169 C: 64 R: 0.379
+
+Billionaire Insys founder charged in U.S. opioid bribe case
+https://news.ycombinator.com/item?id=15561548
+|#################                                 | S: 118 C: 42 R: 0.356
+
+First possible interstellar object detected in our solar system
+https://news.ycombinator.com/item?id=15563735
+|#################                                 | S: 172 C: 60 R: 0.349
+
+Alphabet Q3 Revenue up 24%
+https://news.ycombinator.com/item?id=15566135
+|################                                  | S: 30 C: 10 R: 0.333
+
+The Battle That Created Germany
+https://news.ycombinator.com/item?id=15541117
+|################                                  | S: 139 C: 46 R: 0.331
+
+TwilioQuest, a new way to learn Twilio
+https://news.ycombinator.com/item?id=15559723
+|##############                                    | S: 153 C: 44 R: 0.288
+
+Anaconda 5.0 Released
+https://news.ycombinator.com/item?id=15564375
+|##############                                    | S: 84 C: 24 R: 0.286
+
+The HARC First Year Report
+https://news.ycombinator.com/item?id=15564072
+|##############                                    | S: 50 C: 14 R: 0.280
+
+The Upspin manifesto: On the ownership and sharing of data (2014)
+https://news.ycombinator.com/item?id=15562704
+|#############                                     | S: 88 C: 24 R: 0.273
+
+Georgia election server wiped after lawsuit filed
+https://news.ycombinator.com/item?id=15563099
+|###########                                       | S: 384 C: 90 R: 0.234
+
+Mark Twain’s Get-Rich-Quick Schemes
+https://news.ycombinator.com/item?id=15565676
+|##########                                        | S: 83 C: 18 R: 0.217
+
+To Settle Infinity Question, a New Law of Mathematics
+https://news.ycombinator.com/item?id=15564303
+|##########                                        | S: 70 C: 14 R: 0.200
+
+BLS 10-year forecast: robot cashiers, math nerds, and many healthcare workers
+https://news.ycombinator.com/item?id=15562355
+|########                                          | S: 58 C: 10 R: 0.172
+
+David Eppstein's Wikipedia Gallery Contributions
+https://news.ycombinator.com/item?id=15549197
+|########                                          | S: 123 C: 21 R: 0.171
+
+Learning a hierarchy
+https://news.ycombinator.com/item?id=15560348
+|########                                          | S: 233 C: 38 R: 0.163
+
+Introducing the Graphcool Framework
+https://news.ycombinator.com/item?id=15560067
+|######                                            | S: 106 C: 14 R: 0.132
+
+The Drive Home
+https://news.ycombinator.com/item?id=15564148
+|####                                              | S: 150 C: 12 R: 0.080
+
+Real world machine learning at Jane Street
+https://news.ycombinator.com/item?id=15564089
+|#                                                 | S: 27 C: 1 R: 0.037
+
+High-Performance GPU Computing in the Julia Programming Language
+https://news.ycombinator.com/item?id=15564639
+|#                                                 | S: 32 C: 1 R: 0.031
+

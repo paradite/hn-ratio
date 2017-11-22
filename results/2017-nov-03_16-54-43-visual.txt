@@ -1,0 +1,184 @@
+Ask HN: Who is hiring? (November 2017)
+https://news.ycombinator.com/item?id=15601729
+|##################################################|#################################### S: 599 C: 1038 R: 1.733
+
+Apple Reports Fourth Quarter Results
+https://news.ycombinator.com/item?id=15614006
+|##################################################|############# S: 101 C: 128 R: 1.267
+
+TransferWise announces $280M investment
+https://news.ycombinator.com/item?id=15608858
+|##################################################|######## S: 142 C: 167 R: 1.176
+
+The Exercise Pill
+https://news.ycombinator.com/item?id=15610489
+|###########################################       | S: 166 C: 144 R: 0.867
+
+What I Learned from Losing $200M (2015)
+https://news.ycombinator.com/item?id=15612100
+|####################################              | S: 156 C: 114 R: 0.731
+
+The Sticky, Untold Story of Cinnabon
+https://news.ycombinator.com/item?id=15614213
+|####################################              | S: 47 C: 34 R: 0.723
+
+A “Silicon Valley” actor is terrified by what’s happening in Silicon Valley
+https://news.ycombinator.com/item?id=15615214
+|###################################               | S: 112 C: 79 R: 0.705
+
+Logitech announces a devkit for using keyboards in virtual reality
+https://news.ycombinator.com/item?id=15615940
+|##################################                | S: 36 C: 25 R: 0.694
+
+'Big Void' Identified in Khufu's Great Pyramid at Giza
+https://news.ycombinator.com/item?id=15609807
+|################################                  | S: 296 C: 194 R: 0.655
+
+USS McCain collision ultimately caused by UI confusion
+https://news.ycombinator.com/item?id=15614579
+|#############################                     | S: 335 C: 199 R: 0.594
+
+Life Inside the RVs of Silicon Valley
+https://news.ycombinator.com/item?id=15616719
+|#########################                         | S: 61 C: 31 R: 0.508
+
+Yahoo Finance has apparently killed is API
+https://news.ycombinator.com/item?id=15616880
+|########################                          | S: 53 C: 26 R: 0.491
+
+A New Twist on Neural Networks
+https://news.ycombinator.com/item?id=15609402
+|########################                          | S: 298 C: 146 R: 0.490
+
+How Adversarial Attacks Work
+https://news.ycombinator.com/item?id=15612634
+|#######################                           | S: 233 C: 110 R: 0.472
+
+Against an Increasingly User-Hostile Web
+https://news.ycombinator.com/item?id=15611122
+|#######################                           | S: 895 C: 416 R: 0.465
+
+Show HN: Ready-to-use API to convert any web page to PDF using headless Chrome
+https://news.ycombinator.com/item?id=15611265
+|######################                            | S: 120 C: 53 R: 0.442
+
+Savitech USB audio drivers install a new root CA certificate
+https://news.ycombinator.com/item?id=15614016
+|#####################                             | S: 325 C: 140 R: 0.431
+
+Show HN: Link.fish – API to extract data from websites as JSON
+https://news.ycombinator.com/item?id=15611605
+|#####################                             | S: 169 C: 71 R: 0.420
+
+The 33 Highest Grossing Display Ads on the Web
+https://news.ycombinator.com/item?id=15616695
+|###################                               | S: 18 C: 7 R: 0.389
+
+Arsenic and Old Leeches
+https://news.ycombinator.com/item?id=15613424
+|###################                               | S: 21 C: 8 R: 0.381
+
+Heart Stents Fail to Ease Chest Pain
+https://news.ycombinator.com/item?id=15612082
+|#################                                 | S: 62 C: 22 R: 0.355
+
+The End of Gratipay
+https://news.ycombinator.com/item?id=15612286
+|#################                                 | S: 203 C: 72 R: 0.355
+
+Tor's Fall Harvest: The Next Generation of Onion Services
+https://news.ycombinator.com/item?id=15614141
+|################                                  | S: 151 C: 50 R: 0.331
+
+Joseph Campbell’s daily routine for “the most important period of my study”
+https://news.ycombinator.com/item?id=15616775
+|###############                                   | S: 98 C: 31 R: 0.316
+
+Electron.Net: Build cross platform desktop apps using .NET core and ASP.NET core
+https://news.ycombinator.com/item?id=15616638
+|##############                                    | S: 64 C: 19 R: 0.297
+
+Human Beings Almost Vanished from Earth in 70,000 B.C
+https://news.ycombinator.com/item?id=15615399
+|##############                                    | S: 176 C: 52 R: 0.295
+
+MySQL vs. MariaDB: Reality Check
+https://news.ycombinator.com/item?id=15613856
+|##############                                    | S: 126 C: 37 R: 0.294
+
+Why Do We Still Commute?
+https://news.ycombinator.com/item?id=15616959
+|#############                                     | S: 11 C: 3 R: 0.273
+
+A Minimalist Guide to SQLite
+https://news.ycombinator.com/item?id=15605669
+|#############                                     | S: 430 C: 113 R: 0.263
+
+Unsupervised Machine Translation Using Monolingual Corpora Only [pdf]
+https://news.ycombinator.com/item?id=15610594
+|###########                                       | S: 105 C: 25 R: 0.238
+
+Keats’ copy of Paradise Lost: A direct channel to the poet’s thoughts
+https://news.ycombinator.com/item?id=15614889
+|###########                                       | S: 18 C: 4 R: 0.222
+
+Inside Hillary Clinton’s Secret Takeover of the DNC
+https://news.ycombinator.com/item?id=15617033
+|##########                                        | S: 32 C: 7 R: 0.219
+
+The underground story of Cobra, the 1980s’ illicit handmade computer
+https://news.ycombinator.com/item?id=15607791
+|##########                                        | S: 92 C: 20 R: 0.217
+
+The freakishly strong base
+https://news.ycombinator.com/item?id=15612385
+|##########                                        | S: 113 C: 23 R: 0.204
+
+Asynchronous Group Messaging with Strong Security Guarantees [pdf]
+https://news.ycombinator.com/item?id=15611701
+|#########                                         | S: 54 C: 10 R: 0.185
+
+What every systems programmer should know about lockless concurrency [pdf]
+https://news.ycombinator.com/item?id=15607869
+|########                                          | S: 377 C: 65 R: 0.172
+
+Connecting to Google Sheets with Python
+https://news.ycombinator.com/item?id=15614660
+|######                                            | S: 118 C: 15 R: 0.127
+
+A Review of PentesterLab
+https://news.ycombinator.com/item?id=15615482
+|######                                            | S: 32 C: 4 R: 0.125
+
+Linux containers in 500 lines of code
+https://news.ycombinator.com/item?id=15608435
+|#####                                             | S: 397 C: 47 R: 0.118
+
+New Species of Orangutan Is Rarest Great Ape
+https://news.ycombinator.com/item?id=15614307
+|###                                               | S: 93 C: 7 R: 0.075
+
+The Short, Sad Story of Stanwix Melville
+https://news.ycombinator.com/item?id=15608004
+|###                                               | S: 15 C: 1 R: 0.067
+
+Abstracting the Geniuses Away from Failure Testing
+https://news.ycombinator.com/item?id=15608714
+|##                                                | S: 18 C: 1 R: 0.056
+
+GERT: Go that runs bare-metal on armv7a SOCs
+https://news.ycombinator.com/item?id=15613924
+|#                                                 | S: 62 C: 2 R: 0.032
+
+Stack Overflow lays off 20% of staff
+https://news.ycombinator.com/item?id=15615925
+|                                                  | S: 56 C: 1 R: 0.018
+
+Show HN: Skymind Intelligence Layer Community Edition
+https://news.ycombinator.com/item?id=15613181
+|                                                  | S: 61 C: 1 R: 0.016
+
+Japanese addresses: No street names. Block numbers
+https://news.ycombinator.com/item?id=15616782
+|                                                  | S: 12 C: 0 R: 0.000
+

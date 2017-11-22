@@ -1,0 +1,188 @@
+China suddenly has way more of the world’s most powerful computers than the US
+https://news.ycombinator.com/item?id=15701663
+|###############################################   | S: 21 C: 20 R: 0.952
+
+“It is never a compiler error”
+https://news.ycombinator.com/item?id=15699675
+|##############################################    | S: 190 C: 177 R: 0.932
+
+How to Get Rich Playing Video Games Online
+https://news.ycombinator.com/item?id=15695129
+|############################################      | S: 201 C: 179 R: 0.891
+
+A Year of Tech Solidarity
+https://news.ycombinator.com/item?id=15700753
+|##########################################        | S: 75 C: 63 R: 0.840
+
+Firefox Features Google as Default Search Provider in the U.S.
+https://news.ycombinator.com/item?id=15695114
+|#################################                 | S: 214 C: 143 R: 0.668
+
+Don’t Tax Options and RSUs Upon Vesting
+https://news.ycombinator.com/item?id=15686442
+|#################################                 | S: 549 C: 366 R: 0.667
+
+Zimbabwe's Military in Apparent Takeover, Says It Has Custody of President
+https://news.ycombinator.com/item?id=15701729
+|#################################                 | S: 59 C: 39 R: 0.661
+
+WTF is a Source Map
+https://news.ycombinator.com/item?id=15701417
+|##############################                    | S: 61 C: 37 R: 0.607
+
+Intel to Launch 3D XPoint DIMMs in 2H 2018
+https://news.ycombinator.com/item?id=15700415
+|##############################                    | S: 45 C: 27 R: 0.600
+
+WebAssembly support now shipping in all major browsers
+https://news.ycombinator.com/item?id=15694018
+|#############################                     | S: 541 C: 316 R: 0.584
+
+The best laptop ever made
+https://news.ycombinator.com/item?id=15699423
+|############################                      | S: 302 C: 170 R: 0.563
+
+Electronic Lottery Tickets as Micropayments [annotated/explained Version]
+https://news.ycombinator.com/item?id=15700718
+|############################                      | S: 66 C: 37 R: 0.561
+
+Introducing Twitter premium APIs
+https://news.ycombinator.com/item?id=15696313
+|###########################                       | S: 208 C: 114 R: 0.548
+
+California Could Legalize Magic Mushrooms in 2018
+https://news.ycombinator.com/item?id=15697465
+|#########################                         | S: 235 C: 120 R: 0.511
+
+Fedora 27 released
+https://news.ycombinator.com/item?id=15695013
+|########################                          | S: 270 C: 133 R: 0.493
+
+Ask HN: What are best tools for web scraping?
+https://news.ycombinator.com/item?id=15694118
+|########################                          | S: 429 C: 210 R: 0.490
+
+How Discord Resizes 150M Images Every Day with Go and C++
+https://news.ycombinator.com/item?id=15696855
+|########################                          | S: 273 C: 132 R: 0.484
+
+Firefox 57.0 Released
+https://news.ycombinator.com/item?id=15694926
+|#######################                           | S: 1610 C: 745 R: 0.463
+
+Elasticsearch 6.0.0 GA released
+https://news.ycombinator.com/item?id=15698662
+|######################                            | S: 170 C: 78 R: 0.459
+
+Fructan, not gluten, induces symptoms in patients with gluten sensitivity
+https://news.ycombinator.com/item?id=15699841
+|######################                            | S: 143 C: 64 R: 0.448
+
+Classifying Japanese characters from the Edo period
+https://news.ycombinator.com/item?id=15699646
+|#####################                             | S: 42 C: 18 R: 0.429
+
+Scripting the Haiku GUI with hey
+https://news.ycombinator.com/item?id=15697697
+|####################                              | S: 54 C: 22 R: 0.407
+
+Show HN: Erlang REST framework
+https://news.ycombinator.com/item?id=15700629
+|################                                  | S: 58 C: 19 R: 0.328
+
+Hotbed of Misinformation
+https://news.ycombinator.com/item?id=15701700
+|################                                  | S: 233 C: 76 R: 0.326
+
+The fake Facebook profile industry
+https://news.ycombinator.com/item?id=15694430
+|################                                  | S: 658 C: 213 R: 0.324
+
+Diamond Signs (2012)
+https://news.ycombinator.com/item?id=15699529
+|###############                                   | S: 22 C: 7 R: 0.318
+
+How Firefox Got Fast Again
+https://news.ycombinator.com/item?id=15686653
+|###############                                   | S: 2136 C: 675 R: 0.316
+
+Red Hat Introduces Arm Server Support for Red Hat Enterprise Linux
+https://news.ycombinator.com/item?id=15695903
+|##############                                    | S: 146 C: 41 R: 0.281
+
+Peter Thiel Gave Money to Attorney General Going After Google
+https://news.ycombinator.com/item?id=15701206
+|#############                                     | S: 55 C: 15 R: 0.273
+
+How many languages are there in the world?
+https://news.ycombinator.com/item?id=15699056
+|#############                                     | S: 11 C: 3 R: 0.273
+
+The evolution of eyes
+https://news.ycombinator.com/item?id=15697791
+|############                                      | S: 118 C: 29 R: 0.246
+
+Bootlegging Jane’s Addiction
+https://news.ycombinator.com/item?id=15697843
+|############                                      | S: 49 C: 12 R: 0.245
+
+The Story of a New Brain
+https://news.ycombinator.com/item?id=15689847
+|###########                                       | S: 52 C: 12 R: 0.231
+
+HashiCorp Vault 0.9
+https://news.ycombinator.com/item?id=15699200
+|##########                                        | S: 33 C: 7 R: 0.212
+
+Developer preview of TensorFlow Lite
+https://news.ycombinator.com/item?id=15699084
+|##########                                        | S: 271 C: 55 R: 0.203
+
+Ask HN: What are some interesting papers in CS for a beginner?
+https://news.ycombinator.com/item?id=15695326
+|#########                                         | S: 419 C: 82 R: 0.196
+
+Airbnb revenue jumps 50 percent to about $1B in Q3
+https://news.ycombinator.com/item?id=15700420
+|########                                          | S: 29 C: 5 R: 0.172
+
+Node.js v9.2.0
+https://news.ycombinator.com/item?id=15700246
+|#######                                           | S: 106 C: 16 R: 0.151
+
+Understanding Hinton’s Capsule Networks, Part I: Intuition
+https://news.ycombinator.com/item?id=15690121
+|#######                                           | S: 263 C: 38 R: 0.144
+
+Using SVG as image placeholders
+https://news.ycombinator.com/item?id=15696596
+|######                                            | S: 773 C: 106 R: 0.137
+
+Fearless Concurrency in Firefox Quantum
+https://news.ycombinator.com/item?id=15701238
+|######                                            | S: 16 C: 2 R: 0.125
+
+Real-time dynamics of CRISPR visualized by high-speed atomic force microscopy
+https://news.ycombinator.com/item?id=15699297
+|#####                                             | S: 99 C: 10 R: 0.101
+
+Writing interactive stories with Ink in Unity
+https://news.ycombinator.com/item?id=15698984
+|###                                               | S: 76 C: 6 R: 0.079
+
+Augmented reality with Python and OpenCV
+https://news.ycombinator.com/item?id=15697550
+|###                                               | S: 229 C: 15 R: 0.066
+
+Australia's economy is a house of cards
+https://news.ycombinator.com/item?id=15700258
+|###                                               | S: 33 C: 2 R: 0.061
+
+Remote Code Execution in CouchDB (and Privilege Escalation in the Npm Registry)
+https://news.ycombinator.com/item?id=15700576
+|##                                                | S: 25 C: 1 R: 0.040
+
+Cornell Natural Language Visual Reasoning Dataset
+https://news.ycombinator.com/item?id=15694641
+|#                                                 | S: 137 C: 5 R: 0.036
+

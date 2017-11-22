@@ -1,0 +1,168 @@
+Seattle has third largest homeless population in U.S.
+https://news.ycombinator.com/item?id=15481167
+|##################################################|##################################################### S: 15 C: 31 R: 2.067
+
+Self-driving car accidents: Robot drivers are ‘odd, and that’s why they get hit’
+https://news.ycombinator.com/item?id=15480851
+|##################################################|############################## S: 23 C: 37 R: 1.609
+
+Tesla’s New Car Smell
+https://news.ycombinator.com/item?id=15480654
+|############################################      | S: 114 C: 102 R: 0.895
+
+Why physicists still use Fortran (2015)
+https://news.ycombinator.com/item?id=15477395
+|#####################################             | S: 332 C: 252 R: 0.759
+
+The trouble with text-only email
+https://news.ycombinator.com/item?id=15478546
+|#####################################             | S: 163 C: 122 R: 0.748
+
+State Borders Were Drawn in the Distant Past. Time to Reimagine the Map? (2014)
+https://news.ycombinator.com/item?id=15480140
+|####################################              | S: 34 C: 25 R: 0.735
+
+As the 747 Begins Its Final Approach, a Pilot Takes a Flight Down Memory Lane
+https://news.ycombinator.com/item?id=15478442
+|###############################                   | S: 156 C: 97 R: 0.622
+
+Unbalanced reads from SSDs in software RAID mirrors in Linux
+https://news.ycombinator.com/item?id=15477357
+|####################                              | S: 109 C: 45 R: 0.413
+
+The Binary System Was Created Before Leibniz
+https://news.ycombinator.com/item?id=15477904
+|####################                              | S: 44 C: 18 R: 0.409
+
+A “negative emissions” plant has opened in Iceland
+https://news.ycombinator.com/item?id=15475808
+|####################                              | S: 120 C: 49 R: 0.408
+
+What is Nix and why you should try it
+https://news.ycombinator.com/item?id=15478209
+|####################                              | S: 375 C: 152 R: 0.405
+
+Death of the Nile
+https://news.ycombinator.com/item?id=15476251
+|###################                               | S: 143 C: 55 R: 0.385
+
+Chip Scale Atomic Clock
+https://news.ycombinator.com/item?id=15479893
+|###################                               | S: 50 C: 19 R: 0.380
+
+DAG Rosenstein’s “Responsible Encryption” Demand Is Bad
+https://news.ycombinator.com/item?id=15479014
+|##################                                | S: 96 C: 36 R: 0.375
+
+A Look at Eyeglass Lens Materials (2012)
+https://news.ycombinator.com/item?id=15479615
+|#################                                 | S: 28 C: 10 R: 0.357
+
+Switching from Common Lisp to Julia
+https://news.ycombinator.com/item?id=15478131
+|#################                                 | S: 129 C: 44 R: 0.341
+
+What I Learned from Reading Every Amazon Shareholders Letter
+https://news.ycombinator.com/item?id=15472846
+|################                                  | S: 199 C: 65 R: 0.327
+
+Making the Case for Feature-Rich Memory Systems (2016) [pdf]
+https://news.ycombinator.com/item?id=15475428
+|################                                  | S: 37 C: 12 R: 0.324
+
+Tiangong-1: Chinese space station will crash to Earth within months
+https://news.ycombinator.com/item?id=15479891
+|###############                                   | S: 35 C: 11 R: 0.314
+
+Boiling lead and black art: a history of mathematical typography
+https://news.ycombinator.com/item?id=15476875
+|###############                                   | S: 124 C: 38 R: 0.306
+
+GNU UPC
+https://news.ycombinator.com/item?id=15479246
+|#############                                     | S: 73 C: 19 R: 0.260
+
+Nsjail – A light-weight process isolation tool for Linux
+https://news.ycombinator.com/item?id=15478467
+|############                                      | S: 70 C: 18 R: 0.257
+
+I Fell 15,000 Feet and Lived
+https://news.ycombinator.com/item?id=15480334
+|############                                      | S: 376 C: 94 R: 0.250
+
+US telcos appear to be selling non-anonymized access to consumer telephone data
+https://news.ycombinator.com/item?id=15477286
+|###########                                       | S: 1190 C: 282 R: 0.237
+
+Calamine: Excel file reader, written in Rust
+https://news.ycombinator.com/item?id=15476951
+|###########                                       | S: 110 C: 25 R: 0.227
+
+Efficient pagination of a SQL table with 100M records
+https://news.ycombinator.com/item?id=15480219
+|##########                                        | S: 124 C: 25 R: 0.202
+
+Essential C
+https://news.ycombinator.com/item?id=15480033
+|#########                                         | S: 229 C: 45 R: 0.197
+
+Predicting, Decrypting, and Abusing WPA2/802.11 Group Keys [pdf]
+https://news.ycombinator.com/item?id=15478750
+|#########                                         | S: 214 C: 40 R: 0.187
+
+CryptoKitties: breedable cats on the blockchain – ETHWaterloo winner
+https://news.ycombinator.com/item?id=15479945
+|########                                          | S: 120 C: 20 R: 0.167
+
+I Quit Facebook
+https://news.ycombinator.com/item?id=15481509
+|######                                            | S: 15 C: 2 R: 0.133
+
+Severe flaw in WPA2 protocol leaves Wi-Fi traffic open to eavesdropping
+https://news.ycombinator.com/item?id=15480895
+|######                                            | S: 336 C: 43 R: 0.128
+
+Introducing PayPal’s open-source cross-domain JavaScript suite
+https://news.ycombinator.com/item?id=15479885
+|######                                            | S: 71 C: 9 R: 0.127
+
+OCLint
+https://news.ycombinator.com/item?id=15479353
+|#####                                             | S: 59 C: 7 R: 0.119
+
+An Interview with Stanley Kubrick (1969)
+https://news.ycombinator.com/item?id=15476081
+|#####                                             | S: 73 C: 8 R: 0.110
+
+Show HN: Two grpc microservices with mutual TLS and token authentication in Go
+https://news.ycombinator.com/item?id=15479176
+|####                                              | S: 44 C: 4 R: 0.091
+
+The Python Graph Gallery
+https://news.ycombinator.com/item?id=15481578
+|####                                              | S: 12 C: 1 R: 0.083
+
+Crypto boom spawns blockchain accelerators to help startups raise funds with ICO
+https://news.ycombinator.com/item?id=15481046
+|###                                               | S: 13 C: 1 R: 0.077
+
+Show HN: Node.js port of WhisperSystem's libsignal
+https://news.ycombinator.com/item?id=15481298
+|###                                               | S: 31 C: 2 R: 0.065
+
+Data Structure Visualizations
+https://news.ycombinator.com/item?id=15480517
+|##                                                | S: 37 C: 2 R: 0.054
+
+Arithmetic Gas
+https://news.ycombinator.com/item?id=15478540
+|#                                                 | S: 70 C: 2 R: 0.029
+
+Transit and Peering: How your requests reach GitHub
+https://news.ycombinator.com/item?id=15461008
+|                                                  | S: 13 C: 0 R: 0.000
+
+Fast Python Serialization with Ray and Apache Arrow
+https://news.ycombinator.com/item?id=15481169
+|                                                  | S: 10 C: 0 R: 0.000
+

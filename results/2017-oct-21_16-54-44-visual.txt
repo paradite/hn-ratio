@@ -1,0 +1,188 @@
+A Test of Police Body Cameras Defies Expectations
+https://news.ycombinator.com/item?id=15516658
+|##################################################|################################### S: 143 C: 244 R: 1.706
+
+Australia Mourns the End of Its Car Manufacturing Industry
+https://news.ycombinator.com/item?id=15514761
+|##################################################|########### S: 99 C: 122 R: 1.232
+
+A calendar of upcoming changes to the Twitter Rules
+https://news.ycombinator.com/item?id=15511962
+|##################################################|########## S: 112 C: 135 R: 1.205
+
+MongoDB shares jump more than 30% in $192M IPO
+https://news.ycombinator.com/item?id=15508507
+|##################################################|### S: 372 C: 395 R: 1.062
+
+“How Amazon Took Seattle's Soul”
+https://news.ycombinator.com/item?id=15519335
+|##################################################|# S: 148 C: 152 R: 1.027
+
+Ren: a lightweight data-exchange text format
+https://news.ycombinator.com/item?id=15515201
+|##################################################|# S: 84 C: 86 R: 1.024
+
+Give researchers a lifetime word limit
+https://news.ycombinator.com/item?id=15517359
+|################################################  | S: 37 C: 36 R: 0.973
+
+Google's CEO is increasingly boxed in by regulators, critics, and employees
+https://news.ycombinator.com/item?id=15513890
+|###############################################   | S: 177 C: 167 R: 0.944
+
+MasterCard Ending Signature Requirements
+https://news.ycombinator.com/item?id=15517949
+|###########################################       | S: 143 C: 123 R: 0.860
+
+Show HN: I made an RSS News Reader that prioritizes topics you care about
+https://news.ycombinator.com/item?id=15514805
+|##############################                    | S: 41 C: 25 R: 0.610
+
+The Big Sleep (2013)
+https://news.ycombinator.com/item?id=15513834
+|##############################                    | S: 23 C: 14 R: 0.609
+
+Drone footage of Seattle's new 57 foot SR 99 tunnel [video]
+https://news.ycombinator.com/item?id=15519947
+|###########################                       | S: 62 C: 34 R: 0.548
+
+Purism Librem Laptops Completely Disable Intel’s Management Engine
+https://news.ycombinator.com/item?id=15510428
+|##########################                        | S: 292 C: 154 R: 0.527
+
+Mastodon 2.0
+https://news.ycombinator.com/item?id=15514987
+|########################                          | S: 344 C: 171 R: 0.497
+
+Socially Engineering Myself into High Security Facilities
+https://news.ycombinator.com/item?id=15516526
+|#######################                           | S: 391 C: 182 R: 0.465
+
+Publicly credit your employees
+https://news.ycombinator.com/item?id=15517903
+|######################                            | S: 31 C: 14 R: 0.452
+
+How to Get 100/100 Google Page Speed Score with Middleman and Nginx
+https://news.ycombinator.com/item?id=15516957
+|######################                            | S: 167 C: 75 R: 0.449
+
+Iceland's attempts to replant its forests
+https://news.ycombinator.com/item?id=15515292
+|####################                              | S: 561 C: 232 R: 0.414
+
+Show HN: Vixl44 – Create pixel art inside your terminal using vim movements
+https://news.ycombinator.com/item?id=15515099
+|####################                              | S: 42 C: 17 R: 0.405
+
+A History of Music Notation
+https://news.ycombinator.com/item?id=15513413
+|##################                                | S: 83 C: 31 R: 0.373
+
+HolyJit: A New Hope
+https://news.ycombinator.com/item?id=15514926
+|##################                                | S: 520 C: 189 R: 0.363
+
+The story of the 1968 “Fuck the Draft” poster
+https://news.ycombinator.com/item?id=15518449
+|#################                                 | S: 134 C: 47 R: 0.351
+
+FZF and RipGrep – Navigate with bash faster than ever before
+https://news.ycombinator.com/item?id=15514589
+|#################                                 | S: 149 C: 51 R: 0.342
+
+The Source Code for NYC's Forensic DNA Statistical Analysis Tool
+https://news.ycombinator.com/item?id=15518364
+|#################                                 | S: 97 C: 33 R: 0.340
+
+IPv6 Buddy
+https://news.ycombinator.com/item?id=15514674
+|################                                  | S: 233 C: 78 R: 0.335
+
+Plain emails not only save time but work better (2016)
+https://news.ycombinator.com/item?id=15514855
+|###############                                   | S: 358 C: 113 R: 0.316
+
+Say “yes” to HTTPS: Chrome secures the web, one site at a time
+https://news.ycombinator.com/item?id=15518244
+|############                                      | S: 12 C: 3 R: 0.250
+
+Object oriented programming with ANSI-C (1993) [pdf]
+https://news.ycombinator.com/item?id=15515308
+|###########                                       | S: 149 C: 35 R: 0.235
+
+Battle with a Phantom Postgres WAL Segment
+https://news.ycombinator.com/item?id=15516210
+|###########                                       | S: 35 C: 8 R: 0.229
+
+The First PS4 Kernel Exploit: Adieu
+https://news.ycombinator.com/item?id=15515630
+|##########                                        | S: 203 C: 42 R: 0.207
+
+When Oscar Wilde Colluded with Russians
+https://news.ycombinator.com/item?id=15511820
+|#########                                         | S: 44 C: 8 R: 0.182
+
+DotNetAnywhere: An Alternative .NET Runtime
+https://news.ycombinator.com/item?id=15514519
+|########                                          | S: 136 C: 24 R: 0.176
+
+Documenting the Web together
+https://news.ycombinator.com/item?id=15500220
+|########                                          | S: 1180 C: 200 R: 0.169
+
+Browser security beyond sandboxing
+https://news.ycombinator.com/item?id=15500959
+|########                                          | S: 72 C: 12 R: 0.167
+
+The Consolidation Of Talent, Capital and Returns in Biotech
+https://news.ycombinator.com/item?id=15520789
+|######                                            | S: 30 C: 4 R: 0.133
+
+In Fermat’s Library, No Margin Is Too Narrow
+https://news.ycombinator.com/item?id=15516865
+|######                                            | S: 86 C: 11 R: 0.128
+
+Writing a Bootloader
+https://news.ycombinator.com/item?id=15514179
+|######                                            | S: 354 C: 45 R: 0.127
+
+Text to Photo-Realistic Image Synthesis with Generative Adversarial Networks
+https://news.ycombinator.com/item?id=15517731
+|######                                            | S: 16 C: 2 R: 0.125
+
+Taser Company Ignored SEC Emails Because They Were in a Spam Folder
+https://news.ycombinator.com/item?id=15517884
+|######                                            | S: 16 C: 2 R: 0.125
+
+AVA: A Finely Labeled Video Dataset for Human Action Understanding
+https://news.ycombinator.com/item?id=15510604
+|######                                            | S: 33 C: 4 R: 0.121
+
+Google and the Resurgence of Italian Design
+https://news.ycombinator.com/item?id=15521108
+|#####                                             | S: 26 C: 3 R: 0.115
+
+Turning on Project Loon in Puerto Rico
+https://news.ycombinator.com/item?id=15520554
+|#####                                             | S: 133 C: 15 R: 0.113
+
+Equifax's failure calls for judicial dissolution
+https://news.ycombinator.com/item?id=15520743
+|####                                              | S: 79 C: 7 R: 0.089
+
+Archaeogenomic evidence reveals prehistoric matrilineal dynasty in Chaco Canyon
+https://news.ycombinator.com/item?id=15510967
+|###                                               | S: 39 C: 3 R: 0.077
+
+Supercon Badge Hacking Quick-Start
+https://news.ycombinator.com/item?id=15516545
+|###                                               | S: 30 C: 2 R: 0.067
+
+Murder in the Mediterranean: Crime Writing on Corsica
+https://news.ycombinator.com/item?id=15504095
+|##                                                | S: 21 C: 1 R: 0.048
+
+Putting Yourself in the Shoes of a Patent Examiner [pdf]
+https://news.ycombinator.com/item?id=15512814
+|                                                  | S: 25 C: 0 R: 0.000
+

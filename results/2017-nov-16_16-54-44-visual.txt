@@ -1,0 +1,192 @@
+The Shock of Sweden's Housing Market Is Hitting the Country's Currency
+https://news.ycombinator.com/item?id=15703187
+|##################################################|############################################### S: 209 C: 407 R: 1.947
+
+Is billionaire VC Peter Thiel trying to break up Google?
+https://news.ycombinator.com/item?id=15710510
+|#########################################         | S: 67 C: 56 R: 0.836
+
+Fast software is a discipline, not a purpose
+https://news.ycombinator.com/item?id=15709810
+|####################################              | S: 36 C: 26 R: 0.722
+
+Absent-mindedness as dominance behaviour
+https://news.ycombinator.com/item?id=15703513
+|##################################                | S: 77 C: 53 R: 0.688
+
+Leonardo Da Vinci Painting Sells for $450.3M, Shattering Auction Records
+https://news.ycombinator.com/item?id=15709486
+|##################################                | S: 157 C: 108 R: 0.688
+
+Closest Temperate World Orbiting Quiet Star Discovered
+https://news.ycombinator.com/item?id=15705038
+|################################                  | S: 192 C: 126 R: 0.656
+
+Oberon – The Overlooked Jewel [pdf]
+https://news.ycombinator.com/item?id=15704806
+|##############################                    | S: 181 C: 109 R: 0.602
+
+Schneier: It's Time to Regulate IoT to Improve Cyber-Security
+https://news.ycombinator.com/item?id=15707762
+|##############################                    | S: 220 C: 132 R: 0.600
+
+Towards Linux Kernel Memory Safety
+https://news.ycombinator.com/item?id=15710021
+|############################                      | S: 72 C: 41 R: 0.569
+
+All 500 of the world's top 500 supercomputers are running Linux
+https://news.ycombinator.com/item?id=15707800
+|#########################                         | S: 284 C: 146 R: 0.514
+
+Keeping a Lab Notebook [pdf]
+https://news.ycombinator.com/item?id=15704354
+|#########################                         | S: 287 C: 147 R: 0.512
+
+New method developed to 3D print fully functional electronic circuits
+https://news.ycombinator.com/item?id=15707569
+|########################                          | S: 39 C: 19 R: 0.487
+
+Debian and GNOME announce plans to migrate communities to GitLab
+https://news.ycombinator.com/item?id=15701922
+|########################                          | S: 300 C: 146 R: 0.487
+
+Numpy: Plan for dropping Python 2.7 support
+https://news.ycombinator.com/item?id=15707956
+|#######################                           | S: 570 C: 271 R: 0.475
+
+How the Chinese Government Fakes Social Media Posts for Strategic Distraction [pdf]
+https://news.ycombinator.com/item?id=15708560
+|######################                            | S: 104 C: 47 R: 0.452
+
+Why Dell’s gamble on Linux laptops has paid off
+https://news.ycombinator.com/item?id=15710667
+|######################                            | S: 38 C: 17 R: 0.447
+
+Why Education Startups Do Not Succeed (2011)
+https://news.ycombinator.com/item?id=15709479
+|#####################                             | S: 197 C: 85 R: 0.431
+
+The Fight to Mine Your Data and Sell It to Your Boss
+https://news.ycombinator.com/item?id=15706956
+|#####################                             | S: 247 C: 105 R: 0.425
+
+LIGO and Virgo announce the detection of a black hole binary merger
+https://news.ycombinator.com/item?id=15710605
+|####################                              | S: 24 C: 10 R: 0.417
+
+New Orleans man locked up nearly 8 years awaiting trial, then case gets tossed
+https://news.ycombinator.com/item?id=15709418
+|####################                              | S: 212 C: 87 R: 0.410
+
+New EU law prescribes website blocking in the name of consumer protection
+https://news.ycombinator.com/item?id=15708098
+|####################                              | S: 185 C: 75 R: 0.405
+
+The fake Facebook profile industry
+https://news.ycombinator.com/item?id=15694430
+|################                                  | S: 773 C: 249 R: 0.322
+
+The Final Days of a Tax Haven
+https://news.ycombinator.com/item?id=15704226
+|###############                                   | S: 91 C: 29 R: 0.319
+
+Windows10 Insider Preview Build 17035 Supports UTF-8 as ANSI
+https://news.ycombinator.com/item?id=15710685
+|###############                                   | S: 13 C: 4 R: 0.308
+
+Fearless Concurrency in Firefox Quantum
+https://news.ycombinator.com/item?id=15701238
+|#############                                     | S: 571 C: 157 R: 0.275
+
+Mozilla terminates its deal with Yahoo and makes Google the default in Firefox
+https://news.ycombinator.com/item?id=15711002
+|#############                                     | S: 33 C: 9 R: 0.273
+
+Show HN: Forsh – A Unix shell embedded in Forth
+https://news.ycombinator.com/item?id=15709671
+|############                                      | S: 31 C: 8 R: 0.258
+
+Code together in real time with Teletype for Atom
+https://news.ycombinator.com/item?id=15704730
+|############                                      | S: 757 C: 194 R: 0.256
+
+No boundaries: Exfiltration of personal data by session-replay scripts
+https://news.ycombinator.com/item?id=15704133
+|############                                      | S: 182 C: 44 R: 0.242
+
+Choosy Eggs May Pick Sperm for Their Genes, Defying Mendel’s Law
+https://news.ycombinator.com/item?id=15708262
+|#########                                         | S: 118 C: 23 R: 0.195
+
+The Xerox Alto Struts Its Stuff on Its 40th Birthday
+https://news.ycombinator.com/item?id=15707080
+|#########                                         | S: 94 C: 18 R: 0.191
+
+Developing iOS 11 Apps with Swift
+https://news.ycombinator.com/item?id=15710051
+|########                                          | S: 68 C: 12 R: 0.176
+
+Pspg – Postgres Pager
+https://news.ycombinator.com/item?id=15709248
+|########                                          | S: 47 C: 8 R: 0.170
+
+HAXM is now open source
+https://news.ycombinator.com/item?id=15706534
+|########                                          | S: 93 C: 15 R: 0.161
+
+Using SVG as image placeholders
+https://news.ycombinator.com/item?id=15696596
+|#######                                           | S: 945 C: 133 R: 0.141
+
+Personal Computer Ads from the 1980s
+https://news.ycombinator.com/item?id=15707308
+|######                                            | S: 30 C: 4 R: 0.133
+
+SLING: A Natural Language Frame Semantic Parser
+https://news.ycombinator.com/item?id=15706034
+|######                                            | S: 132 C: 16 R: 0.121
+
+Radiologist-Level Pneumonia Detection on Chest X-Rays with Deep Learning
+https://news.ycombinator.com/item?id=15709199
+|#####                                             | S: 17 C: 2 R: 0.118
+
+PyAnnotate – Auto-generate type annotations for mypy
+https://news.ycombinator.com/item?id=15707877
+|#####                                             | S: 103 C: 12 R: 0.117
+
+Souper: A Synthesizing Superoptimizer
+https://news.ycombinator.com/item?id=15706677
+|#####                                             | S: 61 C: 7 R: 0.115
+
+Concise Electronics for Geeks (2010)
+https://news.ycombinator.com/item?id=15703472
+|#####                                             | S: 324 C: 35 R: 0.108
+
+Open/R: Open routing for modern networks
+https://news.ycombinator.com/item?id=15705676
+|#####                                             | S: 48 C: 5 R: 0.104
+
+Understanding LSTM and its diagrams
+https://news.ycombinator.com/item?id=15705440
+|####                                              | S: 81 C: 7 R: 0.086
+
+A Beginner’s Guide to Optimizing Pandas Code for Speed
+https://news.ycombinator.com/item?id=15709303
+|###                                               | S: 58 C: 4 R: 0.069
+
+China fires up next-generation neutron-science facility
+https://news.ycombinator.com/item?id=15708231
+|##                                                | S: 53 C: 3 R: 0.057
+
+Bayesian ranking of items with up and downvotes or 5 star ratings (2015)
+https://news.ycombinator.com/item?id=15709405
+|##                                                | S: 88 C: 4 R: 0.045
+
+The Meta-Machine Code Tool
+https://news.ycombinator.com/item?id=15706120
+|                                                  | S: 16 C: 0 R: 0.000
+
+Don't be a morning person if you're not one
+https://news.ycombinator.com/item?id=15707162
+|                                                  | S: 12 C: 0 R: 0.000
+

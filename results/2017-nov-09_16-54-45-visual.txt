@@ -1,0 +1,180 @@
+Nineteen people a week overdose in Richmond, dozens are dying, hundreds revived
+https://news.ycombinator.com/item?id=15657523
+|##################################################|############### S: 114 C: 149 R: 1.307
+
+What Tesla’s Model 3 UI Reveals About Its Vision for the Future
+https://news.ycombinator.com/item?id=15651707
+|##################################################|## S: 41 C: 43 R: 1.049
+
+MantisTek GK2's Keylogger Is a Warning Against Cheap Gadgets
+https://news.ycombinator.com/item?id=15652162
+|########################################          | S: 20 C: 16 R: 0.800
+
+Some problems of URLs
+https://news.ycombinator.com/item?id=15651465
+|#######################################           | S: 28 C: 22 R: 0.786
+
+China Spreads Propaganda to U.S. On Facebook, a Platform It Bans at Home
+https://news.ycombinator.com/item?id=15655601
+|##################################                | S: 161 C: 112 R: 0.696
+
+How my third email reminder from HR motivated me to launch my startup
+https://news.ycombinator.com/item?id=15651818
+|#################################                 | S: 53 C: 35 R: 0.660
+
+Impact of the Amazon-Whole Foods Deal on Instacart
+https://news.ycombinator.com/item?id=15658559
+|################################                  | S: 76 C: 50 R: 0.658
+
+Beer giant ABI bought many craft brews and is now buying beer rating websites
+https://news.ycombinator.com/item?id=15656918
+|##########################                        | S: 252 C: 136 R: 0.540
+
+Waymo now testing its self-driving cars on public roads with no one at the wheel
+https://news.ycombinator.com/item?id=15644680
+|##########################                        | S: 1102 C: 592 R: 0.537
+
+China's Race to Find Aliens First
+https://news.ycombinator.com/item?id=15655790
+|#########################                         | S: 164 C: 84 R: 0.512
+
+Google promoted Texas gunman fake tweets
+https://news.ycombinator.com/item?id=15652053
+|#########################                         | S: 47 C: 24 R: 0.511
+
+Intel to Develop Discrete GPUs, Hires AMD's Raja Koduri as Chief Architect
+https://news.ycombinator.com/item?id=15657800
+|#########################                         | S: 297 C: 151 R: 0.508
+
+A DoS Attack Against the C# Compiler
+https://news.ycombinator.com/item?id=15654970
+|########################                          | S: 91 C: 45 R: 0.495
+
+BitTorrent inventor announces eco-friendly Bitcoin competitor Chia
+https://news.ycombinator.com/item?id=15655840
+|########################                          | S: 356 C: 174 R: 0.489
+
+The Booming Japanese Rent-A-Friend Business
+https://news.ycombinator.com/item?id=15651510
+|########################                          | S: 43 C: 21 R: 0.488
+
+Much ado about iOS app architecture
+https://news.ycombinator.com/item?id=15658412
+|#######################                           | S: 97 C: 46 R: 0.474
+
+How Sentry Receives 20B Events per Month While Preparing to Handle Twice That
+https://news.ycombinator.com/item?id=15655135
+|#######################                           | S: 153 C: 72 R: 0.471
+
+Sheep learn to recognise celebrity faces from different angles
+https://news.ycombinator.com/item?id=15651628
+|######################                            | S: 27 C: 12 R: 0.444
+
+Velodyne’s VLS-128 offers more resolution, smaller package, lower price
+https://news.ycombinator.com/item?id=15655871
+|####################                              | S: 61 C: 25 R: 0.410
+
+Senators push to ditch social security numbers in light of Equifax hack
+https://news.ycombinator.com/item?id=15657887
+|####################                              | S: 695 C: 282 R: 0.406
+
+IBM Type
+https://news.ycombinator.com/item?id=15650663
+|###################                               | S: 310 C: 119 R: 0.384
+
+‘There’s no place to go after eight-man’: Small towns seek to preserve football
+https://news.ycombinator.com/item?id=15651051
+|##################                                | S: 11 C: 4 R: 0.364
+
+Dead grasshopper discovered in van Gogh painting
+https://news.ycombinator.com/item?id=15658434
+|###############                                   | S: 29 C: 9 R: 0.310
+
+Voters say “yes” to city-run broadband in Colorado
+https://news.ycombinator.com/item?id=15655548
+|##############                                    | S: 721 C: 210 R: 0.291
+
+Plastic-eating caterpillars: An escape from a shopping bag triggers an idea
+https://news.ycombinator.com/item?id=15659296
+|##############                                    | S: 79 C: 23 R: 0.291
+
+Artificial Intelligence and the Resurgence of Physiognomy
+https://news.ycombinator.com/item?id=15651975
+|#############                                     | S: 11 C: 3 R: 0.273
+
+Try to see things from a manager's perspective
+https://news.ycombinator.com/item?id=15656299
+|############                                      | S: 98 C: 25 R: 0.255
+
+All ovh datacenters are down
+https://news.ycombinator.com/item?id=15660776
+|############                                      | S: 16 C: 4 R: 0.250
+
+The best boilerplate app is the one you code yourself
+https://news.ycombinator.com/item?id=15660324
+|############                                      | S: 32 C: 8 R: 0.250
+
+Faster bulk loading in Postgres with copy
+https://news.ycombinator.com/item?id=15657658
+|############                                      | S: 20 C: 5 R: 0.250
+
+Show HN: athena – yet another (but better) minimal static blog generator
+https://news.ycombinator.com/item?id=15655661
+|############                                      | S: 25 C: 6 R: 0.240
+
+What happens when you sell your startup?
+https://news.ycombinator.com/item?id=15651691
+|###########                                       | S: 89 C: 20 R: 0.225
+
+Fast and precise type checking for JavaScript
+https://news.ycombinator.com/item?id=15651494
+|###########                                       | S: 67 C: 15 R: 0.224
+
+Google Releases Colaboratory
+https://news.ycombinator.com/item?id=15652549
+|##########                                        | S: 295 C: 60 R: 0.203
+
+Redis Streams and the Unified Log
+https://news.ycombinator.com/item?id=15653544
+|#########                                         | S: 234 C: 43 R: 0.184
+
+The GraphQL stack: How everything fits together
+https://news.ycombinator.com/item?id=15651781
+|########                                          | S: 79 C: 14 R: 0.177
+
+Game Over We Have Obtained Fully Functional JTAG for Intel CSME via USB DCI
+https://news.ycombinator.com/item?id=15656931
+|########                                          | S: 240 C: 42 R: 0.175
+
+Jinja 2.10
+https://news.ycombinator.com/item?id=15656903
+|#######                                           | S: 126 C: 19 R: 0.151
+
+Ethical issues in research using datasets of illicit origin
+https://news.ycombinator.com/item?id=15651604
+|#####                                             | S: 20 C: 2 R: 0.100
+
+GitHub welcomes all CI tools
+https://news.ycombinator.com/item?id=15659356
+|#####                                             | S: 10 C: 1 R: 0.100
+
+Justice Department moves to end routine gag orders on tech firms
+https://news.ycombinator.com/item?id=15657186
+|####                                              | S: 302 C: 28 R: 0.093
+
+Quake on an oscilloscope (2014)
+https://news.ycombinator.com/item?id=15659172
+|###                                               | S: 192 C: 14 R: 0.073
+
+The Antique Cannabis Book
+https://news.ycombinator.com/item?id=15660145
+|##                                                | S: 18 C: 1 R: 0.056
+
+Nanoscale 'abacus' uses pulses of light instead of wooden beads for calculations
+https://news.ycombinator.com/item?id=15656062
+|##                                                | S: 24 C: 1 R: 0.042
+
+Learning Go by porting a medium-sized web back end from Python
+https://news.ycombinator.com/item?id=15652136
+|#                                                 | S: 28 C: 1 R: 0.036
+

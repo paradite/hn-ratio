@@ -1,0 +1,196 @@
+Are rich people meaner? Two teams find errors in each other’s work
+https://news.ycombinator.com/item?id=15466063
+|##################################################|#################### S: 50 C: 70 R: 1.400
+
+Hyperloop One Becomes ‘Virgin Hyperloop One’
+https://news.ycombinator.com/item?id=15457767
+|##################################################|################### S: 351 C: 489 R: 1.393
+
+Twitter Is Crawling with Bots and Lacks Incentive to Expel Them
+https://news.ycombinator.com/item?id=15466888
+|##########################################        | S: 201 C: 169 R: 0.841
+
+Two scientists quietly revolutionising the study and practice of interrogation
+https://news.ycombinator.com/item?id=15464724
+|#######################################           | S: 263 C: 210 R: 0.798
+
+Is there an upside to having no social life?
+https://news.ycombinator.com/item?id=15466611
+|#######################################           | S: 148 C: 116 R: 0.784
+
+An anarchist takes on Big Pharma by teaching patients to make their own meds
+https://news.ycombinator.com/item?id=15467379
+|####################################              | S: 315 C: 230 R: 0.730
+
+Tesla fires hundreds from headquarters, factory
+https://news.ycombinator.com/item?id=15469889
+|##################################                | S: 100 C: 68 R: 0.680
+
+Adguard found 220 sites that launch mining when a user opens their main page
+https://news.ycombinator.com/item?id=15470244
+|################################                  | S: 83 C: 54 R: 0.651
+
+There's No Fire Alarm for Artificial General Intelligence
+https://news.ycombinator.com/item?id=15470920
+|###########################                       | S: 47 C: 26 R: 0.553
+
+The Thoughts of Chairman Xi
+https://news.ycombinator.com/item?id=15466900
+|#########################                         | S: 121 C: 62 R: 0.512
+
+TerrariaClone – An incomprehensible hellscape of spaghetti code
+https://news.ycombinator.com/item?id=15460851
+|#########################                         | S: 550 C: 278 R: 0.505
+
+Psilocybin for treatment-resistant depression: fMRI-measured brain mechanisms [pdf]
+https://news.ycombinator.com/item?id=15469854
+|#########################                         | S: 84 C: 42 R: 0.500
+
+Show HN: Using machine learning to recommend dashboards during incidents
+https://news.ycombinator.com/item?id=15467042
+|#########################                         | S: 44 C: 22 R: 0.500
+
+Questions to ask in interviews
+https://news.ycombinator.com/item?id=15468786
+|########################                          | S: 163 C: 79 R: 0.485
+
+Finish your stuff
+https://news.ycombinator.com/item?id=15464702
+|#######################                           | S: 189 C: 90 R: 0.476
+
+SoftBank Close to Announcing Merger Deal for Sprint, T-Mobile
+https://news.ycombinator.com/item?id=15470115
+|#######################                           | S: 60 C: 28 R: 0.467
+
+IGN acquires Humble Bundle
+https://news.ycombinator.com/item?id=15470611
+|#####################                             | S: 157 C: 69 R: 0.439
+
+Qutebrowser – a keyboard-focused browser with a minimal GUI
+https://news.ycombinator.com/item?id=15458824
+|#####################                             | S: 208 C: 88 R: 0.423
+
+The Radioactive Boy Scout (1999)
+https://news.ycombinator.com/item?id=15466860
+|####################                              | S: 65 C: 27 R: 0.415
+
+Updates to DevTools in Chrome 62
+https://news.ycombinator.com/item?id=15469163
+|####################                              | S: 82 C: 34 R: 0.415
+
+ChrysaLisp – A 64-bit Lisp OS with GUI
+https://news.ycombinator.com/item?id=15466124
+|####################                              | S: 242 C: 99 R: 0.409
+
+Peer-to-peer social networking with Rotonde and Beaker
+https://news.ycombinator.com/item?id=15463721
+|###################                               | S: 161 C: 63 R: 0.391
+
+How the Benzene Tree Polluted the World
+https://news.ycombinator.com/item?id=15466049
+|##################                                | S: 83 C: 31 R: 0.373
+
+SmallerC – Small, Simple, Self-Compiling, Single Pass C Compiler
+https://news.ycombinator.com/item?id=15463738
+|################                                  | S: 109 C: 37 R: 0.339
+
+John Carmack's Keynote at Oculus 4 Live Stream [video]
+https://news.ycombinator.com/item?id=15459506
+|################                                  | S: 336 C: 109 R: 0.324
+
+Someone Created a Tor Hidden Service to Phish My Tor Hidden Service
+https://news.ycombinator.com/item?id=15467148
+|###############                                   | S: 210 C: 63 R: 0.300
+
+A Lisp that runs Python (2016)
+https://news.ycombinator.com/item?id=15464340
+|###############                                   | S: 70 C: 21 R: 0.300
+
+Purism Collaborates with Cryptocurrency Monero to Enable Mobile Payments
+https://news.ycombinator.com/item?id=15467695
+|#############                                     | S: 99 C: 27 R: 0.273
+
+Please take care of my plant
+https://news.ycombinator.com/item?id=15453974
+|#############                                     | S: 653 C: 175 R: 0.268
+
+No Comments
+https://news.ycombinator.com/item?id=15466946
+|############                                      | S: 79 C: 20 R: 0.253
+
+Open Source Game Clones
+https://news.ycombinator.com/item?id=15468487
+|############                                      | S: 276 C: 69 R: 0.250
+
+ProseMirror 1.0
+https://news.ycombinator.com/item?id=15465125
+|############                                      | S: 257 C: 64 R: 0.249
+
+Exploiting the Wi-Fi Stack on Apple Devices
+https://news.ycombinator.com/item?id=15460785
+|############                                      | S: 321 C: 78 R: 0.243
+
+Colorizing black and white photos with deep learning
+https://news.ycombinator.com/item?id=15465166
+|###########                                       | S: 205 C: 46 R: 0.224
+
+An open source re-implementation of RollerCoaster Tycoon 2
+https://news.ycombinator.com/item?id=15456833
+|##########                                        | S: 569 C: 117 R: 0.206
+
+Steve Wozniak announces tech education platform Woz U
+https://news.ycombinator.com/item?id=15466599
+|##########                                        | S: 452 C: 92 R: 0.204
+
+Handmade Hero – A complete game live-coded from scratch
+https://news.ycombinator.com/item?id=15467854
+|#########                                         | S: 327 C: 61 R: 0.187
+
+Exploding Git Repositories
+https://news.ycombinator.com/item?id=15457076
+|########                                          | S: 421 C: 71 R: 0.169
+
+The Intuitive Guide to Data Structures and Algorithms
+https://news.ycombinator.com/item?id=15469660
+|########                                          | S: 267 C: 45 R: 0.169
+
+I Am Not a Monster: Science has turned the squid from a monster into a marvel
+https://news.ycombinator.com/item?id=15464569
+|#######                                           | S: 52 C: 8 R: 0.154
+
+Basic Survival Methods in R
+https://news.ycombinator.com/item?id=15468880
+|#######                                           | S: 76 C: 11 R: 0.145
+
+Reverse proxy grapher
+https://news.ycombinator.com/item?id=15464486
+|#####                                             | S: 94 C: 11 R: 0.117
+
+HPAT – A compiler-based framework for big data in Python
+https://news.ycombinator.com/item?id=15466829
+|#####                                             | S: 89 C: 9 R: 0.101
+
+Wolf Puppies Are Adorable, Then Comes the Call of the Wild
+https://news.ycombinator.com/item?id=15471127
+|####                                              | S: 12 C: 1 R: 0.083
+
+Coding Interview Cheatsheet
+https://news.ycombinator.com/item?id=15471061
+|###                                               | S: 45 C: 3 R: 0.067
+
+Quantifying Decentralization
+https://news.ycombinator.com/item?id=15463985
+|###                                               | S: 63 C: 4 R: 0.063
+
+Using Haskell to debug a C chess engine
+https://news.ycombinator.com/item?id=15465116
+|#                                                 | S: 98 C: 3 R: 0.031
+
+Stretching Spokes
+https://news.ycombinator.com/item?id=15468275
+|                                                  | S: 75 C: 0 R: 0.000
+
+Comprehensive Guide about Vim
+https://news.ycombinator.com/item?id=15469266
+|                                                  | S: 13 C: 0 R: 0.000
+

@@ -1,0 +1,188 @@
+Google's latest iPhone rival off to a rocky start
+https://news.ycombinator.com/item?id=15536982
+|##################################################|######################################################################## S: 202 C: 493 R: 2.441
+
+Tech Firms Seek Washington’s Prized Asset: Top-Secret Clearances
+https://news.ycombinator.com/item?id=15537607
+|##################################################| S: 41 C: 41 R: 1.000
+
+Why Are Hearing Aids So Expensive?
+https://news.ycombinator.com/item?id=15537513
+|##############################################    | S: 128 C: 118 R: 0.922
+
+Irradiated Dimes (2010)
+https://news.ycombinator.com/item?id=15534346
+|########################################          | S: 44 C: 36 R: 0.818
+
+My personal site is a terminal
+https://news.ycombinator.com/item?id=15537112
+|########################################          | S: 104 C: 85 R: 0.817
+
+Why ProtonMail is more secure than Gmail
+https://news.ycombinator.com/item?id=15532860
+|###################################               | S: 398 C: 286 R: 0.719
+
+Seven habits of effective text editing (2000)
+https://news.ycombinator.com/item?id=15532457
+|###################################               | S: 303 C: 213 R: 0.703
+
+Tesla Strikes Deal With Shanghai to Build Factory in China
+https://news.ycombinator.com/item?id=15529944
+|##############################                    | S: 283 C: 173 R: 0.611
+
+11-year-old girl inspired by Flint water crisis creates cheap kit to test lead
+https://news.ycombinator.com/item?id=15529932
+|#############################                     | S: 139 C: 81 R: 0.583
+
+Games Look Bad: HDR and Tone Mapping
+https://news.ycombinator.com/item?id=15534622
+|###########################                       | S: 286 C: 155 R: 0.542
+
+Swagger is now the OpenAPI Specification
+https://news.ycombinator.com/item?id=15533364
+|##########################                        | S: 142 C: 74 R: 0.521
+
+Insects Are in Serious Trouble
+https://news.ycombinator.com/item?id=15534454
+|#########################                         | S: 265 C: 137 R: 0.517
+
+Try quickly typing 1+ 2 + 3 into the iOS 11 Calculator
+https://news.ycombinator.com/item?id=15538666
+|#########################                         | S: 501 C: 255 R: 0.509
+
+Paying for Dirt: Where Have Home Values Detached from Construction Costs?
+https://news.ycombinator.com/item?id=15537169
+|########################                          | S: 87 C: 43 R: 0.494
+
+An experimental software development environment
+https://news.ycombinator.com/item?id=15532964
+|######################                            | S: 136 C: 62 R: 0.456
+
+Paw – macOS HTTP client for testing and describing APIs
+https://news.ycombinator.com/item?id=15535901
+|######################                            | S: 207 C: 94 R: 0.454
+
+Please Stop Writing Secure Messaging Tools (2015)
+https://news.ycombinator.com/item?id=15534480
+|######################                            | S: 140 C: 62 R: 0.443
+
+A newly discovered moon tunnel
+https://news.ycombinator.com/item?id=15528048
+|#####################                             | S: 401 C: 174 R: 0.434
+
+AWS bastions and assume-role
+https://news.ycombinator.com/item?id=15532049
+|#####################                             | S: 147 C: 62 R: 0.422
+
+Termux: terminal emulator and Debian-style userland as an Android app
+https://news.ycombinator.com/item?id=15529426
+|####################                              | S: 323 C: 133 R: 0.412
+
+Cray and Microsoft Bring Supercomputing to Azure
+https://news.ycombinator.com/item?id=15535324
+|##################                                | S: 130 C: 49 R: 0.377
+
+No human genome has ever been completely sequenced
+https://news.ycombinator.com/item?id=15534325
+|##################                                | S: 215 C: 81 R: 0.377
+
+Returning to Second Life
+https://news.ycombinator.com/item?id=15534542
+|##################                                | S: 145 C: 53 R: 0.366
+
+Stephen Hawking's Ph.D. Thesis Crashes Cambridge Site After It's Posted Online
+https://news.ycombinator.com/item?id=15537741
+|###############                                   | S: 91 C: 29 R: 0.319
+
+Nov 10  CHM: Live Xerox Alto demo with original PARC development team
+https://news.ycombinator.com/item?id=15536500
+|###############                                   | S: 45 C: 14 R: 0.311
+
+Pingfs: A filesystem where data is stored as ICMP Echo packets (2016)
+https://news.ycombinator.com/item?id=15539337
+|#############                                     | S: 47 C: 13 R: 0.277
+
+Riot – Full-text search engine in Go
+https://news.ycombinator.com/item?id=15534162
+|#############                                     | S: 198 C: 54 R: 0.273
+
+How to get an open source community to be interested in helping you
+https://news.ycombinator.com/item?id=15538112
+|############                                      | S: 66 C: 17 R: 0.258
+
+Filesystem error handling
+https://news.ycombinator.com/item?id=15534460
+|############                                      | S: 143 C: 36 R: 0.252
+
+An ode to pack: gzip’s forgotten decompressor
+https://news.ycombinator.com/item?id=15531489
+|############                                      | S: 196 C: 48 R: 0.245
+
+Singapore to Stop Adding Cars in February 2018
+https://news.ycombinator.com/item?id=15536481
+|############                                      | S: 74 C: 18 R: 0.243
+
+Sci-Hub: Pirate Website to provide mass and public access to Research Papers
+https://news.ycombinator.com/item?id=15539850
+|##########                                        | S: 156 C: 34 R: 0.218
+
+Newfound Wormhole Allows Information to Escape Black Holes
+https://news.ycombinator.com/item?id=15536012
+|##########                                        | S: 106 C: 23 R: 0.217
+
+Pan Am Clipper Flight from Auckland to New York
+https://news.ycombinator.com/item?id=15537891
+|##########                                        | S: 86 C: 18 R: 0.209
+
+Computer control of a machine for exploring Mars (1964) [pdf]
+https://news.ycombinator.com/item?id=15539207
+|##########                                        | S: 24 C: 5 R: 0.208
+
+Show HN: Arxiv Vanity – Read academic papers from Arxiv as responsive web pages
+https://news.ycombinator.com/item?id=15534580
+|##########                                        | S: 592 C: 123 R: 0.208
+
+Intel vs. NuFlare in multi-beam race
+https://news.ycombinator.com/item?id=15536313
+|##########                                        | S: 50 C: 10 R: 0.200
+
+Stripe Atlas: Getting your first 10 customers
+https://news.ycombinator.com/item?id=15534034
+|#########                                         | S: 490 C: 93 R: 0.190
+
+SSH Escape Sequences
+https://news.ycombinator.com/item?id=15538744
+|#########                                         | S: 185 C: 35 R: 0.189
+
+Why does one NGINX worker take all the load?
+https://news.ycombinator.com/item?id=15539730
+|########                                          | S: 24 C: 4 R: 0.167
+
+The Linux Scheduler: A Decade of Wasted Cores (2016)
+https://news.ycombinator.com/item?id=15531332
+|########                                          | S: 168 C: 28 R: 0.167
+
+United States Census Bureau APIs
+https://news.ycombinator.com/item?id=15537229
+|#######                                           | S: 243 C: 35 R: 0.144
+
+Clarifying Recent Tests
+https://news.ycombinator.com/item?id=15537953
+|######                                            | S: 31 C: 4 R: 0.129
+
+Kolmogorov Complicity and the Parable of Lightning
+https://news.ycombinator.com/item?id=15539675
+|####                                              | S: 21 C: 2 R: 0.095
+
+Introduction to web scraping with Python
+https://news.ycombinator.com/item?id=15539621
+|###                                               | S: 52 C: 4 R: 0.077
+
+Attack of the week: DUHK
+https://news.ycombinator.com/item?id=15539520
+|##                                                | S: 17 C: 1 R: 0.059
+
+How Merkle Trees Enable the Decentralized Web
+https://news.ycombinator.com/item?id=15538535
+|                                                  | S: 66 C: 1 R: 0.015
+

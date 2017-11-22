@@ -1,0 +1,180 @@
+Ask HN: How to hire if you don't believe in working for someone
+https://news.ycombinator.com/item?id=15691565
+|##################################################|## S: 34 C: 36 R: 1.059
+
+Missouri Attorney General launches investigation of Google
+https://news.ycombinator.com/item?id=15688396
+|##############################################    | S: 117 C: 108 R: 0.923
+
+There are over a billion outdated Android devices in use
+https://news.ycombinator.com/item?id=15691435
+|###########################################       | S: 320 C: 276 R: 0.863
+
+Boston Dynamics has a new creepy dog-like robot called SpotMini
+https://news.ycombinator.com/item?id=15692456
+|##########################################        | S: 32 C: 27 R: 0.844
+
+Budweiser's ex-marketing chief: Weed is the new craft beer
+https://news.ycombinator.com/item?id=15688506
+|#######################################           | S: 151 C: 119 R: 0.788
+
+The science of Destiny 2's 'uniquely complicated' netcode
+https://news.ycombinator.com/item?id=15689700
+|#####################################             | S: 115 C: 87 R: 0.757
+
+Trade school, not 4-year college, is a better bet to solve the US income gap
+https://news.ycombinator.com/item?id=15691817
+|###################################               | S: 130 C: 93 R: 0.715
+
+Boeing 757 Testing Shows Airplanes Vulnerable to Hacking, DHS Says
+https://news.ycombinator.com/item?id=15693228
+|###################################               | S: 28 C: 20 R: 0.714
+
+Don’t Tax Options and RSUs Upon Vesting
+https://news.ycombinator.com/item?id=15686442
+|#################################                 | S: 504 C: 338 R: 0.671
+
+Chances of E.T. Living Subsurface Ocean of Enceladus Given Major Boost
+https://news.ycombinator.com/item?id=15687800
+|##############################                    | S: 124 C: 76 R: 0.613
+
+First Digital Pill Approved to Worries About Biomedical ‘Big Brother’
+https://news.ycombinator.com/item?id=15692458
+|#############################                     | S: 17 C: 10 R: 0.588
+
+Uber’s Driver Dilemma: Fare Hikes and Cuts Don’t Change Pay
+https://news.ycombinator.com/item?id=15689294
+|#############################                     | S: 43 C: 25 R: 0.581
+
+The Apple Watch can detect hypertension and sleep apnea, a new study suggests
+https://news.ycombinator.com/item?id=15692896
+|#########################                         | S: 103 C: 52 R: 0.505
+
+Mono's New .NET Interpreter
+https://news.ycombinator.com/item?id=15686875
+|#######################                           | S: 196 C: 93 R: 0.474
+
+New Tech Incubators Put Finances First
+https://news.ycombinator.com/item?id=15691899
+|#######################                           | S: 39 C: 18 R: 0.462
+
+Beijing Sinnet says it will buy Amazon Web Services’ China business
+https://news.ycombinator.com/item?id=15692609
+|######################                            | S: 85 C: 39 R: 0.459
+
+A Beginner´s Guide to Getting Things Done
+https://news.ycombinator.com/item?id=15685180
+|######################                            | S: 475 C: 209 R: 0.440
+
+How foreign investors launder their money in New York real estate
+https://news.ycombinator.com/item?id=15692716
+|####################                              | S: 10 C: 4 R: 0.400
+
+Show HN: 2D Isometric Editor
+https://news.ycombinator.com/item?id=15686504
+|###################                               | S: 74 C: 29 R: 0.392
+
+The Dead Man Fund
+https://news.ycombinator.com/item?id=15687005
+|##################                                | S: 177 C: 67 R: 0.379
+
+The Crypto Civil War
+https://news.ycombinator.com/item?id=15692638
+|#################                                 | S: 17 C: 6 R: 0.353
+
+Arduino Death Clock
+https://news.ycombinator.com/item?id=15690954
+|#################                                 | S: 86 C: 30 R: 0.349
+
+Why I’m Digging Deep Into Alzheimer’s
+https://news.ycombinator.com/item?id=15685454
+|#################                                 | S: 495 C: 170 R: 0.343
+
+How Firefox Got Fast Again
+https://news.ycombinator.com/item?id=15686653
+|################                                  | S: 1814 C: 607 R: 0.335
+
+FreeOTP – An open-source solution for authentication soft tokens
+https://news.ycombinator.com/item?id=15690957
+|################                                  | S: 128 C: 42 R: 0.328
+
+A deal that let hundreds of IS fighters and their families escape from Raqqa
+https://news.ycombinator.com/item?id=15693071
+|###############                                   | S: 59 C: 18 R: 0.305
+
+Multiprocessing in Python with Fortran and OpenMP
+https://news.ycombinator.com/item?id=15687913
+|###############                                   | S: 69 C: 21 R: 0.304
+
+65 out of the 100 most cited papers are paywalled
+https://news.ycombinator.com/item?id=15690382
+|#############                                     | S: 201 C: 55 R: 0.274
+
+Yamaha DX-7 synthesizer clone written in SuperCollider
+https://news.ycombinator.com/item?id=15686350
+|############                                      | S: 127 C: 32 R: 0.252
+
+Mobilizing an ER department to handle a mass casualty incident
+https://news.ycombinator.com/item?id=15688900
+|############                                      | S: 204 C: 50 R: 0.245
+
+Qualcomm rejects Broadcom's $103B takeover proposal
+https://news.ycombinator.com/item?id=15686600
+|############                                      | S: 320 C: 78 R: 0.244
+
+Swift Sudoku Solver
+https://news.ycombinator.com/item?id=15691204
+|##########                                        | S: 20 C: 4 R: 0.200
+
+The big break in computer languages
+https://news.ycombinator.com/item?id=15692828
+|#########                                         | S: 11 C: 2 R: 0.182
+
+Show HN: Datasette – Create and publish an API for SQLite databases
+https://news.ycombinator.com/item?id=15691409
+|########                                          | S: 168 C: 30 R: 0.179
+
+OpenShot 2.4.1 Released
+https://news.ycombinator.com/item?id=15689998
+|########                                          | S: 51 C: 9 R: 0.176
+
+Harvard university debate team loses to New York prison inmates (2015)
+https://news.ycombinator.com/item?id=15692350
+|########                                          | S: 63 C: 11 R: 0.175
+
+Discovering a Blue Ocean Idea
+https://news.ycombinator.com/item?id=15692604
+|########                                          | S: 41 C: 7 R: 0.171
+
+GitHub Community Forum
+https://news.ycombinator.com/item?id=15691956
+|########                                          | S: 30 C: 5 R: 0.167
+
+Navy Using New UConn Software to Improve Navigation
+https://news.ycombinator.com/item?id=15688806
+|########                                          | S: 25 C: 4 R: 0.160
+
+Ask HN: Best way to get started with AI?
+https://news.ycombinator.com/item?id=15689399
+|#######                                           | S: 495 C: 78 R: 0.158
+
+Understanding Hinton’s Capsule Networks, Part I: Intuition
+https://news.ycombinator.com/item?id=15690121
+|######                                            | S: 203 C: 26 R: 0.128
+
+Micropython code to implement a GSM mobile phone
+https://news.ycombinator.com/item?id=15686316
+|######                                            | S: 123 C: 15 R: 0.122
+
+Phoenix WebSockets under a Microscope
+https://news.ycombinator.com/item?id=15691165
+|#####                                             | S: 94 C: 11 R: 0.117
+
+The Beautiful Intelligence of Bacteria and Other Microbes
+https://news.ycombinator.com/item?id=15689624
+|#####                                             | S: 124 C: 14 R: 0.113
+
+Linux 4.14 Released
+https://news.ycombinator.com/item?id=15692916
+|                                                  | S: 18 C: 0 R: 0.000
+

@@ -1,0 +1,192 @@
+New Zealand to ban foreigners from buying existing houses
+https://news.ycombinator.com/item?id=15561204
+|##################################################|############## S: 419 C: 539 R: 1.286
+
+VetPronto is being euthanized
+https://news.ycombinator.com/item?id=15570953
+|##################################################| S: 32 C: 32 R: 1.000
+
+China’s AI Awakening
+https://news.ycombinator.com/item?id=15568213
+|###############################################   | S: 172 C: 163 R: 0.948
+
+Walmart will soon have robots roaming the aisles in 50 stores
+https://news.ycombinator.com/item?id=15562743
+|#############################################     | S: 344 C: 310 R: 0.901
+
+Study shows the top 0.01% of Scandinavian households underpaid taxes by 30%
+https://news.ycombinator.com/item?id=15572464
+|############################################      | S: 153 C: 137 R: 0.895
+
+Maker of In-Wheel Electric Car Motors Goes to China
+https://news.ycombinator.com/item?id=15570079
+|################################                  | S: 58 C: 38 R: 0.655
+
+Samsung Made a Bitcoin Mining Rig Out of Old Galaxy S5s
+https://news.ycombinator.com/item?id=15571854
+|################################                  | S: 56 C: 36 R: 0.643
+
+Waymo Will Test Self-Driving Cars in Snowy Detroit
+https://news.ycombinator.com/item?id=15570748
+|#############################                     | S: 324 C: 191 R: 0.590
+
+A man who 'discovered' 780 Indian languages
+https://news.ycombinator.com/item?id=15567276
+|#############################                     | S: 187 C: 109 R: 0.583
+
+Journalists decry Facebook experiment's impact on democracy
+https://news.ycombinator.com/item?id=15569868
+|############################                      | S: 148 C: 85 R: 0.574
+
+HEML: an open source markup language for building responsive email
+https://news.ycombinator.com/item?id=15573899
+|#########################                         | S: 26 C: 13 R: 0.500
+
+Things I Wish I'd Known Before Using Vagrant
+https://news.ycombinator.com/item?id=15567063
+|########################                          | S: 274 C: 136 R: 0.496
+
+SEC fines Zenefits and former CEO for misleading investors
+https://news.ycombinator.com/item?id=15564057
+|########################                          | S: 112 C: 54 R: 0.482
+
+IBM scientists say radical new ‘in-memory’ architecture will speed up computers
+https://news.ycombinator.com/item?id=15570235
+|#######################                           | S: 246 C: 118 R: 0.480
+
+Latin America is seeing a cable-car boom
+https://news.ycombinator.com/item?id=15571627
+|#######################                           | S: 51 C: 24 R: 0.471
+
+Secretary Problem
+https://news.ycombinator.com/item?id=15567307
+|######################                            | S: 123 C: 56 R: 0.455
+
+To Dine at Kew: The Meals of George III and His Household
+https://news.ycombinator.com/item?id=15556280
+|######################                            | S: 22 C: 10 R: 0.455
+
+Giant Frog Farms of the 1930s
+https://news.ycombinator.com/item?id=15572986
+|####################                              | S: 31 C: 13 R: 0.419
+
+Can You Afford It? Real-World Web Performance Budgets
+https://news.ycombinator.com/item?id=15573059
+|####################                              | S: 113 C: 47 R: 0.416
+
+Reason 3
+https://news.ycombinator.com/item?id=15572827
+|###################                               | S: 259 C: 99 R: 0.382
+
+TLS-N: Non-repudiation over TLS
+https://news.ycombinator.com/item?id=15569901
+|##################                                | S: 74 C: 28 R: 0.378
+
+Apple should shrink its finance arm before it goes bananas
+https://news.ycombinator.com/item?id=15573103
+|##################                                | S: 16 C: 6 R: 0.375
+
+Public Key Pinning Being Removed from Chrome
+https://news.ycombinator.com/item?id=15572143
+|##################                                | S: 196 C: 73 R: 0.372
+
+Alan Kay on Lisp
+https://news.ycombinator.com/item?id=15558861
+|##################                                | S: 357 C: 130 R: 0.364
+
+Jackie Chan’s Plan to Keep Kicking Forever
+https://news.ycombinator.com/item?id=15571802
+|#################                                 | S: 120 C: 41 R: 0.342
+
+Robert Blakeley, Designer of Fallout Shelter Sign, Dies at 95
+https://news.ycombinator.com/item?id=15573646
+|################                                  | S: 21 C: 7 R: 0.333
+
+Myspace looked like it was back, but was a pawn in an ad fraud scheme
+https://news.ycombinator.com/item?id=15570571
+|################                                  | S: 65 C: 21 R: 0.323
+
+Progressive Growing of GANs for Improved Quality, Stability, Variation [video]
+https://news.ycombinator.com/item?id=15574079
+|##############                                    | S: 100 C: 29 R: 0.290
+
+Show HN: DatoCMS – Headless CMS for static websites
+https://news.ycombinator.com/item?id=15570401
+|############                                      | S: 35 C: 9 R: 0.257
+
+Comcast Tries to Derail Fort Collins Community Broadband
+https://news.ycombinator.com/item?id=15570559
+|############                                      | S: 217 C: 55 R: 0.253
+
+Me and my robotic suit
+https://news.ycombinator.com/item?id=15567517
+|############                                      | S: 40 C: 10 R: 0.250
+
+Leaked: EU governments want to give record labels control over what we can post
+https://news.ycombinator.com/item?id=15572053
+|############                                      | S: 157 C: 38 R: 0.242
+
+Implementing Stripe-Like Idempotency Keys in Postgres
+https://news.ycombinator.com/item?id=15569478
+|###########                                       | S: 158 C: 37 R: 0.234
+
+Lost at sea: a man who vanished for 14 months (2015)
+https://news.ycombinator.com/item?id=15567231
+|###########                                       | S: 61 C: 14 R: 0.230
+
+Under a fermium sky
+https://news.ycombinator.com/item?id=15567105
+|###########                                       | S: 67 C: 15 R: 0.224
+
+Can Vector Supercomputing Be Revived?
+https://news.ycombinator.com/item?id=15567373
+|###########                                       | S: 36 C: 8 R: 0.222
+
+The New York Times Is Now Available as a Tor Onion Service
+https://news.ycombinator.com/item?id=15567356
+|##########                                        | S: 812 C: 171 R: 0.211
+
+How Ketogenic Diets Curb Inflammation in the Brain
+https://news.ycombinator.com/item?id=15572409
+|########                                          | S: 60 C: 10 R: 0.167
+
+How much traffic do I get from North Korea anyway?
+https://news.ycombinator.com/item?id=15570082
+|#######                                           | S: 91 C: 14 R: 0.154
+
+Sorting Algorithms Revisualized
+https://news.ycombinator.com/item?id=15570947
+|######                                            | S: 177 C: 22 R: 0.124
+
+Object Detection with Open Images using Tensorflow
+https://news.ycombinator.com/item?id=15570312
+|######                                            | S: 107 C: 13 R: 0.121
+
+Absinthe – GraphQL implementation for Elixir
+https://news.ycombinator.com/item?id=15567650
+|#####                                             | S: 122 C: 13 R: 0.107
+
+We're Building a Dystopia Just to Make People Click on Ads
+https://news.ycombinator.com/item?id=15572578
+|####                                              | S: 73 C: 7 R: 0.096
+
+A vision of Middle-earth
+https://news.ycombinator.com/item?id=15565601
+|####                                              | S: 33 C: 3 R: 0.091
+
+Goatse: Meme creation in the blockchain
+https://news.ycombinator.com/item?id=15574159
+|####                                              | S: 12 C: 1 R: 0.083
+
+A tutorial on active learning (2009) [pdf]
+https://news.ycombinator.com/item?id=15573265
+|                                                  | S: 37 C: 0 R: 0.000
+
+In Antarctica, Two Crucial Glaciers Accelerate Toward the Sea
+https://news.ycombinator.com/item?id=15570882
+|                                                  | S: 13 C: 0 R: 0.000
+
+Google Even Fear Intel ME, Reduce Their Attack Vector with NERF
+https://news.ycombinator.com/item?id=15573163
+|                                                  | S: 33 C: 0 R: 0.000
+

@@ -1,0 +1,188 @@
+Dollar General Hits a Gold Mine in Rural America
+https://news.ycombinator.com/item?id=15500510
+|##################################################|############# S: 210 C: 268 R: 1.276
+
+The Looming Decline of the Public Research University
+https://news.ycombinator.com/item?id=15501248
+|#########################################         | S: 132 C: 110 R: 0.833
+
+Tesla “Camper Mode” (2016)
+https://news.ycombinator.com/item?id=15500224
+|#######################################           | S: 133 C: 104 R: 0.782
+
+Why the trial by ordeal was actually an effective test of guilt
+https://news.ycombinator.com/item?id=15492907
+|######################################            | S: 46 C: 35 R: 0.761
+
+Show HN: Tello, a simple way to manage TV shows – built with React/Redux
+https://news.ycombinator.com/item?id=15501238
+|####################################              | S: 68 C: 50 R: 0.735
+
+New law bans California employers from asking applicants their prior salary
+https://news.ycombinator.com/item?id=15502142
+|###################################               | S: 713 C: 505 R: 0.708
+
+Scala Native with Denys Shabalin – Software Engineering Daily Podcast
+https://news.ycombinator.com/item?id=15504714
+|###################################               | S: 34 C: 24 R: 0.706
+
+The Mars company has sponsored hundreds of studies to show cocoa is good
+https://news.ycombinator.com/item?id=15501902
+|##################################                | S: 157 C: 108 R: 0.688
+
+Precious Plastic Version 3.0 aims to fix plastic pollution
+https://news.ycombinator.com/item?id=15497732
+|###############################                   | S: 48 C: 30 R: 0.625
+
+Napa.js: A multi-threaded JavaScript runtime
+https://news.ycombinator.com/item?id=15498219
+|########################                          | S: 386 C: 189 R: 0.490
+
+75% decline over 27 years in total flying insect biomass in protected areas
+https://news.ycombinator.com/item?id=15502074
+|######################                            | S: 616 C: 273 R: 0.443
+
+Plasma optic combines lasers into superbeam
+https://news.ycombinator.com/item?id=15498298
+|#####################                             | S: 16 C: 7 R: 0.438
+
+Selling My Bootstrapped SaaS Business
+https://news.ycombinator.com/item?id=15497632
+|####################                              | S: 281 C: 118 R: 0.420
+
+Front-End Checklist
+https://news.ycombinator.com/item?id=15501451
+|####################                              | S: 168 C: 69 R: 0.411
+
+Students learn more effectively from print textbooks than screens, study says
+https://news.ycombinator.com/item?id=15502811
+|####################                              | S: 242 C: 97 R: 0.401
+
+Show HN: Codekeeper – Source Code Escrow for Developers
+https://news.ycombinator.com/item?id=15498343
+|###################                               | S: 28 C: 11 R: 0.393
+
+It Takes Just $1k to Track Someone's Location with Mobile Ads
+https://news.ycombinator.com/item?id=15498578
+|###################                               | S: 249 C: 96 R: 0.386
+
+CKEditor 5: New approach to rich text editing on the web
+https://news.ycombinator.com/item?id=15497972
+|###################                               | S: 117 C: 45 R: 0.385
+
+MIT Economist Has a New Theory of Finance
+https://news.ycombinator.com/item?id=15498072
+|##################                                | S: 113 C: 42 R: 0.372
+
+Linux on Samsung Galaxy smartphones
+https://news.ycombinator.com/item?id=15505856
+|#################                                 | S: 84 C: 30 R: 0.357
+
+I totally mean it: Inflation never solved the flatness problem
+https://news.ycombinator.com/item?id=15501773
+|#################                                 | S: 77 C: 27 R: 0.351
+
+Why Ruby App Servers Break on MacOS High Sierra
+https://news.ycombinator.com/item?id=15505751
+|#################                                 | S: 78 C: 27 R: 0.346
+
+Dyslexia: scientists claim cause of condition may lie in the eyes
+https://news.ycombinator.com/item?id=15497428
+|#################                                 | S: 61 C: 21 R: 0.344
+
+30k medical studies may be invalid due to contaminated cell cultures
+https://news.ycombinator.com/item?id=15495553
+|#################                                 | S: 120 C: 41 R: 0.342
+
+AlphaGo Zero: Learning from scratch
+https://news.ycombinator.com/item?id=15500836
+|###############                                   | S: 733 C: 232 R: 0.317
+
+Unsafe RSA primes conjectured
+https://news.ycombinator.com/item?id=15504051
+|###############                                   | S: 136 C: 41 R: 0.301
+
+Stealing Sensitive Browser Data with the W3C Ambient Light Sensor API
+https://news.ycombinator.com/item?id=15497431
+|##############                                    | S: 80 C: 23 R: 0.287
+
+The 6-Step “Happy Path” to HTTPS
+https://news.ycombinator.com/item?id=15503868
+|#############                                     | S: 131 C: 35 R: 0.267
+
+Build an app that uses screen capture in Google Chrome
+https://news.ycombinator.com/item?id=15498014
+|############                                      | S: 16 C: 4 R: 0.250
+
+Vim after 15 Years
+https://news.ycombinator.com/item?id=15491553
+|###########                                       | S: 272 C: 63 R: 0.232
+
+Practical Public Key Cryptography
+https://news.ycombinator.com/item?id=15499436
+|###########                                       | S: 135 C: 30 R: 0.222
+
+Security flaws in smartwatches for children
+https://news.ycombinator.com/item?id=15497646
+|##########                                        | S: 23 C: 5 R: 0.217
+
+Word vectors are awesome but you don’t need a neural network to find them
+https://news.ycombinator.com/item?id=15502859
+|##########                                        | S: 195 C: 42 R: 0.215
+
+Big-O: how code slows as data grows
+https://news.ycombinator.com/item?id=15498007
+|##########                                        | S: 14 C: 3 R: 0.214
+
+Transport-Triggered Architectures
+https://news.ycombinator.com/item?id=15502798
+|##########                                        | S: 24 C: 5 R: 0.208
+
+US Commodity Futures Trading Commission Primer on Virtual Currencies [pdf]
+https://news.ycombinator.com/item?id=15505567
+|##########                                        | S: 39 C: 8 R: 0.205
+
+BadNets: Identifying vulnerabilities in the machine learning model supply chain
+https://news.ycombinator.com/item?id=15498176
+|#########                                         | S: 16 C: 3 R: 0.188
+
+Documenting the Web together
+https://news.ycombinator.com/item?id=15500220
+|########                                          | S: 1011 C: 169 R: 0.167
+
+A Neural Network in 11 Lines of Python (2015)
+https://news.ycombinator.com/item?id=15498341
+|######                                            | S: 206 C: 25 R: 0.121
+
+Smartphones Are Killing Americans, but Nobody’s Counting
+https://news.ycombinator.com/item?id=15503118
+|#####                                             | S: 19 C: 2 R: 0.105
+
+Dementia through the lens of epidemiology
+https://news.ycombinator.com/item?id=15498053
+|#####                                             | S: 29 C: 3 R: 0.103
+
+Blockchains explained visually (part 1 of 2)
+https://news.ycombinator.com/item?id=15497729
+|####                                              | S: 191 C: 19 R: 0.099
+
+Rabobank, U.N. launch $1B fund to boost sustainable farming
+https://news.ycombinator.com/item?id=15505946
+|####                                              | S: 12 C: 1 R: 0.083
+
+I Snuck into Ken Kesey's Fiction Class
+https://news.ycombinator.com/item?id=15496610
+|###                                               | S: 14 C: 1 R: 0.071
+
+The Spread of Feynman Diagrams in the USA, Japan, and the USSR (2004) [pdf]
+https://news.ycombinator.com/item?id=15497619
+|###                                               | S: 33 C: 2 R: 0.061
+
+URG
+https://news.ycombinator.com/item?id=15503220
+|#                                                 | S: 81 C: 3 R: 0.037
+
+Related Pins at Pinterest: The Evolution of a Real-World Recommender System
+https://news.ycombinator.com/item?id=15498402
+|#                                                 | S: 28 C: 1 R: 0.036
+

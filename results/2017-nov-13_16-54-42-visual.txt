@@ -1,0 +1,196 @@
+Anti-NIMBY movement is winning with a simple message
+https://news.ycombinator.com/item?id=15683288
+|##################################################|###### S: 169 C: 190 R: 1.124
+
+Ask HN: What tech stack is in demand, and why?
+https://news.ycombinator.com/item?id=15684427
+|###########################################       | S: 36 C: 31 R: 0.861
+
+Let’s improve commuter rail service between Providence and Boston
+https://news.ycombinator.com/item?id=15683120
+|####################################              | S: 111 C: 82 R: 0.739
+
+Tesla will reveal its semi this Thursday, and Musk promises to 'blow your mind'
+https://news.ycombinator.com/item?id=15683709
+|####################################              | S: 57 C: 42 R: 0.737
+
+Where star scientists choose to locate: the impact of US state taxes
+https://news.ycombinator.com/item?id=15680368
+|####################################              | S: 94 C: 68 R: 0.723
+
+She Warned of ‘Peer-To-Peer Misinformation.’ Congress Listened
+https://news.ycombinator.com/item?id=15683132
+|##################################                | S: 65 C: 45 R: 0.692
+
+Air Travelers Resisting the ‘Incredible Shrinking Airline Seat’
+https://news.ycombinator.com/item?id=15684552
+|################################                  | S: 47 C: 31 R: 0.660
+
+Show HN: Dramatiq – An alternative to Celery
+https://news.ycombinator.com/item?id=15681066
+|##############################                    | S: 47 C: 29 R: 0.617
+
+PowerPC Notebook Block Diagram
+https://news.ycombinator.com/item?id=15680739
+|############################                      | S: 123 C: 71 R: 0.577
+
+Security Breach and Spilled Secrets Have Shaken the N.S.A.
+https://news.ycombinator.com/item?id=15681545
+|###########################                       | S: 251 C: 139 R: 0.554
+
+“We have obtained fully functional JTAG for Intel CSME via USB DCI”
+https://news.ycombinator.com/item?id=15669262
+|##########################                        | S: 743 C: 387 R: 0.521
+
+Can a Human See a Single Photon? (1996)
+https://news.ycombinator.com/item?id=15679599
+|#########################                         | S: 175 C: 88 R: 0.503
+
+A Universe in One Line of Code with 10 PRINT
+https://news.ycombinator.com/item?id=15680668
+|########################                          | S: 215 C: 105 R: 0.488
+
+The art of the dinner party
+https://news.ycombinator.com/item?id=15681252
+|########################                          | S: 156 C: 75 R: 0.481
+
+Uber confirms SoftBank has agreed to invest
+https://news.ycombinator.com/item?id=15683275
+|#######################                           | S: 142 C: 67 R: 0.472
+
+Taking the LSAT with Zero Preparation
+https://news.ycombinator.com/item?id=15683658
+|#######################                           | S: 58 C: 27 R: 0.466
+
+Lyft Set to Claim Third of U.S. Market in 2017
+https://news.ycombinator.com/item?id=15677727
+|######################                            | S: 135 C: 62 R: 0.459
+
+Physics Has Demoted Mass
+https://news.ycombinator.com/item?id=15679150
+|#####################                             | S: 139 C: 61 R: 0.439
+
+An ARM killer from IIT-M?
+https://news.ycombinator.com/item?id=15684225
+|#####################                             | S: 89 C: 39 R: 0.438
+
+Trip report: Fall ISO C++ standards meeting
+https://news.ycombinator.com/item?id=15680430
+|#####################                             | S: 64 C: 28 R: 0.438
+
+The Hungarian Approach and How It Fits the American Educational Landscape (2015)
+https://news.ycombinator.com/item?id=15684785
+|###################                               | S: 48 C: 19 R: 0.396
+
+A/B test of banner ads vs. traffic
+https://news.ycombinator.com/item?id=15681358
+|###################                               | S: 277 C: 109 R: 0.394
+
+Quantum magic: A skeptical perspective (2011)
+https://news.ycombinator.com/item?id=15681526
+|###################                               | S: 55 C: 21 R: 0.382
+
+Linux sandboxing improvements in Firefox 57
+https://news.ycombinator.com/item?id=15678492
+|#################                                 | S: 242 C: 86 R: 0.355
+
+Not the comp.text.sgml FAQ (2002)
+https://news.ycombinator.com/item?id=15681431
+|#################                                 | S: 86 C: 30 R: 0.349
+
+OVH outage explained
+https://news.ycombinator.com/item?id=15675591
+|#################                                 | S: 327 C: 113 R: 0.346
+
+TSA Plans to Use Face Recognition to Track Americans Through Airports
+https://news.ycombinator.com/item?id=15684139
+|################                                  | S: 69 C: 23 R: 0.333
+
+How Rust Gets Polymorphism Right [video]
+https://news.ycombinator.com/item?id=15684220
+|###############                                   | S: 47 C: 15 R: 0.319
+
+Shoutem – A platform to build, publish, and manage React Native apps
+https://news.ycombinator.com/item?id=15680609
+|###############                                   | S: 107 C: 34 R: 0.318
+
+What Quantum Computing Isn't
+https://news.ycombinator.com/item?id=15682774
+|###############                                   | S: 42 C: 13 R: 0.310
+
+Confession as an AI researcher; seeking advice
+https://news.ycombinator.com/item?id=15680623
+|##############                                    | S: 306 C: 90 R: 0.294
+
+Stream_libarchive: workaround various types of locale braindeath
+https://news.ycombinator.com/item?id=15681351
+|##############                                    | S: 17 C: 5 R: 0.294
+
+List of price of medieval items (2006)
+https://news.ycombinator.com/item?id=15680005
+|##############                                    | S: 110 C: 32 R: 0.291
+
+How Bubble bootstrapped a visual programming tool for non-coders to $100k/mo
+https://news.ycombinator.com/item?id=15681379
+|##############                                    | S: 238 C: 68 R: 0.286
+
+Show HN: Free Math, an offline React app for managing digital math homework
+https://news.ycombinator.com/item?id=15681755
+|############                                      | S: 106 C: 27 R: 0.255
+
+Programming and Painting
+https://news.ycombinator.com/item?id=15680591
+|############                                      | S: 53 C: 13 R: 0.245
+
+Süddeutsche Zeitung Became the Go-To Place for Leaks Like the Paradise Papers
+https://news.ycombinator.com/item?id=15681566
+|##########                                        | S: 264 C: 57 R: 0.216
+
+Linux 4.14 released
+https://news.ycombinator.com/item?id=15682692
+|##########                                        | S: 92 C: 19 R: 0.207
+
+Analyzing Your Browser History Using Python and Pandas
+https://news.ycombinator.com/item?id=15683267
+|#########                                         | S: 42 C: 8 R: 0.190
+
+WAM-CL: Common Lisp in Prolog
+https://news.ycombinator.com/item?id=15680787
+|########                                          | S: 57 C: 10 R: 0.175
+
+Inside a low-budget consumer hardware espionage implant
+https://news.ycombinator.com/item?id=15676737
+|########                                          | S: 544 C: 89 R: 0.164
+
+GOTO.js
+https://news.ycombinator.com/item?id=15682376
+|#######                                           | S: 64 C: 9 R: 0.141
+
+SearX: Privacy-respecting metasearch engine
+https://news.ycombinator.com/item?id=15683836
+|######                                            | S: 82 C: 11 R: 0.134
+
+Writing under difficult circumstances
+https://news.ycombinator.com/item?id=15682882
+|#####                                             | S: 10 C: 1 R: 0.100
+
+A penetration tester’s guide to sub-domain enumeration
+https://news.ycombinator.com/item?id=15676951
+|####                                              | S: 283 C: 27 R: 0.095
+
+A Visual Guide to Evolution Strategies
+https://news.ycombinator.com/item?id=15680180
+|###                                               | S: 221 C: 17 R: 0.077
+
+Really Good UX – A look inside your favorite products
+https://news.ycombinator.com/item?id=15684378
+|###                                               | S: 14 C: 1 R: 0.071
+
+Activists hack ISIS mailing list hours after it was claimed to be unhackable
+https://news.ycombinator.com/item?id=15684440
+|##                                                | S: 46 C: 2 R: 0.043
+
+Widespread impact caused by Level 3 BGP route leak
+https://news.ycombinator.com/item?id=15684372
+|                                                  | S: 22 C: 0 R: 0.000
+

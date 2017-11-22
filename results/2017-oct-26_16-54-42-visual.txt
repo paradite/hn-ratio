@@ -1,0 +1,180 @@
+The Downside of Full Pay Transparency
+https://news.ycombinator.com/item?id=15554142
+|##################################################|############# S: 111 C: 141 R: 1.270
+
+Useless design features in modern products
+https://news.ycombinator.com/item?id=15540900
+|##################################################|########## S: 35 C: 42 R: 1.200
+
+El Faro Sinking – full report [pdf]
+https://news.ycombinator.com/item?id=15554602
+|##################################################| S: 30 C: 30 R: 1.000
+
+I have no side code projects to show you
+https://news.ycombinator.com/item?id=15553205
+|#####################################             | S: 527 C: 400 R: 0.759
+
+Video Games Are Destroying the People Who Make Them
+https://news.ycombinator.com/item?id=15555450
+|#####################################             | S: 240 C: 180 R: 0.750
+
+China's Silk Road Illusions
+https://news.ycombinator.com/item?id=15554268
+|####################################              | S: 72 C: 52 R: 0.722
+
+Square Could Pass Twitter in Value
+https://news.ycombinator.com/item?id=15551683
+|##################################                | S: 139 C: 96 R: 0.691
+
+The fight over preserving public land takes a twist in Montana’s mountains
+https://news.ycombinator.com/item?id=15552574
+|##################################                | S: 215 C: 147 R: 0.684
+
+China temporarily shuts down thousands of factories in pollution crackdown
+https://news.ycombinator.com/item?id=15550243
+|################################                  | S: 189 C: 124 R: 0.656
+
+Many junior scientists need to take a hard look at their job prospects
+https://news.ycombinator.com/item?id=15557139
+|###########################                       | S: 35 C: 19 R: 0.543
+
+Reverse engineering of competitor’s software cost company big
+https://news.ycombinator.com/item?id=15550578
+|#########################                         | S: 243 C: 125 R: 0.514
+
+Facebook's Aggressive Moves on Startups Threaten Innovation
+https://news.ycombinator.com/item?id=15552992
+|########################                          | S: 138 C: 68 R: 0.493
+
+Capital-As-a-Service: A New Operating System for Early Stage Investing
+https://news.ycombinator.com/item?id=15551505
+|#######################                           | S: 72 C: 34 R: 0.472
+
+Why we’re closing Walnut
+https://news.ycombinator.com/item?id=15554389
+|#######################                           | S: 95 C: 44 R: 0.463
+
+Screen sharing in Slack, made interactive via Screenhero acquisition (YC W13)
+https://news.ycombinator.com/item?id=15552042
+|#####################                             | S: 307 C: 134 R: 0.436
+
+Launch HN: Solugen (YC W17) – Plant Sugars to Hydrogen Peroxide
+https://news.ycombinator.com/item?id=15553285
+|###################                               | S: 146 C: 57 R: 0.390
+
+Microsoft Has Stopped Manufacturing The Kinect
+https://news.ycombinator.com/item?id=15550735
+|###################                               | S: 600 C: 234 R: 0.390
+
+CIA – Analysis and Assessment of Gateway Process (1983) [pdf]
+https://news.ycombinator.com/item?id=15548907
+|###################                               | S: 13 C: 5 R: 0.385
+
+DOJ Subpoenas Twitter About Five Users Over a Smiley Emoji Tweet
+https://news.ycombinator.com/item?id=15549632
+|################                                  | S: 246 C: 83 R: 0.337
+
+How many URLs/Websites are blocked in India? Government gives different answers
+https://news.ycombinator.com/item?id=15548314
+|################                                  | S: 49 C: 16 R: 0.327
+
+CRISPR 2.0 Is Here, and It’s More Precise
+https://news.ycombinator.com/item?id=15556150
+|################                                  | S: 147 C: 48 R: 0.327
+
+Drawille: Pixel graphics in terminal with Unicode Braille characters
+https://news.ycombinator.com/item?id=15549366
+|###############                                   | S: 29 C: 9 R: 0.310
+
+Show HN: Cyborg Writer - In-Browser Text Editor with Neural Autocomplete
+https://news.ycombinator.com/item?id=15552065
+|###############                                   | S: 65 C: 20 R: 0.308
+
+Why Does the Neocortex Have Columns? A Theory of Learning Structure of the World [pdf]
+https://news.ycombinator.com/item?id=15550783
+|##############                                    | S: 220 C: 64 R: 0.291
+
+Stitch Fix has grown at a steady but not outrageous rate
+https://news.ycombinator.com/item?id=15548321
+|##############                                    | S: 28 C: 8 R: 0.286
+
+Google NetStack: IPv4 and IPv6 userland network stack in Go
+https://news.ycombinator.com/item?id=15556398
+|##############                                    | S: 57 C: 16 R: 0.281
+
+Something Rotten in the Core
+https://news.ycombinator.com/item?id=15555169
+|###########                                       | S: 59 C: 13 R: 0.220
+
+Introducing Amazon EC2 P3 Instances
+https://news.ycombinator.com/item?id=15556789
+|##########                                        | S: 46 C: 10 R: 0.217
+
+Hackers breach plastic surgery clinic
+https://news.ycombinator.com/item?id=15551537
+|##########                                        | S: 65 C: 14 R: 0.215
+
+Botnik, an AI-assisted humor application
+https://news.ycombinator.com/item?id=15540999
+|##########                                        | S: 14 C: 3 R: 0.214
+
+Einstein's Note on Happiness, Given to Bellboy in 1922, Fetches $1.6M
+https://news.ycombinator.com/item?id=15555616
+|##########                                        | S: 15 C: 3 R: 0.200
+
+Apollo Client 2.0
+https://news.ycombinator.com/item?id=15552462
+|#########                                         | S: 146 C: 29 R: 0.199
+
+Atlantic salmon swim far and wide after fish farm collapse
+https://news.ycombinator.com/item?id=15546476
+|#########                                         | S: 54 C: 10 R: 0.185
+
+How Unreal Renders a Frame
+https://news.ycombinator.com/item?id=15548928
+|#########                                         | S: 71 C: 13 R: 0.183
+
+Simulating RISC-V Clusters with FPGAs on AWS
+https://news.ycombinator.com/item?id=15552581
+|#########                                         | S: 83 C: 15 R: 0.181
+
+Reverse Engineering an Integrated Circuit for Pwn2Win 2017 CTF
+https://news.ycombinator.com/item?id=15536925
+|########                                          | S: 34 C: 6 R: 0.176
+
+The geometry of Islamic art becomes a game
+https://news.ycombinator.com/item?id=15546761
+|########                                          | S: 274 C: 46 R: 0.168
+
+An embeddable dumb heartbeat daemon in 260 bytes of RAM and 350 bytes of code
+https://news.ycombinator.com/item?id=15555829
+|########                                          | S: 78 C: 13 R: 0.167
+
+The Anatomy of a Thousand Typefaces
+https://news.ycombinator.com/item?id=15534748
+|#######                                           | S: 66 C: 10 R: 0.152
+
+The Physics of Bread
+https://news.ycombinator.com/item?id=15550279
+|####                                              | S: 31 C: 3 R: 0.097
+
+Seeing Earth from outer space
+https://news.ycombinator.com/item?id=15540944
+|###                                               | S: 15 C: 1 R: 0.067
+
+Building a Home Lab for Offensive Security and Security Research
+https://news.ycombinator.com/item?id=15547796
+|###                                               | S: 31 C: 2 R: 0.065
+
+h2: HTTP 2.0 client and server implementation for Rust
+https://news.ycombinator.com/item?id=15556781
+|##                                                | S: 57 C: 3 R: 0.053
+
+Berkeley Uses Optical Scanning to Recover Indigenous Voices from Wax Cylinders
+https://news.ycombinator.com/item?id=15548213
+|#                                                 | S: 61 C: 2 R: 0.033
+
+Allergy Drug Improves Function in Patients with Multiple Sclerosis
+https://news.ycombinator.com/item?id=15553932
+|                                                  | S: 24 C: 0 R: 0.000
+

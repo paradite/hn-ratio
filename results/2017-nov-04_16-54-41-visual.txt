@@ -1,0 +1,188 @@
+iPhone X Teardown
+https://news.ycombinator.com/item?id=15621494
+|#########################################         | S: 350 C: 291 R: 0.831
+
+The Disappearing American Grad Student
+https://news.ycombinator.com/item?id=15623112
+|########################################          | S: 78 C: 63 R: 0.808
+
+Amazon CEO Jeff Bezos sold more than $1B worth of stock this week
+https://news.ycombinator.com/item?id=15623102
+|####################################              | S: 88 C: 65 R: 0.739
+
+USS McCain collision ultimately caused by UI confusion
+https://news.ycombinator.com/item?id=15614579
+|####################################              | S: 453 C: 333 R: 0.735
+
+Bitcoin mining heats homes for free in Siberia [video]
+https://news.ycombinator.com/item?id=15620010
+|###################################               | S: 239 C: 170 R: 0.711
+
+Fifty-three year old nuclear missile accident revealed
+https://news.ycombinator.com/item?id=15620146
+|#############################                     | S: 341 C: 203 R: 0.595
+
+Command line interfaces are reified UIs
+https://news.ycombinator.com/item?id=15619796
+|############################                      | S: 147 C: 85 R: 0.578
+
+Yes, but what does your startup do?
+https://news.ycombinator.com/item?id=15618335
+|#########################                         | S: 356 C: 184 R: 0.517
+
+Broadcom Explores Deal to Acquire Chipmaker Qualcomm
+https://news.ycombinator.com/item?id=15621071
+|########################                          | S: 103 C: 51 R: 0.495
+
+Comcast has a lot to lose if municipal broadband takes off
+https://news.ycombinator.com/item?id=15620233
+|########################                          | S: 227 C: 112 R: 0.493
+
+Show HN: CertStream – See SSL certs as they're issued in real time
+https://news.ycombinator.com/item?id=15622140
+|########################                          | S: 102 C: 50 R: 0.490
+
+How Adversarial Attacks Work
+https://news.ycombinator.com/item?id=15612634
+|########################                          | S: 287 C: 140 R: 0.488
+
+Human Beings Almost Vanished from Earth in 70,000 B.C
+https://news.ycombinator.com/item?id=15615399
+|######################                            | S: 306 C: 138 R: 0.451
+
+Savitech USB audio drivers install a new root CA certificate
+https://news.ycombinator.com/item?id=15614016
+|######################                            | S: 398 C: 178 R: 0.447
+
+The Future of RethinkDB
+https://news.ycombinator.com/item?id=15616644
+|######################                            | S: 117 C: 52 R: 0.444
+
+Against an Increasingly User-Hostile Web
+https://news.ycombinator.com/item?id=15611122
+|#####################                             | S: 1141 C: 482 R: 0.422
+
+LineageOS for microG – Access Google services without closed software
+https://news.ycombinator.com/item?id=15617615
+|###################                               | S: 465 C: 178 R: 0.383
+
+Identifying the “Early IBM Computer” in a Twitter Photo
+https://news.ycombinator.com/item?id=15622971
+|###################                               | S: 55 C: 21 R: 0.382
+
+Making Pillow-SIMD, optimizing image processing in Python
+https://news.ycombinator.com/item?id=15620679
+|#################                                 | S: 66 C: 23 R: 0.348
+
+Audacity 2.2.0 Released
+https://news.ycombinator.com/item?id=15621681
+|#################                                 | S: 293 C: 102 R: 0.348
+
+14TB Hard Drives Now Available
+https://news.ycombinator.com/item?id=15623419
+|################                                  | S: 77 C: 25 R: 0.325
+
+Show HN: React patterns, techniques, tips and tricks
+https://news.ycombinator.com/item?id=15622269
+|################                                  | S: 121 C: 39 R: 0.322
+
+Redundancy vs. dependencies: which is worse? (2008)
+https://news.ycombinator.com/item?id=15621435
+|###############                                   | S: 77 C: 24 R: 0.312
+
+Renjin: a JVM-based interpreter for the R language
+https://news.ycombinator.com/item?id=15618285
+|##############                                    | S: 113 C: 33 R: 0.292
+
+Show HN: A Marketplace of Content Writers for Startups
+https://news.ycombinator.com/item?id=15623856
+|##############                                    | S: 21 C: 6 R: 0.286
+
+Show HN: Periodic Table of GitHub
+https://news.ycombinator.com/item?id=15619342
+|#############                                     | S: 104 C: 29 R: 0.279
+
+Rent-control policies likely 'fueled' SF gentrification, Stanford economists say
+https://news.ycombinator.com/item?id=15623882
+|############                                      | S: 12 C: 3 R: 0.250
+
+Remembering Laika, Space Dog and Soviet Hero
+https://news.ycombinator.com/item?id=15620340
+|############                                      | S: 165 C: 41 R: 0.248
+
+Azure Functions Now Support Java
+https://news.ycombinator.com/item?id=15618528
+|############                                      | S: 58 C: 14 R: 0.241
+
+Pyro: PyTorch-Based Deep Universal Probabilistic Programming
+https://news.ycombinator.com/item?id=15619634
+|###########                                       | S: 156 C: 35 R: 0.224
+
+Playing with Wolfram Playing Cards
+https://news.ycombinator.com/item?id=15620139
+|##########                                        | S: 149 C: 30 R: 0.201
+
+A Speed Gun for Photosynthesis
+https://news.ycombinator.com/item?id=15621504
+|##########                                        | S: 70 C: 14 R: 0.200
+
+Neugram – Scripting in Go
+https://news.ycombinator.com/item?id=15622894
+|#########                                         | S: 174 C: 34 R: 0.195
+
+Sketching Interfaces
+https://news.ycombinator.com/item?id=15619350
+|#########                                         | S: 143 C: 26 R: 0.182
+
+4.2BSD on SIMH vax with networking
+https://news.ycombinator.com/item?id=15620149
+|########                                          | S: 74 C: 13 R: 0.176
+
+What Google Learned from Its Quest to Build the Perfect Team
+https://news.ycombinator.com/item?id=15624027
+|########                                          | S: 12 C: 2 R: 0.167
+
+Magic Paper
+https://news.ycombinator.com/item?id=15616637
+|########                                          | S: 184 C: 30 R: 0.163
+
+Sometimes all a maintainer needs is a “thank you”
+https://news.ycombinator.com/item?id=15623604
+|######                                            | S: 257 C: 34 R: 0.132
+
+Jschema.js is a framework for modeling data in JavaScript
+https://news.ycombinator.com/item?id=15623281
+|######                                            | S: 32 C: 4 R: 0.125
+
+In new Waymo v. Uber order, judge pounds on Waymo
+https://news.ycombinator.com/item?id=15622795
+|######                                            | S: 32 C: 4 R: 0.125
+
+Clever Machines Learn How to Be Curious
+https://news.ycombinator.com/item?id=15621072
+|#####                                             | S: 72 C: 8 R: 0.111
+
+StarCraft 2 is going free-to-play
+https://news.ycombinator.com/item?id=15623039
+|####                                              | S: 35 C: 3 R: 0.086
+
+Our Odd Startup: 3½ Guys, No VC, Profitability, and Patience
+https://news.ycombinator.com/item?id=15624067
+|###                                               | S: 14 C: 1 R: 0.071
+
+Tikzcd – A simple visual editor for creating commutative diagrams
+https://news.ycombinator.com/item?id=15620632
+|###                                               | S: 107 C: 7 R: 0.065
+
+TensorFlow on a 256K RAM microcontroller
+https://news.ycombinator.com/item?id=15623739
+|#                                                 | S: 77 C: 3 R: 0.039
+
+The Salmon Sisters on the Art of the Side Hustle
+https://news.ycombinator.com/item?id=15620909
+|                                                  | S: 38 C: 0 R: 0.000
+
+SFLC Files Bizarre Legal Action Against Its Former Client, Conservancy
+https://news.ycombinator.com/item?id=15620012
+|                                                  | S: 23 C: 0 R: 0.000
+

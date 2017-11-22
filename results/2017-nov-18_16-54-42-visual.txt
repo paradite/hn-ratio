@@ -1,0 +1,184 @@
+Myths of the 1 Percent: What’s Putting People at the Top
+https://news.ycombinator.com/item?id=15724797
+|##################################################|## S: 92 C: 96 R: 1.043
+
+Brave expands Basic Attention Token platform to YouTube
+https://news.ycombinator.com/item?id=15722299
+|##########################################        | S: 266 C: 225 R: 0.846
+
+Show HN: Chord Progressions
+https://news.ycombinator.com/item?id=15720448
+|#########################################         | S: 62 C: 52 R: 0.839
+
+Five decades of majestic failure to explain consciousness
+https://news.ycombinator.com/item?id=15723969
+|########################################          | S: 49 C: 40 R: 0.816
+
+Tesla’s Electric Semi Truck Gets Orders from Wal-Mart and J.B. Hunt
+https://news.ycombinator.com/item?id=15727585
+|#######################################           | S: 55 C: 43 R: 0.782
+
+Hollywood Hitmaker Plans to Fund Next Blockbuster with Crypto
+https://news.ycombinator.com/item?id=15725879
+|#####################################             | S: 37 C: 28 R: 0.757
+
+Is software development really a dead-end job after age 35-40?
+https://news.ycombinator.com/item?id=15723772
+|####################################              | S: 430 C: 317 R: 0.737
+
+FCC approves TV technology that gives better pictures but less privacy
+https://news.ycombinator.com/item?id=15727827
+|##############################                    | S: 30 C: 18 R: 0.600
+
+Tesla Roadster
+https://news.ycombinator.com/item?id=15719262
+|############################                      | S: 1192 C: 688 R: 0.577
+
+Simple blood tests may soon be able to deliver news about your cognitive health
+https://news.ycombinator.com/item?id=15723661
+|###########################                       | S: 95 C: 52 R: 0.547
+
+Germany bans children's smartwatches
+https://news.ycombinator.com/item?id=15723323
+|#########################                         | S: 335 C: 172 R: 0.513
+
+The Inconvenient Truth about Smart Cities
+https://news.ycombinator.com/item?id=15727948
+|######################                            | S: 33 C: 15 R: 0.455
+
+Using DNA to Sketch What Victims Look Like
+https://news.ycombinator.com/item?id=15724663
+|######################                            | S: 25 C: 11 R: 0.440
+
+ZFS from a MySQL perspective
+https://news.ycombinator.com/item?id=15722135
+|#####################                             | S: 145 C: 63 R: 0.434
+
+Coders who trade: Wall Street designs its staff for the future
+https://news.ycombinator.com/item?id=15725208
+|#####################                             | S: 208 C: 89 R: 0.428
+
+Compiler Optimizations Should Pay for Themselves (1994) [pdf]
+https://news.ycombinator.com/item?id=15725942
+|####################                              | S: 32 C: 13 R: 0.406
+
+Show HN: Helix – a habit tracking app
+https://news.ycombinator.com/item?id=15726923
+|####################                              | S: 10 C: 4 R: 0.400
+
+Why the Update Fever Is Bad
+https://news.ycombinator.com/item?id=15727749
+|###################                               | S: 47 C: 18 R: 0.383
+
+Amish Mutation Protects Against Diabetes and May Extend Life
+https://news.ycombinator.com/item?id=15720995
+|###################                               | S: 126 C: 48 R: 0.381
+
+Cquery: highly-scalable, low-latency language server for C++
+https://news.ycombinator.com/item?id=15721153
+|#################                                 | S: 165 C: 58 R: 0.352
+
+Speed up your Python using Rust
+https://news.ycombinator.com/item?id=15719254
+|################                                  | S: 266 C: 90 R: 0.338
+
+Walking away from $30,000 of DJI bounty money [pdf]
+https://news.ycombinator.com/item?id=15721268
+|###############                                   | S: 295 C: 92 R: 0.312
+
+Microsoft and GitHub team up to take Git virtual file system to macOS, Linux
+https://news.ycombinator.com/item?id=15723926
+|##############                                    | S: 608 C: 175 R: 0.288
+
+Scientists discover how to turn light into matter after 80-year quest (2014)
+https://news.ycombinator.com/item?id=15725759
+|##############                                    | S: 87 C: 25 R: 0.287
+
+$3 Trillion in Forgotten Debt
+https://news.ycombinator.com/item?id=15724609
+|##############                                    | S: 178 C: 51 R: 0.287
+
+Popular Science Writing: A  Challenge to Academic  Cultures [pdf]
+https://news.ycombinator.com/item?id=15726343
+|#############                                     | S: 18 C: 5 R: 0.278
+
+Kdb+ and Python: EmbedPy and PyQ
+https://news.ycombinator.com/item?id=15725291
+|#############                                     | S: 65 C: 18 R: 0.277
+
+Orcas have learned how to drown great white sharks
+https://news.ycombinator.com/item?id=15723393
+|############                                      | S: 291 C: 70 R: 0.241
+
+The Rise and Fall of the English Sentence
+https://news.ycombinator.com/item?id=15720892
+|###########                                       | S: 49 C: 11 R: 0.224
+
+Health Giant Sutter Destroys Evidence in Crucial Antitrust Case Over High Prices
+https://news.ycombinator.com/item?id=15726330
+|#########                                         | S: 106 C: 21 R: 0.198
+
+Tosheets, utility to send stdin to Google sheets
+https://news.ycombinator.com/item?id=15722108
+|########                                          | S: 70 C: 12 R: 0.171
+
+Baking Bread with the Romans: Part II – Panis Quadratus
+https://news.ycombinator.com/item?id=15723317
+|########                                          | S: 131 C: 22 R: 0.168
+
+The Exterior Algebra and Central Notions in Mathematics (2015) [pdf]
+https://news.ycombinator.com/item?id=15727516
+|#######                                           | S: 26 C: 4 R: 0.154
+
+Creating an Autonomous System for Fun and Profit
+https://news.ycombinator.com/item?id=15727115
+|#######                                           | S: 54 C: 8 R: 0.148
+
+Security alerts on GitHub
+https://news.ycombinator.com/item?id=15714920
+|#######                                           | S: 681 C: 99 R: 0.145
+
+Scaling Postgres with Read Replicas and Using WAL to Counter Stale Reads
+https://news.ycombinator.com/item?id=15726376
+|######                                            | S: 148 C: 19 R: 0.128
+
+Arecibo Telescope Wins Reprieve from U.S. Government
+https://news.ycombinator.com/item?id=15725533
+|######                                            | S: 72 C: 9 R: 0.125
+
+Amazon seller lost $400,000 in sales after being attacked by 'virus of Amazon'
+https://news.ycombinator.com/item?id=15728005
+|####                                              | S: 21 C: 2 R: 0.095
+
+Deathblow Dealt to Dark Matter Disks
+https://news.ycombinator.com/item?id=15723984
+|####                                              | S: 32 C: 3 R: 0.094
+
+Pragmatic Releasing
+https://news.ycombinator.com/item?id=15723249
+|####                                              | S: 33 C: 3 R: 0.091
+
+Theano and the Future of PyMC
+https://news.ycombinator.com/item?id=15723943
+|####                                              | S: 56 C: 5 R: 0.089
+
+Monotonicity Types: Towards a Type System for Eventual Consistency
+https://news.ycombinator.com/item?id=15722697
+|####                                              | S: 68 C: 6 R: 0.088
+
+Search for Artificial Stellar Sources of Infrared Radiation (1960)
+https://news.ycombinator.com/item?id=15726584
+|###                                               | S: 26 C: 2 R: 0.077
+
+A World in a Box: Harvard digitizes two centuries of colonial history
+https://news.ycombinator.com/item?id=15716501
+|#                                                 | S: 83 C: 2 R: 0.024
+
+How Facebook's Instagram Acquisition Led to the Open Sourcing of React.js
+https://news.ycombinator.com/item?id=15727823
+|                                                  | S: 33 C: 0 R: 0.000
+
+Happier HTML5 Form Validation
+https://news.ycombinator.com/item?id=15727000
+|                                                  | S: 12 C: 0 R: 0.000
+

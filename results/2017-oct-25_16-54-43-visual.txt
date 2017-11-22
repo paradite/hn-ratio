@@ -1,0 +1,188 @@
+What Would Happen If There Were No Number 6?
+https://news.ycombinator.com/item?id=15545116
+|##################################################|############################################## S: 45 C: 87 R: 1.933
+
+U.S. Consumer Bureau Loses Fight to Allow More Class-Action Suits
+https://news.ycombinator.com/item?id=15547631
+|##################################################|# S: 34 C: 35 R: 1.029
+
+How did we create a society where we can’t afford to live in our own country?
+https://news.ycombinator.com/item?id=15545973
+|##############################################    | S: 75 C: 69 R: 0.920
+
+Show HN: Yopp – A very quick way to transfer a file from phone to computer
+https://news.ycombinator.com/item?id=15546230
+|########################################          | S: 52 C: 42 R: 0.808
+
+Boustrophedon
+https://news.ycombinator.com/item?id=15539373
+|#####################################             | S: 62 C: 47 R: 0.758
+
+If you care about diversity, don't just hire from the same five schools
+https://news.ycombinator.com/item?id=15543371
+|####################################              | S: 561 C: 413 R: 0.736
+
+The Escapist Lays Off Majority of Staff
+https://news.ycombinator.com/item?id=15544725
+|####################################              | S: 62 C: 45 R: 0.726
+
+The Uncanny Resurrection of Dungeons and Dragons
+https://news.ycombinator.com/item?id=15545393
+|#################################                 | S: 206 C: 140 R: 0.680
+
+Britain's 'concentration camp' in Russia
+https://news.ycombinator.com/item?id=15543206
+|################################                  | S: 110 C: 72 R: 0.655
+
+Self-Control Relies on Glucose as a Limited Energy Source (2007)
+https://news.ycombinator.com/item?id=15543486
+|################################                  | S: 144 C: 94 R: 0.653
+
+Amazon Aurora with PostgreSQL Compatibility
+https://news.ycombinator.com/item?id=15546328
+|###############################                   | S: 96 C: 60 R: 0.625
+
+A Grain That Tastes Like Wheat, but Grows Like a Prairie Grass
+https://news.ycombinator.com/item?id=15539816
+|##############################                    | S: 176 C: 108 R: 0.614
+
+Cape Coral, a boomtown that shouldn’t exist
+https://news.ycombinator.com/item?id=15516585
+|##############################                    | S: 84 C: 51 R: 0.607
+
+Show HN: Labit – a network of laboratory pages for research groups
+https://news.ycombinator.com/item?id=15547975
+|##############################                    | S: 15 C: 9 R: 0.600
+
+Coda, a “next-generation spreadsheet” – from rows and columns to custom apps
+https://news.ycombinator.com/item?id=15543181
+|#############################                     | S: 216 C: 126 R: 0.583
+
+Gmail Launches Add-ons
+https://news.ycombinator.com/item?id=15543117
+|##########################                        | S: 353 C: 187 R: 0.530
+
+Speech Recognition Is Not Solved
+https://news.ycombinator.com/item?id=15542669
+|#########################                         | S: 384 C: 193 R: 0.503
+
+Show HN: Product Substitutes – what software top companies are replacing
+https://news.ycombinator.com/item?id=15544432
+|#######################                           | S: 74 C: 35 R: 0.473
+
+AMD Announces 307% Increase in Q3 Earnings
+https://news.ycombinator.com/item?id=15545461
+|######################                            | S: 222 C: 100 R: 0.450
+
+Short-Lived Certificates at Netflix
+https://news.ycombinator.com/item?id=15545090
+|####################                              | S: 86 C: 35 R: 0.407
+
+The Anti-Portfolio
+https://news.ycombinator.com/item?id=15547136
+|###################                               | S: 164 C: 63 R: 0.384
+
+Wealth Management Products in China (2015) [pdf]
+https://news.ycombinator.com/item?id=15546935
+|##################                                | S: 25 C: 9 R: 0.360
+
+Why We Must Fight for the Right to Repair Our Electronics
+https://news.ycombinator.com/item?id=15546536
+|#################                                 | S: 465 C: 165 R: 0.355
+
+Build your own Minimal Terminal
+https://news.ycombinator.com/item?id=15547106
+|#################                                 | S: 17 C: 6 R: 0.353
+
+Show HN: Trickle/tritty, a 600 baud pipe/terminal
+https://news.ycombinator.com/item?id=15546269
+|#################                                 | S: 37 C: 13 R: 0.351
+
+Open Letter to Patreon from NSFW Content Creators
+https://news.ycombinator.com/item?id=15547801
+|#################                                 | S: 49 C: 17 R: 0.347
+
+Dynamic Progamming: First Principles
+https://news.ycombinator.com/item?id=15545686
+|###############                                   | S: 192 C: 61 R: 0.318
+
+Facebook Shouldn’t Be Allowed to Buy Tbh
+https://news.ycombinator.com/item?id=15547734
+|#############                                     | S: 122 C: 32 R: 0.262
+
+How We Bootstrapped Our SaaS Startup to Ramen Profitability
+https://news.ycombinator.com/item?id=15544378
+|############                                      | S: 470 C: 121 R: 0.257
+
+Astronaut Paul Weitz has died
+https://news.ycombinator.com/item?id=15539956
+|############                                      | S: 94 C: 23 R: 0.245
+
+Intractable Problems in Control Theory (1986) [pdf]
+https://news.ycombinator.com/item?id=15545894
+|###########                                       | S: 30 C: 7 R: 0.233
+
+Executing Parallel Statements to Improve Performance
+https://news.ycombinator.com/item?id=15544426
+|###########                                       | S: 48 C: 11 R: 0.229
+
+FCC eliminates rule requiring a local presence for AM/FM/TV broadcasters
+https://news.ycombinator.com/item?id=15543545
+|##########                                        | S: 37 C: 8 R: 0.216
+
+Anti-aging stem cell treatment proves successful in early human trials
+https://news.ycombinator.com/item?id=15547266
+|##########                                        | S: 43 C: 9 R: 0.209
+
+Hadoop on IPFS [pdf]
+https://news.ycombinator.com/item?id=15543596
+|##########                                        | S: 86 C: 18 R: 0.209
+
+Saying Goodbye to Firebug
+https://news.ycombinator.com/item?id=15542263
+|##########                                        | S: 669 C: 138 R: 0.206
+
+How we found rogerkver’s obfuscated wallet private key
+https://news.ycombinator.com/item?id=15543818
+|#########                                         | S: 229 C: 42 R: 0.183
+
+Remember that $86M license plate scanner I replicated? I caught someone
+https://news.ycombinator.com/item?id=15545790
+|#######                                           | S: 121 C: 18 R: 0.149
+
+Remote Maintenance of Molten Salt Reactors [video]
+https://news.ycombinator.com/item?id=15543428
+|#######                                           | S: 41 C: 6 R: 0.146
+
+Deuce: lightweight structured editing in Sketch-n-Sketch
+https://news.ycombinator.com/item?id=15543370
+|#######                                           | S: 28 C: 4 R: 0.143
+
+Node v8.8.0
+https://news.ycombinator.com/item?id=15547942
+|######                                            | S: 72 C: 10 R: 0.139
+
+Welp, there go my Git signatures
+https://news.ycombinator.com/item?id=15533878
+|######                                            | S: 182 C: 24 R: 0.132
+
+Google soft launches collaborative Jupyter-like notebook
+https://news.ycombinator.com/item?id=15546350
+|#####                                             | S: 17 C: 2 R: 0.118
+
+Flopstarter. A platform for bad ideas
+https://news.ycombinator.com/item?id=15544434
+|###                                               | S: 26 C: 2 R: 0.077
+
+Securing Customer Data with KMS and Envelope Encryption in Node.js
+https://news.ycombinator.com/item?id=15543946
+|#                                                 | S: 30 C: 1 R: 0.033
+
+Astrolabe: Shipwreck find 'earliest navigation tool'
+https://news.ycombinator.com/item?id=15547909
+|                                                  | S: 10 C: 0 R: 0.000
+
+The USA Rights Act Protects Us from NSA Spying
+https://news.ycombinator.com/item?id=15547708
+|                                                  | S: 10 C: 0 R: 0.000
+

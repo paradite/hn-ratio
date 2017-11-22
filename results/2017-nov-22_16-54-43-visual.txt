@@ -1,0 +1,184 @@
+Blue-collar wages are surging. Can it last?
+https://news.ycombinator.com/item?id=15748368
+|##################################################|############################################################### S: 229 C: 521 R: 2.275
+
+John Lasseter taking a leave of absence amid reports of inappropriate behavior
+https://news.ycombinator.com/item?id=15752139
+|##################################################|##### S: 173 C: 193 R: 1.116
+
+Extensions in Firefox 58
+https://news.ycombinator.com/item?id=15747058
+|##################################################|## S: 268 C: 280 R: 1.045
+
+How Evil Is Tech?
+https://news.ycombinator.com/item?id=15754783
+|##################################################| S: 64 C: 65 R: 1.016
+
+Facebook Still Letting Housing Advertisers Exclude Users by Race
+https://news.ycombinator.com/item?id=15750648
+|#########################################         | S: 110 C: 91 R: 0.827
+
+Skype Vanishes from App Stores in China, Including Apple’s
+https://news.ycombinator.com/item?id=15747607
+|###################################               | S: 217 C: 154 R: 0.710
+
+Warning Signs About Another Giant Bitcoin Exchange
+https://news.ycombinator.com/item?id=15752983
+|#################################                 | S: 198 C: 131 R: 0.662
+
+Meg Whitman to Step Down as HPE CEO
+https://news.ycombinator.com/item?id=15751995
+|################################                  | S: 144 C: 95 R: 0.660
+
+Man to launch himself in homemade rocket to prove Earth is flat (not the Onion)
+https://news.ycombinator.com/item?id=15751398
+|################################                  | S: 14 C: 9 R: 0.643
+
+What Made the SR-71 Blackbird Such a Badass Plane (2015)
+https://news.ycombinator.com/item?id=15749296
+|##############################                    | S: 166 C: 102 R: 0.614
+
+Hapi.js – v17
+https://news.ycombinator.com/item?id=15751971
+|############################                      | S: 19 C: 11 R: 0.579
+
+Germany's FlixBus to Take on Greyhound in the United States
+https://news.ycombinator.com/item?id=15747729
+|############################                      | S: 152 C: 88 R: 0.579
+
+The Organ of the Universe: On Living with Tinnitus
+https://news.ycombinator.com/item?id=15751230
+|############################                      | S: 100 C: 57 R: 0.570
+
+Regression in Linux 4.14 – using bcache can destroy the file system
+https://news.ycombinator.com/item?id=15750029
+|##########################                        | S: 172 C: 92 R: 0.535
+
+Desktop compositing latency is real
+https://news.ycombinator.com/item?id=15747650
+|##########################                        | S: 474 C: 253 R: 0.534
+
+Ketamine lifts rodents' mood only if administered by male researchers
+https://news.ycombinator.com/item?id=15752514
+|#########################                         | S: 173 C: 89 R: 0.514
+
+FCC plan would give Internet providers power to choose the sites customers see
+https://news.ycombinator.com/item?id=15749150
+|#########################                         | S: 1181 C: 607 R: 0.514
+
+A CEO's Guide to Emacs (2015)
+https://news.ycombinator.com/item?id=15753150
+|########################                          | S: 159 C: 79 R: 0.497
+
+Show HN: Add S3 Capabilities to Azure Blob Storage Using Minio
+https://news.ycombinator.com/item?id=15752286
+|#######################                           | S: 21 C: 10 R: 0.476
+
+Fossil – Next Generation
+https://news.ycombinator.com/item?id=15752725
+|#####################                             | S: 116 C: 51 R: 0.440
+
+Being Multi-Cloud with Cloudflare
+https://news.ycombinator.com/item?id=15752259
+|#####################                             | S: 38 C: 16 R: 0.421
+
+Uber Paid Hackers to Delete Stolen Data on 57M People
+https://news.ycombinator.com/item?id=15752022
+|###################                               | S: 1107 C: 432 R: 0.390
+
+Google collects cell tower info even if location services are disabled
+https://news.ycombinator.com/item?id=15747519
+|###################                               | S: 636 C: 243 R: 0.382
+
+I'm Testifying to Congress about Data Breaches – What Should I Say?
+https://news.ycombinator.com/item?id=15751344
+|##################                                | S: 434 C: 161 R: 0.371
+
+Modern Media Is a DoS Attack on Free Will
+https://news.ycombinator.com/item?id=15741565
+|#################                                 | S: 1339 C: 478 R: 0.357
+
+John Raines, 84, Who Evaded Capture in an FBI Break-In, Dies
+https://news.ycombinator.com/item?id=15745539
+|#################                                 | S: 167 C: 59 R: 0.353
+
+Join the Battle for Net Neutrality
+https://news.ycombinator.com/item?id=15754287
+|###############                                   | S: 390 C: 123 R: 0.315
+
+The first known object to enter our solar system from deep space
+https://news.ycombinator.com/item?id=15745668
+|##############                                    | S: 352 C: 105 R: 0.298
+
+Replacing x86 firmware with Linux and Go
+https://news.ycombinator.com/item?id=15748900
+|##############                                    | S: 408 C: 118 R: 0.289
+
+Willow Garage and the Making of the Robot Operating System
+https://news.ycombinator.com/item?id=15749546
+|##############                                    | S: 57 C: 16 R: 0.281
+
+Linus Torvalds: “Do No Harm”
+https://news.ycombinator.com/item?id=15754988
+|#############                                     | S: 123 C: 33 R: 0.268
+
+Of SVG, Minification and Gzip
+https://news.ycombinator.com/item?id=15745918
+|###########                                       | S: 204 C: 48 R: 0.235
+
+Cross-Head, Cross-Point, Cruciform,  Square Drive Screws and Drivers
+https://news.ycombinator.com/item?id=15748942
+|##########                                        | S: 82 C: 18 R: 0.220
+
+HQ CEO: If You Run This Profile, We’ll Fire Our Host
+https://news.ycombinator.com/item?id=15751158
+|##########                                        | S: 301 C: 66 R: 0.219
+
+A General Neural Network Hardware Architecture on FPGA [pdf]
+https://news.ycombinator.com/item?id=15749084
+|##########                                        | S: 38 C: 8 R: 0.211
+
+The Secret Lives of Urban Crows
+https://news.ycombinator.com/item?id=15748591
+|##########                                        | S: 97 C: 20 R: 0.206
+
+A Man Who Has Lived Alone on an Island for 28 Years
+https://news.ycombinator.com/item?id=15751227
+|########                                          | S: 288 C: 48 R: 0.167
+
+Researchers discover bees can be left or right-handed
+https://news.ycombinator.com/item?id=15752484
+|#######                                           | S: 44 C: 7 R: 0.159
+
+Beauty Shots of Retro Machines
+https://news.ycombinator.com/item?id=15754073
+|#######                                           | S: 45 C: 7 R: 0.156
+
+User experience design for APIs
+https://news.ycombinator.com/item?id=15752365
+|#######                                           | S: 163 C: 24 R: 0.147
+
+Low Hanging Fruit of Programming Language Design
+https://news.ycombinator.com/item?id=15752219
+|######                                            | S: 15 C: 2 R: 0.133
+
+AWS Amplify: JavaScript Open Source Library with React, React Native Extensions
+https://news.ycombinator.com/item?id=15751713
+|######                                            | S: 135 C: 17 R: 0.126
+
+Joan Feynman Found Her Place in the Sun
+https://news.ycombinator.com/item?id=15750035
+|######                                            | S: 145 C: 18 R: 0.124
+
+JIT compiling a subset of Python to x86-64
+https://news.ycombinator.com/item?id=15750700
+|#####                                             | S: 113 C: 12 R: 0.106
+
+Using Firefox WebExtensions with Selenium
+https://news.ycombinator.com/item?id=15748058
+|####                                              | S: 32 C: 3 R: 0.094
+
+China to have 626M surveillance cameras within 3 years
+https://news.ycombinator.com/item?id=15755169
+|                                                  | S: 10 C: 0 R: 0.000
+

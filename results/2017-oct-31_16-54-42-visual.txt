@@ -1,0 +1,188 @@
+Ask HN: We have a great team and capital but can't find a good idea
+https://news.ycombinator.com/item?id=15588361
+|##################################################|############################### S: 268 C: 435 R: 1.623
+
+Near Future of Programming Languages [pdf]
+https://news.ycombinator.com/item?id=15582429
+|######################################            | S: 351 C: 268 R: 0.764
+
+Butterfly iQ – A cheap handheld ultrasound tool with AI smarts inside
+https://news.ycombinator.com/item?id=15588711
+|###############################                   | S: 168 C: 105 R: 0.625
+
+Letting users skip our paywall if they wrote an apology
+https://news.ycombinator.com/item?id=15590476
+|#############################                     | S: 126 C: 75 R: 0.595
+
+Do you need a VPN?
+https://news.ycombinator.com/item?id=15585769
+|###########################                       | S: 752 C: 418 R: 0.556
+
+Oldest recorded solar eclipse helps date the Egyptian pharaohs
+https://news.ycombinator.com/item?id=15584907
+|##########################                        | S: 144 C: 75 R: 0.521
+
+The Internet Worm of 1988
+https://news.ycombinator.com/item?id=15584089
+|#########################                         | S: 89 C: 46 R: 0.517
+
+Show HN: Unity 3D in Docker
+https://news.ycombinator.com/item?id=15587737
+|#########################                         | S: 80 C: 41 R: 0.512
+
+Scaling the GitLab database
+https://news.ycombinator.com/item?id=15586488
+|#########################                         | S: 195 C: 98 R: 0.503
+
+Show HN: Easy Webserver for Node Js, Python, PHP, etc. With Free SSL
+https://news.ycombinator.com/item?id=15591224
+|#######################                           | S: 23 C: 11 R: 0.478
+
+The quest to evolve neural networks through evolutionary algorithms
+https://news.ycombinator.com/item?id=15582297
+|#######################                           | S: 203 C: 95 R: 0.468
+
+Google, Facebook, and Amazon have fundamentally transformed the web
+https://news.ycombinator.com/item?id=15584456
+|#######################                           | S: 641 C: 299 R: 0.466
+
+Facebook’s 2016 Election Team Gave Advertisers a Blueprint to a Divided US
+https://news.ycombinator.com/item?id=15590637
+|######################                            | S: 61 C: 28 R: 0.459
+
+America's Wind Energy Future Looks Seaward
+https://news.ycombinator.com/item?id=15588488
+|######################                            | S: 44 C: 20 R: 0.455
+
+Arcosanti, Paolo Soleri’s Arizona experiment in urban planning
+https://news.ycombinator.com/item?id=15586064
+|######################                            | S: 93 C: 41 R: 0.441
+
+California Wildfires Burned Irreplaceable Documents on Silicon Valley History
+https://news.ycombinator.com/item?id=15581941
+|####################                              | S: 227 C: 95 R: 0.419
+
+The concept of schizophrenia is dying
+https://news.ycombinator.com/item?id=15590710
+|####################                              | S: 70 C: 28 R: 0.400
+
+How to Program a Supercomputer
+https://news.ycombinator.com/item?id=15589772
+|####################                              | S: 55 C: 22 R: 0.400
+
+Anvil: full stack web apps built only with Python
+https://news.ycombinator.com/item?id=15584124
+|###################                               | S: 463 C: 185 R: 0.400
+
+A new GPU backend for the TVM stack
+https://news.ycombinator.com/item?id=15585751
+|###################                               | S: 69 C: 27 R: 0.391
+
+‘I forgot my PIN’: An epic tale of losing $30,000 in bitcoin
+https://news.ycombinator.com/item?id=15588696
+|##################                                | S: 85 C: 32 R: 0.376
+
+When man meets metal: rise of the transhumans
+https://news.ycombinator.com/item?id=15584141
+|#################                                 | S: 40 C: 14 R: 0.350
+
+Algo trading digital assets
+https://news.ycombinator.com/item?id=15587446
+|#################                                 | S: 143 C: 50 R: 0.350
+
+F* – An ML-like functional programming language aimed at program verification
+https://news.ycombinator.com/item?id=15582969
+|#################                                 | S: 253 C: 88 R: 0.348
+
+How to write a JavaScript-free todo app using just HTML and CSS
+https://news.ycombinator.com/item?id=15585449
+|###############                                   | S: 129 C: 41 R: 0.318
+
+Firefox takes a bite out of the canvas ‘super cookie’
+https://news.ycombinator.com/item?id=15583807
+|###############                                   | S: 340 C: 107 R: 0.315
+
+HTTP 103 – An HTTP Status Code for Indicating Hints
+https://news.ycombinator.com/item?id=15590049
+|#############                                     | S: 314 C: 87 R: 0.277
+
+Debug Information Is Huge and What to Do About It
+https://news.ycombinator.com/item?id=15589059
+|###########                                       | S: 59 C: 14 R: 0.237
+
+Simplicity: A New Language for Blockchains [pdf]
+https://news.ycombinator.com/item?id=15588380
+|###########                                       | S: 244 C: 57 R: 0.234
+
+Crafting Interpreters: Classes
+https://news.ycombinator.com/item?id=15585369
+|###########                                       | S: 112 C: 26 R: 0.232
+
+Algorithmic Approaches to Playing Minesweeper (2015)
+https://news.ycombinator.com/item?id=15584219
+|###########                                       | S: 68 C: 15 R: 0.221
+
+Replacing exploit-ridden firmware with a Linux kernel [pdf]
+https://news.ycombinator.com/item?id=15579592
+|##########                                        | S: 355 C: 76 R: 0.214
+
+How a destructive idea paved the way for modern math
+https://news.ycombinator.com/item?id=15584207
+|##########                                        | S: 121 C: 25 R: 0.207
+
+Implementing VisiCalc (2003)
+https://news.ycombinator.com/item?id=15587048
+|#########                                         | S: 87 C: 17 R: 0.195
+
+The 'Manhattan of the Desert': Shibam, Yemen's Ancient Skyscraper City (2015)
+https://news.ycombinator.com/item?id=15589191
+|#########                                         | S: 150 C: 29 R: 0.193
+
+The State of Data Science and Machine Learning
+https://news.ycombinator.com/item?id=15586323
+|#########                                         | S: 222 C: 42 R: 0.189
+
+Microsoft employee installs Chrome mid-presentation because Edge keeps crashing
+https://news.ycombinator.com/item?id=15589288
+|########                                          | S: 54 C: 9 R: 0.167
+
+RCN is much more data efficient than traditional Deep Neural Networks
+https://news.ycombinator.com/item?id=15584086
+|#######                                           | S: 169 C: 27 R: 0.160
+
+Show HN: Vehicle Detection – using machine learning and computer vision
+https://news.ycombinator.com/item?id=15582714
+|#######                                           | S: 140 C: 21 R: 0.150
+
+The era of easily faked, AI-generated photos is quickly emerging
+https://news.ycombinator.com/item?id=15590761
+|######                                            | S: 15 C: 2 R: 0.133
+
+Build a Lazy-Load Router with Vue.js and the Lastest Browser Features
+https://news.ycombinator.com/item?id=15589161
+|#####                                             | S: 34 C: 4 R: 0.118
+
+Microsoft director installing Chrome in a presentation because Edge not working
+https://news.ycombinator.com/item?id=15590856
+|#####                                             | S: 17 C: 2 R: 0.118
+
+Racket v6.11
+https://news.ycombinator.com/item?id=15591046
+|#####                                             | S: 70 C: 8 R: 0.114
+
+Show HN: Open Source alternative to services like Intercom.io and Smooch
+https://news.ycombinator.com/item?id=15589742
+|#####                                             | S: 103 C: 11 R: 0.107
+
+Build a Business, not an App
+https://news.ycombinator.com/item?id=15586355
+|####                                              | S: 180 C: 16 R: 0.089
+
+NPL: A programming language for neural networks, 3d simulation and visualization
+https://news.ycombinator.com/item?id=15584125
+|###                                               | S: 61 C: 4 R: 0.066
+
+Why the cops won't help you when you're getting stabbed
+https://news.ycombinator.com/item?id=15590479
+|#                                                 | S: 36 C: 1 R: 0.028
+

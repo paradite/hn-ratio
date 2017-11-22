@@ -1,0 +1,196 @@
+Italy referendums: Lombardy and Veneto 'back greater autonomy'
+https://news.ycombinator.com/item?id=15530985
+|##################################################|# S: 32 C: 33 R: 1.031
+
+Chevy Bolt: the First Practical, Mass-Market Electric Vehicle
+https://news.ycombinator.com/item?id=15528659
+|##############################################    | S: 188 C: 176 R: 0.936
+
+Boom has orders for 76 of its future supersonic passenger jets
+https://news.ycombinator.com/item?id=15519030
+|#########################################         | S: 168 C: 141 R: 0.839
+
+Could cryptocurrency mining kill online advertising?
+https://news.ycombinator.com/item?id=15528247
+|######################################            | S: 74 C: 57 R: 0.770
+
+Warren Buffett calls insurance Berkshire Hathaway's most important sector
+https://news.ycombinator.com/item?id=15527585
+|##################################                | S: 39 C: 27 R: 0.692
+
+In Estonia virtually every process is digitized
+https://news.ycombinator.com/item?id=15528284
+|#################################                 | S: 120 C: 81 R: 0.675
+
+Raccoons Pass Aesop's Fable Test By Upending It
+https://news.ycombinator.com/item?id=15529390
+|###############################                   | S: 16 C: 10 R: 0.625
+
+Why do people keep giving Magic Leap money?
+https://news.ycombinator.com/item?id=15530716
+|#############################                     | S: 37 C: 22 R: 0.595
+
+Date/Time Inputs Enabled on Firefox Nightly
+https://news.ycombinator.com/item?id=15531265
+|###########################                       | S: 84 C: 46 R: 0.548
+
+Tesla Strikes Deal With Shanghai to Build Factory in China
+https://news.ycombinator.com/item?id=15529944
+|##########################                        | S: 169 C: 91 R: 0.538
+
+Too much fructose can damage your liver, just like too much alcohol
+https://news.ycombinator.com/item?id=15528189
+|#########################                         | S: 212 C: 108 R: 0.509
+
+Google terminating YouTube channels and videos (2016)
+https://news.ycombinator.com/item?id=15528942
+|########################                          | S: 125 C: 62 R: 0.496
+
+Using Java 9 Modularization to Ship Zero-Dependency Native Apps
+https://news.ycombinator.com/item?id=15521611
+|#######################                           | S: 194 C: 93 R: 0.479
+
+Update on Google’s Secretive Startup Calico Labs
+https://news.ycombinator.com/item?id=15510787
+|#######################                           | S: 32 C: 15 R: 0.469
+
+A newly discovered moon tunnel
+https://news.ycombinator.com/item?id=15528048
+|######################                            | S: 345 C: 155 R: 0.449
+
+How expensive is a can of Coke if social cost is priced in?
+https://news.ycombinator.com/item?id=15527875
+|#####################                             | S: 30 C: 13 R: 0.433
+
+Launch HN: Cashfree (YC S17) – Automated Payouts and Bank Transfers for India
+https://news.ycombinator.com/item?id=15530862
+|#####################                             | S: 33 C: 14 R: 0.424
+
+Social Media Endangers Knowledge
+https://news.ycombinator.com/item?id=15525455
+|####################                              | S: 87 C: 36 R: 0.414
+
+Termux: terminal emulator and Debian-style userland as an Android app
+https://news.ycombinator.com/item?id=15529426
+|###################                               | S: 192 C: 76 R: 0.396
+
+The advertising industry has been living a lie
+https://news.ycombinator.com/item?id=15528379
+|###################                               | S: 97 C: 38 R: 0.392
+
+Rust to WebAssembly Made Easier
+https://news.ycombinator.com/item?id=15527413
+|###################                               | S: 140 C: 54 R: 0.386
+
+SoftBank Plans a New $200B Fund
+https://news.ycombinator.com/item?id=15528751
+|#################                                 | S: 122 C: 43 R: 0.352
+
+Speeding Up a Fat Web Client
+https://news.ycombinator.com/item?id=15528414
+|#################                                 | S: 77 C: 27 R: 0.351
+
+How Los Angeles Banned Some of Its Most Popular Building Types
+https://news.ycombinator.com/item?id=15525026
+|###############                                   | S: 63 C: 19 R: 0.302
+
+Show HN: Appraise – Visual test automation
+https://news.ycombinator.com/item?id=15528291
+|##############                                    | S: 71 C: 20 R: 0.282
+
+Sloyd
+https://news.ycombinator.com/item?id=15527376
+|##############                                    | S: 103 C: 29 R: 0.282
+
+The Xerox Alto, Smalltalk, and Rewriting a Running GUI
+https://news.ycombinator.com/item?id=15527726
+|#############                                     | S: 174 C: 48 R: 0.276
+
+China Bans Foreign Waste – What Will Happen to the World's Recycling?
+https://news.ycombinator.com/item?id=15528740
+|#############                                     | S: 40 C: 11 R: 0.275
+
+An Auction Setup at Christie’s
+https://news.ycombinator.com/item?id=15526323
+|#############                                     | S: 11 C: 3 R: 0.273
+
+Raspberry Pi 3 Overclock and Turbo Config (2016)
+https://news.ycombinator.com/item?id=15530883
+|############                                      | S: 20 C: 5 R: 0.250
+
+Show HN: JSRobot – A platform game you play by coding in JavaScript
+https://news.ycombinator.com/item?id=15529963
+|###########                                       | S: 26 C: 6 R: 0.231
+
+TAOS Operating System
+https://news.ycombinator.com/item?id=15527936
+|###########                                       | S: 65 C: 15 R: 0.231
+
+Turning Corners into Cameras: Principles and Methods
+https://news.ycombinator.com/item?id=15530147
+|##########                                        | S: 19 C: 4 R: 0.211
+
+Yosemite bolt replacement and Death Block removal (2012)
+https://news.ycombinator.com/item?id=15529497
+|##########                                        | S: 50 C: 10 R: 0.200
+
+Big brains come with big social groups in whales and dolphins
+https://news.ycombinator.com/item?id=15528140
+|#########                                         | S: 36 C: 7 R: 0.194
+
+A place spacecraft go to die
+https://news.ycombinator.com/item?id=15525612
+|#########                                         | S: 38 C: 7 R: 0.184
+
+A map of the former surface of the Earth, now residing in the mantle
+https://news.ycombinator.com/item?id=15525844
+|#########                                         | S: 33 C: 6 R: 0.182
+
+On Ink Shortages
+https://news.ycombinator.com/item?id=15525537
+|#########                                         | S: 22 C: 4 R: 0.182
+
+Serverless computing: economic and architectural impact
+https://news.ycombinator.com/item?id=15506189
+|########                                          | S: 77 C: 13 R: 0.169
+
+Getting the Most Out of Sqlite3 with Python
+https://news.ycombinator.com/item?id=15525715
+|########                                          | S: 167 C: 27 R: 0.162
+
+Simple Ways to Be Better at Remembering
+https://news.ycombinator.com/item?id=15527198
+|#######                                           | S: 222 C: 34 R: 0.153
+
+Richard Turner’s Full House
+https://news.ycombinator.com/item?id=15526778
+|#######                                           | S: 14 C: 2 R: 0.143
+
+Ctai: compile time assembly interpreter
+https://news.ycombinator.com/item?id=15527935
+|######                                            | S: 24 C: 3 R: 0.125
+
+Show HN: Ruby static type checker – proof of concept
+https://news.ycombinator.com/item?id=15528660
+|####                                              | S: 68 C: 6 R: 0.088
+
+Learning Diverse Skills via Maximum Entropy Deep Reinforcement Learning
+https://news.ycombinator.com/item?id=15527967
+|###                                               | S: 112 C: 8 R: 0.071
+
+An ambitious project to map all the cells in the human body
+https://news.ycombinator.com/item?id=15526632
+|###                                               | S: 44 C: 3 R: 0.068
+
+Spacewalking astronaut copes with frayed tether, bad jetpack
+https://news.ycombinator.com/item?id=15526517
+|###                                               | S: 15 C: 1 R: 0.067
+
+Let's build a blockchain – A mini-cryptocurrency in Ruby [video]
+https://news.ycombinator.com/item?id=15529512
+|                                                  | S: 20 C: 0 R: 0.000
+
+Class of ’78: Studying in the US Post-Cultural Revolution
+https://news.ycombinator.com/item?id=15528184
+|                                                  | S: 26 C: 0 R: 0.000
+

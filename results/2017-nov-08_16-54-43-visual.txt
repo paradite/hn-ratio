@@ -1,0 +1,184 @@
+Snap Inc. Third Quarter 2017 Results
+https://news.ycombinator.com/item?id=15647768
+|##################################################|############### S: 116 C: 153 R: 1.319
+
+San Francisco is one of the worst-paying places in the US for software engineers
+https://news.ycombinator.com/item?id=15649610
+|#############################################     | S: 82 C: 75 R: 0.915
+
+Dopamine: An AI platform for designing human behavior
+https://news.ycombinator.com/item?id=15648746
+|##########################################        | S: 84 C: 71 R: 0.845
+
+Tweeting Made Easier
+https://news.ycombinator.com/item?id=15647675
+|###################################               | S: 127 C: 91 R: 0.717
+
+Parity Wallet security alert
+https://news.ycombinator.com/item?id=15642856
+|##################################                | S: 355 C: 244 R: 0.687
+
+Show HN: Orange Forum – Web 1.0 style forum written in Go
+https://news.ycombinator.com/item?id=15645276
+|##############################                    | S: 167 C: 102 R: 0.611
+
+WTF? Chromium (2016)
+https://news.ycombinator.com/item?id=15647971
+|#############################                     | S: 166 C: 97 R: 0.584
+
+USB 3.0* Radio Frequency Interference on 2.4 GHz Devices (2012)
+https://news.ycombinator.com/item?id=15643543
+|##########################                        | S: 209 C: 110 R: 0.526
+
+A 12pt Font Should Be the Same Size Everywhere (2012)
+https://news.ycombinator.com/item?id=15639616
+|##########################                        | S: 285 C: 149 R: 0.523
+
+Waymo now testing its self-driving cars on public roads with no one at the wheel
+https://news.ycombinator.com/item?id=15644680
+|#########################                         | S: 936 C: 479 R: 0.512
+
+How Facebook’s Oracular Algorithm Determines the Fates of Startups
+https://news.ycombinator.com/item?id=15645570
+|#########################                         | S: 134 C: 68 R: 0.507
+
+What Happened to Threadless?
+https://news.ycombinator.com/item?id=15642456
+|#######################                           | S: 227 C: 105 R: 0.463
+
+Markdown Here – Write email in Markdown
+https://news.ycombinator.com/item?id=15646425
+|######################                            | S: 264 C: 121 R: 0.458
+
+Disney Ends Ban on Los Angeles Times Amid Fierce Backlash
+https://news.ycombinator.com/item?id=15648283
+|#####################                             | S: 171 C: 75 R: 0.439
+
+How sheep with cameras got some tiny islands onto Google Street View
+https://news.ycombinator.com/item?id=15644083
+|####################                              | S: 204 C: 84 R: 0.412
+
+Work on SQLite4 has concluded
+https://news.ycombinator.com/item?id=15648280
+|####################                              | S: 276 C: 112 R: 0.406
+
+You Will Not Understand This
+https://news.ycombinator.com/item?id=15649499
+|####################                              | S: 129 C: 52 R: 0.403
+
+Chrome breaks the Web
+https://news.ycombinator.com/item?id=15634609
+|###################                               | S: 1157 C: 447 R: 0.386
+
+Almost everything on computers is perceptually slower than it was in 1983
+https://news.ycombinator.com/item?id=15648652
+|###################                               | S: 34 C: 13 R: 0.382
+
+Linux kernel: multiple vulnerabilities in the USB subsystem
+https://news.ycombinator.com/item?id=15644977
+|##################                                | S: 170 C: 63 R: 0.371
+
+An Open Letter to Intel
+https://news.ycombinator.com/item?id=15642116
+|##################                                | S: 957 C: 346 R: 0.362
+
+ECMAScript 2018 Language Specification
+https://news.ycombinator.com/item?id=15644402
+|################                                  | S: 140 C: 46 R: 0.329
+
+This Is How Amazon Could Invade the Pharmacy Business
+https://news.ycombinator.com/item?id=15648589
+|################                                  | S: 34 C: 11 R: 0.324
+
+How to Be a Great Product Manager with Facebook PM
+https://news.ycombinator.com/item?id=15648971
+|###############                                   | S: 16 C: 5 R: 0.312
+
+Show HN: Javalin 1.0 – A Kotlin/Java web framework
+https://news.ycombinator.com/item?id=15644430
+|###############                                   | S: 234 C: 72 R: 0.308
+
+Top Ten Time Series DBs
+https://news.ycombinator.com/item?id=15649405
+|##############                                    | S: 75 C: 22 R: 0.293
+
+Flexbox and Grids: your layout’s best friends
+https://news.ycombinator.com/item?id=15637111
+|##############                                    | S: 498 C: 145 R: 0.291
+
+NBA GO – Watch NBA in Your Terminal
+https://news.ycombinator.com/item?id=15642276
+|##############                                    | S: 378 C: 108 R: 0.286
+
+Functional Programming Jargon
+https://news.ycombinator.com/item?id=15641701
+|#############                                     | S: 322 C: 89 R: 0.276
+
+Translator's Note to the Odyssey
+https://news.ycombinator.com/item?id=15647561
+|#############                                     | S: 53 C: 14 R: 0.264
+
+Tock Embedded Operating System
+https://news.ycombinator.com/item?id=15647452
+|##########                                        | S: 75 C: 16 R: 0.213
+
+Exploring different microcontrollers less than $1
+https://news.ycombinator.com/item?id=15633785
+|##########                                        | S: 899 C: 181 R: 0.201
+
+Rossini’s sins
+https://news.ycombinator.com/item?id=15647078
+|##########                                        | S: 35 C: 7 R: 0.200
+
+Neovim v0.2.1 released
+https://news.ycombinator.com/item?id=15650504
+|#########                                         | S: 51 C: 10 R: 0.196
+
+Some Rules for Historians (1973)
+https://news.ycombinator.com/item?id=15640975
+|#########                                         | S: 46 C: 9 R: 0.196
+
+The sound of the dialup, pictured (2012)
+https://news.ycombinator.com/item?id=15635144
+|#######                                           | S: 666 C: 100 R: 0.150
+
+Feature Visualization: How neural nets build up their understanding of images
+https://news.ycombinator.com/item?id=15646037
+|#######                                           | S: 342 C: 50 R: 0.146
+
+Making WebGL Dance: How, Where, and What to Draw (2013)
+https://news.ycombinator.com/item?id=15645998
+|#######                                           | S: 110 C: 16 R: 0.145
+
+Pure UI
+https://news.ycombinator.com/item?id=15646899
+|#######                                           | S: 97 C: 14 R: 0.144
+
+Unpaid Laborers Are 'Slipping Pleas for Help into Zara Clothes'
+https://news.ycombinator.com/item?id=15649641
+|#######                                           | S: 14 C: 2 R: 0.143
+
+TensorFlow r1.4
+https://news.ycombinator.com/item?id=15646642
+|######                                            | S: 93 C: 13 R: 0.140
+
+Bayangtoys X16: Inexpensive, durable, hackable GPS drone
+https://news.ycombinator.com/item?id=15642041
+|######                                            | S: 343 C: 45 R: 0.131
+
+Chopin’s Heart Offers Clues to His Death
+https://news.ycombinator.com/item?id=15649077
+|######                                            | S: 31 C: 4 R: 0.129
+
+Using CNNs for Handbag Brand and Color Detection
+https://news.ycombinator.com/item?id=15643954
+|#####                                             | S: 79 C: 9 R: 0.114
+
+Show HN: Learn how to GitHub by contributing code in a fun simulation project
+https://news.ycombinator.com/item?id=15648270
+|####                                              | S: 11 C: 1 R: 0.091
+
+Rare Minoan sealstone in the treasure-laden tomb of a Bronze Age Greek warrior
+https://news.ycombinator.com/item?id=15649864
+|####                                              | S: 46 C: 4 R: 0.087
+

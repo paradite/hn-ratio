@@ -1,0 +1,180 @@
+Becoming a Steelworker Liberated Her, Then Her Job Moved to Mexico
+https://news.ycombinator.com/item?id=15471943
+|##################################################|####### S: 109 C: 126 R: 1.156
+
+Ask HN: Who is the target audience for ~$1000 software?
+https://news.ycombinator.com/item?id=15476013
+|##################################################|### S: 14 C: 15 R: 1.071
+
+Fraud Scandals Sap China’s Dream of Becoming a Science Superpower
+https://news.ycombinator.com/item?id=15473719
+|###############################################   | S: 110 C: 104 R: 0.945
+
+Some Insights from a Julia Developer
+https://news.ycombinator.com/item?id=15471737
+|##########################################        | S: 238 C: 202 R: 0.849
+
+Reflections of a Lifelong Metalhead
+https://news.ycombinator.com/item?id=15470578
+|#########################################         | S: 68 C: 56 R: 0.824
+
+A possible "Planet Nine" in Earth's solar system would orbit far beyond Neptune
+https://news.ycombinator.com/item?id=15470005
+|#########################################         | S: 56 C: 46 R: 0.821
+
+Wolf Puppies Are Adorable, Then Comes the Call of the Wild
+https://news.ycombinator.com/item?id=15471127
+|#####################################             | S: 186 C: 141 R: 0.758
+
+The scale of tech winners
+https://news.ycombinator.com/item?id=15470193
+|#############################                     | S: 84 C: 49 R: 0.583
+
+Micro Front ends – extending the microservice idea to front end development
+https://news.ycombinator.com/item?id=15474891
+|#########################                         | S: 43 C: 22 R: 0.512
+
+The impossible dream of USB-C
+https://news.ycombinator.com/item?id=15473777
+|#########################                         | S: 486 C: 243 R: 0.500
+
+TerrariaClone – An incomprehensible hellscape of spaghetti code
+https://news.ycombinator.com/item?id=15460851
+|########################                          | S: 564 C: 280 R: 0.496
+
+IGN acquires Humble Bundle
+https://news.ycombinator.com/item?id=15470611
+|########################                          | S: 330 C: 161 R: 0.488
+
+The real roots of early city states may rip up the textbooks
+https://news.ycombinator.com/item?id=15472564
+|######################                            | S: 93 C: 42 R: 0.452
+
+Psilocybin for treatment-resistant depression: fMRI-measured brain mechanisms [pdf]
+https://news.ycombinator.com/item?id=15469854
+|######################                            | S: 211 C: 94 R: 0.445
+
+How JavaScript works: Event loop and the rise of Async programming
+https://news.ycombinator.com/item?id=15471449
+|#####################                             | S: 265 C: 116 R: 0.438
+
+Waymo's big self-drive car report
+https://news.ycombinator.com/item?id=15475005
+|#####################                             | S: 51 C: 22 R: 0.431
+
+ChrysaLisp – A 64-bit Lisp OS with GUI
+https://news.ycombinator.com/item?id=15466124
+|###################                               | S: 289 C: 113 R: 0.391
+
+A Possible Keats
+https://news.ycombinator.com/item?id=15469011
+|###################                               | S: 13 C: 5 R: 0.385
+
+Scientists Are Just Starting to Understand Earth’s Eighth Continent, Zealandia
+https://news.ycombinator.com/item?id=15469942
+|###################                               | S: 113 C: 43 R: 0.381
+
+The software engineering notebook
+https://news.ycombinator.com/item?id=15473702
+|##################                                | S: 288 C: 108 R: 0.375
+
+SmallerC – Small, Simple, Self-Compiling, Single Pass C Compiler
+https://news.ycombinator.com/item?id=15463738
+|################                                  | S: 148 C: 49 R: 0.331
+
+Someone Created a Tor Hidden Service to Phish My Tor Hidden Service
+https://news.ycombinator.com/item?id=15467148
+|################                                  | S: 260 C: 86 R: 0.331
+
+A Boy and His Atom: Smallest Stop-Motion Film [video]
+https://news.ycombinator.com/item?id=15474787
+|###############                                   | S: 93 C: 29 R: 0.312
+
+Cognitive Biases in Programming
+https://news.ycombinator.com/item?id=15475478
+|##############                                    | S: 47 C: 14 R: 0.298
+
+Call for help: fund GIMP development and Libre animation
+https://news.ycombinator.com/item?id=15471617
+|##############                                    | S: 269 C: 78 R: 0.290
+
+Paperclips
+https://news.ycombinator.com/item?id=15474055
+|#############                                     | S: 65 C: 18 R: 0.277
+
+Inside the vintage Xerox Alto's display, a tiny lightbulb keeps it working
+https://news.ycombinator.com/item?id=15472747
+|###########                                       | S: 166 C: 39 R: 0.235
+
+Google Has Made a Mess of Robotics
+https://news.ycombinator.com/item?id=15475833
+|##########                                        | S: 47 C: 10 R: 0.213
+
+Colorizing black and white photos with deep learning
+https://news.ycombinator.com/item?id=15465166
+|##########                                        | S: 237 C: 50 R: 0.211
+
+Using the Web Audio API to Make a Modem
+https://news.ycombinator.com/item?id=15471723
+|##########                                        | S: 259 C: 54 R: 0.208
+
+An open source re-implementation of RollerCoaster Tycoon 2
+https://news.ycombinator.com/item?id=15456833
+|##########                                        | S: 595 C: 123 R: 0.207
+
+Recompiler: Porting Xbox360 Executables to Windows
+https://news.ycombinator.com/item?id=15474393
+|##########                                        | S: 200 C: 41 R: 0.205
+
+Steve Wozniak announces tech education platform Woz U
+https://news.ycombinator.com/item?id=15466599
+|#########                                         | S: 543 C: 107 R: 0.197
+
+Jeremy the Lefty Snail Is Dead, but His Offspring Are All Right
+https://news.ycombinator.com/item?id=15475481
+|#########                                         | S: 108 C: 20 R: 0.185
+
+Data structures and algorithms interview questions and their solutions
+https://news.ycombinator.com/item?id=15473964
+|########                                          | S: 151 C: 27 R: 0.179
+
+Fighting ‘the Gawker effect’ in the wake of Weinstein
+https://news.ycombinator.com/item?id=15472211
+|#######                                           | S: 32 C: 5 R: 0.156
+
+Handmade Hero – A complete game live-coded from scratch
+https://news.ycombinator.com/item?id=15467854
+|#######                                           | S: 490 C: 73 R: 0.149
+
+An esoteric programming language compiler on LLVM based on Brainfuck
+https://news.ycombinator.com/item?id=15474763
+|######                                            | S: 22 C: 3 R: 0.136
+
+New Optimizations Improve Deep Learning Frameworks for CPUs
+https://news.ycombinator.com/item?id=15474886
+|######                                            | S: 23 C: 3 R: 0.130
+
+Gameboy hello world
+https://news.ycombinator.com/item?id=15468872
+|####                                              | S: 167 C: 16 R: 0.096
+
+WebJack: Two-way communication between the browser and Arduino using SoftModem
+https://news.ycombinator.com/item?id=15475597
+|####                                              | S: 49 C: 4 R: 0.082
+
+A few things I know about Lisp Machines
+https://news.ycombinator.com/item?id=15471702
+|###                                               | S: 76 C: 6 R: 0.079
+
+Yale Data Structures with C
+https://news.ycombinator.com/item?id=15474613
+|###                                               | S: 143 C: 11 R: 0.077
+
+Michel Jouvet, Who Unlocked REM Sleep’s Secrets, Dies at 91
+https://news.ycombinator.com/item?id=15473275
+|##                                                | S: 67 C: 3 R: 0.045
+
+15 Years of Chess Engine Development
+https://news.ycombinator.com/item?id=15475528
+|                                                  | S: 17 C: 0 R: 0.000
+

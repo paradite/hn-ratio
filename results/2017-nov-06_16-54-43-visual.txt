@@ -1,0 +1,180 @@
+Airline revenue from extra fees increases
+https://news.ycombinator.com/item?id=15632372
+|##################################################|############### S: 44 C: 58 R: 1.318
+
+The end of the cloud is coming
+https://news.ycombinator.com/item?id=15633266
+|#######################################           | S: 68 C: 54 R: 0.794
+
+Lessons of an MIT Education
+https://news.ycombinator.com/item?id=15628869
+|##################################                | S: 324 C: 224 R: 0.691
+
+Problems of Traditional Math Notation (2004)
+https://news.ycombinator.com/item?id=15631151
+|################################                  | S: 34 C: 22 R: 0.647
+
+Cosmic radiation exposure and persistent cognitive dysfunction
+https://news.ycombinator.com/item?id=15629914
+|#############################                     | S: 54 C: 32 R: 0.593
+
+CSS Creatures
+https://news.ycombinator.com/item?id=15633385
+|#############################                     | S: 36 C: 21 R: 0.583
+
+28-year-old makes millions buying from Walmart, selling on Amazon
+https://news.ycombinator.com/item?id=15631034
+|###########################                       | S: 323 C: 177 R: 0.548
+
+Qwant, a European search engine that respects your privacy
+https://news.ycombinator.com/item?id=15631473
+|#########################                         | S: 108 C: 56 R: 0.519
+
+Building A.I. That Can Build A.I
+https://news.ycombinator.com/item?id=15633528
+|#########################                         | S: 51 C: 26 R: 0.510
+
+Kremlin Cash Behind Yuri Milner’s Twitter and Facebook Investments
+https://news.ycombinator.com/item?id=15631084
+|########################                          | S: 345 C: 166 R: 0.481
+
+Self-Replicating Functions
+https://news.ycombinator.com/item?id=15632255
+|######################                            | S: 86 C: 39 R: 0.453
+
+The untold story behind Apple's $13,000 operating system
+https://news.ycombinator.com/item?id=15632674
+|######################                            | S: 31 C: 14 R: 0.452
+
+Does anyone remember websites?
+https://news.ycombinator.com/item?id=15631565
+|####################                              | S: 582 C: 241 R: 0.414
+
+Guy Fawkes night’s oddest traditions are due to a 1606 law (2014)
+https://news.ycombinator.com/item?id=15630581
+|####################                              | S: 89 C: 36 R: 0.404
+
+How slot machines are designed to be addictive
+https://news.ycombinator.com/item?id=15632058
+|###################                               | S: 181 C: 69 R: 0.381
+
+Craniopagus Twins Share a Brain and See Out of Each Others Eyes
+https://news.ycombinator.com/item?id=15628839
+|##################                                | S: 304 C: 114 R: 0.375
+
+Show HN: PySchemes – A library for validating data structures in Python
+https://news.ycombinator.com/item?id=15629253
+|##################                                | S: 88 C: 33 R: 0.375
+
+A man who built a plane on his Mumbai rooftop
+https://news.ycombinator.com/item?id=15628925
+|##################                                | S: 135 C: 50 R: 0.370
+
+“One Damn Slide After Another”: PowerPoint at Every Occasion for Speech (2016)
+https://news.ycombinator.com/item?id=15632258
+|##################                                | S: 125 C: 46 R: 0.368
+
+Higher-Quality Photos on Mobile Devices with Deep Convolutional Network
+https://news.ycombinator.com/item?id=15631413
+|################                                  | S: 83 C: 28 R: 0.337
+
+Critical Tor flaw leaks users’ real IP address
+https://news.ycombinator.com/item?id=15633383
+|###############                                   | S: 103 C: 32 R: 0.311
+
+Alpha Go Zero: How and Why It Works
+https://news.ycombinator.com/item?id=15627340
+|###############                                   | S: 331 C: 102 R: 0.308
+
+An Economic Geography of the United States: From Commutes to Megaregions (2016)
+https://news.ycombinator.com/item?id=15629058
+|#############                                     | S: 30 C: 8 R: 0.267
+
+“The Amazing $1 Microcontroller”
+https://news.ycombinator.com/item?id=15633785
+|############                                      | S: 66 C: 16 R: 0.242
+
+The Dramatically Different World of ’70s Dating Ads
+https://news.ycombinator.com/item?id=15626703
+|##########                                        | S: 85 C: 18 R: 0.212
+
+Turning vim into an IDE through vim plugins
+https://news.ycombinator.com/item?id=15633363
+|##########                                        | S: 50 C: 10 R: 0.200
+
+Viewing Angle and Distance in Computer Workstations (1994)
+https://news.ycombinator.com/item?id=15631855
+|##########                                        | S: 20 C: 4 R: 0.200
+
+Ancient Islamic Penrose Tiles (2007)
+https://news.ycombinator.com/item?id=15631778
+|########                                          | S: 57 C: 10 R: 0.175
+
+What is backpropagation and what is it doing? [video]
+https://news.ycombinator.com/item?id=15625330
+|#######                                           | S: 609 C: 97 R: 0.159
+
+Bitfinex never ‘repaid’ their tokens, Bitfinex started a ponzi scheme
+https://news.ycombinator.com/item?id=15633852
+|#######                                           | S: 38 C: 6 R: 0.158
+
+Lightmod – A beginner-friendly, all-in-one tool for full stack Clojure
+https://news.ycombinator.com/item?id=15629162
+|#######                                           | S: 143 C: 21 R: 0.147
+
+The Last of the Old-School Tech Reviewers
+https://news.ycombinator.com/item?id=15612591
+|#######                                           | S: 50 C: 7 R: 0.140
+
+Show HN: GAN Playground – Play with Generative Adversarial Neural Nets In-Browser
+https://news.ycombinator.com/item?id=15629272
+|######                                            | S: 87 C: 12 R: 0.138
+
+Earth on AWS – Open geospatial data
+https://news.ycombinator.com/item?id=15629308
+|######                                            | S: 573 C: 75 R: 0.131
+
+MariFlow – Self-Driving Mario Kart With Recurrent Neural Network [YouTube]
+https://news.ycombinator.com/item?id=15630717
+|######                                            | S: 23 C: 3 R: 0.130
+
+Auto Complete with Redis
+https://news.ycombinator.com/item?id=15633029
+|######                                            | S: 96 C: 12 R: 0.125
+
+Strategy: How to Develop, Structure and Shape a Winning System
+https://news.ycombinator.com/item?id=15630640
+|######                                            | S: 176 C: 22 R: 0.125
+
+Visiting Lord's Bridge: The Mullard Radio Astronomy Observatory Near Cambridge
+https://news.ycombinator.com/item?id=15631165
+|#####                                             | S: 18 C: 2 R: 0.111
+
+Collapsing towers of interpreters [pdf]
+https://news.ycombinator.com/item?id=15626816
+|#####                                             | S: 39 C: 4 R: 0.103
+
+Gut Microbes Can Shape Responses to Cancer Immunotherapy
+https://news.ycombinator.com/item?id=15629729
+|####                                              | S: 76 C: 7 R: 0.092
+
+Show HN: Wire chatbot in action
+https://news.ycombinator.com/item?id=15633556
+|####                                              | S: 34 C: 3 R: 0.088
+
+Astronomers complete first international asteroid tracking exercise
+https://news.ycombinator.com/item?id=15629583
+|###                                               | S: 13 C: 1 R: 0.077
+
+Why Citus went from a Postgres fork to an extension
+https://news.ycombinator.com/item?id=15633136
+|##                                                | S: 69 C: 4 R: 0.058
+
+Tufte CSS
+https://news.ycombinator.com/item?id=15633102
+|##                                                | S: 70 C: 4 R: 0.057
+
+Journal declarations of independence
+https://news.ycombinator.com/item?id=15631828
+|#                                                 | S: 26 C: 1 R: 0.038
+

@@ -1,0 +1,196 @@
+These Are Twitter's New Rules for Preventing Abuse and Harassment
+https://news.ycombinator.com/item?id=15628123
+|##################################################|############################### S: 19 C: 31 R: 1.632
+
+If you type the letter “i” and it autocorrects to an “A” with a symbol
+https://news.ycombinator.com/item?id=15627646
+|##########################################        | S: 136 C: 116 R: 0.853
+
+Can Germany Fix Facebook?
+https://news.ycombinator.com/item?id=15627308
+|#########################################         | S: 85 C: 70 R: 0.824
+
+The Disappearing American Grad Student
+https://news.ycombinator.com/item?id=15623112
+|######################################            | S: 161 C: 125 R: 0.776
+
+USS McCain collision ultimately caused by UI confusion
+https://news.ycombinator.com/item?id=15614579
+|####################################              | S: 464 C: 342 R: 0.737
+
+Apple on OLED burn in and off angle hue change: About the Display on iPhone X
+https://news.ycombinator.com/item?id=15628043
+|#################################                 | S: 31 C: 21 R: 0.677
+
+Ask HN: What to do if client ghosts and won't pay?
+https://news.ycombinator.com/item?id=15627432
+|################################                  | S: 29 C: 19 R: 0.655
+
+Fifty-three year old nuclear missile accident revealed
+https://news.ycombinator.com/item?id=15620146
+|#############################                     | S: 384 C: 229 R: 0.596
+
+Pentagon Releases Marine General Held at Guantanamo
+https://news.ycombinator.com/item?id=15627486
+|########################                          | S: 77 C: 38 R: 0.494
+
+The First Woman to Translate the ‘Odyssey’ into English
+https://news.ycombinator.com/item?id=15624881
+|########################                          | S: 90 C: 44 R: 0.489
+
+Who’s Sitting Next to You on the Subway? An R Train in September
+https://news.ycombinator.com/item?id=15624403
+|######################                            | S: 195 C: 89 R: 0.456
+
+Savitech USB audio drivers install a new root CA certificate
+https://news.ycombinator.com/item?id=15614016
+|######################                            | S: 400 C: 178 R: 0.445
+
+The decentralized WeTransfer
+https://news.ycombinator.com/item?id=15626397
+|####################                              | S: 98 C: 40 R: 0.408
+
+LineageOS for microG – Access Google services without closed software
+https://news.ycombinator.com/item?id=15617615
+|####################                              | S: 487 C: 195 R: 0.400
+
+Diary of an African Cryptocurrency Miner
+https://news.ycombinator.com/item?id=15624430
+|####################                              | S: 105 C: 42 R: 0.400
+
+Against an Increasingly User-Hostile Web
+https://news.ycombinator.com/item?id=15611122
+|####################                              | S: 1225 C: 490 R: 0.400
+
+Fake WhatsApp update from “WhatsApp Inc.” with Unicode whitespace: 1M downloads
+https://news.ycombinator.com/item?id=15626819
+|###################                               | S: 388 C: 155 R: 0.399
+
+The Lost Art of C Structure Packing
+https://news.ycombinator.com/item?id=15626205
+|###################                               | S: 93 C: 37 R: 0.398
+
+Freelancer.com has ruined my life
+https://news.ycombinator.com/item?id=15624677
+|###################                               | S: 790 C: 310 R: 0.392
+
+Show HN: Server.js – A modern Express alternative
+https://news.ycombinator.com/item?id=15624206
+|###################                               | S: 263 C: 101 R: 0.384
+
+Create React apps using Kotlin
+https://news.ycombinator.com/item?id=15624672
+|##################                                | S: 141 C: 53 R: 0.376
+
+The Selection of Talent: Evidence from Ethiopia [pdf]
+https://news.ycombinator.com/item?id=15624701
+|################                                  | S: 64 C: 21 R: 0.328
+
+Alpha Go Zero: How and Why It Works
+https://news.ycombinator.com/item?id=15627340
+|################                                  | S: 187 C: 60 R: 0.321
+
+A Hard Day's Night: Solving a Beatles Mystery with Mathematics
+https://news.ycombinator.com/item?id=15627868
+|###############                                   | S: 22 C: 7 R: 0.318
+
+Google Spans Planet with GPS-Powered Database (2012)
+https://news.ycombinator.com/item?id=15627810
+|###############                                   | S: 30 C: 9 R: 0.300
+
+Fengari: Lua for the Browser
+https://news.ycombinator.com/item?id=15626796
+|#############                                     | S: 69 C: 18 R: 0.261
+
+Internet Association Endorses Internet Censorship Bill
+https://news.ycombinator.com/item?id=15626719
+|############                                      | S: 137 C: 35 R: 0.255
+
+The Cocotron
+https://news.ycombinator.com/item?id=15624549
+|############                                      | S: 52 C: 13 R: 0.250
+
+How Netflix works: the stuff that happens when you hit Play
+https://news.ycombinator.com/item?id=15627520
+|############                                      | S: 95 C: 23 R: 0.242
+
+Evio – Fast event-loop networking for Go
+https://news.ycombinator.com/item?id=15624432
+|###########                                       | S: 244 C: 57 R: 0.234
+
+Neugram – Scripting in Go
+https://news.ycombinator.com/item?id=15622894
+|#########                                         | S: 231 C: 46 R: 0.199
+
+PeerPad – A realtime P2P collaborative editing tool powered by IPFS
+https://news.ycombinator.com/item?id=15624158
+|#########                                         | S: 107 C: 21 R: 0.196
+
+Hunting Mushrooms, and What Makes Some Glow in the Dark
+https://news.ycombinator.com/item?id=15627370
+|#########                                         | S: 37 C: 7 R: 0.189
+
+A mysterious virus is killing Africans. Scientists are racing to understand it
+https://news.ycombinator.com/item?id=15628317
+|########                                          | S: 18 C: 3 R: 0.167
+
+Show HN: Webhook – incoming webhook server to execute commands
+https://news.ycombinator.com/item?id=15626656
+|########                                          | S: 43 C: 7 R: 0.163
+
+What is backpropagation and what is it doing? [video]
+https://news.ycombinator.com/item?id=15625330
+|#######                                           | S: 486 C: 76 R: 0.156
+
+The Making of SciPy 1.0
+https://news.ycombinator.com/item?id=15623508
+|#######                                           | S: 93 C: 14 R: 0.151
+
+Michigan's most dangerous book (2012)
+https://news.ycombinator.com/item?id=15624037
+|#######                                           | S: 42 C: 6 R: 0.143
+
+A bug-fix 12 years in the making: Windows Unicode Support in OCaml 4.06.0
+https://news.ycombinator.com/item?id=15624166
+|######                                            | S: 74 C: 10 R: 0.135
+
+TensorFlow on a 256K RAM microcontroller
+https://news.ycombinator.com/item?id=15623739
+|#####                                             | S: 173 C: 20 R: 0.116
+
+Render Multimedia in Pure C
+https://news.ycombinator.com/item?id=15624514
+|#####                                             | S: 106 C: 11 R: 0.104
+
+How to Build Your Own Blockchain Part 3 – Writing Nodes That Mine and Talk
+https://news.ycombinator.com/item?id=15625325
+|####                                              | S: 215 C: 20 R: 0.093
+
+How Docker's Support for Kubernetes Will Impact Developers – The New Stack
+https://news.ycombinator.com/item?id=15626325
+|####                                              | S: 56 C: 5 R: 0.089
+
+Critical and Significant Dates (2013)
+https://news.ycombinator.com/item?id=15625633
+|##                                                | S: 36 C: 2 R: 0.056
+
+Understanding How Graal Works – A Java JIT Compiler Written in Java
+https://news.ycombinator.com/item?id=15624388
+|##                                                | S: 129 C: 6 R: 0.047
+
+Profiling Go
+https://news.ycombinator.com/item?id=15624438
+|##                                                | S: 112 C: 5 R: 0.045
+
+China's central bank governor publicly warns of rising risks to financial system
+https://news.ycombinator.com/item?id=15628237
+|#                                                 | S: 31 C: 1 R: 0.032
+
+The Prehistory of Music
+https://news.ycombinator.com/item?id=15622433
+|#                                                 | S: 44 C: 1 R: 0.023
+
+25 Ruby Gems I use in almost every SaaS project
+https://news.ycombinator.com/item?id=15627303
+|                                                  | S: 19 C: 0 R: 0.000
+

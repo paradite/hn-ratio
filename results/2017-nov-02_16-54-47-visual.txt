@@ -1,0 +1,192 @@
+Ask HN: Who is hiring? (November 2017)
+https://news.ycombinator.com/item?id=15601729
+|##################################################|############################## S: 528 C: 854 R: 1.617
+
+Tesla posts big loss, cuts production of Models X and S to catch up on Model 3
+https://news.ycombinator.com/item?id=15605480
+|##################################################|# S: 224 C: 232 R: 1.036
+
+Why Timber Towers Are on the Rise in France
+https://news.ycombinator.com/item?id=15607339
+|###########################################       | S: 93 C: 80 R: 0.860
+
+This is the Razer Phone
+https://news.ycombinator.com/item?id=15605679
+|###########################################       | S: 50 C: 43 R: 0.860
+
+Blockchains Considered Harmful: Is Brute-Force Processing Replacing Good Design?
+https://news.ycombinator.com/item?id=15605753
+|#########################################         | S: 132 C: 110 R: 0.833
+
+Bancor has lost more than half its value since June ICO
+https://news.ycombinator.com/item?id=15604008
+|########################################          | S: 104 C: 85 R: 0.817
+
+Data Classes for Java
+https://news.ycombinator.com/item?id=15606250
+|########################################          | S: 192 C: 154 R: 0.802
+
+Netflix Employees Are Happier with Their Job Than Facebook or Google Employees
+https://news.ycombinator.com/item?id=15607383
+|#####################################             | S: 114 C: 86 R: 0.754
+
+November Workshop: Running the Pi-hole Network-wide Ad-blocker, and more
+https://news.ycombinator.com/item?id=15608052
+|################################                  | S: 64 C: 41 R: 0.641
+
+Instagram Stories and WhatsApp Status hit 300M users, nearly 2X Snapchat
+https://news.ycombinator.com/item?id=15606008
+|#########################                         | S: 10 C: 5 R: 0.500
+
+Closh – Bash-like shell based on Clojure
+https://news.ycombinator.com/item?id=15600928
+|########################                          | S: 243 C: 120 R: 0.494
+
+Django REST framework 3.7 released
+https://news.ycombinator.com/item?id=15604328
+|########################                          | S: 123 C: 60 R: 0.488
+
+Show HN: Airborn – Private Google Docs Alternative
+https://news.ycombinator.com/item?id=15596304
+|#####################                             | S: 451 C: 198 R: 0.439
+
+What If OpenDocument Used SQLite?
+https://news.ycombinator.com/item?id=15607316
+|#####################                             | S: 149 C: 64 R: 0.430
+
+Chuck Moore, Extreme Programmer
+https://news.ycombinator.com/item?id=15599820
+|#####################                             | S: 254 C: 108 R: 0.425
+
+CIA Releases Additional Files Recovered in Raid on Usama Bin Ladin’s Compound
+https://news.ycombinator.com/item?id=15605085
+|##################                                | S: 78 C: 29 R: 0.372
+
+Apache Kafka Goes 1.0
+https://news.ycombinator.com/item?id=15601222
+|#################                                 | S: 351 C: 121 R: 0.345
+
+Nuster:  a web caching proxy server based on HAProxy
+https://news.ycombinator.com/item?id=15607108
+|################                                  | S: 24 C: 8 R: 0.333
+
+WhatTheFont – Shazam for Fonts
+https://news.ycombinator.com/item?id=15600031
+|################                                  | S: 253 C: 83 R: 0.328
+
+We're switching to a DCO for source code contributions
+https://news.ycombinator.com/item?id=15602564
+|################                                  | S: 130 C: 42 R: 0.323
+
+Yubico announces tiny, cheap YubiHSM 2
+https://news.ycombinator.com/item?id=15607824
+|###############                                   | S: 66 C: 21 R: 0.318
+
+The Improbable Origins of PowerPoint
+https://news.ycombinator.com/item?id=15607768
+|###############                                   | S: 35 C: 11 R: 0.314
+
+Security Analysis of Telegram: 6.857 Final Project [pdf]
+https://news.ycombinator.com/item?id=15606169
+|###############                                   | S: 74 C: 23 R: 0.311
+
+The new thermodynamics: how quantum physics is bending the rules
+https://news.ycombinator.com/item?id=15606981
+|##############                                    | S: 54 C: 16 R: 0.296
+
+AI and ML to Revolutionize U.S. Intelligence Community, Pentagon Official Says
+https://news.ycombinator.com/item?id=15605065
+|##############                                    | S: 92 C: 27 R: 0.293
+
+Fooling Neural Networks in the Physical World with 3D Adversarial Objects
+https://news.ycombinator.com/item?id=15601479
+|##############                                    | S: 219 C: 63 R: 0.288
+
+Show HN: /usr/bin/htop
+https://news.ycombinator.com/item?id=15601027
+|#############                                     | S: 204 C: 57 R: 0.279
+
+LightVM – A new virtualization solution based on Xen
+https://news.ycombinator.com/item?id=15600596
+|#############                                     | S: 197 C: 55 R: 0.279
+
+TensorFlow Mask R-CNN code for pixelwise object detection and segmentation
+https://news.ycombinator.com/item?id=15606439
+|#############                                     | S: 120 C: 33 R: 0.275
+
+HAProxy 1.8
+https://news.ycombinator.com/item?id=15605459
+|#############                                     | S: 201 C: 54 R: 0.269
+
+A Minimalist Guide to SQLite
+https://news.ycombinator.com/item?id=15605669
+|#############                                     | S: 237 C: 62 R: 0.262
+
+The Tensor Algebra Compiler
+https://news.ycombinator.com/item?id=15599914
+|############                                      | S: 127 C: 32 R: 0.252
+
+People are keeping their cell phones a lot longer
+https://news.ycombinator.com/item?id=15608417
+|############                                      | S: 12 C: 3 R: 0.250
+
+Poly – Browse, Discover and Download 3D Objects
+https://news.ycombinator.com/item?id=15602611
+|############                                      | S: 214 C: 53 R: 0.248
+
+Drawille: Pixel graphics in terminal with Unicode braille characters
+https://news.ycombinator.com/item?id=15602334
+|###########                                       | S: 143 C: 32 R: 0.224
+
+The Book of Shaders
+https://news.ycombinator.com/item?id=15599935
+|#######                                           | S: 232 C: 36 R: 0.155
+
+Trusting transferred root certificates
+https://news.ycombinator.com/item?id=15606451
+|#######                                           | S: 100 C: 14 R: 0.140
+
+What every systems programmer should know about lockless concurrency [pdf]
+https://news.ycombinator.com/item?id=15607869
+|######                                            | S: 133 C: 16 R: 0.120
+
+Simple Virtual Machine in C
+https://news.ycombinator.com/item?id=15607422
+|#####                                             | S: 140 C: 15 R: 0.107
+
+Linux containers in 500 lines of code
+https://news.ycombinator.com/item?id=15608435
+|####                                              | S: 61 C: 6 R: 0.098
+
+Netflix functions without client-side React, and it's a good thing
+https://news.ycombinator.com/item?id=15604493
+|####                                              | S: 52 C: 5 R: 0.096
+
+'Silicon Valley' star scared of what he sees as tech's ethical failings
+https://news.ycombinator.com/item?id=15607545
+|####                                              | S: 23 C: 2 R: 0.087
+
+Daydreaming means you’re smart and creative
+https://news.ycombinator.com/item?id=15607735
+|###                                               | S: 13 C: 1 R: 0.077
+
+Expanding Signal GIF search
+https://news.ycombinator.com/item?id=15604021
+|###                                               | S: 39 C: 3 R: 0.077
+
+Under the Darkest Sky
+https://news.ycombinator.com/item?id=15607839
+|###                                               | S: 16 C: 1 R: 0.062
+
+SEC Statement on Potentially Unlawful Promotion of ICOs by Celebrities
+https://news.ycombinator.com/item?id=15605591
+|#                                                 | S: 26 C: 1 R: 0.038
+
+Generative Adversarial Networks: An Overview [pdf]
+https://news.ycombinator.com/item?id=15604254
+|                                                  | S: 73 C: 1 R: 0.014
+
+How I hacked Google’s bug tracking system itself for $15,600 in bounties
+https://news.ycombinator.com/item?id=15607609
+|                                                  | S: 33 C: 0 R: 0.000
+
