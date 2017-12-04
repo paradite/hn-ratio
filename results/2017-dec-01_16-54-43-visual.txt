@@ -1,0 +1,176 @@
+Finance Pros Say You’ll Have to Pry Excel Out of Their Cold, Dead Hands
+https://news.ycombinator.com/item?id=15819016
+|##################################################|# S: 226 C: 234 R: 1.035
+
+A Map Showing How Much Time It Takes English-Speakers to Learn Foreign Languages
+https://news.ycombinator.com/item?id=15821575
+|#########################################         | S: 192 C: 158 R: 0.823
+
+Seed funding has declined
+https://news.ycombinator.com/item?id=15821345
+|######################################            | S: 95 C: 74 R: 0.779
+
+Drone Maker D.J.I. May Be Sending Data to China, U.S. Officials Say
+https://news.ycombinator.com/item?id=15820987
+|##############################                    | S: 45 C: 27 R: 0.600
+
+Is it time to change the undergraduate physics curriculum?
+https://news.ycombinator.com/item?id=15820078
+|#############################                     | S: 39 C: 23 R: 0.590
+
+What do the best interviewers have in common?
+https://news.ycombinator.com/item?id=15819198
+|############################                      | S: 164 C: 95 R: 0.579
+
+Board games are back, thanks to lessons designers learned from computer games
+https://news.ycombinator.com/item?id=15819708
+|###########################                       | S: 229 C: 128 R: 0.559
+
+Australian uses snack bags as Faraday cage to block tracking by employer
+https://news.ycombinator.com/item?id=15815285
+|#######################                           | S: 238 C: 113 R: 0.475
+
+YouTube monetization analysis
+https://news.ycombinator.com/item?id=15815785
+|#######################                           | S: 330 C: 154 R: 0.467
+
+Blocking Top-Level Navigations to Data URLs for Firefox 58
+https://news.ycombinator.com/item?id=15818933
+|######################                            | S: 96 C: 43 R: 0.448
+
+School of Mines Wants to Launch the First Space Mining Program
+https://news.ycombinator.com/item?id=15820634
+|######################                            | S: 72 C: 32 R: 0.444
+
+Judge Tells Uber Lawyer: ‘It Looks Like You Covered This Up’
+https://news.ycombinator.com/item?id=15815101
+|####################                              | S: 403 C: 168 R: 0.417
+
+Joplin – A note-taking and to-do app with builds for desktop, mobile, terminal
+https://news.ycombinator.com/item?id=15815040
+|####################                              | S: 435 C: 181 R: 0.416
+
+Type-safe GraphQL with OCaml
+https://news.ycombinator.com/item?id=15817950
+|###################                               | S: 181 C: 71 R: 0.392
+
+Show HN: Ask X anything – AMA shouldn't be a one time thing
+https://news.ycombinator.com/item?id=15819109
+|###################                               | S: 59 C: 23 R: 0.390
+
+System76 ME Firmware Updates Plan
+https://news.ycombinator.com/item?id=15819093
+|#################                                 | S: 567 C: 196 R: 0.346
+
+Gemini PDA: 20 years on, meet the all-new Psion Series 5
+https://news.ycombinator.com/item?id=15818324
+|###############                                   | S: 164 C: 52 R: 0.317
+
+Vision Kit – An image recognition device that can see and identify objects
+https://news.ycombinator.com/item?id=15819116
+|##############                                    | S: 193 C: 55 R: 0.285
+
+BlazingDB Origins, oh and we just raised $2.9M from Nvidia and Samsung
+https://news.ycombinator.com/item?id=15819489
+|##############                                    | S: 121 C: 34 R: 0.281
+
+Writing a Simple Linux Kernel Module
+https://news.ycombinator.com/item?id=15817545
+|#############                                     | S: 322 C: 88 R: 0.273
+
+Daughters of WWII refugees are more likely to have mental illness: study
+https://news.ycombinator.com/item?id=15820788
+|############                                      | S: 35 C: 9 R: 0.257
+
+Deep image prior 'learns' on just one image
+https://news.ycombinator.com/item?id=15820161
+|############                                      | S: 425 C: 107 R: 0.252
+
+The Lego Storage Guide
+https://news.ycombinator.com/item?id=15821090
+|###########                                       | S: 81 C: 19 R: 0.235
+
+Debut of SpaceX’s Falcon Heavy rocket now planned early next year
+https://news.ycombinator.com/item?id=15819903
+|###########                                       | S: 100 C: 23 R: 0.230
+
+Git hash function transition plan
+https://news.ycombinator.com/item?id=15819033
+|###########                                       | S: 162 C: 37 R: 0.228
+
+iOS 11 Horror Story: The Rise and Fall of iOS Security
+https://news.ycombinator.com/item?id=15822414
+|###########                                       | S: 97 C: 22 R: 0.227
+
+Command Line, Console and UI Based Open Source Plain Text Accounting
+https://news.ycombinator.com/item?id=15818682
+|##########                                        | S: 153 C: 33 R: 0.216
+
+Erlang Garbage Collector
+https://news.ycombinator.com/item?id=15816788
+|##########                                        | S: 80 C: 17 R: 0.212
+
+CoderPad – Interviewing Platform for Programmers
+https://news.ycombinator.com/item?id=15815299
+|##########                                        | S: 175 C: 36 R: 0.206
+
+Show HN: Merchant.js, a state framework for creating idle games
+https://news.ycombinator.com/item?id=15821020
+|##########                                        | S: 44 C: 9 R: 0.205
+
+Miniaturizing a Mac
+https://news.ycombinator.com/item?id=15818019
+|######                                            | S: 158 C: 22 R: 0.139
+
+Understanding Bias in Peer Review
+https://news.ycombinator.com/item?id=15819495
+|######                                            | S: 81 C: 10 R: 0.123
+
+Google is officially 100% sun and wind powered – 3.0 gigawatts worth
+https://news.ycombinator.com/item?id=15821439
+|#####                                             | S: 69 C: 7 R: 0.101
+
+Writing a C Compiler, Part 1
+https://news.ycombinator.com/item?id=15821899
+|#####                                             | S: 90 C: 9 R: 0.100
+
+Write your next Ethereum contract in Pyramid Scheme
+https://news.ycombinator.com/item?id=15817542
+|####                                              | S: 206 C: 20 R: 0.097
+
+Model-Based Reinforcement Learning with Neural Network Dynamics
+https://news.ycombinator.com/item?id=15821681
+|####                                              | S: 47 C: 4 R: 0.085
+
+Threat Modelling and Infrastructure Risk Assessment
+https://news.ycombinator.com/item?id=15818023
+|####                                              | S: 12 C: 1 R: 0.083
+
+Reproducible Arch Linux
+https://news.ycombinator.com/item?id=15820356
+|###                                               | S: 165 C: 13 R: 0.079
+
+Data and Insights from a Month on Steam
+https://news.ycombinator.com/item?id=15820232
+|###                                               | S: 26 C: 2 R: 0.077
+
+Velodyne Unveils Monster Lidar with 128 Laser Beams
+https://news.ycombinator.com/item?id=15820895
+|##                                                | S: 17 C: 1 R: 0.059
+
+Build Better GraphQL APIs: Thinking in Graphs
+https://news.ycombinator.com/item?id=15822067
+|##                                                | S: 24 C: 1 R: 0.042
+
+How Etsy caches: hashing, Ketama, and cache smearing
+https://news.ycombinator.com/item?id=15816646
+|                                                  | S: 50 C: 0 R: 0.000
+
+Kubernetes: Getting Started
+https://news.ycombinator.com/item?id=15821341
+|                                                  | S: 16 C: 0 R: 0.000
+
+Progress in AI Isn’t as Impressive as You Might Think
+https://news.ycombinator.com/item?id=15822105
+|                                                  | S: 12 C: 0 R: 0.000
+

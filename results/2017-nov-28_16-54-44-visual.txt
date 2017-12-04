@@ -1,0 +1,188 @@
+Ask HN: Why are we still using years of experience to measure work aptitude?
+https://news.ycombinator.com/item?id=15794231
+|##################################################|######## S: 30 C: 35 R: 1.167
+
+Facebook deploys AI for early signs of suicide
+https://news.ycombinator.com/item?id=15790481
+|##################################################|### S: 129 C: 139 R: 1.078
+
+American Equity
+https://news.ycombinator.com/item?id=15789108
+|##################################################| S: 475 C: 482 R: 1.015
+
+Apple Power Macintosh G5: Flame On
+https://news.ycombinator.com/item?id=15786950
+|####################################              | S: 200 C: 146 R: 0.730
+
+The Best Monitor for Programming: A Cheap 40" 4K TV
+https://news.ycombinator.com/item?id=15783873
+|####################################              | S: 272 C: 197 R: 0.724
+
+Cavium Is an Arm Server Contender
+https://news.ycombinator.com/item?id=15789991
+|####################################              | S: 83 C: 60 R: 0.723
+
+The world's most toxic value system (2001)
+https://news.ycombinator.com/item?id=15794079
+|###################################               | S: 123 C: 88 R: 0.715
+
+Big Tech is built on predatory pricing
+https://news.ycombinator.com/item?id=15793821
+|################################                  | S: 85 C: 56 R: 0.659
+
+Laptops Are Great, But Not During a Lecture or a Meeting
+https://news.ycombinator.com/item?id=15786721
+|################################                  | S: 335 C: 216 R: 0.645
+
+Ubuntu 17.10: Return of the Gnome
+https://news.ycombinator.com/item?id=15793568
+|##############################                    | S: 151 C: 93 R: 0.616
+
+What is it like to live and work in Bali as an engineer?
+https://news.ycombinator.com/item?id=15793417
+|#############################                     | S: 68 C: 40 R: 0.588
+
+Formula 1 e-sports now more exciting than the real thing
+https://news.ycombinator.com/item?id=15792386
+|############################                      | S: 100 C: 58 R: 0.580
+
+SoftBank said to be trying to buy a big stake in Uber at a discount
+https://news.ycombinator.com/item?id=15793240
+|############################                      | S: 104 C: 60 R: 0.577
+
+Video Startup Can’t Outspend YouTube, So It Created New Currency to Pay Creators
+https://news.ycombinator.com/item?id=15789682
+|############################                      | S: 169 C: 95 R: 0.562
+
+In hospital for 34 years
+https://news.ycombinator.com/item?id=15794899
+|############################                      | S: 41 C: 23 R: 0.561
+
+SpaceX raises another $100M
+https://news.ycombinator.com/item?id=15792484
+|##########################                        | S: 142 C: 76 R: 0.535
+
+Netflix Stole My VHS Cassette Photos for Its Stranger Things Boxed Set
+https://news.ycombinator.com/item?id=15793473
+|#########################                         | S: 517 C: 265 R: 0.513
+
+Show HN: Airport Locations from Around the World
+https://news.ycombinator.com/item?id=15794235
+|#######################                           | S: 21 C: 10 R: 0.476
+
+WeWork is going to acquire Meetup
+https://news.ycombinator.com/item?id=15793754
+|#####################                             | S: 122 C: 53 R: 0.434
+
+Asking members to support journalism, The Guardian raises more revenue than ads
+https://news.ycombinator.com/item?id=15786802
+|####################                              | S: 792 C: 324 R: 0.409
+
+How a Radio Shack Robbery Could Spur a New Era in Digital Privacy
+https://news.ycombinator.com/item?id=15786547
+|####################                              | S: 112 C: 45 R: 0.402
+
+Tumblr CEO David Karp is stepping down from the company
+https://news.ycombinator.com/item?id=15790226
+|###################                               | S: 101 C: 40 R: 0.396
+
+AWS Media Services – Process, Store, and Monetize Cloud-Based Video
+https://news.ycombinator.com/item?id=15787369
+|###################                               | S: 169 C: 65 R: 0.385
+
+Facebook users in Romania see content related to street protests reviewed
+https://news.ycombinator.com/item?id=15790687
+|###################                               | S: 621 C: 236 R: 0.380
+
+Facebook Is the Junk Food of Socializing (2015)
+https://news.ycombinator.com/item?id=15782014
+|#################                                 | S: 545 C: 196 R: 0.360
+
+Frank Abagnale: “Catch Me If You Can” – Talks at Google [video]
+https://news.ycombinator.com/item?id=15793045
+|################                                  | S: 71 C: 24 R: 0.338
+
+Strongbox: a secret manager for AWS
+https://news.ycombinator.com/item?id=15787259
+|################                                  | S: 157 C: 51 R: 0.325
+
+Stanford CS007: Personal Finance For Engineers
+https://news.ycombinator.com/item?id=15786703
+|################                                  | S: 966 C: 310 R: 0.321
+
+Show HN: 3D Game Programming
+https://news.ycombinator.com/item?id=15793156
+|#############                                     | S: 40 C: 11 R: 0.275
+
+Team uses Ohio Supercomputer Center to translate lesser-known languages
+https://news.ycombinator.com/item?id=15789807
+|#############                                     | S: 48 C: 13 R: 0.271
+
+Transforming How We Collect and Visualize Information about Urban Accessibility
+https://news.ycombinator.com/item?id=15790713
+|#############                                     | S: 45 C: 12 R: 0.267
+
+VPN DNS leak test
+https://news.ycombinator.com/item?id=15786858
+|#############                                     | S: 147 C: 39 R: 0.265
+
+Potential impact of the Intel ME vulnerability
+https://news.ycombinator.com/item?id=15792139
+|############                                      | S: 131 C: 34 R: 0.260
+
+A Year in Computer Vision
+https://news.ycombinator.com/item?id=15784537
+|#########                                         | S: 430 C: 85 R: 0.198
+
+A short history of flash photography
+https://news.ycombinator.com/item?id=15784199
+|#########                                         | S: 21 C: 4 R: 0.190
+
+Infinitown – A WebGL Experiment
+https://news.ycombinator.com/item?id=15795204
+|#########                                         | S: 49 C: 9 R: 0.184
+
+Rails 5.2
+https://news.ycombinator.com/item?id=15791533
+|#########                                         | S: 115 C: 21 R: 0.183
+
+Camera Logic in a 2D Platformer
+https://news.ycombinator.com/item?id=15790663
+|########                                          | S: 41 C: 7 R: 0.171
+
+The Science of Addictive Junk Food (2013)
+https://news.ycombinator.com/item?id=15793448
+|#######                                           | S: 32 C: 5 R: 0.156
+
+Love Your Bugs
+https://news.ycombinator.com/item?id=15786900
+|#######                                           | S: 110 C: 17 R: 0.155
+
+Amazon War Story #1: Jeff Bezos (2011)
+https://news.ycombinator.com/item?id=15793962
+|#######                                           | S: 66 C: 10 R: 0.152
+
+The Sideways Elevator of the Future Is Here, and It's Wild
+https://news.ycombinator.com/item?id=15794479
+|#######                                           | S: 21 C: 3 R: 0.143
+
+Population-based training of neural networks
+https://news.ycombinator.com/item?id=15787153
+|#####                                             | S: 166 C: 17 R: 0.102
+
+Norvig's Python programs to practice or demonstrate skills
+https://news.ycombinator.com/item?id=15787023
+|####                                              | S: 751 C: 71 R: 0.095
+
+What mongodb got right
+https://news.ycombinator.com/item?id=15795377
+|####                                              | S: 12 C: 1 R: 0.083
+
+Multidimensional Dataflow in Lucid
+https://news.ycombinator.com/item?id=15795009
+|                                                  | S: 11 C: 0 R: 0.000
+
+Warming is accelerating
+https://news.ycombinator.com/item?id=15794249
+|                                                  | S: 14 C: 0 R: 0.000
+

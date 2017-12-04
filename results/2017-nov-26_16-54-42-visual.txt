@@ -1,0 +1,184 @@
+What Happens If China Makes First Contact?
+https://news.ycombinator.com/item?id=15779320
+|##################################################|######### S: 44 C: 52 R: 1.182
+
+Munich confirms switch to Windows 10
+https://news.ycombinator.com/item?id=15779226
+|##################################################|##### S: 45 C: 50 R: 1.111
+
+Introducing Remembear, new password manager
+https://news.ycombinator.com/item?id=15776964
+|############################################      | S: 86 C: 76 R: 0.884
+
+Drinking 3-4 Cups of Coffee Is “More Likely to Benefit Health Than to Harm It”
+https://news.ycombinator.com/item?id=15779133
+|##########################################        | S: 77 C: 66 R: 0.857
+
+Ask HN: High functioning alcoholism – anyone?
+https://news.ycombinator.com/item?id=15774980
+|#######################################           | S: 124 C: 98 R: 0.790
+
+Security Guidelines for Congressional Campaigns
+https://news.ycombinator.com/item?id=15777387
+|######################################            | S: 95 C: 73 R: 0.768
+
+Ciao, Chrome: Firefox Quantum Is the Browser Built for 2017
+https://news.ycombinator.com/item?id=15776562
+|###################################               | S: 413 C: 297 R: 0.719
+
+A growing number of young Americans are leaving desk jobs to farm
+https://news.ycombinator.com/item?id=15771168
+|###################################               | S: 523 C: 375 R: 0.717
+
+Inside the Revolution at Etsy
+https://news.ycombinator.com/item?id=15776871
+|############################                      | S: 108 C: 62 R: 0.574
+
+Miller’s Law – A Rule in Product Design and Life Management
+https://news.ycombinator.com/item?id=15771710
+|##########################                        | S: 106 C: 57 R: 0.538
+
+Simpson's Paradox and the Hot Hand in Basketball (1995)
+https://news.ycombinator.com/item?id=15777523
+|##########################                        | S: 28 C: 15 R: 0.536
+
+How to interview a technical co-founder
+https://news.ycombinator.com/item?id=15771413
+|##########################                        | S: 93 C: 49 R: 0.527
+
+How does one get the system to actually use the IPv6 Temporary Addresses?
+https://news.ycombinator.com/item?id=15777692
+|#########################                         | S: 58 C: 29 R: 0.500
+
+Segwit2x Bugs Explained
+https://news.ycombinator.com/item?id=15775873
+|######################                            | S: 183 C: 82 R: 0.448
+
+The Western Elite from a Chinese Perspective
+https://news.ycombinator.com/item?id=15769807
+|#####################                             | S: 468 C: 205 R: 0.438
+
+Linked List Problems (2002) [pdf]
+https://news.ycombinator.com/item?id=15774630
+|####################                              | S: 227 C: 95 R: 0.419
+
+More Than a Million Pro-Repeal Net Neutrality Comments Were Likely Faked
+https://news.ycombinator.com/item?id=15774503
+|####################                              | S: 719 C: 289 R: 0.402
+
+Clojure Design Patterns
+https://news.ycombinator.com/item?id=15771561
+|####################                              | S: 294 C: 118 R: 0.401
+
+Sam Altman: recommend good resource for basic financial advice for youngesters
+https://news.ycombinator.com/item?id=15779722
+|##################                                | S: 16 C: 6 R: 0.375
+
+A minimalist guide to tmux
+https://news.ycombinator.com/item?id=15776995
+|##################                                | S: 210 C: 78 R: 0.371
+
+Hacker News Tokyo Community Meetup
+https://news.ycombinator.com/item?id=15775065
+|#################                                 | S: 110 C: 39 R: 0.355
+
+Carp, a compiled Lisp with type inference and a borrow checker
+https://news.ycombinator.com/item?id=15778530
+|#################                                 | S: 158 C: 56 R: 0.354
+
+A Callout: Parts for an Iron Lung
+https://news.ycombinator.com/item?id=15777702
+|#################                                 | S: 65 C: 23 R: 0.354
+
+Sending a Spacecraft to the Interstellar Asteroid
+https://news.ycombinator.com/item?id=15772340
+|#################                                 | S: 210 C: 72 R: 0.343
+
+Simplified and community-driven man pages
+https://news.ycombinator.com/item?id=15779382
+|#################                                 | S: 141 C: 48 R: 0.340
+
+SSH vs. OpenVPN for Tunneling
+https://news.ycombinator.com/item?id=15773466
+|###############                                   | S: 326 C: 102 R: 0.313
+
+The 265 members of Congress who sold you out to ISPs
+https://news.ycombinator.com/item?id=15779529
+|###############                                   | S: 153 C: 46 R: 0.301
+
+Half-Life and Team Fortress Networking
+https://news.ycombinator.com/item?id=15777592
+|############                                      | S: 141 C: 36 R: 0.255
+
+Nuclear Power Professionals Are Serious About Joking
+https://news.ycombinator.com/item?id=15771131
+|############                                      | S: 108 C: 26 R: 0.241
+
+Reprogramming a $13 consumer wifi-enabled outlet
+https://news.ycombinator.com/item?id=15777749
+|###########                                       | S: 140 C: 31 R: 0.221
+
+My unusual hobby
+https://news.ycombinator.com/item?id=15776033
+|##########                                        | S: 612 C: 127 R: 0.208
+
+Practical Unix Manuals: mdoc
+https://news.ycombinator.com/item?id=15775886
+|#########                                         | S: 128 C: 25 R: 0.195
+
+Ask HN: CS papers for software architecture and design?
+https://news.ycombinator.com/item?id=15775548
+|#########                                         | S: 447 C: 84 R: 0.188
+
+VNC, RDP and SSH Over HTML5
+https://news.ycombinator.com/item?id=15778902
+|#######                                           | S: 128 C: 20 R: 0.156
+
+The Girl with the Brick Earring
+https://news.ycombinator.com/item?id=15770557
+|#######                                           | S: 365 C: 57 R: 0.156
+
+Cloudflare Reports Massive Slowdown in Network Level DDoS Attacks
+https://news.ycombinator.com/item?id=15778825
+|######                                            | S: 79 C: 11 R: 0.139
+
+Terrain rendering in fewer than 20 lines of code
+https://news.ycombinator.com/item?id=15772065
+|######                                            | S: 725 C: 87 R: 0.120
+
+Apple’s Secure Enclave Processor (SEP) Firmware Decrypted
+https://news.ycombinator.com/item?id=15778931
+|#####                                             | S: 165 C: 19 R: 0.115
+
+A comparison between Memcached and redis
+https://news.ycombinator.com/item?id=15779090
+|#####                                             | S: 10 C: 1 R: 0.100
+
+Matcha: Mobile apps in Go
+https://news.ycombinator.com/item?id=15778349
+|####                                              | S: 99 C: 9 R: 0.091
+
+“I fell down a bit of a ruins research rabbit-hole”
+https://news.ycombinator.com/item?id=15771183
+|###                                               | S: 522 C: 40 R: 0.077
+
+New in Datasette: filters, foreign keys and search
+https://news.ycombinator.com/item?id=15778093
+|##                                                | S: 35 C: 2 R: 0.057
+
+Guide to avoiding vulnerabilities in programming languages [pdf]
+https://news.ycombinator.com/item?id=15776576
+|##                                                | S: 71 C: 4 R: 0.056
+
+Apple Krackers Guide (1985) [pdf]
+https://news.ycombinator.com/item?id=15775803
+|#                                                 | S: 75 C: 2 R: 0.027
+
+LIL, the Little Implementation Language (1974)
+https://news.ycombinator.com/item?id=15779411
+|#                                                 | S: 38 C: 1 R: 0.026
+
+Syntia: Synthesizing the Semantics of Obfuscated Code
+https://news.ycombinator.com/item?id=15775846
+|                                                  | S: 23 C: 0 R: 0.000
+

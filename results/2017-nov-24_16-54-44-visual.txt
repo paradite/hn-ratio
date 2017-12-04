@@ -1,0 +1,168 @@
+Why 3D doesn't work and never will (2011)
+https://news.ycombinator.com/item?id=15767643
+|#############################################     | S: 88 C: 80 R: 0.909
+
+“Full understand”: The new language of the Lesvos refugee camp
+https://news.ycombinator.com/item?id=15763672
+|###############################                   | S: 32 C: 20 R: 0.625
+
+A rare stolen painting appears for sale on the dark web
+https://news.ycombinator.com/item?id=15769703
+|##############################                    | S: 10 C: 6 R: 0.600
+
+Enabling the F4 key in macOS
+https://news.ycombinator.com/item?id=15768923
+|############################                      | S: 80 C: 46 R: 0.575
+
+Spam is back
+https://news.ycombinator.com/item?id=15755555
+|############################                      | S: 87 C: 50 R: 0.575
+
+Show HN: Nebula – Alarm clock where you grow stars while you sleep
+https://news.ycombinator.com/item?id=15765762
+|#####################                             | S: 287 C: 126 R: 0.439
+
+Facebook Founder’s Favor Comes with Complications
+https://news.ycombinator.com/item?id=15769020
+|#####################                             | S: 57 C: 25 R: 0.439
+
+AI-enabled dermatology app aims to save Indians the blushes
+https://news.ycombinator.com/item?id=15763783
+|#####################                             | S: 14 C: 6 R: 0.429
+
+China Busts a $3B Underground Bank
+https://news.ycombinator.com/item?id=15769174
+|#####################                             | S: 114 C: 48 R: 0.421
+
+How do I permanently delete my account?
+https://news.ycombinator.com/item?id=15769275
+|#####################                             | S: 290 C: 122 R: 0.421
+
+New Uber CEO Knew of Hack for Months
+https://news.ycombinator.com/item?id=15769467
+|###############                                   | S: 94 C: 30 R: 0.319
+
+1816, the Year without a Summer
+https://news.ycombinator.com/item?id=15768951
+|###############                                   | S: 42 C: 13 R: 0.310
+
+Hijacking Bitcoin: Routing Attacks on Cryptocurrencies
+https://news.ycombinator.com/item?id=15764348
+|##############                                    | S: 88 C: 26 R: 0.295
+
+Call of Duty WW2 has made a significant step forward in face rendering
+https://news.ycombinator.com/item?id=15767580
+|##############                                    | S: 75 C: 21 R: 0.280
+
+Using a logbook to improve your programming
+https://news.ycombinator.com/item?id=15768123
+|#############                                     | S: 153 C: 41 R: 0.268
+
+The Hercules System/370, ESA/390, and Z/Architecture Emulator
+https://news.ycombinator.com/item?id=15767979
+|#############                                     | S: 23 C: 6 R: 0.261
+
+Glowstone: open-source Minecraft server
+https://news.ycombinator.com/item?id=15767451
+|############                                      | S: 239 C: 62 R: 0.259
+
+SAGE: A Test to Detect Signs of Alzheimer's and Dementia
+https://news.ycombinator.com/item?id=15769351
+|###########                                       | S: 21 C: 5 R: 0.238
+
+Cling – An interactive C++ interpreter built on top of LLVM and Clang
+https://news.ycombinator.com/item?id=15766585
+|###########                                       | S: 86 C: 20 R: 0.233
+
+Patients with Access to Legal Medical Cannabis Are More Likely to Quit Opioids
+https://news.ycombinator.com/item?id=15756525
+|###########                                       | S: 128 C: 29 R: 0.227
+
+The sequence 1 1 ∞ 5 6 3 3 3
+https://news.ycombinator.com/item?id=15769035
+|##########                                        | S: 139 C: 30 R: 0.216
+
+'We're not lazy, we're old': 71yr-old Costco worker wins right to sit on the job
+https://news.ycombinator.com/item?id=15768299
+|##########                                        | S: 28 C: 6 R: 0.214
+
+Designing a Lock-free, Wait-free Hash Map
+https://news.ycombinator.com/item?id=15768809
+|##########                                        | S: 89 C: 18 R: 0.202
+
+Gofpdf: Generate PDFs from Go with No Dependencies
+https://news.ycombinator.com/item?id=15767878
+|#########                                         | S: 120 C: 22 R: 0.183
+
+FCC Releases Net Neutrality Killing Order, Hopes You're Too Busy Cooking Turkey
+https://news.ycombinator.com/item?id=15767585
+|########                                          | S: 237 C: 40 R: 0.169
+
+An intuitive explanation of the SSD MultiBox object detection technique
+https://news.ycombinator.com/item?id=15763993
+|########                                          | S: 25 C: 4 R: 0.160
+
+AI-controlled brain implants for mood disorders tested in people
+https://news.ycombinator.com/item?id=15768521
+|#######                                           | S: 75 C: 11 R: 0.147
+
+How fast are those packets moving?
+https://news.ycombinator.com/item?id=15768673
+|#######                                           | S: 21 C: 3 R: 0.143
+
+History of Ball Bearings (1981) [pdf]
+https://news.ycombinator.com/item?id=15767547
+|######                                            | S: 67 C: 9 R: 0.134
+
+Armed with tough computer chips, scientists are ready to return to Venus
+https://news.ycombinator.com/item?id=15764711
+|######                                            | S: 15 C: 2 R: 0.133
+
+Simh/simh: The Computer History Simulation Project
+https://news.ycombinator.com/item?id=15767426
+|######                                            | S: 49 C: 6 R: 0.122
+
+Dither stabilisation
+https://news.ycombinator.com/item?id=15766249
+|###                                               | S: 245 C: 17 R: 0.069
+
+A logarithmic image transformation (2008)
+https://news.ycombinator.com/item?id=15763308
+|#                                                 | S: 51 C: 2 R: 0.039
+
+There's a mini RTOS in my language
+https://news.ycombinator.com/item?id=15769922
+|                                                  | S: 45 C: 0 R: 0.000
+
+Quantum Algorithm Zoo
+https://news.ycombinator.com/item?id=15764023
+|                                                  | S: 49 C: 0 R: 0.000
+
+Treasury Department Concludes Fraud Investigation into Internet Safety Software
+https://news.ycombinator.com/item?id=15763123
+|                                                  | S: 42 C: 0 R: 0.000
+
+Impact of Depression and Its Treatment on Productivity
+https://news.ycombinator.com/item?id=15768382
+|                                                  | S: 46 C: 0 R: 0.000
+
+Atari and the dawn of video game culture
+https://news.ycombinator.com/item?id=15764419
+|                                                  | S: 72 C: 0 R: 0.000
+
+Report URI's journey to a permanent redirect
+https://news.ycombinator.com/item?id=15756439
+|                                                  | S: 14 C: 0 R: 0.000
+
+Challenge Problems for Artificial Intelligence (1996)
+https://news.ycombinator.com/item?id=15764297
+|                                                  | S: 35 C: 0 R: 0.000
+
+The Web’s Grain (2015)
+https://news.ycombinator.com/item?id=15767597
+|                                                  | S: 16 C: 0 R: 0.000
+
+An overview of gradient descent optimization algorithms
+https://news.ycombinator.com/item?id=15767876
+|                                                  | S: 24 C: 0 R: 0.000
+

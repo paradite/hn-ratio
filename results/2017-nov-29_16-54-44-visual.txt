@@ -1,0 +1,176 @@
+Parents now spend twice as much time with their children as 50 years ago
+https://news.ycombinator.com/item?id=15800082
+|###########################################       | S: 308 C: 271 R: 0.880
+
+Waterfox – Firefox fork retaining XUL support
+https://news.ycombinator.com/item?id=15800634
+|######################################            | S: 110 C: 85 R: 0.773
+
+Americans Are Receiving Unordered Parcels from E-Criminals
+https://news.ycombinator.com/item?id=15803725
+|##############################                    | S: 93 C: 57 R: 0.613
+
+From net neutrality to digital privacy, Congress does diddly
+https://news.ycombinator.com/item?id=15803961
+|##############################                    | S: 98 C: 60 R: 0.612
+
+DASH playback of AV1 video in Firefox
+https://news.ycombinator.com/item?id=15798205
+|##############################                    | S: 118 C: 71 R: 0.602
+
+Chatbots need a personality
+https://news.ycombinator.com/item?id=15802092
+|############################                      | S: 55 C: 31 R: 0.564
+
+How to solve a hard programming interview question
+https://news.ycombinator.com/item?id=15804795
+|###########################                       | S: 97 C: 54 R: 0.557
+
+Berlin police find radioactive iodine on playing cards
+https://news.ycombinator.com/item?id=15800397
+|#####################                             | S: 154 C: 65 R: 0.422
+
+Facebook users in Romania see content related to street protests reviewed
+https://news.ycombinator.com/item?id=15790687
+|####################                              | S: 807 C: 337 R: 0.418
+
+The backstory of Alexa’s Indian makeover
+https://news.ycombinator.com/item?id=15802418
+|####################                              | S: 46 C: 19 R: 0.413
+
+U.S. judge says Uber withheld evidence, delays Waymo trial
+https://news.ycombinator.com/item?id=15799208
+|###################                               | S: 334 C: 132 R: 0.395
+
+macOS High Sierra: Anyone can login as “root” with empty password
+https://news.ycombinator.com/item?id=15800676
+|###################                               | S: 2148 C: 836 R: 0.389
+
+Statistically rigorous Java performance evaluation
+https://news.ycombinator.com/item?id=15801901
+|###################                               | S: 39 C: 15 R: 0.385
+
+Western Digital Plans to Ship More Than One Billion RISC-V Cores a Year
+https://news.ycombinator.com/item?id=15801044
+|###################                               | S: 318 C: 121 R: 0.381
+
+Lessons we learned while bootstrapping
+https://news.ycombinator.com/item?id=15799034
+|##################                                | S: 260 C: 98 R: 0.377
+
+The Joy of Erlang; Or, How to Ride a Toruk (2011)
+https://news.ycombinator.com/item?id=15798849
+|################                                  | S: 124 C: 42 R: 0.339
+
+Samsung Develops Battery Material with 5x Faster Charging Speed
+https://news.ycombinator.com/item?id=15801728
+|################                                  | S: 206 C: 68 R: 0.330
+
+What the Stoics did for us
+https://news.ycombinator.com/item?id=15799592
+|################                                  | S: 159 C: 52 R: 0.327
+
+How Stylo Brought Rust and Servo to Firefox
+https://news.ycombinator.com/item?id=15799310
+|###############                                   | S: 535 C: 163 R: 0.305
+
+Cell – A functional, relational, reactive programming language
+https://news.ycombinator.com/item?id=15797831
+|##############                                    | S: 131 C: 39 R: 0.298
+
+Origami-inspired soft artificial muscles
+https://news.ycombinator.com/item?id=15796769
+|############                                      | S: 193 C: 50 R: 0.259
+
+What's a reference in Rust?
+https://news.ycombinator.com/item?id=15802885
+|############                                      | S: 151 C: 39 R: 0.258
+
+Esperanto Technologies to develop energy-efficient chips on RISC-V
+https://news.ycombinator.com/item?id=15802529
+|############                                      | S: 57 C: 14 R: 0.246
+
+React v16.2.0: Improved Support for Fragments
+https://news.ycombinator.com/item?id=15802245
+|############                                      | S: 110 C: 27 R: 0.245
+
+AWS AppSync – Build data-driven apps with real-time and off-line capabilities
+https://news.ycombinator.com/item?id=15801229
+|###########                                       | S: 254 C: 60 R: 0.236
+
+Information, Physics, Quantum: The Search for Links (1989) [pdf]
+https://news.ycombinator.com/item?id=15802155
+|###########                                       | S: 47 C: 11 R: 0.234
+
+Show HN: Golang DNS server, including DNSSEC and DNS-over-TLS
+https://news.ycombinator.com/item?id=15796943
+|###########                                       | S: 263 C: 60 R: 0.228
+
+EC2 Bare Metal Instances with Direct Access to Hardware
+https://news.ycombinator.com/item?id=15804657
+|##########                                        | S: 201 C: 41 R: 0.204
+
+Emacs with the SpiderMonkey garbage collector
+https://news.ycombinator.com/item?id=15801038
+|#########                                         | S: 159 C: 29 R: 0.182
+
+The Power of Tmux Hooks
+https://news.ycombinator.com/item?id=15804302
+|#########                                         | S: 72 C: 13 R: 0.181
+
+WeWork acquires Meetup.com
+https://news.ycombinator.com/item?id=15799610
+|########                                          | S: 131 C: 22 R: 0.168
+
+Please build websites for the web, not just Google Chrome
+https://news.ycombinator.com/item?id=15804716
+|#######                                           | S: 19 C: 3 R: 0.158
+
+Ask HN: Best internal tools your startup built?
+https://news.ycombinator.com/item?id=15804270
+|#######                                           | S: 13 C: 2 R: 0.154
+
+A Guide to Pitching Funding and Launch Stories
+https://news.ycombinator.com/item?id=15799703
+|#######                                           | S: 94 C: 14 R: 0.149
+
+The Jobs You're Most Likely to Inherit from Your Mother and Father
+https://news.ycombinator.com/item?id=15800239
+|#######                                           | S: 14 C: 2 R: 0.143
+
+H1 Instances – Fast, Dense Storage for Big Data Apps
+https://news.ycombinator.com/item?id=15804925
+|######                                            | S: 24 C: 3 R: 0.125
+
+Cutting cluster management fees on Google Kubernetes Engine
+https://news.ycombinator.com/item?id=15799050
+|#####                                             | S: 97 C: 11 R: 0.113
+
+The Poor Man's 3D Camera
+https://news.ycombinator.com/item?id=15797045
+|####                                              | S: 335 C: 31 R: 0.093
+
+Norvig's Python programs to practice or demonstrate skills
+https://news.ycombinator.com/item?id=15787023
+|####                                              | S: 887 C: 81 R: 0.091
+
+A Library of Parallel Algorithms
+https://news.ycombinator.com/item?id=15796039
+|####                                              | S: 194 C: 17 R: 0.088
+
+Charging for our product originally hurt but ultimately saved our startup
+https://news.ycombinator.com/item?id=15801075
+|####                                              | S: 211 C: 17 R: 0.081
+
+Amazon GuardDuty – Continuous Security Monitoring and Threat Detection
+https://news.ycombinator.com/item?id=15804823
+|###                                               | S: 54 C: 4 R: 0.074
+
+The Open Problem Garden, a collection of unsolved problems in mathematics
+https://news.ycombinator.com/item?id=15801681
+|##                                                | S: 61 C: 3 R: 0.049
+
+Announcing Arrington XRP Capital, a Crypto-Denominated Hedge Fund
+https://news.ycombinator.com/item?id=15802062
+|                                                  | S: 14 C: 0 R: 0.000
+

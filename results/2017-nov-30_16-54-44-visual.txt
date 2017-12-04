@@ -1,0 +1,192 @@
+Bitcoin ‘Ought to Be Outlawed,’ Nobel Prize Winner Stiglitz Says
+https://news.ycombinator.com/item?id=15812247
+|##################################################|############################################################################ S: 118 C: 298 R: 2.525
+
+G.M. Unveils Its Driverless Cars, Aiming to Lead the Pack
+https://news.ycombinator.com/item?id=15807505
+|##################################################|##################### S: 141 C: 201 R: 1.426
+
+Majority of economists against net neutrality
+https://news.ycombinator.com/item?id=15813956
+|##################################################|################# S: 14 C: 19 R: 1.357
+
+America’s flat-Earth movement appears to be growing
+https://news.ycombinator.com/item?id=15813507
+|##################################################|############### S: 19 C: 25 R: 1.316
+
+Silicon Valley Software Engineer Salaries by Experience Level
+https://news.ycombinator.com/item?id=15808549
+|##################################################|## S: 369 C: 384 R: 1.041
+
+Has music streaming killed the instrumental intro?
+https://news.ycombinator.com/item?id=15806450
+|##################################################|# S: 70 C: 72 R: 1.029
+
+Facebook’s New Captcha Test: 'Upload a Clear Photo of Your Face'
+https://news.ycombinator.com/item?id=15807200
+|################################################  | S: 349 C: 336 R: 0.963
+
+Mercedes-Benz conducting the biggest test using drones to ship everyday items
+https://news.ycombinator.com/item?id=15796442
+|#############################################     | S: 47 C: 43 R: 0.915
+
+Introducing the new Snapchat
+https://news.ycombinator.com/item?id=15807043
+|#########################################         | S: 239 C: 197 R: 0.824
+
+Nasdaq Plans to Introduce Bitcoin Futures
+https://news.ycombinator.com/item?id=15807987
+|#######################################           | S: 337 C: 267 R: 0.792
+
+American Airlines Accidentally Let Too Many Pilots Take the Holidays Off
+https://news.ycombinator.com/item?id=15811322
+|######################################            | S: 309 C: 237 R: 0.767
+
+Ask HN: What age do you expect to be able to retire?
+https://news.ycombinator.com/item?id=15812905
+|#####################################             | S: 29 C: 22 R: 0.759
+
+Amazon Is Asking Indians to Hand Over Their Aadhaar Biometric ID
+https://news.ycombinator.com/item?id=15796242
+|###########################                       | S: 118 C: 66 R: 0.559
+
+Three quarters of Android apps track users with third party tools
+https://news.ycombinator.com/item?id=15796771
+|########################                          | S: 157 C: 77 R: 0.490
+
+Amazon FreeRTOS – IoT operating system for microcontrollers
+https://news.ycombinator.com/item?id=15811213
+|#######################                           | S: 160 C: 76 R: 0.475
+
+Show HN: Shazam-like acoustic fingerprinting of continuous audio streams
+https://news.ycombinator.com/item?id=15809291
+|#####################                             | S: 126 C: 54 R: 0.429
+
+About the security content of Security Update 2017-001
+https://news.ycombinator.com/item?id=15807913
+|#####################                             | S: 327 C: 139 R: 0.425
+
+The secret world below Chicago
+https://news.ycombinator.com/item?id=15809361
+|####################                              | S: 95 C: 39 R: 0.411
+
+AWS Fargate – Run Containers Without Managing Infrastructure
+https://news.ycombinator.com/item?id=15808096
+|###################                               | S: 484 C: 191 R: 0.395
+
+Research creates “neuromorphic chip” that is modeled after the brain
+https://news.ycombinator.com/item?id=15813317
+|##################                                | S: 24 C: 9 R: 0.375
+
+macOS High Sierra: Anyone can login as “root” with empty password
+https://news.ycombinator.com/item?id=15800676
+|#################                                 | S: 2937 C: 1044 R: 0.355
+
+Understanding Ethereum Smart Contracts
+https://news.ycombinator.com/item?id=15786780
+|#################                                 | S: 434 C: 149 R: 0.343
+
+Expensify sent images with personal data to Mechanical Turkers
+https://news.ycombinator.com/item?id=15796189
+|################                                  | S: 172 C: 58 R: 0.337
+
+Keeping Time with Amazon Time Sync Service
+https://news.ycombinator.com/item?id=15812633
+|################                                  | S: 134 C: 45 R: 0.336
+
+Repair file sharing after Security Update 2017-001 for macOS High Sierra 10.13.1
+https://news.ycombinator.com/item?id=15811976
+|################                                  | S: 92 C: 30 R: 0.326
+
+What I'm Telling US Congress about Data Breaches
+https://news.ycombinator.com/item?id=15807881
+|###############                                   | S: 261 C: 82 R: 0.314
+
+Seventh RISC-V Workshop: Day One
+https://news.ycombinator.com/item?id=15810879
+|###############                                   | S: 89 C: 27 R: 0.303
+
+Faster: Fast numerical calculations in Rust
+https://news.ycombinator.com/item?id=15810369
+|##############                                    | S: 126 C: 37 R: 0.294
+
+Hello, world: this is WikiTribune
+https://news.ycombinator.com/item?id=15806500
+|##############                                    | S: 734 C: 213 R: 0.290
+
+AWS DeepLens – Deep learning enabled video camera for developers
+https://news.ycombinator.com/item?id=15808968
+|#############                                     | S: 156 C: 43 R: 0.276
+
+Vassal – Online Adaptations of Board Games
+https://news.ycombinator.com/item?id=15810268
+|#############                                     | S: 224 C: 61 R: 0.272
+
+Amazon EKS – Highly available and scalable Kubernetes service
+https://news.ycombinator.com/item?id=15808065
+|###########                                       | S: 341 C: 81 R: 0.238
+
+Amazon Neptune – Fast, reliable graph database built for the cloud
+https://news.ycombinator.com/item?id=15808379
+|###########                                       | S: 274 C: 64 R: 0.234
+
+Unified GAN for Image-to-Image translation
+https://news.ycombinator.com/item?id=15787088
+|###########                                       | S: 60 C: 14 R: 0.233
+
+As a solo developer, I decided to offer phone support
+https://news.ycombinator.com/item?id=15813107
+|###########                                       | S: 288 C: 67 R: 0.233
+
+Interactive workflows for C++ with Jupyter
+https://news.ycombinator.com/item?id=15808809
+|##########                                        | S: 260 C: 52 R: 0.200
+
+Show HN: Promptui – Rich UI elements for cli prompts in Go
+https://news.ycombinator.com/item?id=15810244
+|#########                                         | S: 152 C: 30 R: 0.197
+
+Advent of Code 2017
+https://news.ycombinator.com/item?id=15813318
+|#########                                         | S: 87 C: 16 R: 0.184
+
+Initial Release of Mozilla’s Open Source Speech Recognition Model and Voice Data
+https://news.ycombinator.com/item?id=15808124
+|########                                          | S: 365 C: 63 R: 0.173
+
+Why Did ProtonMail Vanish from Google Search Results?
+https://news.ycombinator.com/item?id=15814121
+|########                                          | S: 30 C: 5 R: 0.167
+
+AWS EC2 Virtualization 2017: Including Nitro
+https://news.ycombinator.com/item?id=15812803
+|######                                            | S: 55 C: 7 R: 0.127
+
+Software Giant Autodesk to Axe 13% of Global Workforce
+https://news.ycombinator.com/item?id=15813688
+|####                                              | S: 37 C: 3 R: 0.081
+
+Conversations with the petroleum brotherhood in the UAE
+https://news.ycombinator.com/item?id=15794904
+|###                                               | S: 27 C: 2 R: 0.074
+
+India's big data hunt for cures to mental, ageing-related diseases
+https://news.ycombinator.com/item?id=15796248
+|##                                                | S: 73 C: 4 R: 0.055
+
+50 Years Ago Jocelyn Bell Discovered Pulsars
+https://news.ycombinator.com/item?id=15813721
+|##                                                | S: 71 C: 3 R: 0.042
+
+The Model Book of Calligraphy (1561–1596)
+https://news.ycombinator.com/item?id=15813773
+|#                                                 | S: 41 C: 1 R: 0.024
+
+Algorithm Design: Parallel and Sequential
+https://news.ycombinator.com/item?id=15806559
+|                                                  | S: 95 C: 1 R: 0.011
+
+Google faces legal action in UK over data collection on iPhones
+https://news.ycombinator.com/item?id=15813980
+|                                                  | S: 13 C: 0 R: 0.000
+

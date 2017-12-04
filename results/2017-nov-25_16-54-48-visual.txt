@@ -1,0 +1,172 @@
+Ask HN: Best development laptop?
+https://news.ycombinator.com/item?id=15774791
+|##################################################|################# S: 14 C: 19 R: 1.357
+
+Tesla’s promises don’t compute with current physics and economics of batteries
+https://news.ycombinator.com/item?id=15773875
+|##################################################|############ S: 81 C: 101 R: 1.247
+
+How the sandwich consumed Britain
+https://news.ycombinator.com/item?id=15770439
+|##################################################|######### S: 90 C: 107 R: 1.189
+
+The Uncertain Future of Bitcoin Futures
+https://news.ycombinator.com/item?id=15773920
+|##################################################|### S: 61 C: 65 R: 1.066
+
+Can the new Firefox Quantum regain its web browser market share?
+https://news.ycombinator.com/item?id=15771156
+|##################################################|## S: 179 C: 188 R: 1.050
+
+E-Bikes Offer Entry-Level Electric Transportation
+https://news.ycombinator.com/item?id=15773168
+|################################################  | S: 63 C: 61 R: 0.968
+
+A growing number of young Americans are leaving desk jobs to farm
+https://news.ycombinator.com/item?id=15771168
+|#####################################             | S: 441 C: 332 R: 0.753
+
+Code Sponsor is shutting down on December 8
+https://news.ycombinator.com/item?id=15773924
+|####################################              | S: 33 C: 24 R: 0.727
+
+The Profit Motive Behind Financial Complexity
+https://news.ycombinator.com/item?id=15772008
+|##############################                    | S: 80 C: 48 R: 0.600
+
+Can an Autonomous Sailboat Cross the Atlantic?
+https://news.ycombinator.com/item?id=15771779
+|#############################                     | S: 53 C: 31 R: 0.585
+
+Amazon Merchants Continue to Find Ways to Cheat
+https://news.ycombinator.com/item?id=15772547
+|#######################                           | S: 141 C: 67 R: 0.475
+
+Linked List Problems [pdf]
+https://news.ycombinator.com/item?id=15774630
+|#######################                           | S: 39 C: 18 R: 0.462
+
+The Western Elite from a Chinese Perspective
+https://news.ycombinator.com/item?id=15769807
+|####################                              | S: 366 C: 152 R: 0.415
+
+Clojure Design Patterns
+https://news.ycombinator.com/item?id=15771561
+|####################                              | S: 241 C: 97 R: 0.402
+
+An Island to Oneself
+https://news.ycombinator.com/item?id=15773056
+|###################                               | S: 18 C: 7 R: 0.389
+
+In search of the perfect writing font
+https://news.ycombinator.com/item?id=15772056
+|###################                               | S: 65 C: 25 R: 0.385
+
+Domain Pascal Language Reference (1987) [pdf]
+https://news.ycombinator.com/item?id=15772303
+|###################                               | S: 13 C: 5 R: 0.385
+
+Community-Curated Interactive Mind Maps
+https://news.ycombinator.com/item?id=15773683
+|##################                                | S: 30 C: 11 R: 0.367
+
+Sending a Spacecraft to the Interstellar Asteroid
+https://news.ycombinator.com/item?id=15772340
+|##################                                | S: 164 C: 60 R: 0.366
+
+SSH vs. OpenVPN for Tunneling
+https://news.ycombinator.com/item?id=15773466
+|#################                                 | S: 175 C: 61 R: 0.349
+
+A Spreadsheet That Could Solve NYC Transit
+https://news.ycombinator.com/item?id=15772941
+|################                                  | S: 49 C: 16 R: 0.327
+
+Drilling Reawakens Sleeping Faults in Texas, Leads to Earthquakes
+https://news.ycombinator.com/item?id=15772725
+|###############                                   | S: 85 C: 27 R: 0.318
+
+Beorg – an Emacs org-mode companion for iOS
+https://news.ycombinator.com/item?id=15770681
+|##############                                    | S: 166 C: 48 R: 0.289
+
+Don't Feed Them After Midnight: Reverse-Engineering the Furby Connect
+https://news.ycombinator.com/item?id=15770921
+|#############                                     | S: 95 C: 26 R: 0.274
+
+More Than a Million Pro-Repeal Net Neutrality Comments Were Likely Faked
+https://news.ycombinator.com/item?id=15774503
+|############                                      | S: 327 C: 85 R: 0.260
+
+The sequence 1 1 ∞ 5 6 3 3 3
+https://news.ycombinator.com/item?id=15769035
+|############                                      | S: 281 C: 69 R: 0.246
+
+Automate GitHub Pages with IFTTT, Glitch and Jekyll
+https://news.ycombinator.com/item?id=15773058
+|###########                                       | S: 96 C: 23 R: 0.240
+
+Control VoIP server clusters with Python's asyncio
+https://news.ycombinator.com/item?id=15772842
+|###########                                       | S: 31 C: 7 R: 0.226
+
+Capsule Networks Tutorial [video]
+https://news.ycombinator.com/item?id=15772174
+|##########                                        | S: 105 C: 23 R: 0.219
+
+The Mate Selection Trapdoor
+https://news.ycombinator.com/item?id=15772773
+|##########                                        | S: 35 C: 7 R: 0.200
+
+Imgur Data Breach: Personal details of 1.7M user accounts stolen
+https://news.ycombinator.com/item?id=15774684
+|##########                                        | S: 10 C: 2 R: 0.200
+
+Maxine VM: A Metacircular VM for Java in Java
+https://news.ycombinator.com/item?id=15767516
+|#########                                         | S: 32 C: 6 R: 0.188
+
+The Girl with the Brick Earring
+https://news.ycombinator.com/item?id=15770557
+|########                                          | S: 324 C: 54 R: 0.167
+
+Free online courses from top universities
+https://news.ycombinator.com/item?id=15771785
+|#######                                           | S: 196 C: 30 R: 0.153
+
+Terrain rendering in fewer than 20 lines of code
+https://news.ycombinator.com/item?id=15772065
+|#####                                             | S: 565 C: 67 R: 0.119
+
+“I fell down a bit of a ruins research rabbit-hole”
+https://news.ycombinator.com/item?id=15771183
+|####                                              | S: 401 C: 37 R: 0.092
+
+Show HN: Tuql – Automatically create a GraphQL server from a sqlite database
+https://news.ycombinator.com/item?id=15773387
+|####                                              | S: 11 C: 1 R: 0.091
+
+Linux Runs All of the World’s Fastest Supercomputers
+https://news.ycombinator.com/item?id=15774878
+|###                                               | S: 27 C: 2 R: 0.074
+
+Basic Sound Processing in Common Lisp [video]
+https://news.ycombinator.com/item?id=15772781
+|###                                               | S: 15 C: 1 R: 0.067
+
+Latest developments in the kernel ASLR district
+https://news.ycombinator.com/item?id=15769457
+|##                                                | S: 35 C: 2 R: 0.057
+
+The challenge of first-class memory
+https://news.ycombinator.com/item?id=15773283
+|                                                  | S: 32 C: 0 R: 0.000
+
+First Republican lawmaker to publicly oppose the FCC’s net neutrality repeal
+https://news.ycombinator.com/item?id=15773827
+|                                                  | S: 36 C: 0 R: 0.000
+
+lsof
+https://news.ycombinator.com/item?id=15774540
+|                                                  | S: 10 C: 0 R: 0.000
+

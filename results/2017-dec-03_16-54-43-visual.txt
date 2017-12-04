@@ -1,0 +1,192 @@
+The Great American Single-Family Home Problem
+https://news.ycombinator.com/item?id=15827177
+|##################################################|############################################################# S: 227 C: 506 R: 2.229
+
+Ask HN: Who is hiring? (December 2017)
+https://news.ycombinator.com/item?id=15824597
+|##################################################|##################### S: 564 C: 803 R: 1.424
+
+Winklevoss twins become first Bitcoin billionaires
+https://news.ycombinator.com/item?id=15836087
+|#############################################     | S: 60 C: 54 R: 0.900
+
+Philadelphia write-in candidate: I won with one vote
+https://news.ycombinator.com/item?id=15834228
+|##########################################        | S: 203 C: 171 R: 0.842
+
+Woman with Transplanted Uterus Gives Birth, the First in the U.S
+https://news.ycombinator.com/item?id=15834006
+|##################################                | S: 175 C: 121 R: 0.691
+
+Find every domain someone owns automatically
+https://news.ycombinator.com/item?id=15835521
+|#################################                 | S: 78 C: 52 R: 0.667
+
+When the Judge Distrusts Your Lawyers
+https://news.ycombinator.com/item?id=15835192
+|###############################                   | S: 86 C: 54 R: 0.628
+
+Shouting ‘pay your taxes,’ activists occupy Apple retail stores across France
+https://news.ycombinator.com/item?id=15833977
+|###########################                       | S: 213 C: 118 R: 0.554
+
+Detailed Financial Histories Exposed for Thousands
+https://news.ycombinator.com/item?id=15833480
+|#########################                         | S: 277 C: 144 R: 0.520
+
+If your iOS 11 device unexpectedly restarts repeatedly on or after December 2
+https://news.ycombinator.com/item?id=15831978
+|#########################                         | S: 189 C: 96 R: 0.508
+
+Incremental Backups Using GNU Tar and S3
+https://news.ycombinator.com/item?id=15831668
+|#########################                         | S: 112 C: 56 R: 0.500
+
+Most popular Python packages now support Python 3
+https://news.ycombinator.com/item?id=15832924
+|########################                          | S: 252 C: 122 R: 0.484
+
+Maintaining an Independent Browser Is Expensive
+https://news.ycombinator.com/item?id=15836027
+|########################                          | S: 108 C: 52 R: 0.481
+
+Fast desktop-scale extrusion 3D printing
+https://news.ycombinator.com/item?id=15832516
+|######################                            | S: 166 C: 74 R: 0.446
+
+Sshtalk: An SSH-based chat made in assembler
+https://news.ycombinator.com/item?id=15829206
+|####################                              | S: 79 C: 33 R: 0.418
+
+Ask HN: What are the big differences working at a startup, bigco, old smallco?
+https://news.ycombinator.com/item?id=15833575
+|####################                              | S: 68 C: 28 R: 0.412
+
+Babies who get more cuddles have their genetics changed for years, study shows
+https://news.ycombinator.com/item?id=15832217
+|###################                               | S: 109 C: 43 R: 0.394
+
+Stanford University data glitch exposes truth about scholarships
+https://news.ycombinator.com/item?id=15832427
+|###################                               | S: 389 C: 152 R: 0.391
+
+System76 ME Firmware Updates Plan
+https://news.ycombinator.com/item?id=15819093
+|#################                                 | S: 696 C: 245 R: 0.352
+
+The Accidental Bestseller (2014)
+https://news.ycombinator.com/item?id=15835291
+|################                                  | S: 21 C: 7 R: 0.333
+
+MyRocks – A RocksDB storage engine with MySQL
+https://news.ycombinator.com/item?id=15835188
+|################                                  | S: 61 C: 20 R: 0.328
+
+India is preparing to land on moon for the first time in the country's history
+https://news.ycombinator.com/item?id=15834011
+|###############                                   | S: 111 C: 35 R: 0.315
+
+Optimized Python Docker Image
+https://news.ycombinator.com/item?id=15833613
+|##############                                    | S: 51 C: 15 R: 0.294
+
+What Was Once Hailed as First U.S. Offshore Wind Farm Is No More
+https://news.ycombinator.com/item?id=15835200
+|##############                                    | S: 63 C: 18 R: 0.286
+
+Deep image prior 'learns' on just one image
+https://news.ycombinator.com/item?id=15820161
+|#############                                     | S: 757 C: 206 R: 0.272
+
+You Can Learn Glass Blowing (1938)
+https://news.ycombinator.com/item?id=15834149
+|############                                      | S: 47 C: 12 R: 0.255
+
+OverTime – Time overlap tables for remote teams
+https://news.ycombinator.com/item?id=15834608
+|############                                      | S: 24 C: 6 R: 0.250
+
+A Crypto Kitty was just sold for $100k
+https://news.ycombinator.com/item?id=15835415
+|############                                      | S: 16 C: 4 R: 0.250
+
+Magnesium batteries could be safer and more efficient than lithium
+https://news.ycombinator.com/item?id=15832900
+|############                                      | S: 60 C: 15 R: 0.250
+
+Django 2.0 released
+https://news.ycombinator.com/item?id=15832170
+|############                                      | S: 547 C: 135 R: 0.247
+
+Americans Taxed $400B for Fiber Optic Internet That Doesn’t Exist
+https://news.ycombinator.com/item?id=15836381
+|############                                      | S: 54 C: 13 R: 0.241
+
+Are statecharts the next big UI paradigm?
+https://news.ycombinator.com/item?id=15835005
+|###########                                       | S: 97 C: 22 R: 0.227
+
+China’s dark matter space probe detects tantalizing signal
+https://news.ycombinator.com/item?id=15833804
+|##########                                        | S: 47 C: 10 R: 0.213
+
+Grad students protest GOP's tax hike and prepare to fight about tuition
+https://news.ycombinator.com/item?id=15836116
+|##########                                        | S: 19 C: 4 R: 0.211
+
+Ask HN: What about the software industry in Iran?
+https://news.ycombinator.com/item?id=15835420
+|##########                                        | S: 24 C: 5 R: 0.208
+
+Amazon Macie: A machine learning service to discover and protect sensitive data
+https://news.ycombinator.com/item?id=15835264
+|##########                                        | S: 73 C: 15 R: 0.205
+
+PayPal says personal data may be compromised for 1.6M TIO users
+https://news.ycombinator.com/item?id=15833119
+|##########                                        | S: 127 C: 26 R: 0.205
+
+William Alsup, the coding judge who decides tech cases
+https://news.ycombinator.com/item?id=15834800
+|#########                                         | S: 137 C: 25 R: 0.182
+
+Blockchain Graveyard – Intrusions resulting in stolen financials or shutdown
+https://news.ycombinator.com/item?id=15831713
+|########                                          | S: 157 C: 27 R: 0.172
+
+Show HN: Freeciv WebGL 3D
+https://news.ycombinator.com/item?id=15831132
+|#######                                           | S: 89 C: 14 R: 0.157
+
+Ten Years of Icaros Desktop
+https://news.ycombinator.com/item?id=15834336
+|#######                                           | S: 54 C: 8 R: 0.148
+
+Google API Explorer
+https://news.ycombinator.com/item?id=15834058
+|#######                                           | S: 143 C: 21 R: 0.147
+
+Behind the Scenes at Xerox Parc’s Futures Day – 40 Years Ago
+https://news.ycombinator.com/item?id=15835317
+|#######                                           | S: 56 C: 8 R: 0.143
+
+A faster way to make Bose-Einstein condensates
+https://news.ycombinator.com/item?id=15833310
+|######                                            | S: 79 C: 10 R: 0.127
+
+Faust: Functional programming language for real-time DSP and synthesis
+https://news.ycombinator.com/item?id=15832989
+|###                                               | S: 107 C: 8 R: 0.075
+
+A Secretly Detained American Has Asked for a Lawyer – But Gov Won’t Give Him One
+https://news.ycombinator.com/item?id=15836268
+|###                                               | S: 14 C: 1 R: 0.071
+
+A primer on Elixir Stream
+https://news.ycombinator.com/item?id=15835770
+|                                                  | S: 15 C: 0 R: 0.000
+
+A Mother’s Ninth-Century Manual on How to Be a Man
+https://news.ycombinator.com/item?id=15833937
+|                                                  | S: 10 C: 0 R: 0.000
+

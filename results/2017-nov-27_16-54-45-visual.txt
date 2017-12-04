@@ -1,0 +1,176 @@
+Will Supreme Court open a ‘dam burst’ of legalized sports betting?
+https://news.ycombinator.com/item?id=15783982
+|##################################################|############# S: 68 C: 87 R: 1.279
+
+The purpose of Tesla is not to make money
+https://news.ycombinator.com/item?id=15781291
+|##################################################|########## S: 132 C: 160 R: 1.212
+
+Car key 'relay' attack caught on CCTV
+https://news.ycombinator.com/item?id=15784146
+|##################################################| S: 42 C: 42 R: 1.000
+
+Can anyone make money on the moon?
+https://news.ycombinator.com/item?id=15782634
+|#########################################         | S: 101 C: 84 R: 0.832
+
+The beginning of the end for copper wire
+https://news.ycombinator.com/item?id=15782706
+|########################################          | S: 194 C: 157 R: 0.809
+
+Spaniards face ham shortage as Chinese market gets taste for jamón ibérico
+https://news.ycombinator.com/item?id=15784508
+|######################################            | S: 54 C: 42 R: 0.778
+
+The Best Monitor for Programming: A Cheap 40″ 4K TV
+https://news.ycombinator.com/item?id=15783873
+|##################################                | S: 66 C: 45 R: 0.682
+
+Time Inc. Sells Itself to Meredith Corp, owner of Family Circle and AllRecipes
+https://news.ycombinator.com/item?id=15784544
+|################################                  | S: 164 C: 107 R: 0.652
+
+Unit Testing Doesn’t Affect Codebases the Way You Would Think
+https://news.ycombinator.com/item?id=15780097
+|###############################                   | S: 154 C: 96 R: 0.623
+
+Ask HN: How to become the first result of a Google search for a name?
+https://news.ycombinator.com/item?id=15782327
+|###############################                   | S: 116 C: 72 R: 0.621
+
+Show HN: Ondevice ssh:just like ssh,but for deviceswithout public IP
+https://news.ycombinator.com/item?id=15785333
+|##############################                    | S: 30 C: 18 R: 0.600
+
+Physicists make most precise measurement ever of the proton's magnetic moment
+https://news.ycombinator.com/item?id=15780514
+|############################                      | S: 85 C: 48 R: 0.565
+
+A CMS with no server and 18 lines of configuration
+https://news.ycombinator.com/item?id=15780111
+|########################                          | S: 148 C: 73 R: 0.493
+
+What Bikini Atoll Looks Like Today
+https://news.ycombinator.com/item?id=15784092
+|#######################                           | S: 119 C: 57 R: 0.479
+
+Replacing bail with an algorithm
+https://news.ycombinator.com/item?id=15784056
+|######################                            | S: 20 C: 9 R: 0.450
+
+Carp, a compiled Lisp with type inference and a borrow checker
+https://news.ycombinator.com/item?id=15778530
+|######################                            | S: 233 C: 104 R: 0.446
+
+Rust: Enable WebAssembly backend by default
+https://news.ycombinator.com/item?id=15780702
+|######################                            | S: 418 C: 186 R: 0.445
+
+Simplified and community-driven man pages
+https://news.ycombinator.com/item?id=15779382
+|###################                               | S: 347 C: 137 R: 0.395
+
+Facebook Is the Junk Food of Socializing (2015)
+https://news.ycombinator.com/item?id=15782014
+|#################                                 | S: 394 C: 139 R: 0.353
+
+Google Quantum AI
+https://news.ycombinator.com/item?id=15784130
+|################                                  | S: 72 C: 24 R: 0.333
+
+The citizens of Detroit are building their own Internet
+https://news.ycombinator.com/item?id=15783130
+|##############                                    | S: 125 C: 37 R: 0.296
+
+Firefox will soon flag sites that have been hacked
+https://news.ycombinator.com/item?id=15782007
+|#############                                     | S: 178 C: 49 R: 0.275
+
+Microsoft doubles down on Kubernetes for Azure
+https://news.ycombinator.com/item?id=15782432
+|#############                                     | S: 153 C: 41 R: 0.268
+
+Super Tiny Website Logos in SVG
+https://news.ycombinator.com/item?id=15780530
+|############                                      | S: 413 C: 104 R: 0.252
+
+Pure: a modern functional programming language based on term rewriting
+https://news.ycombinator.com/item?id=15782598
+|###########                                       | S: 85 C: 20 R: 0.235
+
+Half-Life and Team Fortress Networking
+https://news.ycombinator.com/item?id=15777592
+|##########                                        | S: 218 C: 47 R: 0.216
+
+Photovoltaic growth: reality versus projections of the IEA
+https://news.ycombinator.com/item?id=15782161
+|##########                                        | S: 100 C: 21 R: 0.210
+
+Lisp in fewer than 200 lines of C
+https://news.ycombinator.com/item?id=15781883
+|#########                                         | S: 357 C: 71 R: 0.199
+
+Some chip makers have hidden latency and jitter issues from common tests
+https://news.ycombinator.com/item?id=15781474
+|#########                                         | S: 200 C: 37 R: 0.185
+
+My unusual hobby
+https://news.ycombinator.com/item?id=15776033
+|########                                          | S: 804 C: 141 R: 0.175
+
+The Internet That Wasn’t: Review of “The Friendly Orange Glow” by Brian Dear
+https://news.ycombinator.com/item?id=15784052
+|######                                            | S: 47 C: 6 R: 0.128
+
+HAProxy 1.8.0
+https://news.ycombinator.com/item?id=15782724
+|######                                            | S: 121 C: 15 R: 0.124
+
+A Deep Dive into NEC’s Aurora Vector Engine
+https://news.ycombinator.com/item?id=15782132
+|######                                            | S: 74 C: 9 R: 0.122
+
+A Year in Computer Vision
+https://news.ycombinator.com/item?id=15784537
+|######                                            | S: 190 C: 23 R: 0.121
+
+Analyze website stack from the terminal
+https://news.ycombinator.com/item?id=15784599
+|#####                                             | S: 43 C: 5 R: 0.116
+
+The HP-35 Design: A Case Study in Innovation (2011) [pdf]
+https://news.ycombinator.com/item?id=15781568
+|#####                                             | S: 61 C: 7 R: 0.115
+
+Start Tracking Satellites with This Low-Cost Azimuth-Elevation Positioner
+https://news.ycombinator.com/item?id=15782125
+|#####                                             | S: 56 C: 6 R: 0.107
+
+A friendly first-principles intro to backprop in python
+https://news.ycombinator.com/item?id=15782156
+|####                                              | S: 122 C: 12 R: 0.098
+
+Amazon Sumerian
+https://news.ycombinator.com/item?id=15785619
+|###                                               | S: 26 C: 2 R: 0.077
+
+TLDR man pages
+https://news.ycombinator.com/item?id=15784401
+|###                                               | S: 28 C: 2 R: 0.071
+
+SCP-3008: An endless Ikea game
+https://news.ycombinator.com/item?id=15785523
+|###                                               | S: 32 C: 2 R: 0.062
+
+How and why to create a good validation set
+https://news.ycombinator.com/item?id=15782745
+|##                                                | S: 43 C: 2 R: 0.047
+
+A handy guide to financial support for open source
+https://news.ycombinator.com/item?id=15784448
+|#                                                 | S: 53 C: 2 R: 0.038
+
+Vitalik Unveils Ethereum 2.0 Roadmap
+https://news.ycombinator.com/item?id=15785512
+|#                                                 | S: 32 C: 1 R: 0.031
+

@@ -1,0 +1,188 @@
+The Problem of Doctors’ Salaries
+https://news.ycombinator.com/item?id=15756950
+|##################################################|############################# S: 284 C: 452 R: 1.592
+
+Britain has abandoned its claim to be the world's fifth largest economy
+https://news.ycombinator.com/item?id=15760981
+|##############################################    | S: 126 C: 116 R: 0.921
+
+Bitcoin Mining Now Consuming More Electricity Than Many Countries
+https://news.ycombinator.com/item?id=15759468
+|############################################      | S: 329 C: 291 R: 0.884
+
+Peter Thiel sells most of remaining Facebook stake
+https://news.ycombinator.com/item?id=15758782
+|##########################################        | S: 207 C: 175 R: 0.845
+
+Stop Using Excel, Finance Chiefs Tell Staffs
+https://news.ycombinator.com/item?id=15756062
+|####################################              | S: 526 C: 383 R: 0.728
+
+Warning Signs About Another Giant Bitcoin Exchange
+https://news.ycombinator.com/item?id=15752983
+|##################################                | S: 347 C: 240 R: 0.692
+
+Cortana is really bad
+https://news.ycombinator.com/item?id=15758641
+|################################                  | S: 400 C: 259 R: 0.647
+
+Bitcoin Is More Expensive to Keep Safe Than Gold
+https://news.ycombinator.com/item?id=15762050
+|#########################                         | S: 128 C: 66 R: 0.516
+
+How to Stop Advertising Notifications from the Google Photo App
+https://news.ycombinator.com/item?id=15762530
+|#########################                         | S: 144 C: 73 R: 0.507
+
+Looking at how many sites use vulnerable JavaScript libraries
+https://news.ycombinator.com/item?id=15759326
+|#######################                           | S: 99 C: 47 R: 0.475
+
+I'm on the FCC. Please stop us from killing net neutrality
+https://news.ycombinator.com/item?id=15762451
+|#######################                           | S: 533 C: 252 R: 0.473
+
+A CEO's Guide to Emacs (2015)
+https://news.ycombinator.com/item?id=15753150
+|#######################                           | S: 346 C: 163 R: 0.471
+
+The Vanual – Guide to Living in a Van
+https://news.ycombinator.com/item?id=15757206
+|#######################                           | S: 222 C: 104 R: 0.468
+
+Show HN: OhMyCo.in – Real-time charts for cryptocurrency markets
+https://news.ycombinator.com/item?id=15759014
+|#######################                           | S: 135 C: 63 R: 0.467
+
+Sugar industry withheld possible evidence of cancer link 50 years ago
+https://news.ycombinator.com/item?id=15759562
+|######################                            | S: 482 C: 219 R: 0.454
+
+Introducing Scrivener 3
+https://news.ycombinator.com/item?id=15760559
+|######################                            | S: 182 C: 81 R: 0.445
+
+Argentina says abnormal noise heard after submarine's last contact as hopes fade
+https://news.ycombinator.com/item?id=15762390
+|######################                            | S: 36 C: 16 R: 0.444
+
+Google collects cell tower info even if location services are disabled
+https://news.ycombinator.com/item?id=15747519
+|####################                              | S: 880 C: 365 R: 0.415
+
+To Save Net Neutrality, We Must Build Our Own Internet
+https://news.ycombinator.com/item?id=15762587
+|####################                              | S: 84 C: 34 R: 0.405
+
+Demystifying Floating Point Precision
+https://news.ycombinator.com/item?id=15757177
+|###################                               | S: 135 C: 52 R: 0.385
+
+Resistance to Being Productive
+https://news.ycombinator.com/item?id=15758070
+|###################                               | S: 196 C: 75 R: 0.383
+
+I'm Testifying to Congress about Data Breaches – What Should I Say?
+https://news.ycombinator.com/item?id=15751344
+|##################                                | S: 604 C: 224 R: 0.371
+
+Uber Paid Hackers to Delete Stolen Data on 57M People
+https://news.ycombinator.com/item?id=15752022
+|#################                                 | S: 1615 C: 563 R: 0.349
+
+Modern Media Is a DoS Attack on Free Will
+https://news.ycombinator.com/item?id=15741565
+|#################                                 | S: 1439 C: 492 R: 0.342
+
+Improving Ruby Performance with Rust
+https://news.ycombinator.com/item?id=15762770
+|#################                                 | S: 97 C: 33 R: 0.340
+
+Accelerating QEMU on Windows with HAXM
+https://news.ycombinator.com/item?id=15759080
+|################                                  | S: 65 C: 21 R: 0.323
+
+Join the Battle for Net Neutrality
+https://news.ycombinator.com/item?id=15754287
+|###############                                   | S: 1235 C: 372 R: 0.301
+
+I thought I could ship at least 700 units to stay in business
+https://news.ycombinator.com/item?id=15763013
+|##############                                    | S: 87 C: 25 R: 0.287
+
+We could build something revolutionary: how tech set underground music free
+https://news.ycombinator.com/item?id=15756627
+|#############                                     | S: 58 C: 16 R: 0.276
+
+A dervish beneath the fixed stars
+https://news.ycombinator.com/item?id=15731995
+|#############                                     | S: 11 C: 3 R: 0.273
+
+Show HN: Gophercises – Coding Exercises for Budding Gophers
+https://news.ycombinator.com/item?id=15761537
+|#############                                     | S: 225 C: 61 R: 0.271
+
+Ajit Pai and the FCC want it to be legal for Comcast to block BitTorrent
+https://news.ycombinator.com/item?id=15762764
+|#############                                     | S: 122 C: 33 R: 0.270
+
+An Open Letter to the FCC
+https://news.ycombinator.com/item?id=15756684
+|#############                                     | S: 750 C: 195 R: 0.260
+
+Show HN: LogoFox – fast logo maker
+https://news.ycombinator.com/item?id=15757844
+|############                                      | S: 359 C: 93 R: 0.259
+
+Replacing x86 firmware with Linux and Go
+https://news.ycombinator.com/item?id=15748900
+|############                                      | S: 480 C: 124 R: 0.258
+
+Last Words of Programmer Bill Zeller
+https://news.ycombinator.com/item?id=15762618
+|############                                      | S: 120 C: 30 R: 0.250
+
+Building the World’s Smallest Atomic Clock: A Nitrogen Atom in a Carbon Cage
+https://news.ycombinator.com/item?id=15761973
+|###########                                       | S: 35 C: 8 R: 0.229
+
+Mitmproxy – Open-source console-based proxy
+https://news.ycombinator.com/item?id=15755286
+|##########                                        | S: 174 C: 38 R: 0.218
+
+How a single PostgreSQL config change improved slow query performance by 50x
+https://news.ycombinator.com/item?id=15761026
+|##########                                        | S: 20 C: 4 R: 0.200
+
+Announcing Rust 1.22
+https://news.ycombinator.com/item?id=15762233
+|#########                                         | S: 97 C: 19 R: 0.196
+
+A Case Study in LASP and Distribution at Scale [video]
+https://news.ycombinator.com/item?id=15759787
+|#########                                         | S: 112 C: 21 R: 0.188
+
+Thunderstorms Observed Triggering Nuclear Reactions in the Sky
+https://news.ycombinator.com/item?id=15762141
+|#########                                         | S: 38 C: 7 R: 0.184
+
+Better Random Number Generation for OpenSSL, Libc, and Linux Mainline
+https://news.ycombinator.com/item?id=15759855
+|########                                          | S: 214 C: 37 R: 0.173
+
+A Man Who Has Lived Alone on an Island for 28 Years
+https://news.ycombinator.com/item?id=15751227
+|########                                          | S: 442 C: 74 R: 0.167
+
+Introducing ProtonMail Contacts
+https://news.ycombinator.com/item?id=15760121
+|#######                                           | S: 69 C: 10 R: 0.145
+
+How Citus Executes Distributed Transactions on Postgres
+https://news.ycombinator.com/item?id=15759881
+|####                                              | S: 105 C: 10 R: 0.095
+
+The History of Photography Is a History of Shattered Glass
+https://news.ycombinator.com/item?id=15731411
+|###                                               | S: 16 C: 1 R: 0.062
+
