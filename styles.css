@@ -6,15 +6,27 @@ body {
   margin: 20px 20%;
 }
 
-.title {
-  display: block;
-  color: black;
-  font-size: 16px;
+a {
   text-decoration: none;
-  margin: 12px 0;
+  color: black;
 }
 
-.stats {
-  font-size: 14px;
-  color: #1f1f1f;
+a:hover {
+  background: #eee;
+}
+
+.title {
+  display: block;
+  font-size: 16px;
+  padding: 6px 0;
+}
+
+.info {
+  display: inline-block;
+  margin-bottom: 6px;
+}
+
+.date-picker {
+  display: inline-block;
+  float: right;
 }
