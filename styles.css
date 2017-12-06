@@ -1,0 +1,20 @@
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+.container {
+  margin: 20px 20%;
+}
+
+.title {
+  display: block;
+  color: black;
+  font-size: 16px;
+  text-decoration: none;
+  margin: 12px 0;
+}
+
+.stats {
+  font-size: 14px;
+  color: #1f1f1f;
+}

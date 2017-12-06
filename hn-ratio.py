@@ -39,7 +39,7 @@ if __name__ == "__main__":
         story.hn_url = "https://news.ycombinator.com/item?id=" + str(story.item_id)
     stories.sort(key=lambda s:s.ratio, reverse=True)
     
-    current_date = datetime.datetime.now().strftime("%Y-%b-%d_%H-%M-%S")
+    current_date = datetime.datetime.now().strftime("%Y-%b-%d")
     fn_json = os.path.join(os.path.dirname(__file__), "results", "{0}.json".format(current_date).lower())
     fn_txt = os.path.join(os.path.dirname(__file__), "results", "{0}-visual.txt".format(current_date).lower())
     with open(fn_json, "w+") as f:
