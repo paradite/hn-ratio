@@ -27,7 +27,6 @@ function generateSelect(dates) {
 }
 
 function onChange() {
-  console.log(`Loading: ${this.value}`);
   loadDate(this.value);
 }
 
@@ -72,7 +71,5 @@ function loadDate(selectedDate) {
 }
 
 var dates = getDates();
-
 generateSelect(dates);
-
 loadDate(dates[dates.length - 1]);
