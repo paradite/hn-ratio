@@ -1,0 +1,180 @@
+Apple Agrees to Deal with Ireland Over $15B Unpaid Tax Issue
+https://news.ycombinator.com/item?id=15844744
+|###############################################   | S: 152 C: 144 R: 0.947
+
+Apple CEO backs China’s ‘open’ Internet vision as censorship reaches new heights
+https://news.ycombinator.com/item?id=15849184
+|#############################################     | S: 201 C: 184 R: 0.915
+
+DNA sketch leads to suspect confession in Texas slaying
+https://news.ycombinator.com/item?id=15840465
+|##########################################        | S: 26 C: 22 R: 0.846
+
+Microwave Towers Bring the Internet to Remote Alaska Villages
+https://news.ycombinator.com/item?id=15841022
+|########################################          | S: 31 C: 25 R: 0.806
+
+Show HN: Echo Podcasts – Goodreads for podcasts
+https://news.ycombinator.com/item?id=15847575
+|#################################                 | S: 105 C: 70 R: 0.667
+
+Man Who Sent World's First Text Message 25 Years Ago
+https://news.ycombinator.com/item?id=15849209
+|##############################                    | S: 31 C: 19 R: 0.613
+
+From Bezos to Walton, Big Investors Back Fund for ‘Flyover’ Startups
+https://news.ycombinator.com/item?id=15849795
+|############################                      | S: 46 C: 26 R: 0.565
+
+Evolution of &lt;img&gt;: Gif without the GIF
+https://news.ycombinator.com/item?id=15845114
+|###########################                       | S: 239 C: 130 R: 0.544
+
+Apache Kafka and GDPR compliance
+https://news.ycombinator.com/item?id=15846539
+|#########################                         | S: 79 C: 40 R: 0.506
+
+Serverless Aurora
+https://news.ycombinator.com/item?id=15846644
+|########################                          | S: 103 C: 50 R: 0.485
+
+The compelling case for working less
+https://news.ycombinator.com/item?id=15849297
+|#######################                           | S: 140 C: 67 R: 0.479
+
+Bat cave solves mystery of SARS virus
+https://news.ycombinator.com/item?id=15846481
+|######################                            | S: 81 C: 36 R: 0.444
+
+Books I read this year
+https://news.ycombinator.com/item?id=15844904
+|######################                            | S: 432 C: 192 R: 0.444
+
+Fewer toys at once may help toddlers to focus better and play more creatively
+https://news.ycombinator.com/item?id=15846336
+|####################                              | S: 395 C: 159 R: 0.403
+
+Self-Censorship on Facebook (2013) [pdf]
+https://news.ycombinator.com/item?id=15831574
+|####################                              | S: 40 C: 16 R: 0.400
+
+The best way to preserve Macintosh software from floppy disks
+https://news.ycombinator.com/item?id=15840169
+|##################                                | S: 48 C: 18 R: 0.375
+
+Is Civilization Overrated?
+https://news.ycombinator.com/item?id=15847404
+|##################                                | S: 24 C: 9 R: 0.375
+
+Using Rust in Mercurial
+https://news.ycombinator.com/item?id=15845419
+|#################                                 | S: 317 C: 114 R: 0.360
+
+Comparison of GreenArrays Chips with TI Micropower Controllers (2010) [pdf]
+https://news.ycombinator.com/item?id=15848772
+|################                                  | S: 27 C: 9 R: 0.333
+
+The Lure of a Better Life, Amid Cold and Darkness
+https://news.ycombinator.com/item?id=15840923
+|################                                  | S: 65 C: 21 R: 0.323
+
+The German Amateurs Who Discovered ‘Insect Armageddon’
+https://news.ycombinator.com/item?id=15849015
+|################                                  | S: 62 C: 20 R: 0.323
+
+High-Speed Trading: Lines, Radios, and Cables
+https://news.ycombinator.com/item?id=15847629
+|###############                                   | S: 111 C: 35 R: 0.315
+
+Nix-build freezes system on macOS High Sierra with multi-user install
+https://news.ycombinator.com/item?id=15846713
+|###############                                   | S: 102 C: 32 R: 0.314
+
+Building a Regex Engine in Fewer Than 40 Lines of Code
+https://news.ycombinator.com/item?id=15840487
+|###############                                   | S: 20 C: 6 R: 0.300
+
+The Booming Server Market in the Wake of Skylake
+https://news.ycombinator.com/item?id=15843527
+|###############                                   | S: 20 C: 6 R: 0.300
+
+Deus Vult - Social Networks in Crusader Kings 2
+https://news.ycombinator.com/item?id=15849106
+|##############                                    | S: 37 C: 11 R: 0.297
+
+How we saved money by replacing Mixpanel with BigQuery and K8S
+https://news.ycombinator.com/item?id=15849662
+|##############                                    | S: 126 C: 37 R: 0.294
+
+The Implicit Association Test falls short of basic scientific standards
+https://news.ycombinator.com/item?id=15843167
+|##############                                    | S: 31 C: 9 R: 0.290
+
+Apple is sharing your facial wireframe with apps
+https://news.ycombinator.com/item?id=15845400
+|############                                      | S: 493 C: 123 R: 0.249
+
+IPvlan overlay-free Kubernetes Networking in AWS
+https://news.ycombinator.com/item?id=15848550
+|############                                      | S: 123 C: 30 R: 0.244
+
+If You Want to Be an Inventor, It Helps a Lot If Dad Is an Inventor
+https://news.ycombinator.com/item?id=15847159
+|############                                      | S: 25 C: 6 R: 0.240
+
+The Old-School Fire Effect and Bare-Metal Programming
+https://news.ycombinator.com/item?id=15828773
+|##########                                        | S: 118 C: 24 R: 0.203
+
+The European Parliament has approved budget for VLC bug bounty program
+https://news.ycombinator.com/item?id=15845359
+|##########                                        | S: 154 C: 31 R: 0.201
+
+Motel Living and Slowly Dying
+https://news.ycombinator.com/item?id=15839242
+|#########                                         | S: 165 C: 32 R: 0.194
+
+Barliman – real-time program synthesis to make the programmer's life easier
+https://news.ycombinator.com/item?id=15839299
+|#########                                         | S: 94 C: 18 R: 0.191
+
+Sysdig Inspect: A GUI for System Call Analysis
+https://news.ycombinator.com/item?id=15849168
+|#######                                           | S: 63 C: 9 R: 0.143
+
+Linux Journal Archive: 1994 – 2017
+https://news.ycombinator.com/item?id=15848502
+|######                                            | S: 15 C: 2 R: 0.133
+
+Proving that Android’s, Java’s and Python’s sorting algorithm is broken
+https://news.ycombinator.com/item?id=15849634
+|#####                                             | S: 10 C: 1 R: 0.100
+
+Andrew Wiles on the struggle and beauty of mathematics
+https://news.ycombinator.com/item?id=15843492
+|####                                              | S: 89 C: 8 R: 0.090
+
+Debugging an evil Go runtime bug
+https://news.ycombinator.com/item?id=15845118
+|###                                               | S: 394 C: 29 R: 0.074
+
+A Mother’s Ninth-Century Manual on How to Be a Man
+https://news.ycombinator.com/item?id=15828301
+|###                                               | S: 44 C: 3 R: 0.068
+
+Using Artificial Intelligence to Augment Human Intelligence
+https://news.ycombinator.com/item?id=15850254
+|###                                               | S: 60 C: 4 R: 0.067
+
+Emacs for the HP49G
+https://news.ycombinator.com/item?id=15849128
+|##                                                | S: 17 C: 1 R: 0.059
+
+A DSL for λ-terms in Scala
+https://news.ycombinator.com/item?id=15843562
+|                                                  | S: 33 C: 0 R: 0.000
+
+Notes Towards an Emularity
+https://news.ycombinator.com/item?id=15840069
+|                                                  | S: 22 C: 0 R: 0.000
+

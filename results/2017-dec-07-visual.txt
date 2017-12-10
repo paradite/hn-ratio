@@ -1,0 +1,180 @@
+$40 road tolls offer insight into commuter psychology
+https://news.ycombinator.com/item?id=15867613
+|##################################################|############################### S: 46 C: 75 R: 1.630
+
+The suicide rate for farmers in the U.S. is more than double that of veterans
+https://news.ycombinator.com/item?id=15861888
+|##################################################|##################### S: 219 C: 311 R: 1.420
+
+Cinemark announces $8.99/mo. subscription to fill more seats, take on MoviePass
+https://news.ycombinator.com/item?id=15865319
+|##################################################|############ S: 97 C: 122 R: 1.258
+
+Integration tests are a symptom of poor design
+https://news.ycombinator.com/item?id=15862994
+|##################################################|############ S: 55 C: 69 R: 1.255
+
+Simplistic programming is underrated
+https://news.ycombinator.com/item?id=15865557
+|##################################################|## S: 57 C: 60 R: 1.053
+
+Show HN: Enviar.io – Real estate landing pages
+https://news.ycombinator.com/item?id=15862196
+|##################################################| S: 47 C: 47 R: 1.000
+
+Angular 5.1 and More Now Available
+https://news.ycombinator.com/item?id=15866187
+|##################################################| S: 39 C: 39 R: 1.000
+
+Coinbase: The Heart of the Bitcoin Frenzy
+https://news.ycombinator.com/item?id=15866946
+|#############################################     | S: 236 C: 214 R: 0.907
+
+Ask HN: Who hires mathematicians?
+https://news.ycombinator.com/item?id=15863010
+|##########################################        | S: 143 C: 121 R: 0.846
+
+Regarding the NiceHash security breach
+https://news.ycombinator.com/item?id=15865613
+|###################################               | S: 136 C: 97 R: 0.713
+
+3-D printed plastic objects that can communicate with WiFi devices
+https://news.ycombinator.com/item?id=15861123
+|###############################                   | S: 364 C: 230 R: 0.632
+
+Down with Determinants (1995)
+https://news.ycombinator.com/item?id=15863334
+|#############################                     | S: 101 C: 60 R: 0.594
+
+The Big Vitamin D Mistake
+https://news.ycombinator.com/item?id=15867918
+|############################                      | S: 203 C: 116 R: 0.571
+
+Volkswagen Official Gets 7-Year Term in Diesel-Emissions Cheating
+https://news.ycombinator.com/item?id=15866233
+|############################                      | S: 301 C: 171 R: 0.568
+
+Ask HN: Huge enterprise customer wants to see our source code
+https://news.ycombinator.com/item?id=15862494
+|############################                      | S: 423 C: 240 R: 0.567
+
+Steam is no longer supporting Bitcoin
+https://news.ycombinator.com/item?id=15863182
+|###########################                       | S: 565 C: 315 R: 0.558
+
+A Final Farewell
+https://news.ycombinator.com/item?id=15865541
+|###########################                       | S: 118 C: 65 R: 0.551
+
+Record low sea ice extent in the Chukchi Sea
+https://news.ycombinator.com/item?id=15866380
+|#########################                         | S: 58 C: 29 R: 0.500
+
+Mastering Chess and Shogi by Self-Play with General Reinforcement Learning
+https://news.ycombinator.com/item?id=15858197
+|########################                          | S: 500 C: 249 R: 0.498
+
+Millions Are Hounded for Debt They Don’t Owe. One Victim Fought Back
+https://news.ycombinator.com/item?id=15862278
+|########################                          | S: 497 C: 245 R: 0.493
+
+About the security content of macOS High Sierra 10.13.2
+https://news.ycombinator.com/item?id=15864637
+|######################                            | S: 193 C: 86 R: 0.446
+
+What Have We Learned from the PDP-11?
+https://news.ycombinator.com/item?id=15865504
+|#####################                             | S: 83 C: 35 R: 0.422
+
+Show HN: Discover, Listen and Discuss Classical Music
+https://news.ycombinator.com/item?id=15860312
+|####################                              | S: 246 C: 100 R: 0.407
+
+Mega Benchmark: Cost of AWS vs. GCE vs. IBM vs. Hetzner for Machine Learning
+https://news.ycombinator.com/item?id=15863252
+|###################                               | S: 87 C: 34 R: 0.391
+
+Chrome Apps are dead, as Google shuts down the Chrome Web Store section
+https://news.ycombinator.com/item?id=15868088
+|#################                                 | S: 48 C: 17 R: 0.354
+
+KornShell – Moving forward
+https://news.ycombinator.com/item?id=15862844
+|#################                                 | S: 49 C: 17 R: 0.347
+
+PostgreSQL HA cluster failure: a post-mortem
+https://news.ycombinator.com/item?id=15861952
+|################                                  | S: 270 C: 90 R: 0.333
+
+The JOS Window System
+https://news.ycombinator.com/item?id=15861528
+|###############                                   | S: 26 C: 8 R: 0.308
+
+Uber paid 20-year-old Florida man to keep data breach secret
+https://news.ycombinator.com/item?id=15866459
+|##############                                    | S: 188 C: 55 R: 0.293
+
+Antidote: CRDT-based distributed database
+https://news.ycombinator.com/item?id=15862895
+|#############                                     | S: 243 C: 68 R: 0.280
+
+How brands secretly buy their way into Forbes, Fast Company, and HuffPost stories
+https://news.ycombinator.com/item?id=15853235
+|############                                      | S: 304 C: 78 R: 0.257
+
+Surging online orders slow Wal-Mart delivery network
+https://news.ycombinator.com/item?id=15867334
+|############                                      | S: 20 C: 5 R: 0.250
+
+Parsons code
+https://news.ycombinator.com/item?id=15860784
+|###########                                       | S: 64 C: 15 R: 0.234
+
+Scudo Hardened Allocator
+https://news.ycombinator.com/item?id=15864924
+|##########                                        | S: 25 C: 5 R: 0.200
+
+Learning with Privacy at Scale
+https://news.ycombinator.com/item?id=15862327
+|#####                                             | S: 120 C: 14 R: 0.117
+
+Error handling in Upspin
+https://news.ycombinator.com/item?id=15867015
+|#####                                             | S: 58 C: 6 R: 0.103
+
+Writing a C Compiler, Part 2
+https://news.ycombinator.com/item?id=15861788
+|####                                              | S: 218 C: 20 R: 0.092
+
+Kata Containers – The speed of containers, the security of VMs
+https://news.ycombinator.com/item?id=15867822
+|####                                              | S: 44 C: 4 R: 0.091
+
+A Peek at David Rockefeller’s Rolodex
+https://news.ycombinator.com/item?id=15867741
+|####                                              | S: 34 C: 3 R: 0.088
+
+Simplicity and Michelson
+https://news.ycombinator.com/item?id=15864261
+|####                                              | S: 24 C: 2 R: 0.083
+
+Block-Sparse GPU Kernels
+https://news.ycombinator.com/item?id=15862812
+|##                                                | S: 57 C: 3 R: 0.053
+
+Some SpiderMonkey Optimizations in Firefox Quantum
+https://news.ycombinator.com/item?id=15860321
+|#                                                 | S: 172 C: 5 R: 0.029
+
+The Open Mathematics of Crystallization [pdf]
+https://news.ycombinator.com/item?id=15859996
+|#                                                 | S: 49 C: 1 R: 0.020
+
+Introspection for C and Its Applications to Library Robustness
+https://news.ycombinator.com/item?id=15861401
+|                                                  | S: 19 C: 0 R: 0.000
+
+Metaparticle: A stdlib for distributed systems from the co-creator of Kubernetes
+https://news.ycombinator.com/item?id=15862644
+|                                                  | S: 29 C: 0 R: 0.000
+

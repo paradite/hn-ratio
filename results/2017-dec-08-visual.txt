@@ -1,0 +1,176 @@
+Goldman Sachs Plans to Clear Bitcoin Futures When They Go Live
+https://news.ycombinator.com/item?id=15874732
+|##################################################|############################# S: 61 C: 97 R: 1.590
+
+As Discord nears 100M users, safety concerns are heard
+https://news.ycombinator.com/item?id=15873181
+|##################################################|# S: 99 C: 101 R: 1.020
+
+I gave Amazon a key to my house and regretted it
+https://news.ycombinator.com/item?id=15870555
+|##########################################        | S: 394 C: 337 R: 0.855
+
+The Merge
+https://news.ycombinator.com/item?id=15871729
+|########################################          | S: 208 C: 170 R: 0.817
+
+A Study of Tabbed Browsing
+https://news.ycombinator.com/item?id=15876757
+|########################################          | S: 35 C: 28 R: 0.800
+
+Patreon’s new service fee spurs concern that creators will lose patrons
+https://news.ycombinator.com/item?id=15872128
+|####################################              | S: 367 C: 269 R: 0.733
+
+Japan eyes startup visa program
+https://news.ycombinator.com/item?id=15875627
+|###############################                   | S: 237 C: 147 R: 0.620
+
+Scientists 'Inject' Information into Monkeys’ Brains
+https://news.ycombinator.com/item?id=15874983
+|#############################                     | S: 52 C: 31 R: 0.596
+
+Radical diet can reverse type 2 diabetes, new study shows
+https://news.ycombinator.com/item?id=15873389
+|#############################                     | S: 353 C: 208 R: 0.589
+
+Newman's Own faces mammoth tax bill after lawmakers fail to spare the foundation
+https://news.ycombinator.com/item?id=15875675
+|#############################                     | S: 77 C: 45 R: 0.584
+
+General Electric to cut 12,000 jobs in power business revamp
+https://news.ycombinator.com/item?id=15874882
+|############################                      | S: 57 C: 33 R: 0.579
+
+Denying Dystopia: The Hope Police in Fact and Fiction
+https://news.ycombinator.com/item?id=15872184
+|############################                      | S: 50 C: 28 R: 0.560
+
+Jailed for a Text: China’s Censors Are Spying on Mobile Chat Groups
+https://news.ycombinator.com/item?id=15876607
+|#######################                           | S: 86 C: 41 R: 0.477
+
+The PhD pioneers
+https://news.ycombinator.com/item?id=15872441
+|#######################                           | S: 41 C: 19 R: 0.463
+
+How Vladimir Lenin Became a Mushroom: A Hoax That Took the Soviet Union by Storm
+https://news.ycombinator.com/item?id=15874839
+|######################                            | S: 107 C: 48 R: 0.449
+
+Safe Pointers in SPARK 2014
+https://news.ycombinator.com/item?id=15874273
+|#####################                             | S: 56 C: 24 R: 0.429
+
+NYC Subway travel time map
+https://news.ycombinator.com/item?id=15875706
+|####################                              | S: 124 C: 50 R: 0.403
+
+A Classic Extension Reborn: Tree Style Tab
+https://news.ycombinator.com/item?id=15869800
+|####################                              | S: 451 C: 181 R: 0.401
+
+Insomnia REST Client
+https://news.ycombinator.com/item?id=15873452
+|###################                               | S: 235 C: 93 R: 0.396
+
+Why You Need a Degree to Work for BigCo (2013)
+https://news.ycombinator.com/item?id=15875509
+|##################                                | S: 27 C: 10 R: 0.370
+
+Moving the NYT Games Platform to Google Cloud With Zero Downtime
+https://news.ycombinator.com/item?id=15870578
+|################                                  | S: 174 C: 58 R: 0.333
+
+The Resulting Fallacy Ruins Decisions: An Interview with Annie Duke
+https://news.ycombinator.com/item?id=15870251
+|###############                                   | S: 45 C: 14 R: 0.311
+
+A Spectator Who Threw a Wrench in the Waymo/Uber Lawsuit
+https://news.ycombinator.com/item?id=15875685
+|###############                                   | S: 163 C: 50 R: 0.307
+
+My Quadriplegic Husband and Me
+https://news.ycombinator.com/item?id=15875772
+|###############                                   | S: 124 C: 38 R: 0.306
+
+Infinite Loops
+https://news.ycombinator.com/item?id=15873889
+|##############                                    | S: 47 C: 14 R: 0.298
+
+GNU Guix and GuixSD 0.14.0 released
+https://news.ycombinator.com/item?id=15874810
+|##############                                    | S: 46 C: 13 R: 0.283
+
+Distributed Performance Testing in the Cloud with JMeter and AWS
+https://news.ycombinator.com/item?id=15873443
+|#############                                     | S: 38 C: 10 R: 0.263
+
+Pioneer: a game of lonely space adventure
+https://news.ycombinator.com/item?id=15875695
+|###########                                       | S: 93 C: 22 R: 0.237
+
+Quantum Computing Explained
+https://news.ycombinator.com/item?id=15870114
+|##########                                        | S: 198 C: 40 R: 0.202
+
+Nvidia Announces “Titan V” Video Card: GV100 for $3000
+https://news.ycombinator.com/item?id=15877262
+|#########                                         | S: 22 C: 4 R: 0.182
+
+Show HN: Counting Foot Traffic Over IP Webcams
+https://news.ycombinator.com/item?id=15874866
+|#########                                         | S: 105 C: 19 R: 0.181
+
+Kubeflow – Machine Learning Toolkit for Kubernetes
+https://news.ycombinator.com/item?id=15873659
+|#########                                         | S: 155 C: 28 R: 0.181
+
+Go 1.10 Beta 1 is released
+https://news.ycombinator.com/item?id=15875545
+|########                                          | S: 34 C: 6 R: 0.176
+
+IBM scientists demonstrate 10x faster large-scale machine learning using GPUs
+https://news.ycombinator.com/item?id=15869967
+|########                                          | S: 220 C: 37 R: 0.168
+
+Mysterious attacks on U.S. diplomats in Cuba have left them with brain damage
+https://news.ycombinator.com/item?id=15876654
+|#######                                           | S: 13 C: 2 R: 0.154
+
+The Handled Ancient American Watermelon
+https://news.ycombinator.com/item?id=15869250
+|#######                                           | S: 116 C: 17 R: 0.147
+
+Wall Street banks hit pause button on Bitcoin
+https://news.ycombinator.com/item?id=15876497
+|######                                            | S: 38 C: 5 R: 0.132
+
+The World Might Be Better Off Without College for Everyone
+https://news.ycombinator.com/item?id=15876433
+|#####                                             | S: 18 C: 2 R: 0.111
+
+How Australian Tech Companies Can Think About Silicon Valley
+https://news.ycombinator.com/item?id=15876465
+|####                                              | S: 66 C: 6 R: 0.091
+
+Use machine learning to find energy materials
+https://news.ycombinator.com/item?id=15875103
+|###                                               | S: 26 C: 2 R: 0.077
+
+Decoding an air conditioner control's checksum with differential cryptanalysis
+https://news.ycombinator.com/item?id=15873045
+|###                                               | S: 137 C: 10 R: 0.073
+
+Bookbinding: A Tutorial
+https://news.ycombinator.com/item?id=15876260
+|###                                               | S: 99 C: 7 R: 0.071
+
+Historic NASA Project Files and Software Appear in Amiga 2500 EBay Listing
+https://news.ycombinator.com/item?id=15863425
+|###                                               | S: 32 C: 2 R: 0.062
+
+DNA self-assembly scaled up
+https://news.ycombinator.com/item?id=15873675
+|                                                  | S: 10 C: 0 R: 0.000
+

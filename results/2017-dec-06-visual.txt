@@ -1,0 +1,164 @@
+Student Loan Debt Is Now as Big as the U.S. Junk Bond Market
+https://news.ycombinator.com/item?id=15852586
+|##################################################|######## S: 342 C: 400 R: 1.170
+
+The FastMail Security Mindset
+https://news.ycombinator.com/item?id=15853477
+|##################################################|#### S: 225 C: 243 R: 1.080
+
+Google Is Blocking YouTube on Amazon's Echo Show and Fire TV
+https://news.ycombinator.com/item?id=15857095
+|################################################# | S: 146 C: 144 R: 0.986
+
+Apple Introduces Search Ads Basic
+https://news.ycombinator.com/item?id=15858088
+|#############################################     | S: 80 C: 72 R: 0.900
+
+Alexa, are you listening?
+https://news.ycombinator.com/item?id=15852950
+|#########################################         | S: 157 C: 131 R: 0.834
+
+CryptoKitties craze slows down transactions on Ethereum
+https://news.ycombinator.com/item?id=15853290
+|#####################################             | S: 211 C: 157 R: 0.744
+
+“I Don't Like Your Examples” (2000)
+https://news.ycombinator.com/item?id=15858641
+|#################################                 | S: 99 C: 66 R: 0.667
+
+How I recovered cryptocurrency from a broken laptop
+https://news.ycombinator.com/item?id=15858427
+|###############################                   | S: 76 C: 48 R: 0.632
+
+Microsoft launches Windows 10 on ARM
+https://news.ycombinator.com/item?id=15855195
+|##############################                    | S: 339 C: 209 R: 0.617
+
+Why I love Go
+https://news.ycombinator.com/item?id=15856111
+|##############################                    | S: 190 C: 116 R: 0.611
+
+Portugal’s radical drug policy is working. Why hasn’t the world copied it?
+https://news.ycombinator.com/item?id=15857833
+|##############################                    | S: 239 C: 145 R: 0.607
+
+Blue Planet II Comes to iPlayer in 4K High Dynamic Range
+https://news.ycombinator.com/item?id=15855775
+|############################                      | S: 58 C: 33 R: 0.569
+
+Qualcomm announces the Snapdragon 845 processor
+https://news.ycombinator.com/item?id=15855408
+|###########################                       | S: 53 C: 29 R: 0.547
+
+The Cost Savings Of Netflix's Internal Spot Market
+https://news.ycombinator.com/item?id=15851204
+|##########################                        | S: 149 C: 79 R: 0.530
+
+Drowning in Garbage
+https://news.ycombinator.com/item?id=15857639
+|#####################                             | S: 32 C: 14 R: 0.438
+
+On Making Oneself Less Unreadable
+https://news.ycombinator.com/item?id=15849843
+|#####################                             | S: 87 C: 38 R: 0.437
+
+Cinema’s greatest scene: ‘Casablanca’ and ‘La Marseillaise’
+https://news.ycombinator.com/item?id=15847331
+|####################                              | S: 159 C: 66 R: 0.415
+
+Zeta Global acquires Disqus (YC S07)
+https://news.ycombinator.com/item?id=15851385
+|####################                              | S: 214 C: 86 R: 0.402
+
+Mastering Chess and Shogi by Self-Play with General Reinforcement Learning
+https://news.ycombinator.com/item?id=15858197
+|###################                               | S: 248 C: 95 R: 0.383
+
+Parcel – A fast, zero configuration web application bundler
+https://news.ycombinator.com/item?id=15853149
+|##################                                | S: 388 C: 143 R: 0.369
+
+Is there data on the quality of management decisions?
+https://news.ycombinator.com/item?id=15851609
+|##################                                | S: 168 C: 61 R: 0.363
+
+Dependent Types for F#
+https://news.ycombinator.com/item?id=15852517
+|#################                                 | S: 131 C: 47 R: 0.359
+
+Implementing Photoshop 2.0 using GAN
+https://news.ycombinator.com/item?id=15853781
+|#################                                 | S: 17 C: 6 R: 0.353
+
+Virtual Keyboard Developer Leaked 31M Client Records
+https://news.ycombinator.com/item?id=15851868
+|################                                  | S: 208 C: 68 R: 0.327
+
+Introduction to logic programming with Prolog
+https://news.ycombinator.com/item?id=15850874
+|###############                                   | S: 266 C: 83 R: 0.312
+
+How brands secretly buy their way into Forbes, Fast Company, and HuffPost stories
+https://news.ycombinator.com/item?id=15853235
+|###############                                   | S: 144 C: 44 R: 0.306
+
+Dynamic Configuration with the HAProxy Runtime API
+https://news.ycombinator.com/item?id=15854205
+|##############                                    | S: 47 C: 14 R: 0.298
+
+“Follow-The-Workload” Beats the Latency-Survivability Tradeoff in CockroachDB
+https://news.ycombinator.com/item?id=15855978
+|##############                                    | S: 71 C: 21 R: 0.296
+
+Introducing Conduit – open-source service mesh for Kubernetes
+https://news.ycombinator.com/item?id=15852629
+|##############                                    | S: 171 C: 49 R: 0.287
+
+Show HN: SeKey: An SSH Agent for OS X, Using Secure Enclave and TouchID, in Rust
+https://news.ycombinator.com/item?id=15853345
+|#############                                     | S: 161 C: 45 R: 0.280
+
+C++17 Standard Published
+https://news.ycombinator.com/item?id=15856222
+|#############                                     | S: 215 C: 60 R: 0.279
+
+AMA: NY AG Schneiderman on net neutrality and protecting our voice in government
+https://news.ycombinator.com/item?id=15853374
+|###########                                       | S: 1019 C: 234 R: 0.230
+
+Amazon’s Australian Launch Brings Excitement, Dread and Defiance
+https://news.ycombinator.com/item?id=15851696
+|##########                                        | S: 15 C: 3 R: 0.200
+
+Neural Networks in JavaScript with Deeplearn.js
+https://news.ycombinator.com/item?id=15855399
+|#########                                         | S: 313 C: 62 R: 0.198
+
+‘Outsiders’ Crack 50-Year-Old Math Problem (2015)
+https://news.ycombinator.com/item?id=15857318
+|########                                          | S: 107 C: 18 R: 0.168
+
+Mozilla Files Cross-Complaint Against Yahoo Holdings and Oath
+https://news.ycombinator.com/item?id=15857819
+|#######                                           | S: 120 C: 17 R: 0.142
+
+Show HN: Misocoin – A barebones Bitcoin-like protocol implemented in Python 3.6
+https://news.ycombinator.com/item?id=15851927
+|######                                            | S: 141 C: 17 R: 0.121
+
+Crystal Survey 2017 Results
+https://news.ycombinator.com/item?id=15857690
+|####                                              | S: 54 C: 5 R: 0.093
+
+An Excerpt from “Keef,” a Novel About the Magical “Witching Drug” (1897)
+https://news.ycombinator.com/item?id=15855650
+|##                                                | S: 21 C: 1 R: 0.048
+
+Announcing Core ML Support in TensorFlow Lite
+https://news.ycombinator.com/item?id=15854638
+|#                                                 | S: 28 C: 1 R: 0.036
+
+Containerd 1.0 released
+https://news.ycombinator.com/item?id=15855005
+|                                                  | S: 33 C: 0 R: 0.000
+

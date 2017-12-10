@@ -1,0 +1,172 @@
+An Alexa Holdout Wants to Know Who’s Listening
+https://news.ycombinator.com/item?id=15882851
+|##################################################|############ S: 60 C: 75 R: 1.250
+
+‘Shared Space’ Design: Road Signs Suck. What If We Got Rid of Them All?
+https://news.ycombinator.com/item?id=15883677
+|##################################################|##### S: 18 C: 20 R: 1.111
+
+Apple’s widened ban on templated apps wiping small businesses from the App Store
+https://news.ycombinator.com/item?id=15881205
+|##################################################| S: 65 C: 65 R: 1.000
+
+Show HN: A New, Clean Geolocation API
+https://news.ycombinator.com/item?id=15879115
+|################################################# | S: 151 C: 149 R: 0.987
+
+Apple is close to acquiring Shazam, sources say
+https://news.ycombinator.com/item?id=15881896
+|########################################          | S: 303 C: 244 R: 0.805
+
+Whale Watching: Many companies earn a huge portion of sales from a few customers
+https://news.ycombinator.com/item?id=15880724
+|##################################                | S: 192 C: 134 R: 0.698
+
+Currying is not idiomatic in JavaScript
+https://news.ycombinator.com/item?id=15882776
+|##################################                | S: 54 C: 37 R: 0.685
+
+Bitcoin: A Peer-to-Peer Electronic Cash System (2008) [pdf]
+https://news.ycombinator.com/item?id=15883186
+|###############################                   | S: 371 C: 232 R: 0.625
+
+Ask HN: Can we adapt AlphaZero's self-play technique for better human learning?
+https://news.ycombinator.com/item?id=15881553
+|##############################                    | S: 45 C: 27 R: 0.600
+
+Japan eyes startup visa program
+https://news.ycombinator.com/item?id=15875627
+|############################                      | S: 349 C: 199 R: 0.570
+
+Lisp at the Frontier of Computation [video]
+https://news.ycombinator.com/item?id=15880172
+|############################                      | S: 154 C: 87 R: 0.565
+
+Mozilla’s revenue increased significantly in 2016
+https://news.ycombinator.com/item?id=15880565
+|#########################                         | S: 225 C: 116 R: 0.516
+
+Show HN: Lockbox – simple encryption with key management
+https://news.ycombinator.com/item?id=15881185
+|#########################                         | S: 22 C: 11 R: 0.500
+
+Hedge funds embrace machine learning up to a point
+https://news.ycombinator.com/item?id=15880875
+|########################                          | S: 79 C: 38 R: 0.481
+
+Learn to sell
+https://news.ycombinator.com/item?id=15879735
+|######################                            | S: 290 C: 128 R: 0.441
+
+Photo-realistic lip-sync from text
+https://news.ycombinator.com/item?id=15883777
+|#####################                             | S: 100 C: 43 R: 0.430
+
+State of Startups 2017 Survey Results
+https://news.ycombinator.com/item?id=15884400
+|#####################                             | S: 35 C: 15 R: 0.429
+
+Modern Front-end in Rails
+https://news.ycombinator.com/item?id=15878823
+|#####################                             | S: 317 C: 135 R: 0.426
+
+A Hacker Writes a Children's Book
+https://news.ycombinator.com/item?id=15879519
+|####################                              | S: 160 C: 64 R: 0.400
+
+Stopify – An experimental, web-based code editor
+https://news.ycombinator.com/item?id=15882858
+|###################                               | S: 72 C: 28 R: 0.389
+
+Goldman Traders Are Caught Up in a Bizarre, Tense Hedge Fund Battle
+https://news.ycombinator.com/item?id=15878196
+|##################                                | S: 132 C: 49 R: 0.371
+
+MRAM-Like Device Could Make Logic Run Backwards
+https://news.ycombinator.com/item?id=15881900
+|#################                                 | S: 39 C: 14 R: 0.359
+
+Clojure 1.9 is now available
+https://news.ycombinator.com/item?id=15881440
+|################                                  | S: 253 C: 86 R: 0.340
+
+Turi Create simplifies the development of custom machine learning models
+https://news.ycombinator.com/item?id=15882509
+|###############                                   | S: 144 C: 45 R: 0.312
+
+Advice for new Ph.D. students (2013)
+https://news.ycombinator.com/item?id=15884169
+|##############                                    | S: 47 C: 14 R: 0.298
+
+Rendering AJAX-crawling pages
+https://news.ycombinator.com/item?id=15880125
+|############                                      | S: 100 C: 25 R: 0.250
+
+Ask HN: What should I know before I invest fully in CSS grid?
+https://news.ycombinator.com/item?id=15880697
+|############                                      | S: 64 C: 16 R: 0.250
+
+Reading Information Aloud to Yourself Improves Memory: Study
+https://news.ycombinator.com/item?id=15880451
+|###########                                       | S: 102 C: 23 R: 0.225
+
+IPFS Pubsub: Distributed named pubsub channels based in the IPFS Cloud
+https://news.ycombinator.com/item?id=15879752
+|#########                                         | S: 178 C: 34 R: 0.191
+
+Bicycle Built for 2,000 (2009)
+https://news.ycombinator.com/item?id=15880159
+|#########                                         | S: 88 C: 16 R: 0.182
+
+The Last Death-Defying Honey Hunter of Nepal
+https://news.ycombinator.com/item?id=15879724
+|########                                          | S: 79 C: 14 R: 0.177
+
+Interview with Xavier Leroy
+https://news.ycombinator.com/item?id=15880446
+|#######                                           | S: 108 C: 17 R: 0.157
+
+A nefarious but incompetent spyware campaign targeting Ethiopian dissidents
+https://news.ycombinator.com/item?id=15879605
+|#######                                           | S: 56 C: 8 R: 0.143
+
+Liberapay – A recurrent donations platform
+https://news.ycombinator.com/item?id=15882912
+|######                                            | S: 63 C: 8 R: 0.127
+
+Bitcoin for Gold – Major Gold Dealer Now Accepting Bitcoin
+https://news.ycombinator.com/item?id=15881981
+|#####                                             | S: 17 C: 2 R: 0.118
+
+World’s tiniest Mac Plus has ESP32 inside
+https://news.ycombinator.com/item?id=15880450
+|#####                                             | S: 17 C: 2 R: 0.118
+
+Neural Network on a Commodore 64 (1987)
+https://news.ycombinator.com/item?id=15882683
+|#####                                             | S: 20 C: 2 R: 0.100
+
+Flare: Clojure Dynamic Neural Net Library
+https://news.ycombinator.com/item?id=15878938
+|####                                              | S: 140 C: 12 R: 0.086
+
+Making a Game Boy game in 2017
+https://news.ycombinator.com/item?id=15884051
+|####                                              | S: 143 C: 12 R: 0.084
+
+BrewChain – NodeJS blockchain implementation
+https://news.ycombinator.com/item?id=15882877
+|###                                               | S: 83 C: 5 R: 0.060
+
+Brain-Interface Technology Advances Provide Clearer Insight into Visual System
+https://news.ycombinator.com/item?id=15880329
+|##                                                | S: 52 C: 3 R: 0.058
+
+A Practical Quantum Instruction Set Architecture
+https://news.ycombinator.com/item?id=15883156
+|#                                                 | S: 37 C: 1 R: 0.027
+
+The Family Gene
+https://news.ycombinator.com/item?id=15884246
+|                                                  | S: 14 C: 0 R: 0.000
+

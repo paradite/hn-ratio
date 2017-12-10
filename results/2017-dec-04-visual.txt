@@ -1,0 +1,172 @@
+My offer numbers from big companies
+https://news.ycombinator.com/item?id=15841738
+|##################################################|################### S: 148 C: 206 R: 1.392
+
+Can I erase sensitive data on an old hard drive with Neodymium Magnets?
+https://news.ycombinator.com/item?id=15837182
+|##################################################|### S: 96 C: 102 R: 1.062
+
+Upcoming HDMI 2.1 Features
+https://news.ycombinator.com/item?id=15840034
+|################################################  | S: 63 C: 61 R: 0.968
+
+Lost Einsteins: The Innovations We’re Missing
+https://news.ycombinator.com/item?id=15841624
+|#############################################     | S: 44 C: 40 R: 0.909
+
+Redbox's Workaround for Stocking Disney Movies Backfires with Lawsuit
+https://news.ycombinator.com/item?id=15836307
+|#########################################         | S: 77 C: 64 R: 0.831
+
+AlphaSmart
+https://news.ycombinator.com/item?id=15836866
+|####################################              | S: 61 C: 44 R: 0.721
+
+Enter 'petro': Venezuela to launch oil-backed cryptocurrency
+https://news.ycombinator.com/item?id=15839922
+|###################################               | S: 109 C: 78 R: 0.716
+
+Some of China's greatest advances depend heavily on local conditions
+https://news.ycombinator.com/item?id=15840337
+|#################################                 | S: 84 C: 57 R: 0.679
+
+CVS Is Said to Agree to Buy Aetna
+https://news.ycombinator.com/item?id=15838998
+|#################################                 | S: 192 C: 128 R: 0.667
+
+Maintaining an Independent Browser Is Expensive
+https://news.ycombinator.com/item?id=15836027
+|################################                  | S: 418 C: 272 R: 0.651
+
+People have spent over $1M buying virtual cats on the Ethereum blockchain
+https://news.ycombinator.com/item?id=15840594
+|###############################                   | S: 130 C: 82 R: 0.631
+
+Reducing Chrome crashes caused by third-party software
+https://news.ycombinator.com/item?id=15824492
+|#############################                     | S: 27 C: 16 R: 0.593
+
+Redoing all my home networking
+https://news.ycombinator.com/item?id=15838844
+|############################                      | S: 253 C: 145 R: 0.573
+
+Randomize your WiFi MAC address on Ubuntu
+https://news.ycombinator.com/item?id=15837273
+|##########################                        | S: 188 C: 100 R: 0.532
+
+About the apps that Apple censored in China
+https://news.ycombinator.com/item?id=15836739
+|#########################                         | S: 43 C: 22 R: 0.512
+
+What happens when patients find out how good their doctors are? (2004)
+https://news.ycombinator.com/item?id=15840525
+|#######################                           | S: 222 C: 103 R: 0.464
+
+Fool Britannia: the future of the UK has never looked so grim
+https://news.ycombinator.com/item?id=15840091
+|######################                            | S: 11 C: 5 R: 0.455
+
+Never edit a method, always rewrite it
+https://news.ycombinator.com/item?id=15828514
+|####################                              | S: 44 C: 18 R: 0.409
+
+Reflecting on Haskell in 2017
+https://news.ycombinator.com/item?id=15841259
+|###################                               | S: 133 C: 53 R: 0.398
+
+Amazon, in hunt for lower prices, recruits Indian merchants
+https://news.ycombinator.com/item?id=15838736
+|##################                                | S: 118 C: 44 R: 0.373
+
+Reinventing the FPGA Programming Wheel
+https://news.ycombinator.com/item?id=15841095
+|################                                  | S: 24 C: 8 R: 0.333
+
+Dice Become Ordered When Stirred, Not Shaken
+https://news.ycombinator.com/item?id=15837882
+|###############                                   | S: 179 C: 56 R: 0.313
+
+India's 'Cashew Capital' Loses Ground in Global Race [video]
+https://news.ycombinator.com/item?id=15836457
+|###############                                   | S: 26 C: 8 R: 0.308
+
+Linux on an 8-bit microcontroller
+https://news.ycombinator.com/item?id=15841241
+|###############                                   | S: 30 C: 9 R: 0.300
+
+Using LD_PRELOAD to cheat, inject features and investigate programs (2013)
+https://news.ycombinator.com/item?id=15841312
+|##############                                    | S: 61 C: 18 R: 0.295
+
+Taking a sabbatical to work on Ruby profiling tools
+https://news.ycombinator.com/item?id=15838725
+|#############                                     | S: 109 C: 30 R: 0.275
+
+A TensorFlow implementation of Baidu's DeepSpeech architecture
+https://news.ycombinator.com/item?id=15837365
+|############                                      | S: 144 C: 37 R: 0.257
+
+How Stripe Designs Websites
+https://news.ycombinator.com/item?id=15838270
+|##########                                        | S: 325 C: 67 R: 0.206
+
+Mal Lisp for TempleOS
+https://news.ycombinator.com/item?id=15840054
+|#########                                         | S: 88 C: 16 R: 0.182
+
+Show HN: SumEval – Multi-language evaluation framework for text summarization
+https://news.ycombinator.com/item?id=15822366
+|#########                                         | S: 11 C: 2 R: 0.182
+
+Maps Showing Where FBI Planes Are Watching from Above (2016)
+https://news.ycombinator.com/item?id=15837405
+|########                                          | S: 163 C: 27 R: 0.166
+
+Implicit Scope and Implicit Resolution in Scala
+https://news.ycombinator.com/item?id=15836720
+|#######                                           | S: 19 C: 3 R: 0.158
+
+The microscope makers
+https://news.ycombinator.com/item?id=15837093
+|######                                            | S: 37 C: 5 R: 0.135
+
+Nara – the typeface that never existed (2011)
+https://news.ycombinator.com/item?id=15840504
+|######                                            | S: 55 C: 7 R: 0.127
+
+Show HN: Manage web sockets from AWS Lambda using Fanout
+https://news.ycombinator.com/item?id=15840573
+|#####                                             | S: 48 C: 5 R: 0.104
+
+Hands-on with the PocketBeagle: a $25 Linux computer with lots of I/O pins
+https://news.ycombinator.com/item?id=15839053
+|#####                                             | S: 30 C: 3 R: 0.100
+
+Computer Topology and 3-Manifolds pg. 312 [pdf]
+https://news.ycombinator.com/item?id=15841249
+|####                                              | S: 21 C: 2 R: 0.095
+
+Optimization for Deep Learning Highlights
+https://news.ycombinator.com/item?id=15839564
+|####                                              | S: 79 C: 7 R: 0.089
+
+Web Assembly now supported across all browsers
+https://news.ycombinator.com/item?id=15840599
+|####                                              | S: 84 C: 7 R: 0.083
+
+Nightcoders.net – A Cloud IDE for Clojure
+https://news.ycombinator.com/item?id=15836297
+|##                                                | S: 105 C: 6 R: 0.057
+
+Nations agree to ban fishing in Arctic Ocean for at least 16 years
+https://news.ycombinator.com/item?id=15841011
+|                                                  | S: 68 C: 1 R: 0.015
+
+Theoretical Machine Learning Lecture Series: Deep Learning and Cognition
+https://news.ycombinator.com/item?id=15840131
+|                                                  | S: 88 C: 1 R: 0.011
+
+Titanic: Machine Learning from Disaster
+https://news.ycombinator.com/item?id=15840361
+|                                                  | S: 12 C: 0 R: 0.000
+
