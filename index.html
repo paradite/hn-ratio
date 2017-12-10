@@ -2,14 +2,37 @@
 <html>
 <head>
   <title>hn-ratio</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
   <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
   <link rel="stylesheet" type="text/css" href="styles.css">
 </head>
 <body>
   <div class="container">
     <h1>hn-ratio</h1>
+    <div class="header">
+      <div class="info">[Ratio] Title (Comment/Score)</div>
+      <div class="date-picker">
+        <select id="date-select"></select>
+      </div>
+    </div>
     <div class="content"></div>
+    <div>
+      <h2>Why?</h2>
+      <p>
+        Being a long-time Hacker News reader, I realized that most interesting HN submissions for me are of two categories:
+        <br>
+        - stories that attract a lot of attention and comments, signaling active and extended debates
+        <br>
+        - stories that attract a lot of attention but few comments, signaling very insightful post that requires no further comments
+        <br>
+        Hence, I used the Comment/Score ratio to sort the top HN submissions and locate these stories at the top and the bottom of the list.
+      </p>
+      <p>
+        <a href="https://github.com/paradite/hn-ratio">GitHub</a>
+      </p>
+    </div>
   </div>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.19.3/moment.min.js"></script>
   <script src="https://d3js.org/d3.v4.min.js"></script>
   <script src="app.js"></script>
 </body>

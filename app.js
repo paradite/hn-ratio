@@ -1,42 +1,78 @@
 const date = '2017-dec-03';
 
-d3.json(`results/${date}.json`, function(data) {
-  
-  var contentWrapper = d3.select('.content');
+function getDates() {
+  var dates = [];
+  var endDate = moment('2017-12-09');
+  var startDate = moment('2017-10-01');
+  while(startDate.isSameOrBefore(endDate)) {
+    dates.push(startDate.format('YYYY-MMM-DD').toLowerCase());
+    startDate.add(1, 'days');
+  }
+  return dates;
+}
 
-  contentWrapper.append('div')
-    .classed('info', true)
-    .text('[Ratio] Title (Comment/Score)')
+function generateSelect(dates) {
+  var selectBox = d3.select('#date-select')
+  var options = selectBox
+    .on('change',onChange)
+    .selectAll('option')
+    .data(dates);
 
-  contentWrapper.append('div')
-    .classed('date-picker', true)
-    .text(`Select a date: ${date}`)
+  options.enter()
+    .append('option')
+    .attr('value', function(d) { return d; })
+    .text(function(d) { return d; });
 
-  var dataContent = contentWrapper
-    .selectAll('div.row')
-    .data(data);
+  selectBox.node().value = dates[dates.length - 1];
+}
 
-  var contentEnterWrapper = dataContent
-    .enter()
-    .append('div')
-    .classed('row', true);
+function onChange() {
+  console.log(`Loading: ${this.value}`);
+  loadDate(this.value);
+}
 
-  contentEnterWrapper
-    .append('a')
-    .classed('title', true)
-    .attr('href', function(d) {
-      return d.hn_url;
-    })
-    .text(function(d) {
-      return `[${d.ratio.toFixed(2)}] ${d.title} (${d.comments}/${d.score})`;
-    })
+function formatTime(timeStr) {
+  return moment(timeStr).fromNow();
+}
 
-  contentWrapper.append('p')
-    .append('a')
-    .attr('href', function(d) {
-      return 'https://github.com/paradite/hn-ratio';
-    })
-    .text(function(d) {
-      return 'GitHub';
-    })
-});
+function loadDate(selectedDate) {
+  d3.json(`results/${selectedDate}.json`, function(data) {
+    var contentWrapper = d3.select('.content');
+
+    console.log(data[0]);
+
+    var dataContent = contentWrapper
+      .selectAll('div.row')
+      .data(data, function(d) { return d.item_id; });
+
+    var contentEnterWrapper = dataContent
+      .enter()
+      .append('div')
+      .classed('row', true);
+
+    dataContent.exit().remove();
+
+    contentEnterWrapper
+      .append('a')
+      .classed('title', true)
+      .attr('href', function(d) {
+        return d.hn_url;
+      })
+      .text(function(d) {
+        return `[${d.ratio.toFixed(2)}] ${d.title} (${d.comments}/${d.score})`;
+      });
+
+    contentEnterWrapper
+      .append('div')
+      .classed('secondary-text', true)
+      .text(function(d) {
+        return `by ${d.by} ${formatTime(d.submission_time)}`;
+      });
+  });
+}
+
+var dates = getDates();
+
+generateSelect(dates);
+
+loadDate(dates[dates.length - 1]);

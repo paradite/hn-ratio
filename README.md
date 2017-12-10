@@ -11,11 +11,20 @@ Being a long-time Hacker News reader, I realized that most interesting HN submis
 
 Hence, I used the Comment/Score ratio to sort the top HN submissions and locate these stories at the top and the bottom of the list.
 
-## Results
+## Result
 
-[Results by date](https://github.com/paradite/hn-ratio/tree/master/results)
+[Web App](https://paradite.github.io/hn-ratio/)
+
+[Raw results by date](https://github.com/paradite/hn-ratio/tree/master/results)
 
 Note that new "promoted" stories with low votes and HN-backed job listings are filtered.
+
+## Why not use HN API in real time?
+
+- It takes some time to get all the data from Hacker News
+- HN API does not have archive for top stories in past, whereas I want an archive so that I can find what I missed
+
+Currently I have a cron job set up on my VPS to get the data daily, and I need to manually commit the data into the repo once in a while. I can probably set up a CI to do this when I have more time.
 
 ## How to run the script
 
