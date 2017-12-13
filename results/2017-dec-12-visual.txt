@@ -1,0 +1,192 @@
+Why doesn’t Apple make its devices as carefully as it’s making Apple Park?
+https://news.ycombinator.com/item?id=15902875
+|##################################################|###################### S: 44 C: 64 R: 1.455
+
+Automakers: Don't Ask Customers What They Want
+https://news.ycombinator.com/item?id=15898348
+|##################################################|################## S: 129 C: 178 R: 1.380
+
+Nintendo’s Resurgence
+https://news.ycombinator.com/item?id=15900404
+|##################################################|#### S: 124 C: 134 R: 1.081
+
+Turbolinks: SPA-like Experience without the SPA-framework Hassle
+https://news.ycombinator.com/item?id=15898334
+|##################################################|## S: 73 C: 76 R: 1.041
+
+Re: Moving from PHP to Go and Back Again
+https://news.ycombinator.com/item?id=15903101
+|#####################################             | S: 100 C: 74 R: 0.740
+
+Soylent’s Next Chapter
+https://news.ycombinator.com/item?id=15900151
+|###################################               | S: 164 C: 118 R: 0.720
+
+Ask HN: Fully online CS degrees?
+https://news.ycombinator.com/item?id=15899383
+|################################                  | S: 144 C: 93 R: 0.646
+
+AI-Assisted Fake Porn Is Here
+https://news.ycombinator.com/item?id=15899569
+|################################                  | S: 148 C: 95 R: 0.642
+
+High-Level Problems with Git and How to Fix Them
+https://news.ycombinator.com/item?id=15902995
+|###############################                   | S: 143 C: 91 R: 0.636
+
+Show HN: AssassinationFiles.net – JFK Declassified Document Search
+https://news.ycombinator.com/item?id=15900442
+|###############################                   | S: 108 C: 67 R: 0.620
+
+The Future of Work Is Uncertain, Schools Should Worry Now
+https://news.ycombinator.com/item?id=15902458
+|############################                      | S: 26 C: 15 R: 0.577
+
+Shot by Cops and Forgotten
+https://news.ycombinator.com/item?id=15903087
+|###########################                       | S: 59 C: 33 R: 0.559
+
+Tech luminaries call net neutrality vote an 'imminent threat'
+https://news.ycombinator.com/item?id=15898304
+|##########################                        | S: 267 C: 140 R: 0.524
+
+Breakthrough Listen Project to Observe Interstellar Object ‘Oumuamua
+https://news.ycombinator.com/item?id=15900381
+|#########################                         | S: 75 C: 38 R: 0.507
+
+Learning Smalltalk is not a waste of time
+https://news.ycombinator.com/item?id=15903257
+|#########################                         | S: 14 C: 7 R: 0.500
+
+Apple Buys Shazam to Boost Apple Music
+https://news.ycombinator.com/item?id=15899065
+|#######################                           | S: 317 C: 148 R: 0.467
+
+YouTube Demonetization Screenshot Leaks and Secret YouTube Meeting
+https://news.ycombinator.com/item?id=15902993
+|#######################                           | S: 125 C: 58 R: 0.464
+
+Show HN: LibreRead 1.0 – Self-Hosted Free Ebook Reader
+https://news.ycombinator.com/item?id=15897259
+|#####################                             | S: 192 C: 81 R: 0.422
+
+Jim Simons: The Numbers King
+https://news.ycombinator.com/item?id=15902784
+|####################                              | S: 50 C: 20 R: 0.400
+
+Telegram Isn't for Sale at Any Price
+https://news.ycombinator.com/item?id=15903330
+|###################                               | S: 54 C: 21 R: 0.389
+
+Former Facebook exec says social media is ripping apart society
+https://news.ycombinator.com/item?id=15900551
+|###################                               | S: 403 C: 156 R: 0.387
+
+Show HN: Sandglass – Distributed, scalable, persistent time-sorted message queue
+https://news.ycombinator.com/item?id=15895863
+|###################                               | S: 173 C: 66 R: 0.382
+
+Exploring ZFS ZIL with Intel Optane and NAND
+https://news.ycombinator.com/item?id=15900364
+|##################                                | S: 102 C: 38 R: 0.373
+
+An Interview with an Anonymous Data Scientist (2016)
+https://news.ycombinator.com/item?id=15901628
+|##################                                | S: 154 C: 57 R: 0.370
+
+Net Neutrality’s Holes in Europe May Offer Peek at Future in U.S
+https://news.ycombinator.com/item?id=15903028
+|##################                                | S: 38 C: 14 R: 0.368
+
+The Things We Carry
+https://news.ycombinator.com/item?id=15898634
+|################                                  | S: 117 C: 38 R: 0.325
+
+Estonia, the Digital Republic
+https://news.ycombinator.com/item?id=15898886
+|###############                                   | S: 266 C: 82 R: 0.308
+
+Apple now lets you preorder apps in the App Store
+https://news.ycombinator.com/item?id=15902775
+|#############                                     | S: 18 C: 5 R: 0.278
+
+Approximating a solution that doesn't exist (2009)
+https://news.ycombinator.com/item?id=15901251
+|#############                                     | S: 33 C: 9 R: 0.273
+
+Quantum Development Kit preview
+https://news.ycombinator.com/item?id=15897141
+|############                                      | S: 179 C: 44 R: 0.246
+
+How to Know If an Idea Is Worth Pursuing
+https://news.ycombinator.com/item?id=15899397
+|###########                                       | S: 119 C: 27 R: 0.227
+
+Design Principles
+https://news.ycombinator.com/item?id=15894400
+|##########                                        | S: 340 C: 72 R: 0.212
+
+Project Euler
+https://news.ycombinator.com/item?id=15893911
+|##########                                        | S: 753 C: 157 R: 0.208
+
+Statement on Cryptocurrencies and Initial Coin Offerings
+https://news.ycombinator.com/item?id=15902054
+|##########                                        | S: 522 C: 107 R: 0.205
+
+Show HN: Airmash – Multiplayer Missile Warfare HTML5 Game
+https://news.ycombinator.com/item?id=15892066
+|#########                                         | S: 1453 C: 290 R: 0.200
+
+Ask HN: What are some sabbatical programs for working software engineers?
+https://news.ycombinator.com/item?id=15900584
+|#########                                         | S: 55 C: 10 R: 0.182
+
+Revenue Is Product Management [audio]
+https://news.ycombinator.com/item?id=15899929
+|########                                          | S: 51 C: 9 R: 0.176
+
+The Case for Learned Index Structures
+https://news.ycombinator.com/item?id=15894896
+|########                                          | S: 358 C: 61 R: 0.170
+
+Software compatibility and our own “User-Agent” problem
+https://news.ycombinator.com/item?id=15902433
+|########                                          | S: 108 C: 18 R: 0.167
+
+New Teams Features
+https://news.ycombinator.com/item?id=15901443
+|#######                                           | S: 101 C: 16 R: 0.158
+
+On-the-fly encoding and decoding of bitmaps
+https://news.ycombinator.com/item?id=15902776
+|######                                            | S: 15 C: 2 R: 0.133
+
+Exercism – Level up your programming skills
+https://news.ycombinator.com/item?id=15897809
+|######                                            | S: 685 C: 84 R: 0.123
+
+High Performance Z80 Emulation
+https://news.ycombinator.com/item?id=15896336
+|####                                              | S: 111 C: 11 R: 0.099
+
+Donald Knuth's Christmas Lecture: A Conjecture That Had To Be True [video]
+https://news.ycombinator.com/item?id=15898919
+|####                                              | S: 234 C: 23 R: 0.098
+
+Learn web development
+https://news.ycombinator.com/item?id=15902811
+|####                                              | S: 117 C: 11 R: 0.094
+
+A Commentary on the Sixth Edition Unix Operating System
+https://news.ycombinator.com/item?id=15902877
+|####                                              | S: 54 C: 5 R: 0.093
+
+An Interactive Introduction to Quantum Computing
+https://news.ycombinator.com/item?id=15902190
+|####                                              | S: 110 C: 9 R: 0.082
+
+Israel's Antitrust Authority investigates Google's dominance in web advertising
+https://news.ycombinator.com/item?id=15900218
+|                                                  | S: 51 C: 0 R: 0.000
+

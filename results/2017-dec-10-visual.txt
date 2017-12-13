@@ -1,0 +1,184 @@
+Is There a Limit to Scientific Understanding?
+https://news.ycombinator.com/item?id=15884477
+|##################################################|# S: 98 C: 100 R: 1.020
+
+The Cajun Navy and the Vigilante Future of Disaster Relief
+https://news.ycombinator.com/item?id=15884426
+|###############################################   | S: 71 C: 67 R: 0.944
+
+Superior IQs associated with mental and physical disorders, research suggests
+https://news.ycombinator.com/item?id=15886128
+|##########################################        | S: 220 C: 186 R: 0.845
+
+A Cruise Ship Called “The World” Is a Luxury Home at Sea for the Super Rich
+https://news.ycombinator.com/item?id=15888558
+|#######################################           | S: 74 C: 58 R: 0.784
+
+Apple is close to acquiring Shazam, sources say
+https://news.ycombinator.com/item?id=15881896
+|####################################              | S: 383 C: 279 R: 0.728
+
+The importance of dumb mistakes in college
+https://news.ycombinator.com/item?id=15889890
+|#################################                 | S: 43 C: 29 R: 0.674
+
+Why Google stores billions of lines of code in a single repository (2016)
+https://news.ycombinator.com/item?id=15889148
+|################################                  | S: 184 C: 121 R: 0.658
+
+Recycling Chaos in U.S. As China Bans 'Foreign Waste'
+https://news.ycombinator.com/item?id=15888827
+|################################                  | S: 208 C: 135 R: 0.649
+
+The fifth hyperfactorial: 5⁵ × 4⁴ × 3³ × 2² × 1¹ milliseconds is exactly 1 day
+https://news.ycombinator.com/item?id=15888591
+|###############################                   | S: 151 C: 95 R: 0.629
+
+Spiders eat astronomical numbers of insects
+https://news.ycombinator.com/item?id=15887468
+|###############################                   | S: 82 C: 51 R: 0.622
+
+Ask HN: What software/service helps you be an effective remote developer?
+https://news.ycombinator.com/item?id=15889939
+|#############################                     | S: 74 C: 44 R: 0.595
+
+Cards Against Humanity Redistributes Your Wealth
+https://news.ycombinator.com/item?id=15888771
+|############################                      | S: 271 C: 155 R: 0.572
+
+Show HN: A proxy service for debugging HTTP/S traffic
+https://news.ycombinator.com/item?id=15885703
+|############################                      | S: 70 C: 40 R: 0.571
+
+Reading Simple Haskell
+https://news.ycombinator.com/item?id=15885310
+|###########################                       | S: 131 C: 73 R: 0.557
+
+Mozilla’s revenue increased significantly in 2016
+https://news.ycombinator.com/item?id=15880565
+|#########################                         | S: 287 C: 145 R: 0.505
+
+A fablab burned down in France by anarchists: Makery
+https://news.ycombinator.com/item?id=15887397
+|#########################                         | S: 14 C: 7 R: 0.500
+
+PSA: iPhone slow? Try replacing your battery
+https://news.ycombinator.com/item?id=15889519
+|########################                          | S: 143 C: 71 R: 0.497
+
+Why does Google Hangouts still not work in Firefox?
+https://news.ycombinator.com/item?id=15889018
+|#######################                           | S: 21 C: 10 R: 0.476
+
+Website Meta Language (2006)
+https://news.ycombinator.com/item?id=15885938
+|####################                              | S: 22 C: 9 R: 0.409
+
+Modern Front-end in Rails
+https://news.ycombinator.com/item?id=15878823
+|####################                              | S: 340 C: 139 R: 0.409
+
+Git is a purely functional data structure (2013)
+https://news.ycombinator.com/item?id=15885829
+|###################                               | S: 198 C: 77 R: 0.389
+
+ODROID C2 out of stock
+https://news.ycombinator.com/item?id=15889871
+|#################                                 | S: 32 C: 11 R: 0.344
+
+Steve Jobs on how to hire, manage, and lead people [video]
+https://news.ycombinator.com/item?id=15885893
+|################                                  | S: 205 C: 69 R: 0.337
+
+Larry Ellison allegedly tried to have a professor fired for benchmarking Oracle
+https://news.ycombinator.com/item?id=15886333
+|################                                  | S: 604 C: 202 R: 0.334
+
+Capgras syndrome gives us a unique insight into the digital age (2016)
+https://news.ycombinator.com/item?id=15885487
+|###############                                   | S: 47 C: 15 R: 0.319
+
+Maloney Introduces Legislation to Block FCC Rollback of Net Neutrality
+https://news.ycombinator.com/item?id=15888872
+|###############                                   | S: 154 C: 49 R: 0.318
+
+The largest living thing on Earth is a fungus (2014)
+https://news.ycombinator.com/item?id=15886746
+|#############                                     | S: 118 C: 32 R: 0.271
+
+‘Their Spirits Were Trapped in Those Masks’
+https://news.ycombinator.com/item?id=15884531
+|############                                      | S: 44 C: 11 R: 0.250
+
+Notes on Postmodern Programming (2002) [pdf]
+https://news.ycombinator.com/item?id=15885582
+|############                                      | S: 33 C: 8 R: 0.242
+
+Dinosaur tail discovered trapped in amber (2016)
+https://news.ycombinator.com/item?id=15887459
+|###########                                       | S: 143 C: 34 R: 0.238
+
+The Remarkable “Curvature Blindness” Illusion
+https://news.ycombinator.com/item?id=15886184
+|##########                                        | S: 121 C: 26 R: 0.215
+
+List Comprehension in Swift
+https://news.ycombinator.com/item?id=15889704
+|##########                                        | S: 28 C: 6 R: 0.214
+
+Show HN: Hazmat Math – Elliptic curve arithmetic for Cryptography.io objects
+https://news.ycombinator.com/item?id=15885150
+|##########                                        | S: 28 C: 6 R: 0.214
+
+Decentralized Web Primer
+https://news.ycombinator.com/item?id=15887685
+|##########                                        | S: 291 C: 59 R: 0.203
+
+Jaron Lanier on dystopia, empathy, and the future of the internet
+https://news.ycombinator.com/item?id=15880799
+|#########                                         | S: 86 C: 17 R: 0.198
+
+Apple's CVDisplayLink Doesn't Link to Your Display
+https://news.ycombinator.com/item?id=15889549
+|#########                                         | S: 72 C: 14 R: 0.194
+
+Neural Network on a Commodore 64 (1987)
+https://news.ycombinator.com/item?id=15882683
+|#########                                         | S: 106 C: 20 R: 0.189
+
+Finite Field Arithmetic, Chapter 2: Logical and Bitwise Operations
+https://news.ycombinator.com/item?id=15887475
+|#########                                         | S: 65 C: 12 R: 0.185
+
+OpenBSD: arm64 platform now officially supported, and has syspatch(8)
+https://news.ycombinator.com/item?id=15884927
+|########                                          | S: 166 C: 27 R: 0.163
+
+1.4B Clear Text Credentials Discovered in a Single Database
+https://news.ycombinator.com/item?id=15885612
+|########                                          | S: 136 C: 22 R: 0.162
+
+Canvas Beat
+https://news.ycombinator.com/item?id=15886804
+|#######                                           | S: 48 C: 7 R: 0.146
+
+DeepVariant: Highly Accurate Genomes with Deep Neural Networks
+https://news.ycombinator.com/item?id=15885563
+|#######                                           | S: 56 C: 8 R: 0.143
+
+Making a Game Boy game in 2017
+https://news.ycombinator.com/item?id=15884051
+|######                                            | S: 414 C: 53 R: 0.128
+
+The Woz Wonderbook (1977) [pdf]
+https://news.ycombinator.com/item?id=15884556
+|#####                                             | S: 69 C: 8 R: 0.116
+
+7th RISC-V conference videos
+https://news.ycombinator.com/item?id=15887374
+|###                                               | S: 45 C: 3 R: 0.067
+
+Information Extraction with Neural Networks and Free Noisy Supervision
+https://news.ycombinator.com/item?id=15889622
+|                                                  | S: 23 C: 0 R: 0.000
+
