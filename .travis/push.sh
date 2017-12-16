@@ -6,14 +6,14 @@ setup_git() {
 }
 
 commit_new_data() {
-  git checkout -b master
+  git checkout master
   git add . 
   git commit --message "New Data via Travis build: $TRAVIS_BUILD_NUMBER"
 }
 
 upload_files() {
   git remote add origin https://${GITHUB_TOKEN}@github.com/paradite/hn-ratio.git > /dev/null 2>&1
-  git push --quiet --set-upstream origin master
+  git push --quiet --set-upstream origin master || exit "$?"
 }
 
 setup_git
