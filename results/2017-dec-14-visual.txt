@@ -1,0 +1,140 @@
+The Great American Share – Sam Altman Interview on Basic Income
+https://news.ycombinator.com/item?id=15917797
+|##################################################|#################################################################### S: 123 C: 291 R: 2.366
+
+Don't get caught up in blockchain hype
+https://news.ycombinator.com/item?id=15919650
+|##############################################    | S: 99 C: 93 R: 0.939
+
+Does China’s J-20 rival other stealth fighters?
+https://news.ycombinator.com/item?id=15919077
+|##############################################    | S: 55 C: 51 R: 0.927
+
+Thor Electric Truck Will Probably Beat Tesla’s to Market
+https://news.ycombinator.com/item?id=15916290
+|#############################################     | S: 106 C: 96 R: 0.906
+
+Nearly 5M Americans in Default on Student Loans
+https://news.ycombinator.com/item?id=15919771
+|###########################################       | S: 101 C: 87 R: 0.861
+
+Charges And Pleas In Computer Crime Cases Involving Significant Cyber Attacks
+https://news.ycombinator.com/item?id=15917340
+|############################                      | S: 90 C: 52 R: 0.578
+
+Getting randomness from an Apple device with particle physics, thermal entropy
+https://news.ycombinator.com/item?id=15917397
+|##########################                        | S: 55 C: 29 R: 0.527
+
+Is AlphaZero really a breakthrough in AI?
+https://news.ycombinator.com/item?id=15916692
+|##########################                        | S: 23 C: 12 R: 0.522
+
+Target to Buy Shipt for $550M
+https://news.ycombinator.com/item?id=15915290
+|########################                          | S: 213 C: 103 R: 0.484
+
+Super Smash Bros. Melee: An “Untouchable” Agent
+https://news.ycombinator.com/item?id=15919175
+|#######################                           | S: 46 C: 22 R: 0.478
+
+Pineapple Fund: Donating $86M of Bitcoins to Charity
+https://news.ycombinator.com/item?id=15917598
+|#######################                           | S: 302 C: 140 R: 0.464
+
+We’re sorry, and we’re not rolling out the fees change
+https://news.ycombinator.com/item?id=15916121
+|######################                            | S: 1062 C: 487 R: 0.459
+
+Crytek sues Star Citizen devs for copyright infringement, breach of contract
+https://news.ycombinator.com/item?id=15919335
+|######################                            | S: 81 C: 37 R: 0.457
+
+Accident Forgiveness Comes to GPLv2
+https://news.ycombinator.com/item?id=15916197
+|######################                            | S: 88 C: 40 R: 0.455
+
+HTTPS on Your Landing Page Is Important
+https://news.ycombinator.com/item?id=15917829
+|######################                            | S: 424 C: 187 R: 0.441
+
+Getting the World Quantum Ready
+https://news.ycombinator.com/item?id=15920385
+|#####################                             | S: 19 C: 8 R: 0.421
+
+Show HN: Work at a Startup – Find a Job at a YC Company
+https://news.ycombinator.com/item?id=15916350
+|####################                              | S: 189 C: 79 R: 0.418
+
+Show HN: Hiding code from Git diff
+https://news.ycombinator.com/item?id=15916961
+|####################                              | S: 149 C: 61 R: 0.409
+
+The Silicon Valley paradox: one in four people are at risk of hunger
+https://news.ycombinator.com/item?id=15906160
+|###################                               | S: 33 C: 13 R: 0.394
+
+Show HN: Python library for functional programming
+https://news.ycombinator.com/item?id=15919646
+|###################                               | S: 51 C: 20 R: 0.392
+
+Show HN: Accelerate SHA256 Computations in Go Using AVX512 instructions
+https://news.ycombinator.com/item?id=15915253
+|###################                               | S: 70 C: 27 R: 0.386
+
+Microsoft Announces Simplygon Cloud; Optimizes Mixed Reality Development
+https://news.ycombinator.com/item?id=15918013
+|##################                                | S: 36 C: 13 R: 0.361
+
+The Mirai Botnet Was Part of a College Student Minecraft Scheme
+https://news.ycombinator.com/item?id=15917744
+|#################                                 | S: 17 C: 6 R: 0.353
+
+Kicking off Stripe’s private beta in India
+https://news.ycombinator.com/item?id=15919032
+|################                                  | S: 92 C: 30 R: 0.326
+
+A WebAssembly interpreter written in JavaScript
+https://news.ycombinator.com/item?id=15915081
+|###############                                   | S: 72 C: 23 R: 0.319
+
+Introducing Amazon Linux 2
+https://news.ycombinator.com/item?id=15919789
+|###############                                   | S: 38 C: 12 R: 0.316
+
+Upstart Gangs Filling the Yakuza Power Vacuum
+https://news.ycombinator.com/item?id=15914148
+|##############                                    | S: 82 C: 24 R: 0.293
+
+Universities spend millions on accessing results of publicly funded research
+https://news.ycombinator.com/item?id=15913250
+|##############                                    | S: 517 C: 147 R: 0.284
+
+OSX.Pirrit Mac Adware Part III: The DaVinci Code
+https://news.ycombinator.com/item?id=15917548
+|###########                                       | S: 96 C: 22 R: 0.229
+
+Game Theory: Open Access textbook
+https://news.ycombinator.com/item?id=15914074
+|#########                                         | S: 232 C: 46 R: 0.198
+
+How the US Pushed Sweden to Take Down the Pirate Bay
+https://news.ycombinator.com/item?id=15920618
+|#####                                             | S: 48 C: 5 R: 0.104
+
+Machine Learning 101 slidedeck: 2 years of headbanging, so you don't have to
+https://news.ycombinator.com/item?id=15919115
+|###                                               | S: 747 C: 47 R: 0.063
+
+The Amazon Machine
+https://news.ycombinator.com/item?id=15910526
+|##                                                | S: 21 C: 1 R: 0.048
+
+Electromagnetic Water Cloak Eliminates Drag and Wake
+https://news.ycombinator.com/item?id=15915709
+|#                                                 | S: 33 C: 1 R: 0.030
+
+Writing a CHIP-8 Emulator with Rust and WebAssembly
+https://news.ycombinator.com/item?id=15920305
+|                                                  | S: 16 C: 0 R: 0.000
+

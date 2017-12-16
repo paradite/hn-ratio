@@ -1,0 +1,192 @@
+Litecoin and Ethereum buys and sells are temporarily disabled
+https://news.ycombinator.com/item?id=15906742
+|##################################################|############################### S: 309 C: 501 R: 1.621
+
+A list of ways to “Break the Internet” for the 48 hours before the FCC vote
+https://news.ycombinator.com/item?id=15909888
+|##################################################|############ S: 246 C: 306 R: 1.244
+
+$17B Modernization Plan for Puerto Rico's Grid Is Released
+https://news.ycombinator.com/item?id=15911055
+|##################################################|######### S: 49 C: 58 R: 1.184
+
+SEC Shuts Down Munchee ICO
+https://news.ycombinator.com/item?id=15906305
+|#############################################     | S: 356 C: 323 R: 0.907
+
+The Problem of Colour
+https://news.ycombinator.com/item?id=15910332
+|#########################################         | S: 34 C: 28 R: 0.824
+
+A difficult experience with Autopilot in the mountains of Canada
+https://news.ycombinator.com/item?id=15910672
+|################################                  | S: 32 C: 21 R: 0.656
+
+DIY MacBook Stand
+https://news.ycombinator.com/item?id=15909514
+|################################                  | S: 139 C: 90 R: 0.647
+
+Microsoft Adds an OpenSSH Client to Windows 10
+https://news.ycombinator.com/item?id=15904265
+|###############################                   | S: 761 C: 483 R: 0.635
+
+The State of JavaScript 2017
+https://news.ycombinator.com/item?id=15910795
+|###############################                   | S: 216 C: 137 R: 0.634
+
+France to ban mobile phones in primary, junior and middle schools
+https://news.ycombinator.com/item?id=15912378
+|#############################                     | S: 83 C: 49 R: 0.590
+
+Nice Threads
+https://news.ycombinator.com/item?id=15908217
+|############################                      | S: 86 C: 49 R: 0.570
+
+Ed Lee, 65, SF mayor who had a close relationship with the tech world, has died
+https://news.ycombinator.com/item?id=15905304
+|###########################                       | S: 153 C: 85 R: 0.556
+
+The Q Language
+https://news.ycombinator.com/item?id=15907840
+|##########################                        | S: 196 C: 105 R: 0.536
+
+Why Is Anime Obsessed With Power Lines?
+https://news.ycombinator.com/item?id=15904630
+|##########################                        | S: 280 C: 149 R: 0.532
+
+AWS Single Sign-On
+https://news.ycombinator.com/item?id=15910850
+|########################                          | S: 122 C: 59 R: 0.484
+
+Storify End-of-Life
+https://news.ycombinator.com/item?id=15906974
+|########################                          | S: 100 C: 48 R: 0.480
+
+Show HN: Joy – a Go to JavaScript compiler
+https://news.ycombinator.com/item?id=15906671
+|#######################                           | S: 191 C: 89 R: 0.466
+
+Extended Validation is Broken
+https://news.ycombinator.com/item?id=15904513
+|####################                              | S: 167 C: 67 R: 0.401
+
+TP-Link repeater firmware squanders 715 MB/month
+https://news.ycombinator.com/item?id=15911501
+|##################                                | S: 156 C: 59 R: 0.378
+
+How our housing choices make adult friendships more difficult
+https://news.ycombinator.com/item?id=15912121
+|#################                                 | S: 14 C: 5 R: 0.357
+
+New silicon structure opens the gate to quantum computers
+https://news.ycombinator.com/item?id=15909431
+|#################                                 | S: 104 C: 37 R: 0.356
+
+Switzerland Is Prepared for Civilizational Collapse – Marginal REVOLUTION
+https://news.ycombinator.com/item?id=15911511
+|#################                                 | S: 23 C: 8 R: 0.348
+
+Bruce Brown, 80, Dies; His ‘Endless Summer’ Documented Surfing
+https://news.ycombinator.com/item?id=15911673
+|################                                  | S: 21 C: 7 R: 0.333
+
+Laboratory layered latte
+https://news.ycombinator.com/item?id=15908880
+|###############                                   | S: 35 C: 11 R: 0.314
+
+Fish: A user-friendly command line shell for macOS, Linux, etc
+https://news.ycombinator.com/item?id=15910897
+|##############                                    | S: 309 C: 91 R: 0.294
+
+South Korea to hold emergency meeting on cryptocurrencies
+https://news.ycombinator.com/item?id=15912035
+|##############                                    | S: 35 C: 10 R: 0.286
+
+ADSL over wet string
+https://news.ycombinator.com/item?id=15908107
+|#############                                     | S: 300 C: 78 R: 0.260
+
+Internet traffic for Google, Facebook, Apple was briefly rerouted to Russia
+https://news.ycombinator.com/item?id=15912365
+|############                                      | S: 77 C: 20 R: 0.260
+
+Concertmaster – Classical music front-end for Spotify
+https://news.ycombinator.com/item?id=15911188
+|############                                      | S: 24 C: 6 R: 0.250
+
+Internet protocols are changing
+https://news.ycombinator.com/item?id=15906664
+|###########                                       | S: 371 C: 89 R: 0.240
+
+How Playing Around with New Technologies Landed Me a 6-Month Freelance Gig
+https://news.ycombinator.com/item?id=15909870
+|###########                                       | S: 85 C: 20 R: 0.235
+
+Ethernet over barbed wire
+https://news.ycombinator.com/item?id=15910263
+|###########                                       | S: 124 C: 29 R: 0.234
+
+Show HN: Culture Queries – The best questions to ask during your job interview
+https://news.ycombinator.com/item?id=15908812
+|###########                                       | S: 386 C: 90 R: 0.233
+
+How RSA Works: TLS Foundations
+https://news.ycombinator.com/item?id=15909134
+|###########                                       | S: 124 C: 28 R: 0.226
+
+Show HN: Build your Linux from Scratch inside Docker with one command
+https://news.ycombinator.com/item?id=15909604
+|###########                                       | S: 68 C: 15 R: 0.221
+
+Intel 64 and IA32 Architectures Performance Monitoring Events [pdf]
+https://news.ycombinator.com/item?id=15909455
+|##########                                        | S: 35 C: 7 R: 0.200
+
+How to get your first 100k active users
+https://news.ycombinator.com/item?id=15909395
+|#########                                         | S: 493 C: 98 R: 0.199
+
+Statement on Cryptocurrencies and Initial Coin Offerings
+https://news.ycombinator.com/item?id=15902054
+|#########                                         | S: 770 C: 151 R: 0.196
+
+Step-By-Step Fundraising Tactics from an NYC Founder Who Raised $750M
+https://news.ycombinator.com/item?id=15909319
+|#########                                         | S: 98 C: 19 R: 0.194
+
+Pruning AI networks without impacting performance
+https://news.ycombinator.com/item?id=15909196
+|#########                                         | S: 81 C: 15 R: 0.185
+
+How to Read Mathematics
+https://news.ycombinator.com/item?id=15905048
+|#######                                           | S: 216 C: 33 R: 0.153
+
+Exercism – Level up your programming skills
+https://news.ycombinator.com/item?id=15897809
+|######                                            | S: 773 C: 94 R: 0.122
+
+Poland: Government agency fines private TV station for coverage of protests
+https://news.ycombinator.com/item?id=15910696
+|#####                                             | S: 26 C: 3 R: 0.115
+
+Visualizing Realtime Bitcoin Transactions in ReactVR
+https://news.ycombinator.com/item?id=15912486
+|#####                                             | S: 19 C: 2 R: 0.105
+
+NIPS 2017 Notes [pdf]
+https://news.ycombinator.com/item?id=15909710
+|####                                              | S: 163 C: 16 R: 0.098
+
+TIL: Andreessen, Thiel, Cuban, IBM, Intel Are Against Net Neutrality
+https://news.ycombinator.com/item?id=15910631
+|####                                              | S: 60 C: 5 R: 0.083
+
+SEC Halts a Real Initial Coin Offering
+https://news.ycombinator.com/item?id=15909997
+|##                                                | S: 53 C: 3 R: 0.057
+
+Create a 3D Caricature in Minutes with Deep Learning
+https://news.ycombinator.com/item?id=15910312
+|                                                  | S: 15 C: 0 R: 0.000
+

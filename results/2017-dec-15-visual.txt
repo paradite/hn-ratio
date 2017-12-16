@@ -1,0 +1,164 @@
+Netflix tweet raises privacy questions
+https://news.ycombinator.com/item?id=15921287
+|##################################################|############### S: 13 C: 17 R: 1.308
+
+Facebook Will Introduce Ads as Videos Start, a Move Long Resisted
+https://news.ycombinator.com/item?id=15926044
+|#######################################           | S: 260 C: 206 R: 0.792
+
+Etsy Announces Move to Google Cloud
+https://news.ycombinator.com/item?id=15925930
+|#################################                 | S: 159 C: 107 R: 0.673
+
+Show HN: Servers.lol – Should Your EC2 Be a Lambda?
+https://news.ycombinator.com/item?id=15925736
+|###############################                   | S: 119 C: 74 R: 0.622
+
+Disney to Acquire Twenty-First Century Fox
+https://news.ycombinator.com/item?id=15921692
+|##############################                    | S: 528 C: 327 R: 0.619
+
+New Model Warns About Crispr Gene Drives in the Wild
+https://news.ycombinator.com/item?id=15929012
+|##############################                    | S: 126 C: 77 R: 0.611
+
+Hackers invade safety system, halt plant operations in ‘watershed’ cyberattack
+https://news.ycombinator.com/item?id=15929960
+|#############################                     | S: 12 C: 7 R: 0.583
+
+DHS proposes to repeal Work Authorization to Spouses(H4) of H1B visa holders
+https://news.ycombinator.com/item?id=15928765
+|##########################                        | S: 51 C: 27 R: 0.529
+
+Perkeep – Open-source data modeling, storing, search, sharing and synchronizing
+https://news.ycombinator.com/item?id=15928685
+|#########################                         | S: 180 C: 92 R: 0.511
+
+Amazon Will Resume Selling Apple TV, Google's Chromecast
+https://news.ycombinator.com/item?id=15926768
+|#######################                           | S: 48 C: 23 R: 0.479
+
+HTTPS on Your Landing Page Is Important
+https://news.ycombinator.com/item?id=15917829
+|#######################                           | S: 609 C: 282 R: 0.463
+
+How the US Pushed Sweden to Take Down the Pirate Bay
+https://news.ycombinator.com/item?id=15920618
+|######################                            | S: 660 C: 291 R: 0.441
+
+Now that the FCC has repealed net neutrality, let’s adopt it in California
+https://news.ycombinator.com/item?id=15926309
+|#####################                             | S: 408 C: 175 R: 0.429
+
+FoldingText – Plain text productivity for Mac users
+https://news.ycombinator.com/item?id=15928992
+|#####################                             | S: 63 C: 27 R: 0.429
+
+Truffle: Ethereum Dapp Development Framework
+https://news.ycombinator.com/item?id=15927641
+|#####################                             | S: 92 C: 39 R: 0.424
+
+Accessing Publicly Available Information on the Internet Is Not a Crime
+https://news.ycombinator.com/item?id=15912706
+|####################                              | S: 620 C: 256 R: 0.413
+
+F.C.C. Repeals Net Neutrality Rules
+https://news.ycombinator.com/item?id=15924794
+|####################                              | S: 2911 C: 1193 R: 0.410
+
+Nuclear Test Films Declassified and Uploaded
+https://news.ycombinator.com/item?id=15927737
+|##################                                | S: 115 C: 42 R: 0.365
+
+Spanner, TrueTime and the CAP Theorem [pdf]
+https://news.ycombinator.com/item?id=15923507
+|################                                  | S: 115 C: 39 R: 0.339
+
+Haemophilia A trial results 'mind-blowing'
+https://news.ycombinator.com/item?id=15923021
+|##############                                    | S: 397 C: 114 R: 0.287
+
+My name is Ivan and I want to make the best photo editor
+https://news.ycombinator.com/item?id=15924402
+|##############                                    | S: 228 C: 65 R: 0.285
+
+Universities spend millions on accessing results of publicly funded research
+https://news.ycombinator.com/item?id=15913250
+|#############                                     | S: 609 C: 167 R: 0.274
+
+Y Combinator announces growth program for later-stage startups
+https://news.ycombinator.com/item?id=15927337
+|#############                                     | S: 130 C: 35 R: 0.269
+
+Cryptocurrency will always be political
+https://news.ycombinator.com/item?id=15924159
+|###########                                       | S: 38 C: 9 R: 0.237
+
+An 8th Planet Is Found Orbiting a Distant Star, with A.I.’s Help
+https://news.ycombinator.com/item?id=15928983
+|##########                                        | S: 51 C: 11 R: 0.216
+
+AlphaGo Teach – Find new and creative ways of playing Go
+https://news.ycombinator.com/item?id=15929228
+|##########                                        | S: 38 C: 8 R: 0.211
+
+Tiny Titan
+https://news.ycombinator.com/item?id=15922043
+|##########                                        | S: 65 C: 13 R: 0.200
+
+AIM will be discontinued today
+https://news.ycombinator.com/item?id=15929239
+|#########                                         | S: 11 C: 2 R: 0.182
+
+English rivers polluted by neonicotinoids, first tests reveal
+https://news.ycombinator.com/item?id=15929713
+|########                                          | S: 42 C: 7 R: 0.167
+
+Docusaurus – infrastructure to help manage open source websites
+https://news.ycombinator.com/item?id=15924779
+|########                                          | S: 25 C: 4 R: 0.160
+
+The Collapse of Complex Business Models (2010)
+https://news.ycombinator.com/item?id=15925940
+|#######                                           | S: 102 C: 16 R: 0.157
+
+Fundamentals of Linear Algebra and Optimization [pdf]
+https://news.ycombinator.com/item?id=15923338
+|#######                                           | S: 290 C: 44 R: 0.152
+
+Layman's Guide to Elliptic-Curve Digital Signatures (2014)
+https://news.ycombinator.com/item?id=15927090
+|######                                            | S: 147 C: 20 R: 0.136
+
+Net Neutrality Op-Ed in the Wall Street Journal Was Written by Comcast Attorney
+https://news.ycombinator.com/item?id=15929504
+|####                                              | S: 191 C: 19 R: 0.099
+
+Machine Learning 101 slidedeck: 2 years of headbanging, so you don't have to
+https://news.ycombinator.com/item?id=15919115
+|###                                               | S: 1503 C: 108 R: 0.072
+
+Western Digital to Use RISC-V for Controllers, Processors
+https://news.ycombinator.com/item?id=15928135
+|                                                  | S: 24 C: 0 R: 0.000
+
+Archaeologists excavate the site of Operation Gunnerside
+https://news.ycombinator.com/item?id=15929032
+|                                                  | S: 10 C: 0 R: 0.000
+
+Don’t Reauthorize NSA Spying in a Must-Pass Funding Bill
+https://news.ycombinator.com/item?id=15929860
+|                                                  | S: 30 C: 0 R: 0.000
+
+The Ghost and the Princess
+https://news.ycombinator.com/item?id=15918515
+|                                                  | S: 25 C: 0 R: 0.000
+
+Secuity Planner: Improve your safety with tools for your needs
+https://news.ycombinator.com/item?id=15928199
+|                                                  | S: 23 C: 0 R: 0.000
+
+Visual Studio Code November 2017
+https://news.ycombinator.com/item?id=15929606
+|                                                  | S: 19 C: 0 R: 0.000
+

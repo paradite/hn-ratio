@@ -1,0 +1,176 @@
+BitPay Will Process Payments on Multiple Blockchains, Starting with Bitcoin Cash
+https://news.ycombinator.com/item?id=15935179
+|##################################################|###################### S: 114 C: 165 R: 1.447
+
+Statistics, we have a problem
+https://news.ycombinator.com/item?id=15937587
+|##################################################|################## S: 72 C: 98 R: 1.361
+
+Norway switches off FM radio, but a station is defying government order
+https://news.ycombinator.com/item?id=15929425
+|##################################################|###### S: 209 C: 235 R: 1.124
+
+AMD “SSG” API Manual: Using a 2TB Solid State Drive with the AMD SSG GPU [pdf]
+https://news.ycombinator.com/item?id=15935461
+|#########################################         | S: 18 C: 15 R: 0.833
+
+Tesla Tells New Taxi, Uber Drivers Not to Use Its Superchargers
+https://news.ycombinator.com/item?id=15936866
+|########################################          | S: 72 C: 59 R: 0.819
+
+AIM will be discontinued today
+https://news.ycombinator.com/item?id=15929239
+|###################################               | S: 348 C: 245 R: 0.704
+
+Nike’s Two Hour Marathon Attempt
+https://news.ycombinator.com/item?id=15929384
+|##################################                | S: 158 C: 110 R: 0.696
+
+Unknown Mozilla dev addon "Looking Glass 1.0.3" on browser
+https://news.ycombinator.com/item?id=15931730
+|##################################                | S: 680 C: 472 R: 0.694
+
+US prosecutors move to cash in on $8.5M in seized Bitcoin
+https://news.ycombinator.com/item?id=15937638
+|##################################                | S: 32 C: 22 R: 0.688
+
+Overcoming Us vs. Them
+https://news.ycombinator.com/item?id=15934183
+|##################################                | S: 269 C: 184 R: 0.684
+
+As the U.S. Retreats, Canada Doubles Down on Net Neutrality
+https://news.ycombinator.com/item?id=15936820
+|################################                  | S: 139 C: 90 R: 0.647
+
+Is Spending Time on Social Media Bad for Us?
+https://news.ycombinator.com/item?id=15933657
+|##############################                    | S: 167 C: 101 R: 0.605
+
+The science that’s never been cited
+https://news.ycombinator.com/item?id=15934947
+|#############################                     | S: 62 C: 37 R: 0.597
+
+MobileCoin: A New Cryptocurrency from Moxie Marlinspike
+https://news.ycombinator.com/item?id=15935583
+|###########################                       | S: 300 C: 164 R: 0.547
+
+Ask HN: Writing cover letters for tech jobs
+https://news.ycombinator.com/item?id=15934135
+|#######################                           | S: 180 C: 84 R: 0.467
+
+Intel i7 loop performance anomaly (2013)
+https://news.ycombinator.com/item?id=15935283
+|#####################                             | S: 74 C: 32 R: 0.432
+
+Accessing Publicly Available Information on the Internet Is Not a Crime
+https://news.ycombinator.com/item?id=15912706
+|###################                               | S: 707 C: 278 R: 0.393
+
+Using loaded dice to cheat at Settlers of Catan, and p-values to avoid suspicion
+https://news.ycombinator.com/item?id=15921322
+|###################                               | S: 256 C: 99 R: 0.387
+
+Clean – A functional programming language
+https://news.ycombinator.com/item?id=15937597
+|##################                                | S: 41 C: 15 R: 0.366
+
+The MIME guys: How two Internet gurus changed e-mail (2011)
+https://news.ycombinator.com/item?id=15925937
+|#################                                 | S: 67 C: 24 R: 0.358
+
+3D scatterplot of an image
+https://news.ycombinator.com/item?id=15931266
+|#################                                 | S: 194 C: 68 R: 0.351
+
+RESTyped: End-To-end Typing for REST APIs with TypeScript
+https://news.ycombinator.com/item?id=15934289
+|################                                  | S: 77 C: 25 R: 0.325
+
+Metal Gear Solid V – Graphics Study
+https://news.ycombinator.com/item?id=15931658
+|###############                                   | S: 176 C: 56 R: 0.318
+
+The Ethereum-blockchain size will not exceed 1TB anytime soon
+https://news.ycombinator.com/item?id=15935342
+|###############                                   | S: 82 C: 26 R: 0.317
+
+Schools warned over hackable heating systems
+https://news.ycombinator.com/item?id=15929926
+|###############                                   | S: 50 C: 15 R: 0.300
+
+Exploring Physics with Geometric Algebra, Book I [pdf] (2016)
+https://news.ycombinator.com/item?id=15932739
+|##############                                    | S: 111 C: 32 R: 0.288
+
+Why are Japanese macaques humping deer?
+https://news.ycombinator.com/item?id=15936799
+|#############                                     | S: 46 C: 12 R: 0.261
+
+REST is the new SOAP
+https://news.ycombinator.com/item?id=15937448
+|###########                                       | S: 69 C: 16 R: 0.232
+
+The United States of Toxins
+https://news.ycombinator.com/item?id=15934888
+|##########                                        | S: 94 C: 20 R: 0.213
+
+Uber Accused of Espionage, Bribery, Hacking, in Former Employee's Letter
+https://news.ycombinator.com/item?id=15936669
+|##########                                        | S: 221 C: 46 R: 0.208
+
+The Person in the Ape
+https://news.ycombinator.com/item?id=15916978
+|##########                                        | S: 29 C: 6 R: 0.207
+
+Generic Programming Made Easy in F#
+https://news.ycombinator.com/item?id=15931603
+|########                                          | S: 51 C: 9 R: 0.176
+
+Introducing Vireo: A Lightweight and Versatile Video Processing Library
+https://news.ycombinator.com/item?id=15933897
+|#######                                           | S: 45 C: 7 R: 0.156
+
+The Puzzle of a Lifetime
+https://news.ycombinator.com/item?id=15931495
+|#######                                           | S: 103 C: 16 R: 0.155
+
+Literary fiction in crisis as sales drop dramatically
+https://news.ycombinator.com/item?id=15931224
+|####                                              | S: 11 C: 1 R: 0.091
+
+Spacetime Calculus [pdf]
+https://news.ycombinator.com/item?id=15937229
+|####                                              | S: 23 C: 2 R: 0.087
+
+After FCC Abandons Net Neutrality, States Take Up the Fight
+https://news.ycombinator.com/item?id=15937783
+|####                                              | S: 12 C: 1 R: 0.083
+
+Machine Learning 101 slidedeck: 2 years of headbanging, so you don't have to
+https://news.ycombinator.com/item?id=15919115
+|###                                               | S: 1591 C: 118 R: 0.074
+
+Work on light-triggered genes overturns old assumptions about how memories form
+https://news.ycombinator.com/item?id=15933532
+|##                                                | S: 43 C: 2 R: 0.047
+
+Anatomy of a Haskell-Based Application, Revisited
+https://news.ycombinator.com/item?id=15931504
+|##                                                | S: 98 C: 4 R: 0.041
+
+Quantum Gate Playground
+https://news.ycombinator.com/item?id=15935254
+|#                                                 | S: 34 C: 1 R: 0.029
+
+Attention Is All You Need (2017) [pdf]
+https://news.ycombinator.com/item?id=15938082
+|#                                                 | S: 36 C: 1 R: 0.028
+
+Scientists Find Elusive Giant Black Hole Pairs
+https://news.ycombinator.com/item?id=15935214
+|#                                                 | S: 39 C: 1 R: 0.026
+
+The strange tale of the unauthorized albums of the Beatles Christmas recordings
+https://news.ycombinator.com/item?id=15935135
+|#                                                 | S: 42 C: 1 R: 0.024
+
