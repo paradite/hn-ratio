@@ -12,8 +12,8 @@ commit_new_data() {
 }
 
 upload_files() {
-  git remote add origin https://$GITHUB_TOKEN@github.com/paradite/hn-ratio.git > /dev/null 2>&1
-  git push --quiet --set-upstream origin master || exit "$?"
+  git remote add origin-push https://$GITHUB_TOKEN@github.com/paradite/hn-ratio.git > /dev/null 2>&1
+  git push --quiet --set-upstream origin-push master || exit "$?"
 }
 
 setup_git
