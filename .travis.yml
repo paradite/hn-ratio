@@ -1,0 +1,11 @@
+language: python
+python:
+  - "3.6"
+script:
+  - python hn-ratio.py
+deploy:
+  provider: pages
+  skip_cleanup: true
+  github_token: $GITHUB_TOKEN # Set in travis-ci.org dashboard
+  on:
+    branch: master

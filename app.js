@@ -1,6 +1,6 @@
 function getDates() {
   var dates = [];
-  var endDate = moment('2017-12-12');
+  var endDate = moment().add(-1, 'days');
   var startDate = moment('2017-10-01');
   while(startDate.isSameOrBefore(endDate)) {
     dates.push(startDate.format('YYYY-MMM-DD').toLowerCase());
