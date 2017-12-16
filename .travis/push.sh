@@ -13,6 +13,7 @@ commit_new_data() {
 
 upload_files() {
   git remote add origin https://paradite:$GITHUB_TOKEN@github.com/paradite/hn-ratio.git > /dev/null 2>&1
+  echo https://paradite:$GITHUB_TOKEN@github.com/paradite/hn-ratio.git
   git push --quiet --set-upstream origin master || exit "$?"
 }
 

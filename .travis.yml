@@ -7,5 +7,4 @@ before_install:
   - chmod +x .travis/push.sh
 script:
   - python hn-ratio.py
-after_success:
   - .travis/push.sh
