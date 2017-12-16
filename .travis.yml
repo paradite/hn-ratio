@@ -3,12 +3,8 @@ python:
   - "3.6"
 before_install:
   - export TZ=Asia/Singapore
-  - time
+  - date
 script:
   - python hn-ratio.py
-deploy:
-  provider: pages
-  skip_cleanup: true
-  github_token: $GITHUB_TOKEN
-  on:
-    branch: master
+after_success:
+  - .travis/push.sh
