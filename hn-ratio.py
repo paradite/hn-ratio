@@ -8,6 +8,7 @@ hn = HackerNews()
 
 ITEM_LIMIT = 50
 WIDTH = 50
+SCORE_THRESHOLD = 20
 
 def story_serializer(story):
     story_attrs = {
@@ -33,7 +34,7 @@ def execute(date):
     stories = []
     for story_id in hn.top_stories(limit=ITEM_LIMIT):
         story = hn.get_item(story_id)
-        if story.score < 10:
+        if story.score < SCORE_THRESHOLD:
             # we filter out low score posts that are "promoted" by HN temporily but not really "top"
             # as well as job posts
             continue
@@ -44,6 +45,7 @@ def execute(date):
         stories.append(story)
         story.hn_url = "https://news.ycombinator.com/item?id=" + str(story.item_id)
     stories.sort(key=lambda s:s.ratio, reverse=True)
+    print("Number of stroies after filtering: " + str(len(stories)))
     with open(fn_json, "w+") as f:
         f.write(json.dumps([story_serializer(story) for story in stories], indent=4, sort_keys=True))
 
