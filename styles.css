@@ -21,21 +21,21 @@ a {
   color: black;
 }
 
-a:hover {
-  background: #eee;
-}
-
 .header {
   display: flex;
   margin-bottom: 6px;
 }
 
-.title {
-  display: block;
-  padding: 6px 0;
+.row {
+  margin: 6px 0;
 }
 
 .info {
+  flex: 1;
+  line-height: 21px;
+}
+
+.reverse {
   flex: 1;
 }
 

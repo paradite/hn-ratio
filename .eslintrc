@@ -1,0 +1,7 @@
+{
+  "extends": "airbnb",
+  "globals": {
+  	"d3": true,
+  	"moment": true
+  }
+}

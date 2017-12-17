@@ -1,73 +1,87 @@
+let reverseSort = false;
+let selectedDate;
+
 function getDates() {
-  var dates = [];
-  var endDate = moment().add(-1, 'days');
-  var startDate = moment('2017-10-01');
-  while(startDate.isSameOrBefore(endDate)) {
-    dates.push(startDate.format('YYYY-MMM-DD').toLowerCase());
+  const generatedDates = [];
+  const endDate = moment().add(-1, 'days');
+  const startDate = moment('2017-10-01');
+  while (startDate.isSameOrBefore(endDate)) {
+    generatedDates.push(startDate.format('YYYY-MMM-DD').toLowerCase());
     startDate.add(1, 'days');
   }
-  return dates;
-}
-
-function generateSelect(dates) {
-  var selectBox = d3.select('#date-select')
-  var options = selectBox
-    .on('change',onChange)
-    .selectAll('option')
-    .data(dates);
-
-  options.enter()
-    .append('option')
-    .attr('value', function(d) { return d; })
-    .text(function(d) { return d; });
-
-  selectBox.node().value = dates[dates.length - 1];
-}
-
-function onChange() {
-  loadDate(this.value);
+  return generatedDates;
 }
 
 function formatTime(timeStr) {
   return moment(timeStr).fromNow();
 }
 
-function loadDate(selectedDate) {
-  d3.json(`results/${selectedDate}.json`, function(data) {
-    var contentWrapper = d3.select('.content');
+function render() {
+  d3.json(`results/${selectedDate}.json`, (data) => {
+    if (reverseSort) {
+      data.reverse();
+    }
 
-    console.log(data[0]);
+    const contentWrapper = d3.select('.content');
 
-    var dataContent = contentWrapper
+    const dataContent = contentWrapper
       .selectAll('div.row')
-      .data(data, function(d) { return d.item_id; });
+      .data(data, d => d.item_id);
 
-    var contentEnterWrapper = dataContent
+    const contentEnterWrapper = dataContent
       .enter()
       .append('div')
       .classed('row', true);
+
+    dataContent.order();
 
     dataContent.exit().remove();
 
     contentEnterWrapper
       .append('a')
       .classed('title', true)
-      .attr('href', function(d) {
-        return d.hn_url;
-      })
-      .text(function(d) {
-        return `[${d.ratio.toFixed(2)}] ${d.title} (${d.comments}/${d.score})`;
-      });
+      .attr('href', d => d.hn_url)
+      .text(d => `[${d.ratio.toFixed(2)}] ${d.title} (${d.comments}/${d.score})`);
 
     contentEnterWrapper
       .append('div')
       .classed('secondary-text', true)
-      .text(function(d) {
-        return `by ${d.by} ${formatTime(d.submission_time)}`;
-      });
+      .text(d => `by ${d.by} ${formatTime(d.submission_time)}`);
   });
 }
 
-var dates = getDates();
-generateSelect(dates);
-loadDate(dates[dates.length - 1]);
+function onDateChange() {
+  selectedDate = this.value;
+  render();
+}
+
+function generateSelect(dates) {
+  const selectBox = d3.select('#date-select');
+  const options = selectBox
+    .on('change', onDateChange)
+    .selectAll('option')
+    .data(dates);
+
+  options.enter()
+    .append('option')
+    .attr('value', d => d)
+    .text(d => d);
+
+  selectBox.node().value = dates[dates.length - 1];
+}
+
+function reverse() {
+  reverseSort = !reverseSort;
+  render();
+}
+
+function setUp() {
+  const dates = getDates();
+  generateSelect(dates);
+  selectedDate = dates[dates.length - 1];
+  d3.select('#reverse-btn')
+    .on('click', reverse);
+}
+
+setUp();
+render();
