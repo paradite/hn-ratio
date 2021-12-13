@@ -30,6 +30,7 @@ jobs:
       # Runs a set of commands using the runners shell
       - name: Run script and push
         run: |
+          pip install -r requirements.txt
           python hn-ratio.py
           git config --global user.email "github@action"
           git config --global user.name "GitHub Action"
