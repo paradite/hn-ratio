@@ -31,7 +31,9 @@ jobs:
       - name: Run script and push
         run: |
           pip install -r requirements.txt
-          python hn-ratio.py
+          python hn-ratio.py  
+          git checkout master
+          git add .
           git config --global user.email "github@action"
           git config --global user.name "GitHub Action"
           git commit --message "New Data via GitHub Action: $GITHUB_RUN_NUMBER $GITHUB_RUN_ID"
