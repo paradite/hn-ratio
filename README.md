@@ -24,7 +24,7 @@ Note that new "promoted" stories with low votes and HN-backed job listings are f
 - It takes some time to get all the data from Hacker News
 - HN API does not have archive for top stories in past, whereas I want an archive so that I can find what I missed
 
-Currently I have a cron job set up on my VPS to get the data daily, and I need to manually commit the data into the repo once in a while. I can probably set up a CI to do this when I have more time.
+Currently I have a GitHub action job that runs daily at 20:00+8 to fetch the top stories. 
 
 ## How to run the script
 
