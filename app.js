@@ -6,7 +6,12 @@ function getDates() {
   const endDate = moment().add(-1, 'days');
   const startDate = moment('2017-10-01');
   while (startDate.isSameOrBefore(endDate)) {
-    generatedDates.push(startDate.format('YYYY-MMM-DD').toLowerCase());
+    // data after 2021-06-15 and before 2021-dec-13 are missing
+    const missingDateStart = moment('2021-06-15')
+    const missingDateEnd = moment('2021-12-13')
+    if(startDate.isSameOrBefore(missingDateStart) || startDate.isSameOrAfter(missingDateEnd)) {
+      generatedDates.push(startDate.format('YYYY-MMM-DD').toLowerCase());
+    }
     startDate.add(1, 'days');
   }
   return generatedDates;
